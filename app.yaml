@@ -1,4 +1,4 @@
 runtime: python37
 
-handlers
+handlers:
   script: main.app
