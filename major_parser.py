@@ -8,6 +8,11 @@ edges = []
 classes = set()
 add_edges = False
 
+def add_split(st):
+    builder = []
+    for i in range(0, len(st), 60):
+        builder.append(st[i: i + 60])
+    return "\n".join(builder)
 
 class ClassParser(HTMLParser):
     def __init__(self, *args, **kwargs):
@@ -59,11 +64,13 @@ class ClassParser(HTMLParser):
                 self.nesting -= 1
         if tag == "p" and self.has_seen_prerequisites and self.isOpenPre:
             self.has_seen_prerequisites = False
+
         if self.prepped_for_desc and tag == "br":
             # print("Here!")
             self.desc = True
             self.prepped_for_desc = False
         pass
+
     def handle_data(self, data):
         if self.isInCourseBlock:
             # print(data)
@@ -76,7 +83,7 @@ class ClassParser(HTMLParser):
 
             elif self.desc:
                 self.desc = False
-                self.classes[-1].append(data[1:])
+                self.classes[-1].append(add_split(data[1:]))
 
 
             elif self.has_seen_prerequisites and self.isOpenPre and add_edges and self.has_seen_prerequisites:
@@ -92,7 +99,7 @@ class ClassParser(HTMLParser):
 
 def process(major_name):
 
-    # os.system("curl http://guide.berkeley.edu/undergraduate/degree-programs/{}/#majorrequirementstext >> data/{}".format(major_name, major_name))
+    os.system("curl http://guide.berkeley.edu/undergraduate/degree-programs/{}/#majorrequirementstext >> data/{}".format(major_name, major_name))
 
     parser = ClassParser()
 
@@ -112,11 +119,14 @@ def process(major_name):
 
     # print(parser.classes)
     print(edges)
+
     with open("data/" + major_name + "_vertices.csv", "w") as vertices:
         fieldnames = ["name", "size", "about"]
         writer = csv.DictWriter(vertices, fieldnames=fieldnames)
         writer.writeheader()
         for bk_class in parser.classes:
+            if not bk_class:
+                continue
             name = bk_class[0]
             about = "" if len(bk_class) == 0 else bk_class[1]
             writer.writerow({"name":name, "size":"1", "about":about})

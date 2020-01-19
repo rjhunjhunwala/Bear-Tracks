@@ -1,124 +1,1896 @@
 name,size,about
-ENGLISH R1A,1,Training in writing expository prose. Instruction in expository writing in conjunction with reading literature. Satisfies the first half of the Reading and Composition requirement.
-ENGLISH R1AN,1,Training in writing expository prose. Instruction in writing and reading expository prose. Satisfies the first half of the Reading and Composition requirement.
-ENGLISH R1B,1,Training in writing expository prose. Further instruction in expository writing in conjunction with reading literature. Satisfies the second half of the Reading and Composition requirement.
+ENGLISH R1A,1,"Training in writing expository prose. Instruction in exposit
+ory writing in conjunction with reading literature. Satisfie
+s the first half of the Reading and Composition requirement."
+ENGLISH R1AN,1,"Training in writing expository prose. Instruction in writing
+ and reading expository prose. Satisfies the first half of t
+he Reading and Composition requirement."
+ENGLISH R1B,1,"Training in writing expository prose. Further instruction in
+ expository writing in conjunction with reading literature. 
+Satisfies the second half of the Reading and Composition req
+uirement."
 ENGLISH 17,1,Lectures on Shakespeare and reading of his best works.
-ENGLISH 20,1,Lectures on and discussion of major authors of modern British and American literature.
-ENGLISH 24,1,"The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley Seminars are offered in all campus departments, and topics vary from department to department and semester to semester."
-ENGLISH 25,1,"An introduction to the grammar of English, including phonology (sound structure), morphology (word structure), syntax (sentence structure), semantics (linguistic meaning), and pragmatics (contextual meaning), with consideration of different varieties of English in use within the United States and throughout the world, and comparison of English with other languages."
-ENGLISH 26,1,"Lectures and discussion on poetry intended to develop the student's ability to understand and evaluate a poem. Designed primarily for students whose major is not English, but majors and prospective majors are welcome."
-ENGLISH 27,1,"Lectures and discussion intended to develop the student's ability to understand and evaluate fiction. Designed primarily for students whose major is not English, but majors and prospective majors are welcome."
-ENGLISH 28,1,"Lectures and discussion intended to develop the student's ability to read, understand and evaluate plays. Designed primarily for students whose major is not English, but majors and prospective majors are welcome."
-ENGLISH 31AC,1,"An introduction to the ethnic diversity of American literature. The course will take substantial account of the literature of three or more of the following groups: African Americans, Native Americans, Asian Americans, Chicanos/Latinos, and European Americans. Topics vary from semester to semester. Students should consult the department's ""Announcement of Classes"" well before the beginning of the semester for details."
-ENGLISH 33,1,Major literary and cultural texts in the African American tradition from origins to the present.
-ENGLISH 37,1,Major literary and cultural texts in the Chicana/o tradition from origins to the present.
-ENGLISH 39A,1,"Topics vary from semester to semester. Students should consult the department's ""Announcement of Classes"" for current offerings well before the start of the semester. (Sections limited to 15 students each.)"
-ENGLISH 43A,1,A workshop course intended for students who have recently begun to write fiction or who have not previously taken a course in creative writing.
-ENGLISH 43B,1,A workshop course intended for students who have recently begun to write verse or who have not previously taken a course in creative writing.
-ENGLISH 43N,1,"A workshop course in creative non-fiction, a prose genre that takes on non-fiction subjects (the world of culture, history, personal experience) but also is alert to the creativity required to translate those subjects into the realm of writing. Students will study exemplary works of creative non-fiction in different modes (e.g. literary journalism, personal essay, travel writing) and write their own works in selected modes as well."
-ENGLISH 45A,1,Historical survey of literature in English: Beginnings through Milton.
-ENGLISH 45B,1,Historical survey of literature in English: The late-17th through the mid-19th century.
-ENGLISH 45C,1,Historical survey of literature in English: the mid-19th through the 20th century.
-ENGLISH 53,1,This course provides a broad introductory survey of early to contemporary Asian American literary and cultural production and an opportunity to develop and practice techniques for analyzing literary and cultural forms. English 53 aims to serve students from across campus and is especially suitable for students who have never taken a college-level literary or cultural studies course and would like to improve their essay-writing skills.
-ENGLISH C77,1,"This integrative course, taught by a humanities professor and a science professor, surveys current global environmental issues; introduces the basic intellectual tools of environmental science; investigates ways the human relationship to nature has been imagined in literary and philosophical traditions; and examines how tools of scientific and literary analysis; scientific method, and imaginative thinking can clarify what is at stake in environmental"
+ENGLISH 20,1,"Lectures on and discussion of major authors of modern Britis
+h and American literature."
+ENGLISH 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+ENGLISH 25,1,"An introduction to the grammar of English, including phonolo
+gy (sound structure), morphology (word structure), syntax (s
+entence structure), semantics (linguistic meaning), and prag
+matics (contextual meaning), with consideration of different
+ varieties of English in use within the United States and th
+roughout the world, and comparison of English with other lan
+guages."
+ENGLISH 26,1,"Lectures and discussion on poetry intended to develop the st
+udent's ability to understand and evaluate a poem. Designed 
+primarily for students whose major is not English, but major
+s and prospective majors are welcome."
+ENGLISH 27,1,"Lectures and discussion intended to develop the student's ab
+ility to understand and evaluate fiction. Designed primarily
+ for students whose major is not English, but majors and pro
+spective majors are welcome."
+ENGLISH 28,1,"Lectures and discussion intended to develop the student's ab
+ility to read, understand and evaluate plays. Designed prima
+rily for students whose major is not English, but majors and
+ prospective majors are welcome."
+ENGLISH 31AC,1,"An introduction to the ethnic diversity of American literatu
+re. The course will take substantial account of the literatu
+re of three or more of the following groups: African America
+ns, Native Americans, Asian Americans, Chicanos/Latinos, and
+ European Americans. Topics vary from semester to semester. 
+Students should consult the department's ""Announcement of Cl
+asses"" well before the beginning of the semester for details
+."
+ENGLISH 33,1,"Major literary and cultural texts in the African American tr
+adition from origins to the present."
+ENGLISH 37,1,"Major literary and cultural texts in the Chicana/o tradition
+ from origins to the present."
+ENGLISH 39A,1,"Topics vary from semester to semester. Students should consu
+lt the department's ""Announcement of Classes"" for current of
+ferings well before the start of the semester. (Sections lim
+ited to 15 students each.)"
+ENGLISH 43A,1,"A workshop course intended for students who have recently be
+gun to write fiction or who have not previously taken a cour
+se in creative writing."
+ENGLISH 43B,1,"A workshop course intended for students who have recently be
+gun to write verse or who have not previously taken a course
+ in creative writing."
+ENGLISH 43N,1,"A workshop course in creative non-fiction, a prose genre tha
+t takes on non-fiction subjects (the world of culture, histo
+ry, personal experience) but also is alert to the creativity
+ required to translate those subjects into the realm of writ
+ing. Students will study exemplary works of creative non-fic
+tion in different modes (e.g. literary journalism, personal 
+essay, travel writing) and write their own works in selected
+ modes as well."
+ENGLISH 45A,1,"Historical survey of literature in English: Beginnings throu
+gh Milton."
+ENGLISH 45B,1,"Historical survey of literature in English: The late-17th th
+rough the mid-19th century."
+ENGLISH 45C,1,"Historical survey of literature in English: the mid-19th thr
+ough the 20th century."
+ENGLISH 53,1,"This course provides a broad introductory survey of early to
+ contemporary Asian American literary and cultural productio
+n and an opportunity to develop and practice techniques for 
+analyzing literary and cultural forms. English 53 aims to se
+rve students from across campus and is especially suitable f
+or students who have never taken a college-level literary or
+ cultural studies course and would like to improve their ess
+ay-writing skills."
+ENGLISH C77,1,"This integrative course, taught by a humanities professor an
+d a science professor, surveys current global environmental 
+issues; introduces the basic intellectual tools of environme
+ntal science; investigates ways the human relationship to na
+ture has been imagined in literary and philosophical traditi
+ons; and examines how tools of scientific and literary analy
+sis; scientific method, and imaginative thinking can clarify
+ what is at stake in environmental"
 ENGLISH 80K,1,The study of selected works written for children.
-ENGLISH 84,1,"Sophomore seminars are small interactive courses offered by faculty members in departments all across the campus. Sophomore seminars offer opportunity for close, regular intellectual contact between faculty members and students in the crucial second year. The topics vary from department to department and semester to semester. Enrollment limited to 15 sophomores."
-ENGLISH 98,1,Group study in a field that may not coincide with that of any regular course and must be specific enough to enable students to write essays based upon their studies.
-ENGLISH 98BC,1,"Berkeley Connect is a mentoring program, offered through various academic departments, that helps students build intellectual community. Over the course of a semester, enrolled students participate in regular small-group discussions facilitated by a graduate student mentor (following a faculty-directed curriculum), meet with their graduate student mentor for one-on-one academic advising, attend lectures and panel discussions featuring department"
-ENGLISH 99,1,Meetings to be arranged. Reading and regular conference with the instructor in a field that shall not coincide with that of any regular course and shall be specific enough to enable students to write essays based on their studies.
-ENGLISH 101,1,"The history of the English language from its Indo-European roots, through its Old, Middle, and Early Modern periods, as preserved in the literary heritage, to its different forms in use throughout the world today."
+ENGLISH 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+ENGLISH 98,1,"Group study in a field that may not coincide with that of an
+y regular course and must be specific enough to enable stude
+nts to write essays based upon their studies."
+ENGLISH 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+ENGLISH 99,1,"Meetings to be arranged. Reading and regular conference with
+ the instructor in a field that shall not coincide with that
+ of any regular course and shall be specific enough to enabl
+e students to write essays based on their studies."
+ENGLISH 101,1,"The history of the English language from its Indo-European r
+oots, through its Old, Middle, and Early Modern periods, as 
+preserved in the literary heritage, to its different forms i
+n use throughout the world today."
 ENGLISH 102,1,Topics vary from semester to semester.
-ENGLISH 104,1,"Basic introduction to the vocabulary, grammar, and syntax of Old English designed to get students reading original texts immediately. Typical Old English texts include: riddles, charms, medical recipes, laws, chronicles, elegies, saints' lives, heroic poetry, and monster lore."
-ENGLISH 105,1,"The five centuries of the Anglo-Saxon period encompass a remarkably diverse range of literature: heroic epics and lyric laments; riddles, recipes, and magic spells; matter-of-fact accounts of monsters and miracles; and histories that set new standards for scholarship. This course surveys Anglo-Saxon literature in modern translation, encompassing texts originally written in both Old English and Latin, and prose as well as verse. At the heart of"
-ENGLISH 107,1,Introduction to the English Bible treated as a literary work.
-ENGLISH 110,1,Development of literary form and idiom throughout the Christian West from the first to the fifteenth century.
+ENGLISH 104,1,"Basic introduction to the vocabulary, grammar, and syntax of
+ Old English designed to get students reading original texts
+ immediately. Typical Old English texts include: riddles, ch
+arms, medical recipes, laws, chronicles, elegies, saints' li
+ves, heroic poetry, and monster lore."
+ENGLISH 105,1,"The five centuries of the Anglo-Saxon period encompass a rem
+arkably diverse range of literature: heroic epics and lyric 
+laments; riddles, recipes, and magic spells; matter-of-fact 
+accounts of monsters and miracles; and histories that set ne
+w standards for scholarship. This course surveys Anglo-Saxon
+ literature in modern translation, encompassing texts origin
+ally written in both Old English and Latin, and prose as wel
+l as verse. At the heart of"
+ENGLISH 107,1,"Introduction to the English Bible treated as a literary work
+."
+ENGLISH 110,1,"Development of literary form and idiom throughout the Christ
+ian West from the first to the fifteenth century."
 ENGLISH 111,1,Lectures on and discussion of Chaucer's major works.
-ENGLISH 112,1,Middle English literature exclusive of Chaucer studied in the original language.
+ENGLISH 112,1,"Middle English literature exclusive of Chaucer studied in th
+e original language."
 ENGLISH 114A,1,English drama to 1603.
 ENGLISH 114B,1,English drama from 1603 to 1700.
-ENGLISH 115A,1,Beginnings of the English Renaissance and literature of the 16th century.
+ENGLISH 115A,1,"Beginnings of the English Renaissance and literature of the 
+16th century."
 ENGLISH 115B,1,Literature of the 17th century.
-ENGLISH 116,1,A survey of the principal continental documents which are important to an understanding of the English Renaissance.
+ENGLISH 116,1,"A survey of the principal continental documents which are im
+portant to an understanding of the English Renaissance."
 ENGLISH 117A,1,A chronological survey of Shakespeare's career.
 ENGLISH 117B,1,A chronological survey of Shakespeare's career.
-ENGLISH 117F,1,"Close study of the texts and films based on 8 to 10 plays. Lectures will emphasize the critical implications of transposing plays to film. The goal of the course is the critical understanding of Shakespeare, and the course satisfies the departmental requirement of a course on Shakespeare in the major."
-ENGLISH 117J,1,"Study of selected plays, with practice in various critical approaches, e.g., establishing text, relation to source, changing concepts of comedy and tragedy, influence of theatrical conditions on technique."
+ENGLISH 117F,1,"Close study of the texts and films based on 8 to 10 plays. L
+ectures will emphasize the critical implications of transpos
+ing plays to film. The goal of the course is the critical un
+derstanding of Shakespeare, and the course satisfies the dep
+artmental requirement of a course on Shakespeare in the majo
+r."
+ENGLISH 117J,1,"Study of selected plays, with practice in various critical a
+pproaches, e.g., establishing text, relation to source, chan
+ging concepts of comedy and tragedy, influence of theatrical
+ conditions on technique."
 ENGLISH 117S,1,Lectures on Shakespeare and reading of his best works.
-ENGLISH 117T,1,"The interrelation of Elizabethan plays and stage practices. Classroom exercises, written assignments, and a final examination. The course will usually culminate in the performance of a play."
+ENGLISH 117T,1,"The interrelation of Elizabethan plays and stage practices. 
+Classroom exercises, written assignments, and a final examin
+ation. The course will usually culminate in the performance 
+of a play."
 ENGLISH 118,1,Lectures on and discussion of Milton's major works.
-ENGLISH 119,1,"Lectures on and discussion of Dryden, Swift, Pope, and some of their contemporaries."
-ENGLISH 120,1,Lectures on and discussion of later eighteenth-century British literature.
-ENGLISH 121,1,"Blake, Wordsworth, Coleridge, Byron, Shelley, Keats, and contemporaries."
-ENGLISH 122,1,Literature of the Victorian period with an emphasis on poetry and nonfiction prose.
+ENGLISH 119,1,"Lectures on and discussion of Dryden, Swift, Pope, and some 
+of their contemporaries."
+ENGLISH 120,1,"Lectures on and discussion of later eighteenth-century Briti
+sh literature."
+ENGLISH 121,1,"Blake, Wordsworth, Coleridge, Byron, Shelley, Keats, and con
+temporaries."
+ENGLISH 122,1,"Literature of the Victorian period with an emphasis on poetr
+y and nonfiction prose."
 ENGLISH 125A,1,Defoe through Scott.
 ENGLISH 125B,1,Dickens through Conrad.
 ENGLISH 125C,1,Lectures on and discussion of major European novels.
-ENGLISH 125D,1,Lectures on and discussion of major novels of the twentieth century.
-ENGLISH 125E,1,"Important contemporary novels, some of which may be read in translation."
-ENGLISH 126,1,Lectures on and discussion of British literature written between 1900 and 1945.
+ENGLISH 125D,1,"Lectures on and discussion of major novels of the twentieth 
+century."
+ENGLISH 125E,1,"Important contemporary novels, some of which may be read in 
+translation."
+ENGLISH 126,1,"Lectures on and discussion of British literature written bet
+ween 1900 and 1945."
 ENGLISH 127,1,British and American poetry: 1900 to the present.
 ENGLISH 128,1,British and American drama: 1860 to the present.
-ENGLISH 130A,1,Lectures on and discussion of the major writers of the early American period.
-ENGLISH 130B,1,Lectures on and discussion of the major texts of the American Renaissance.
-ENGLISH 130C,1,Lectures on and discussion of American literature from the Civil War through 1900.
+ENGLISH 130A,1,"Lectures on and discussion of the major writers of the early
+ American period."
+ENGLISH 130B,1,"Lectures on and discussion of the major texts of the America
+n Renaissance."
+ENGLISH 130C,1,"Lectures on and discussion of American literature from the C
+ivil War through 1900."
 ENGLISH 130D,1,A survey of modern American literature.
 ENGLISH 131,1,A historical survey of American poetry and its backgrounds.
 ENGLISH 132,1,A survey of major American novels.
-ENGLISH 133A,1,Major literary and cultural texts in the African American tradition from origins through World War I.
-ENGLISH 133B,1,Major literary and cultural texts in the African American tradition from the Harlem Renaissance through the twentieth century.
-ENGLISH 133T,1,"Topics vary from semester to semester. Students should consult the department's ""Announcement of Classes"" for offerings well before the beginning of the semester."
-ENGLISH 134,1,Lectures on and discussion of selected works written since the Second World War.
-ENGLISH 135AC,1,"Study of the ethnic diversity of American literature. The course will take substantial account of the literature of three or more of the following groups: African Americans, Native Americans, Asian Americans, Chicanos/Latinos, and European Americans. Topics vary from semester to semester. Students should consult the department's ""Announcement of Classes"" well before the beginning of the semester for details."
-ENGLISH C136,1,"A course on the intellectual, cultural, historical, and social backgrounds to American literature. Topics will vary from semester to semester. Students should consult the department's ""Announcement of Classes"" for current offerings well before the start of the semester."
-ENGLISH 137A,1,Major literary and cultural texts in the Chicana/o tradition from origins through the Mexican Revolution of 1910.
-ENGLISH 137B,1,Major literary and cultural texts in the Chicana/o tradition from 1910 through the contemporary Chicana/o period.
+ENGLISH 133A,1,"Major literary and cultural texts in the African American tr
+adition from origins through World War I."
+ENGLISH 133B,1,"Major literary and cultural texts in the African American tr
+adition from the Harlem Renaissance through the twentieth ce
+ntury."
+ENGLISH 133T,1,"Topics vary from semester to semester. Students should consu
+lt the department's ""Announcement of Classes"" for offerings 
+well before the beginning of the semester."
+ENGLISH 134,1,"Lectures on and discussion of selected works written since t
+he Second World War."
+ENGLISH 135AC,1,"Study of the ethnic diversity of American literature. The co
+urse will take substantial account of the literature of thre
+e or more of the following groups: African Americans, Native
+ Americans, Asian Americans, Chicanos/Latinos, and European 
+Americans. Topics vary from semester to semester. Students s
+hould consult the department's ""Announcement of Classes"" wel
+l before the beginning of the semester for details."
+ENGLISH C136,1,"A course on the intellectual, cultural, historical, and soci
+al backgrounds to American literature. Topics will vary from
+ semester to semester. Students should consult the departmen
+t's ""Announcement of Classes"" for current offerings well bef
+ore the start of the semester."
+ENGLISH 137A,1,"Major literary and cultural texts in the Chicana/o tradition
+ from origins through the Mexican Revolution of 1910."
+ENGLISH 137B,1,"Major literary and cultural texts in the Chicana/o tradition
+ from 1910 through the contemporary Chicana/o period."
 ENGLISH 137T,1,Topics in Chicana/o literature and culture.
-ENGLISH 138,1,"An examination of various aspects of the modern literature written in English in Africa, the Caribbean, India, and Southeast Asia. Topics will vary from semester to semester. Students should consult the department's ""Announcement of Classes"" for current offerings well before the start of the semester."
-ENGLISH 139,1,"Literatures of various regions in which English is one of the spoken languages, such as Canada, the Caribbean, Australia, Africa, India; and the writings of specific groups or distinctive cultures in the English-speaking world, including the U.S. and the British Isles. Topics vary from semester to semester. Students should consult the department's ""Announcement of Classes"" for current offerings well before the start of the semester"
-ENGLISH 141,1,Writing in connection with reading in recent English literature and its continental background.
+ENGLISH 138,1,"An examination of various aspects of the modern literature w
+ritten in English in Africa, the Caribbean, India, and South
+east Asia. Topics will vary from semester to semester. Stude
+nts should consult the department's ""Announcement of Classes
+"" for current offerings well before the start of the semeste
+r."
+ENGLISH 139,1,"Literatures of various regions in which English is one of th
+e spoken languages, such as Canada, the Caribbean, Australia
+, Africa, India; and the writings of specific groups or dist
+inctive cultures in the English-speaking world, including th
+e U.S. and the British Isles. Topics vary from semester to s
+emester. Students should consult the department's ""Announcem
+ent of Classes"" for current offerings well before the start 
+of the semester"
+ENGLISH 141,1,"Writing in connection with reading in recent English literat
+ure and its continental background."
 ENGLISH 143A,1,A seminar in writing short stories.
 ENGLISH 143B,1,A seminar in writing poetry.
-ENGLISH 143C,1,"Students will work through the semester on a single project, either fiction (novel) or nonfiction (biography, history)."
+ENGLISH 143C,1,"Students will work through the semester on a single project,
+ either fiction (novel) or nonfiction (biography, history)."
 ENGLISH 143D,1,A seminar in expository and critical writing.
 ENGLISH 143E,1,A seminar in playwriting.
 ENGLISH 143N,1,A seminar in the writing of prose nonfiction as an art.
-ENGLISH 143T,1,Open to those who wish to assimilate foreign influences for writing poetry or to seek a fuller understanding of any foreign poetry by rendering it into English.
-ENGLISH C143V,1,"Since visual and literary studies have historically been viewed as separate disciplines, we will use theories from both to study those forms of self-representation that defy disciplinary boundaries, or what we call ""visual autobiography."" The course aims to help students become conversant with the elements of alphabetic literacy (reading and writing) and visual literacy (observing and making) in order to develop a third distinctive"
-ENGLISH 145,1,"An introduction to different modes of technological, critical, and creative writing and the intersections among them and to the representation of technology and science in literature, film, and other media. This course is writing-intensive and aims to serve students from across campus."
+ENGLISH 143T,1,"Open to those who wish to assimilate foreign influences for 
+writing poetry or to seek a fuller understanding of any fore
+ign poetry by rendering it into English."
+ENGLISH C143V,1,"Since visual and literary studies have historically been vie
+wed as separate disciplines, we will use theories from both 
+to study those forms of self-representation that defy discip
+linary boundaries, or what we call ""visual autobiography."" T
+he course aims to help students become conversant with the e
+lements of alphabetic literacy (reading and writing) and vis
+ual literacy (observing and making) in order to develop a th
+ird distinctive"
+ENGLISH 145,1,"An introduction to different modes of technological, critica
+l, and creative writing and the intersections among them and
+ to the representation of technology and science in literatu
+re, film, and other media. This course is writing-intensive 
+and aims to serve students from across campus."
 ENGLISH 152,1,Topics will vary from semester to semester.
-ENGLISH 153T,1,"Immersive study of a topic in Asian American Literatures and Cultures. Particular offerings may focus on an author, genre, form, literary historical issue, or theoretical problem. Topics vary from term to term. Students should consult the Department's ""Announcement of Classes"" for offerings well before the beginning of the term."
-ENGLISH 160,1,An introduction to issues in literary criticism with emphasis on application of principles and methods to selected literary texts.
+ENGLISH 153T,1,"Immersive study of a topic in Asian American Literatures and
+ Cultures. Particular offerings may focus on an author, genr
+e, form, literary historical issue, or theoretical problem. 
+Topics vary from term to term. Students should consult the D
+epartment's ""Announcement of Classes"" for offerings well bef
+ore the beginning of the term."
+ENGLISH 160,1,"An introduction to issues in literary criticism with emphasi
+s on application of principles and methods to selected liter
+ary texts."
 ENGLISH 161,1,This class will focus on literary theory.
-ENGLISH 165,1,"Designed primarily for English majors. Topics vary from semester to semester. Students should consult the department's ""Announcement of Classes"" for offerings well before the beginning of the semester."
-ENGLISH 165AC,1,"Designed primarily for English majors. Study of a special topic related to the diversity of the United States. Topics vary from semester to semester. Students should consult the department's ""Announcement of Classes"" for offerings well before the beginning of the semester."
-ENGLISH 166,1,"Immersive study of an author, genre, form, or literary historical issue. Topics vary from term to term. Students should consult the department's ""Announcement of Classes"" for offerings well before the beginning of the term."
-ENGLISH 166AC,1,"In this course, students investigate the way literature and other art forms have both represented the diversity of the United States and shaped conceptions of diversity. English 166AC provides students with an opportunity to deepen and complicate their appreciation of the way fictions make meaning, shape our understanding and experience of the world, and transform society. Topics vary from term to"
-ENGLISH N166,1,"Immersive study of an author, genre, form, or literary historical issue. Topics vary from summer to summer."
-ENGLISH 170,1,Studies in the relationship of literature in English to the arts.
-ENGLISH 171,1,"Sexual identity in literature in relation to thematics, literary convention, psychology, and the particular politics and sociology of individual cultures. The course may range broadly over Western literature or concentrate on one historical period."
-ENGLISH 172,1,Studies in the relationship of literature in English to psychology.
-ENGLISH 173,1,"Studies in film as a mode of representing reality; cinematic techniques and the ""language"" of film. Lectures, class discussions, and film viewings."
+ENGLISH 165,1,"Designed primarily for English majors. Topics vary from seme
+ster to semester. Students should consult the department's ""
+Announcement of Classes"" for offerings well before the begin
+ning of the semester."
+ENGLISH 165AC,1,"Designed primarily for English majors. Study of a special to
+pic related to the diversity of the United States. Topics va
+ry from semester to semester. Students should consult the de
+partment's ""Announcement of Classes"" for offerings well befo
+re the beginning of the semester."
+ENGLISH 166,1,"Immersive study of an author, genre, form, or literary histo
+rical issue. Topics vary from term to term. Students should 
+consult the department's ""Announcement of Classes"" for offer
+ings well before the beginning of the term."
+ENGLISH 166AC,1,"In this course, students investigate the way literature and 
+other art forms have both represented the diversity of the U
+nited States and shaped conceptions of diversity. English 16
+6AC provides students with an opportunity to deepen and comp
+licate their appreciation of the way fictions make meaning, 
+shape our understanding and experience of the world, and tra
+nsform society. Topics vary from term to"
+ENGLISH N166,1,"Immersive study of an author, genre, form, or literary histo
+rical issue. Topics vary from summer to summer."
+ENGLISH 170,1,"Studies in the relationship of literature in English to the 
+arts."
+ENGLISH 171,1,"Sexual identity in literature in relation to thematics, lite
+rary convention, psychology, and the particular politics and
+ sociology of individual cultures. The course may range broa
+dly over Western literature or concentrate on one historical
+ period."
+ENGLISH 172,1,"Studies in the relationship of literature in English to psyc
+hology."
+ENGLISH 173,1,"Studies in film as a mode of representing reality; cinematic
+ techniques and the ""language"" of film. Lectures, class disc
+ussions, and film viewings."
 ENGLISH 174,1,Topics will vary from semester to semester.
-ENGLISH 175,1,"Studies of the relationships among literature, culture, and ""disability."" The course may range broadly or concentrate on one historical period, genre, or issue."
+ENGLISH 175,1,"Studies of the relationships among literature, culture, and 
+""disability."" The course may range broadly or concentrate on
+ one historical period, genre, or issue."
 ENGLISH 176,1,Topics will vary from semester to semester.
-ENGLISH 177,1,Studies in the relationship of literature in English to philosophy.
-ENGLISH 178,1,Study of representative forms of folklore and oral literature among the English-speaking people of the British Isles and North America.
-ENGLISH 179,1,"Study of the English language as a medium for literature. Topics may include rhyme, alliteration, meter, poetic syntax, metaphor, irony, the language of point of view, narrative tense, orality, literacy, etc."
+ENGLISH 177,1,"Studies in the relationship of literature in English to phil
+osophy."
+ENGLISH 178,1,"Study of representative forms of folklore and oral literatur
+e among the English-speaking people of the British Isles and
+ North America."
+ENGLISH 179,1,"Study of the English language as a medium for literature. To
+pics may include rhyme, alliteration, meter, poetic syntax, 
+metaphor, irony, the language of point of view, narrative te
+nse, orality, literacy, etc."
 ENGLISH 180A,1,Lectures on and discussion of autobiographical forms.
-ENGLISH 180C,1,"Studies of representative comic forms, techniques, and points of view."
-ENGLISH 180E,1,"Reading and discussion of epics, considering their cultural and historical contexts, the nature of their composition, and the development of the form."
+ENGLISH 180C,1,"Studies of representative comic forms, techniques, and point
+s of view."
+ENGLISH 180E,1,"Reading and discussion of epics, considering their cultural 
+and historical contexts, the nature of their composition, an
+d the development of the form."
 ENGLISH 180H,1,Lectures on and discussion of the form of the short story.
-ENGLISH 180J,1,"Study of the essay as a literary form, the circumstances of its use and development, and its fortunes in twentieth-century culture."
+ENGLISH 180J,1,"Study of the essay as a literary form, the circumstances of 
+its use and development, and its fortunes in twentieth-centu
+ry culture."
 ENGLISH 180L,1,Study of lyric forms and techniques.
-ENGLISH 180N,1,"Study of the novel as a literary genre, its formal development and variations, its technical possibilities, its cultural functions. Topics may vary from semester to semester."
-ENGLISH 180R,1,"Study of the romance as a literary genre. Topics may vary from semester to semester; focus may be historical or restricted to a particular period (e.g., medieval, modern)."
-ENGLISH 180S,1,"Study of representative satire forms, techniques, and points of view."
-ENGLISH 180T,1,"Study of representative tragic forms, techniques, and points of view."
-ENGLISH 180Z,1,Study of speculative fiction (or science fiction) as a genre. Topics may vary from semester to semester. Focus may be historical or thematic.
-ENGLISH C181,1,"“Digital humanities” describes how digital formats and tools can be used to produce knowledge about cultural materials. This course introduces students to techniques used to study visual culture and related disciplines, possibly including mapping, network analysis, digital (re)construction of objects and environments; digital editions of texts or online exhibitions; digital manipulation of images; and content-management systems and structured data. The class also"
-ENGLISH 190,1,"Research-oriented and designed for upper-division English majors. Intensive examination of critical approaches, literary theory, or a special topic in literary and cultural studies. Topics vary from semester to semester. Students should consult the department's ""Announcement of Classes"" for offerings well before the beginning of the semester."
-ENGLISH H195A,1,"This is a two-semester course, graded IP at the end of the first semester. During the second semester, each student will write an honors thesis. Completion of the thesis is required for a passing grade in the course."
-ENGLISH H195B,1,"This is a two-semester course, graded IP at the end of the first semester. During the second semester, each student will write an honors thesis. Completion of the thesis is required for a passing grade in the course."
-ENGLISH 198,1,Enrollment is restricted by university regulations. Group study in a field that shall not coincide with that of any regular course and shall be specific enough to enable students to write essays based upon their studies.
-ENGLISH 198BC,1,"Berkeley Connect is a mentoring program, offered through various academic departments, that helps students build intellectual community. Over the course of a semester, enrolled students participate in regular small-group discussions facilitated by a graduate student mentor (following a faculty-directed curriculum), meet with their graduate student mentor for one-on-one academic advising, attend lectures and panel discussions featuring department"
-ENGLISH 199,1,Meetings to be arranged. Enrollment is restricted by university regulations. Reading and conference with the instructor in a field that shall not coincide with that of any regular course and shall be specific enough to enable students to write essays based upon their studies.
+ENGLISH 180N,1,"Study of the novel as a literary genre, its formal developme
+nt and variations, its technical possibilities, its cultural
+ functions. Topics may vary from semester to semester."
+ENGLISH 180R,1,"Study of the romance as a literary genre. Topics may vary fr
+om semester to semester; focus may be historical or restrict
+ed to a particular period (e.g., medieval, modern)."
+ENGLISH 180S,1,"Study of representative satire forms, techniques, and points
+ of view."
+ENGLISH 180T,1,"Study of representative tragic forms, techniques, and points
+ of view."
+ENGLISH 180Z,1,"Study of speculative fiction (or science fiction) as a genre
+. Topics may vary from semester to semester. Focus may be hi
+storical or thematic."
+ENGLISH C181,1,"“Digital humanities” describes how digital formats and tools
+ can be used to produce knowledge about cultural materials. 
+This course introduces students to techniques used to study 
+visual culture and related disciplines, possibly including m
+apping, network analysis, digital (re)construction of object
+s and environments; digital editions of texts or online exhi
+bitions; digital manipulation of images; and content-managem
+ent systems and structured data. The class also"
+ENGLISH 190,1,"Research-oriented and designed for upper-division English ma
+jors. Intensive examination of critical approaches, literary
+ theory, or a special topic in literary and cultural studies
+. Topics vary from semester to semester. Students should con
+sult the department's ""Announcement of Classes"" for offering
+s well before the beginning of the semester."
+ENGLISH H195A,1,"This is a two-semester course, graded IP at the end of the f
+irst semester. During the second semester, each student will
+ write an honors thesis. Completion of the thesis is require
+d for a passing grade in the course."
+ENGLISH H195B,1,"This is a two-semester course, graded IP at the end of the f
+irst semester. During the second semester, each student will
+ write an honors thesis. Completion of the thesis is require
+d for a passing grade in the course."
+ENGLISH 198,1,"Enrollment is restricted by university regulations. Group st
+udy in a field that shall not coincide with that of any regu
+lar course and shall be specific enough to enable students t
+o write essays based upon their studies."
+ENGLISH 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+ENGLISH 199,1,"Meetings to be arranged. Enrollment is restricted by univers
+ity regulations. Reading and conference with the instructor 
+in a field that shall not coincide with that of any regular 
+course and shall be specific enough to enable students to wr
+ite essays based upon their studies."
+ENGLISH R1A,1,"Training in writing expository prose. Instruction in exposit
+ory writing in conjunction with reading literature. Satisfie
+s the first half of the Reading and Composition requirement."
+ENGLISH R1AN,1,"Training in writing expository prose. Instruction in writing
+ and reading expository prose. Satisfies the first half of t
+he Reading and Composition requirement."
+ENGLISH R1B,1,"Training in writing expository prose. Further instruction in
+ expository writing in conjunction with reading literature. 
+Satisfies the second half of the Reading and Composition req
+uirement."
+ENGLISH 17,1,Lectures on Shakespeare and reading of his best works.
+ENGLISH 20,1,"Lectures on and discussion of major authors of modern Britis
+h and American literature."
+ENGLISH 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+ENGLISH 25,1,"An introduction to the grammar of English, including phonolo
+gy (sound structure), morphology (word structure), syntax (s
+entence structure), semantics (linguistic meaning), and prag
+matics (contextual meaning), with consideration of different
+ varieties of English in use within the United States and th
+roughout the world, and comparison of English with other lan
+guages."
+ENGLISH 26,1,"Lectures and discussion on poetry intended to develop the st
+udent's ability to understand and evaluate a poem. Designed 
+primarily for students whose major is not English, but major
+s and prospective majors are welcome."
+ENGLISH 27,1,"Lectures and discussion intended to develop the student's ab
+ility to understand and evaluate fiction. Designed primarily
+ for students whose major is not English, but majors and pro
+spective majors are welcome."
+ENGLISH 28,1,"Lectures and discussion intended to develop the student's ab
+ility to read, understand and evaluate plays. Designed prima
+rily for students whose major is not English, but majors and
+ prospective majors are welcome."
+ENGLISH 31AC,1,"An introduction to the ethnic diversity of American literatu
+re. The course will take substantial account of the literatu
+re of three or more of the following groups: African America
+ns, Native Americans, Asian Americans, Chicanos/Latinos, and
+ European Americans. Topics vary from semester to semester. 
+Students should consult the department's ""Announcement of Cl
+asses"" well before the beginning of the semester for details
+."
+ENGLISH 33,1,"Major literary and cultural texts in the African American tr
+adition from origins to the present."
+ENGLISH 37,1,"Major literary and cultural texts in the Chicana/o tradition
+ from origins to the present."
+ENGLISH 39A,1,"Topics vary from semester to semester. Students should consu
+lt the department's ""Announcement of Classes"" for current of
+ferings well before the start of the semester. (Sections lim
+ited to 15 students each.)"
+ENGLISH 43A,1,"A workshop course intended for students who have recently be
+gun to write fiction or who have not previously taken a cour
+se in creative writing."
+ENGLISH 43B,1,"A workshop course intended for students who have recently be
+gun to write verse or who have not previously taken a course
+ in creative writing."
+ENGLISH 43N,1,"A workshop course in creative non-fiction, a prose genre tha
+t takes on non-fiction subjects (the world of culture, histo
+ry, personal experience) but also is alert to the creativity
+ required to translate those subjects into the realm of writ
+ing. Students will study exemplary works of creative non-fic
+tion in different modes (e.g. literary journalism, personal 
+essay, travel writing) and write their own works in selected
+ modes as well."
+ENGLISH 45A,1,"Historical survey of literature in English: Beginnings throu
+gh Milton."
+ENGLISH 45B,1,"Historical survey of literature in English: The late-17th th
+rough the mid-19th century."
+ENGLISH 45C,1,"Historical survey of literature in English: the mid-19th thr
+ough the 20th century."
+ENGLISH 53,1,"This course provides a broad introductory survey of early to
+ contemporary Asian American literary and cultural productio
+n and an opportunity to develop and practice techniques for 
+analyzing literary and cultural forms. English 53 aims to se
+rve students from across campus and is especially suitable f
+or students who have never taken a college-level literary or
+ cultural studies course and would like to improve their ess
+ay-writing skills."
+ENGLISH C77,1,"This integrative course, taught by a humanities professor an
+d a science professor, surveys current global environmental 
+issues; introduces the basic intellectual tools of environme
+ntal science; investigates ways the human relationship to na
+ture has been imagined in literary and philosophical traditi
+ons; and examines how tools of scientific and literary analy
+sis; scientific method, and imaginative thinking can clarify
+ what is at stake in environmental"
+ENGLISH 80K,1,The study of selected works written for children.
+ENGLISH 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+ENGLISH 98,1,"Group study in a field that may not coincide with that of an
+y regular course and must be specific enough to enable stude
+nts to write essays based upon their studies."
+ENGLISH 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+ENGLISH 99,1,"Meetings to be arranged. Reading and regular conference with
+ the instructor in a field that shall not coincide with that
+ of any regular course and shall be specific enough to enabl
+e students to write essays based on their studies."
+ENGLISH 101,1,"The history of the English language from its Indo-European r
+oots, through its Old, Middle, and Early Modern periods, as 
+preserved in the literary heritage, to its different forms i
+n use throughout the world today."
+ENGLISH 102,1,Topics vary from semester to semester.
+ENGLISH 104,1,"Basic introduction to the vocabulary, grammar, and syntax of
+ Old English designed to get students reading original texts
+ immediately. Typical Old English texts include: riddles, ch
+arms, medical recipes, laws, chronicles, elegies, saints' li
+ves, heroic poetry, and monster lore."
+ENGLISH 105,1,"The five centuries of the Anglo-Saxon period encompass a rem
+arkably diverse range of literature: heroic epics and lyric 
+laments; riddles, recipes, and magic spells; matter-of-fact 
+accounts of monsters and miracles; and histories that set ne
+w standards for scholarship. This course surveys Anglo-Saxon
+ literature in modern translation, encompassing texts origin
+ally written in both Old English and Latin, and prose as wel
+l as verse. At the heart of"
+ENGLISH 107,1,"Introduction to the English Bible treated as a literary work
+."
+ENGLISH 110,1,"Development of literary form and idiom throughout the Christ
+ian West from the first to the fifteenth century."
+ENGLISH 111,1,Lectures on and discussion of Chaucer's major works.
+ENGLISH 112,1,"Middle English literature exclusive of Chaucer studied in th
+e original language."
+ENGLISH 114A,1,English drama to 1603.
+ENGLISH 114B,1,English drama from 1603 to 1700.
+ENGLISH 115A,1,"Beginnings of the English Renaissance and literature of the 
+16th century."
+ENGLISH 115B,1,Literature of the 17th century.
+ENGLISH 116,1,"A survey of the principal continental documents which are im
+portant to an understanding of the English Renaissance."
+ENGLISH 117A,1,A chronological survey of Shakespeare's career.
+ENGLISH 117B,1,A chronological survey of Shakespeare's career.
+ENGLISH 117F,1,"Close study of the texts and films based on 8 to 10 plays. L
+ectures will emphasize the critical implications of transpos
+ing plays to film. The goal of the course is the critical un
+derstanding of Shakespeare, and the course satisfies the dep
+artmental requirement of a course on Shakespeare in the majo
+r."
+ENGLISH 117J,1,"Study of selected plays, with practice in various critical a
+pproaches, e.g., establishing text, relation to source, chan
+ging concepts of comedy and tragedy, influence of theatrical
+ conditions on technique."
+ENGLISH 117S,1,Lectures on Shakespeare and reading of his best works.
+ENGLISH 117T,1,"The interrelation of Elizabethan plays and stage practices. 
+Classroom exercises, written assignments, and a final examin
+ation. The course will usually culminate in the performance 
+of a play."
+ENGLISH 118,1,Lectures on and discussion of Milton's major works.
+ENGLISH 119,1,"Lectures on and discussion of Dryden, Swift, Pope, and some 
+of their contemporaries."
+ENGLISH 120,1,"Lectures on and discussion of later eighteenth-century Briti
+sh literature."
+ENGLISH 121,1,"Blake, Wordsworth, Coleridge, Byron, Shelley, Keats, and con
+temporaries."
+ENGLISH 122,1,"Literature of the Victorian period with an emphasis on poetr
+y and nonfiction prose."
+ENGLISH 125A,1,Defoe through Scott.
+ENGLISH 125B,1,Dickens through Conrad.
+ENGLISH 125C,1,Lectures on and discussion of major European novels.
+ENGLISH 125D,1,"Lectures on and discussion of major novels of the twentieth 
+century."
+ENGLISH 125E,1,"Important contemporary novels, some of which may be read in 
+translation."
+ENGLISH 126,1,"Lectures on and discussion of British literature written bet
+ween 1900 and 1945."
+ENGLISH 127,1,British and American poetry: 1900 to the present.
+ENGLISH 128,1,British and American drama: 1860 to the present.
+ENGLISH 130A,1,"Lectures on and discussion of the major writers of the early
+ American period."
+ENGLISH 130B,1,"Lectures on and discussion of the major texts of the America
+n Renaissance."
+ENGLISH 130C,1,"Lectures on and discussion of American literature from the C
+ivil War through 1900."
+ENGLISH 130D,1,A survey of modern American literature.
+ENGLISH 131,1,A historical survey of American poetry and its backgrounds.
+ENGLISH 132,1,A survey of major American novels.
+ENGLISH 133A,1,"Major literary and cultural texts in the African American tr
+adition from origins through World War I."
+ENGLISH 133B,1,"Major literary and cultural texts in the African American tr
+adition from the Harlem Renaissance through the twentieth ce
+ntury."
+ENGLISH 133T,1,"Topics vary from semester to semester. Students should consu
+lt the department's ""Announcement of Classes"" for offerings 
+well before the beginning of the semester."
+ENGLISH 134,1,"Lectures on and discussion of selected works written since t
+he Second World War."
+ENGLISH 135AC,1,"Study of the ethnic diversity of American literature. The co
+urse will take substantial account of the literature of thre
+e or more of the following groups: African Americans, Native
+ Americans, Asian Americans, Chicanos/Latinos, and European 
+Americans. Topics vary from semester to semester. Students s
+hould consult the department's ""Announcement of Classes"" wel
+l before the beginning of the semester for details."
+ENGLISH C136,1,"A course on the intellectual, cultural, historical, and soci
+al backgrounds to American literature. Topics will vary from
+ semester to semester. Students should consult the departmen
+t's ""Announcement of Classes"" for current offerings well bef
+ore the start of the semester."
+ENGLISH 137A,1,"Major literary and cultural texts in the Chicana/o tradition
+ from origins through the Mexican Revolution of 1910."
+ENGLISH 137B,1,"Major literary and cultural texts in the Chicana/o tradition
+ from 1910 through the contemporary Chicana/o period."
+ENGLISH 137T,1,Topics in Chicana/o literature and culture.
+ENGLISH 138,1,"An examination of various aspects of the modern literature w
+ritten in English in Africa, the Caribbean, India, and South
+east Asia. Topics will vary from semester to semester. Stude
+nts should consult the department's ""Announcement of Classes
+"" for current offerings well before the start of the semeste
+r."
+ENGLISH 139,1,"Literatures of various regions in which English is one of th
+e spoken languages, such as Canada, the Caribbean, Australia
+, Africa, India; and the writings of specific groups or dist
+inctive cultures in the English-speaking world, including th
+e U.S. and the British Isles. Topics vary from semester to s
+emester. Students should consult the department's ""Announcem
+ent of Classes"" for current offerings well before the start 
+of the semester"
+ENGLISH 141,1,"Writing in connection with reading in recent English literat
+ure and its continental background."
+ENGLISH 143A,1,A seminar in writing short stories.
+ENGLISH 143B,1,A seminar in writing poetry.
+ENGLISH 143C,1,"Students will work through the semester on a single project,
+ either fiction (novel) or nonfiction (biography, history)."
+ENGLISH 143D,1,A seminar in expository and critical writing.
+ENGLISH 143E,1,A seminar in playwriting.
+ENGLISH 143N,1,A seminar in the writing of prose nonfiction as an art.
+ENGLISH 143T,1,"Open to those who wish to assimilate foreign influences for 
+writing poetry or to seek a fuller understanding of any fore
+ign poetry by rendering it into English."
+ENGLISH C143V,1,"Since visual and literary studies have historically been vie
+wed as separate disciplines, we will use theories from both 
+to study those forms of self-representation that defy discip
+linary boundaries, or what we call ""visual autobiography."" T
+he course aims to help students become conversant with the e
+lements of alphabetic literacy (reading and writing) and vis
+ual literacy (observing and making) in order to develop a th
+ird distinctive"
+ENGLISH 145,1,"An introduction to different modes of technological, critica
+l, and creative writing and the intersections among them and
+ to the representation of technology and science in literatu
+re, film, and other media. This course is writing-intensive 
+and aims to serve students from across campus."
+ENGLISH 152,1,Topics will vary from semester to semester.
+ENGLISH 153T,1,"Immersive study of a topic in Asian American Literatures and
+ Cultures. Particular offerings may focus on an author, genr
+e, form, literary historical issue, or theoretical problem. 
+Topics vary from term to term. Students should consult the D
+epartment's ""Announcement of Classes"" for offerings well bef
+ore the beginning of the term."
+ENGLISH 160,1,"An introduction to issues in literary criticism with emphasi
+s on application of principles and methods to selected liter
+ary texts."
+ENGLISH 161,1,This class will focus on literary theory.
+ENGLISH 165,1,"Designed primarily for English majors. Topics vary from seme
+ster to semester. Students should consult the department's ""
+Announcement of Classes"" for offerings well before the begin
+ning of the semester."
+ENGLISH 165AC,1,"Designed primarily for English majors. Study of a special to
+pic related to the diversity of the United States. Topics va
+ry from semester to semester. Students should consult the de
+partment's ""Announcement of Classes"" for offerings well befo
+re the beginning of the semester."
+ENGLISH 166,1,"Immersive study of an author, genre, form, or literary histo
+rical issue. Topics vary from term to term. Students should 
+consult the department's ""Announcement of Classes"" for offer
+ings well before the beginning of the term."
+ENGLISH 166AC,1,"In this course, students investigate the way literature and 
+other art forms have both represented the diversity of the U
+nited States and shaped conceptions of diversity. English 16
+6AC provides students with an opportunity to deepen and comp
+licate their appreciation of the way fictions make meaning, 
+shape our understanding and experience of the world, and tra
+nsform society. Topics vary from term to"
+ENGLISH N166,1,"Immersive study of an author, genre, form, or literary histo
+rical issue. Topics vary from summer to summer."
+ENGLISH 170,1,"Studies in the relationship of literature in English to the 
+arts."
+ENGLISH 171,1,"Sexual identity in literature in relation to thematics, lite
+rary convention, psychology, and the particular politics and
+ sociology of individual cultures. The course may range broa
+dly over Western literature or concentrate on one historical
+ period."
+ENGLISH 172,1,"Studies in the relationship of literature in English to psyc
+hology."
+ENGLISH 173,1,"Studies in film as a mode of representing reality; cinematic
+ techniques and the ""language"" of film. Lectures, class disc
+ussions, and film viewings."
+ENGLISH 174,1,Topics will vary from semester to semester.
+ENGLISH 175,1,"Studies of the relationships among literature, culture, and 
+""disability."" The course may range broadly or concentrate on
+ one historical period, genre, or issue."
+ENGLISH 176,1,Topics will vary from semester to semester.
+ENGLISH 177,1,"Studies in the relationship of literature in English to phil
+osophy."
+ENGLISH 178,1,"Study of representative forms of folklore and oral literatur
+e among the English-speaking people of the British Isles and
+ North America."
+ENGLISH 179,1,"Study of the English language as a medium for literature. To
+pics may include rhyme, alliteration, meter, poetic syntax, 
+metaphor, irony, the language of point of view, narrative te
+nse, orality, literacy, etc."
+ENGLISH 180A,1,Lectures on and discussion of autobiographical forms.
+ENGLISH 180C,1,"Studies of representative comic forms, techniques, and point
+s of view."
+ENGLISH 180E,1,"Reading and discussion of epics, considering their cultural 
+and historical contexts, the nature of their composition, an
+d the development of the form."
+ENGLISH 180H,1,Lectures on and discussion of the form of the short story.
+ENGLISH 180J,1,"Study of the essay as a literary form, the circumstances of 
+its use and development, and its fortunes in twentieth-centu
+ry culture."
+ENGLISH 180L,1,Study of lyric forms and techniques.
+ENGLISH 180N,1,"Study of the novel as a literary genre, its formal developme
+nt and variations, its technical possibilities, its cultural
+ functions. Topics may vary from semester to semester."
+ENGLISH 180R,1,"Study of the romance as a literary genre. Topics may vary fr
+om semester to semester; focus may be historical or restrict
+ed to a particular period (e.g., medieval, modern)."
+ENGLISH 180S,1,"Study of representative satire forms, techniques, and points
+ of view."
+ENGLISH 180T,1,"Study of representative tragic forms, techniques, and points
+ of view."
+ENGLISH 180Z,1,"Study of speculative fiction (or science fiction) as a genre
+. Topics may vary from semester to semester. Focus may be hi
+storical or thematic."
+ENGLISH C181,1,"“Digital humanities” describes how digital formats and tools
+ can be used to produce knowledge about cultural materials. 
+This course introduces students to techniques used to study 
+visual culture and related disciplines, possibly including m
+apping, network analysis, digital (re)construction of object
+s and environments; digital editions of texts or online exhi
+bitions; digital manipulation of images; and content-managem
+ent systems and structured data. The class also"
+ENGLISH 190,1,"Research-oriented and designed for upper-division English ma
+jors. Intensive examination of critical approaches, literary
+ theory, or a special topic in literary and cultural studies
+. Topics vary from semester to semester. Students should con
+sult the department's ""Announcement of Classes"" for offering
+s well before the beginning of the semester."
+ENGLISH H195A,1,"This is a two-semester course, graded IP at the end of the f
+irst semester. During the second semester, each student will
+ write an honors thesis. Completion of the thesis is require
+d for a passing grade in the course."
+ENGLISH H195B,1,"This is a two-semester course, graded IP at the end of the f
+irst semester. During the second semester, each student will
+ write an honors thesis. Completion of the thesis is require
+d for a passing grade in the course."
+ENGLISH 198,1,"Enrollment is restricted by university regulations. Group st
+udy in a field that shall not coincide with that of any regu
+lar course and shall be specific enough to enable students t
+o write essays based upon their studies."
+ENGLISH 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+ENGLISH 199,1,"Meetings to be arranged. Enrollment is restricted by univers
+ity regulations. Reading and conference with the instructor 
+in a field that shall not coincide with that of any regular 
+course and shall be specific enough to enable students to wr
+ite essays based upon their studies."
+ENGLISH R1A,1,"Training in writing expository prose. Instruction in exposit
+ory writing in conjunction with reading literature. Satisfie
+s the first half of the Reading and Composition requirement."
+ENGLISH R1AN,1,"Training in writing expository prose. Instruction in writing
+ and reading expository prose. Satisfies the first half of t
+he Reading and Composition requirement."
+ENGLISH R1B,1,"Training in writing expository prose. Further instruction in
+ expository writing in conjunction with reading literature. 
+Satisfies the second half of the Reading and Composition req
+uirement."
+ENGLISH 17,1,Lectures on Shakespeare and reading of his best works.
+ENGLISH 20,1,"Lectures on and discussion of major authors of modern Britis
+h and American literature."
+ENGLISH 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+ENGLISH 25,1,"An introduction to the grammar of English, including phonolo
+gy (sound structure), morphology (word structure), syntax (s
+entence structure), semantics (linguistic meaning), and prag
+matics (contextual meaning), with consideration of different
+ varieties of English in use within the United States and th
+roughout the world, and comparison of English with other lan
+guages."
+ENGLISH 26,1,"Lectures and discussion on poetry intended to develop the st
+udent's ability to understand and evaluate a poem. Designed 
+primarily for students whose major is not English, but major
+s and prospective majors are welcome."
+ENGLISH 27,1,"Lectures and discussion intended to develop the student's ab
+ility to understand and evaluate fiction. Designed primarily
+ for students whose major is not English, but majors and pro
+spective majors are welcome."
+ENGLISH 28,1,"Lectures and discussion intended to develop the student's ab
+ility to read, understand and evaluate plays. Designed prima
+rily for students whose major is not English, but majors and
+ prospective majors are welcome."
+ENGLISH 31AC,1,"An introduction to the ethnic diversity of American literatu
+re. The course will take substantial account of the literatu
+re of three or more of the following groups: African America
+ns, Native Americans, Asian Americans, Chicanos/Latinos, and
+ European Americans. Topics vary from semester to semester. 
+Students should consult the department's ""Announcement of Cl
+asses"" well before the beginning of the semester for details
+."
+ENGLISH 33,1,"Major literary and cultural texts in the African American tr
+adition from origins to the present."
+ENGLISH 37,1,"Major literary and cultural texts in the Chicana/o tradition
+ from origins to the present."
+ENGLISH 39A,1,"Topics vary from semester to semester. Students should consu
+lt the department's ""Announcement of Classes"" for current of
+ferings well before the start of the semester. (Sections lim
+ited to 15 students each.)"
+ENGLISH 43A,1,"A workshop course intended for students who have recently be
+gun to write fiction or who have not previously taken a cour
+se in creative writing."
+ENGLISH 43B,1,"A workshop course intended for students who have recently be
+gun to write verse or who have not previously taken a course
+ in creative writing."
+ENGLISH 43N,1,"A workshop course in creative non-fiction, a prose genre tha
+t takes on non-fiction subjects (the world of culture, histo
+ry, personal experience) but also is alert to the creativity
+ required to translate those subjects into the realm of writ
+ing. Students will study exemplary works of creative non-fic
+tion in different modes (e.g. literary journalism, personal 
+essay, travel writing) and write their own works in selected
+ modes as well."
+ENGLISH 45A,1,"Historical survey of literature in English: Beginnings throu
+gh Milton."
+ENGLISH 45B,1,"Historical survey of literature in English: The late-17th th
+rough the mid-19th century."
+ENGLISH 45C,1,"Historical survey of literature in English: the mid-19th thr
+ough the 20th century."
+ENGLISH 53,1,"This course provides a broad introductory survey of early to
+ contemporary Asian American literary and cultural productio
+n and an opportunity to develop and practice techniques for 
+analyzing literary and cultural forms. English 53 aims to se
+rve students from across campus and is especially suitable f
+or students who have never taken a college-level literary or
+ cultural studies course and would like to improve their ess
+ay-writing skills."
+ENGLISH C77,1,"This integrative course, taught by a humanities professor an
+d a science professor, surveys current global environmental 
+issues; introduces the basic intellectual tools of environme
+ntal science; investigates ways the human relationship to na
+ture has been imagined in literary and philosophical traditi
+ons; and examines how tools of scientific and literary analy
+sis; scientific method, and imaginative thinking can clarify
+ what is at stake in environmental"
+ENGLISH 80K,1,The study of selected works written for children.
+ENGLISH 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+ENGLISH 98,1,"Group study in a field that may not coincide with that of an
+y regular course and must be specific enough to enable stude
+nts to write essays based upon their studies."
+ENGLISH 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+ENGLISH 99,1,"Meetings to be arranged. Reading and regular conference with
+ the instructor in a field that shall not coincide with that
+ of any regular course and shall be specific enough to enabl
+e students to write essays based on their studies."
+ENGLISH 101,1,"The history of the English language from its Indo-European r
+oots, through its Old, Middle, and Early Modern periods, as 
+preserved in the literary heritage, to its different forms i
+n use throughout the world today."
+ENGLISH 102,1,Topics vary from semester to semester.
+ENGLISH 104,1,"Basic introduction to the vocabulary, grammar, and syntax of
+ Old English designed to get students reading original texts
+ immediately. Typical Old English texts include: riddles, ch
+arms, medical recipes, laws, chronicles, elegies, saints' li
+ves, heroic poetry, and monster lore."
+ENGLISH 105,1,"The five centuries of the Anglo-Saxon period encompass a rem
+arkably diverse range of literature: heroic epics and lyric 
+laments; riddles, recipes, and magic spells; matter-of-fact 
+accounts of monsters and miracles; and histories that set ne
+w standards for scholarship. This course surveys Anglo-Saxon
+ literature in modern translation, encompassing texts origin
+ally written in both Old English and Latin, and prose as wel
+l as verse. At the heart of"
+ENGLISH 107,1,"Introduction to the English Bible treated as a literary work
+."
+ENGLISH 110,1,"Development of literary form and idiom throughout the Christ
+ian West from the first to the fifteenth century."
+ENGLISH 111,1,Lectures on and discussion of Chaucer's major works.
+ENGLISH 112,1,"Middle English literature exclusive of Chaucer studied in th
+e original language."
+ENGLISH 114A,1,English drama to 1603.
+ENGLISH 114B,1,English drama from 1603 to 1700.
+ENGLISH 115A,1,"Beginnings of the English Renaissance and literature of the 
+16th century."
+ENGLISH 115B,1,Literature of the 17th century.
+ENGLISH 116,1,"A survey of the principal continental documents which are im
+portant to an understanding of the English Renaissance."
+ENGLISH 117A,1,A chronological survey of Shakespeare's career.
+ENGLISH 117B,1,A chronological survey of Shakespeare's career.
+ENGLISH 117F,1,"Close study of the texts and films based on 8 to 10 plays. L
+ectures will emphasize the critical implications of transpos
+ing plays to film. The goal of the course is the critical un
+derstanding of Shakespeare, and the course satisfies the dep
+artmental requirement of a course on Shakespeare in the majo
+r."
+ENGLISH 117J,1,"Study of selected plays, with practice in various critical a
+pproaches, e.g., establishing text, relation to source, chan
+ging concepts of comedy and tragedy, influence of theatrical
+ conditions on technique."
+ENGLISH 117S,1,Lectures on Shakespeare and reading of his best works.
+ENGLISH 117T,1,"The interrelation of Elizabethan plays and stage practices. 
+Classroom exercises, written assignments, and a final examin
+ation. The course will usually culminate in the performance 
+of a play."
+ENGLISH 118,1,Lectures on and discussion of Milton's major works.
+ENGLISH 119,1,"Lectures on and discussion of Dryden, Swift, Pope, and some 
+of their contemporaries."
+ENGLISH 120,1,"Lectures on and discussion of later eighteenth-century Briti
+sh literature."
+ENGLISH 121,1,"Blake, Wordsworth, Coleridge, Byron, Shelley, Keats, and con
+temporaries."
+ENGLISH 122,1,"Literature of the Victorian period with an emphasis on poetr
+y and nonfiction prose."
+ENGLISH 125A,1,Defoe through Scott.
+ENGLISH 125B,1,Dickens through Conrad.
+ENGLISH 125C,1,Lectures on and discussion of major European novels.
+ENGLISH 125D,1,"Lectures on and discussion of major novels of the twentieth 
+century."
+ENGLISH 125E,1,"Important contemporary novels, some of which may be read in 
+translation."
+ENGLISH 126,1,"Lectures on and discussion of British literature written bet
+ween 1900 and 1945."
+ENGLISH 127,1,British and American poetry: 1900 to the present.
+ENGLISH 128,1,British and American drama: 1860 to the present.
+ENGLISH 130A,1,"Lectures on and discussion of the major writers of the early
+ American period."
+ENGLISH 130B,1,"Lectures on and discussion of the major texts of the America
+n Renaissance."
+ENGLISH 130C,1,"Lectures on and discussion of American literature from the C
+ivil War through 1900."
+ENGLISH 130D,1,A survey of modern American literature.
+ENGLISH 131,1,A historical survey of American poetry and its backgrounds.
+ENGLISH 132,1,A survey of major American novels.
+ENGLISH 133A,1,"Major literary and cultural texts in the African American tr
+adition from origins through World War I."
+ENGLISH 133B,1,"Major literary and cultural texts in the African American tr
+adition from the Harlem Renaissance through the twentieth ce
+ntury."
+ENGLISH 133T,1,"Topics vary from semester to semester. Students should consu
+lt the department's ""Announcement of Classes"" for offerings 
+well before the beginning of the semester."
+ENGLISH 134,1,"Lectures on and discussion of selected works written since t
+he Second World War."
+ENGLISH 135AC,1,"Study of the ethnic diversity of American literature. The co
+urse will take substantial account of the literature of thre
+e or more of the following groups: African Americans, Native
+ Americans, Asian Americans, Chicanos/Latinos, and European 
+Americans. Topics vary from semester to semester. Students s
+hould consult the department's ""Announcement of Classes"" wel
+l before the beginning of the semester for details."
+ENGLISH C136,1,"A course on the intellectual, cultural, historical, and soci
+al backgrounds to American literature. Topics will vary from
+ semester to semester. Students should consult the departmen
+t's ""Announcement of Classes"" for current offerings well bef
+ore the start of the semester."
+ENGLISH 137A,1,"Major literary and cultural texts in the Chicana/o tradition
+ from origins through the Mexican Revolution of 1910."
+ENGLISH 137B,1,"Major literary and cultural texts in the Chicana/o tradition
+ from 1910 through the contemporary Chicana/o period."
+ENGLISH 137T,1,Topics in Chicana/o literature and culture.
+ENGLISH 138,1,"An examination of various aspects of the modern literature w
+ritten in English in Africa, the Caribbean, India, and South
+east Asia. Topics will vary from semester to semester. Stude
+nts should consult the department's ""Announcement of Classes
+"" for current offerings well before the start of the semeste
+r."
+ENGLISH 139,1,"Literatures of various regions in which English is one of th
+e spoken languages, such as Canada, the Caribbean, Australia
+, Africa, India; and the writings of specific groups or dist
+inctive cultures in the English-speaking world, including th
+e U.S. and the British Isles. Topics vary from semester to s
+emester. Students should consult the department's ""Announcem
+ent of Classes"" for current offerings well before the start 
+of the semester"
+ENGLISH 141,1,"Writing in connection with reading in recent English literat
+ure and its continental background."
+ENGLISH 143A,1,A seminar in writing short stories.
+ENGLISH 143B,1,A seminar in writing poetry.
+ENGLISH 143C,1,"Students will work through the semester on a single project,
+ either fiction (novel) or nonfiction (biography, history)."
+ENGLISH 143D,1,A seminar in expository and critical writing.
+ENGLISH 143E,1,A seminar in playwriting.
+ENGLISH 143N,1,A seminar in the writing of prose nonfiction as an art.
+ENGLISH 143T,1,"Open to those who wish to assimilate foreign influences for 
+writing poetry or to seek a fuller understanding of any fore
+ign poetry by rendering it into English."
+ENGLISH C143V,1,"Since visual and literary studies have historically been vie
+wed as separate disciplines, we will use theories from both 
+to study those forms of self-representation that defy discip
+linary boundaries, or what we call ""visual autobiography."" T
+he course aims to help students become conversant with the e
+lements of alphabetic literacy (reading and writing) and vis
+ual literacy (observing and making) in order to develop a th
+ird distinctive"
+ENGLISH 145,1,"An introduction to different modes of technological, critica
+l, and creative writing and the intersections among them and
+ to the representation of technology and science in literatu
+re, film, and other media. This course is writing-intensive 
+and aims to serve students from across campus."
+ENGLISH 152,1,Topics will vary from semester to semester.
+ENGLISH 153T,1,"Immersive study of a topic in Asian American Literatures and
+ Cultures. Particular offerings may focus on an author, genr
+e, form, literary historical issue, or theoretical problem. 
+Topics vary from term to term. Students should consult the D
+epartment's ""Announcement of Classes"" for offerings well bef
+ore the beginning of the term."
+ENGLISH 160,1,"An introduction to issues in literary criticism with emphasi
+s on application of principles and methods to selected liter
+ary texts."
+ENGLISH 161,1,This class will focus on literary theory.
+ENGLISH 165,1,"Designed primarily for English majors. Topics vary from seme
+ster to semester. Students should consult the department's ""
+Announcement of Classes"" for offerings well before the begin
+ning of the semester."
+ENGLISH 165AC,1,"Designed primarily for English majors. Study of a special to
+pic related to the diversity of the United States. Topics va
+ry from semester to semester. Students should consult the de
+partment's ""Announcement of Classes"" for offerings well befo
+re the beginning of the semester."
+ENGLISH 166,1,"Immersive study of an author, genre, form, or literary histo
+rical issue. Topics vary from term to term. Students should 
+consult the department's ""Announcement of Classes"" for offer
+ings well before the beginning of the term."
+ENGLISH 166AC,1,"In this course, students investigate the way literature and 
+other art forms have both represented the diversity of the U
+nited States and shaped conceptions of diversity. English 16
+6AC provides students with an opportunity to deepen and comp
+licate their appreciation of the way fictions make meaning, 
+shape our understanding and experience of the world, and tra
+nsform society. Topics vary from term to"
+ENGLISH N166,1,"Immersive study of an author, genre, form, or literary histo
+rical issue. Topics vary from summer to summer."
+ENGLISH 170,1,"Studies in the relationship of literature in English to the 
+arts."
+ENGLISH 171,1,"Sexual identity in literature in relation to thematics, lite
+rary convention, psychology, and the particular politics and
+ sociology of individual cultures. The course may range broa
+dly over Western literature or concentrate on one historical
+ period."
+ENGLISH 172,1,"Studies in the relationship of literature in English to psyc
+hology."
+ENGLISH 173,1,"Studies in film as a mode of representing reality; cinematic
+ techniques and the ""language"" of film. Lectures, class disc
+ussions, and film viewings."
+ENGLISH 174,1,Topics will vary from semester to semester.
+ENGLISH 175,1,"Studies of the relationships among literature, culture, and 
+""disability."" The course may range broadly or concentrate on
+ one historical period, genre, or issue."
+ENGLISH 176,1,Topics will vary from semester to semester.
+ENGLISH 177,1,"Studies in the relationship of literature in English to phil
+osophy."
+ENGLISH 178,1,"Study of representative forms of folklore and oral literatur
+e among the English-speaking people of the British Isles and
+ North America."
+ENGLISH 179,1,"Study of the English language as a medium for literature. To
+pics may include rhyme, alliteration, meter, poetic syntax, 
+metaphor, irony, the language of point of view, narrative te
+nse, orality, literacy, etc."
+ENGLISH 180A,1,Lectures on and discussion of autobiographical forms.
+ENGLISH 180C,1,"Studies of representative comic forms, techniques, and point
+s of view."
+ENGLISH 180E,1,"Reading and discussion of epics, considering their cultural 
+and historical contexts, the nature of their composition, an
+d the development of the form."
+ENGLISH 180H,1,Lectures on and discussion of the form of the short story.
+ENGLISH 180J,1,"Study of the essay as a literary form, the circumstances of 
+its use and development, and its fortunes in twentieth-centu
+ry culture."
+ENGLISH 180L,1,Study of lyric forms and techniques.
+ENGLISH 180N,1,"Study of the novel as a literary genre, its formal developme
+nt and variations, its technical possibilities, its cultural
+ functions. Topics may vary from semester to semester."
+ENGLISH 180R,1,"Study of the romance as a literary genre. Topics may vary fr
+om semester to semester; focus may be historical or restrict
+ed to a particular period (e.g., medieval, modern)."
+ENGLISH 180S,1,"Study of representative satire forms, techniques, and points
+ of view."
+ENGLISH 180T,1,"Study of representative tragic forms, techniques, and points
+ of view."
+ENGLISH 180Z,1,"Study of speculative fiction (or science fiction) as a genre
+. Topics may vary from semester to semester. Focus may be hi
+storical or thematic."
+ENGLISH C181,1,"“Digital humanities” describes how digital formats and tools
+ can be used to produce knowledge about cultural materials. 
+This course introduces students to techniques used to study 
+visual culture and related disciplines, possibly including m
+apping, network analysis, digital (re)construction of object
+s and environments; digital editions of texts or online exhi
+bitions; digital manipulation of images; and content-managem
+ent systems and structured data. The class also"
+ENGLISH 190,1,"Research-oriented and designed for upper-division English ma
+jors. Intensive examination of critical approaches, literary
+ theory, or a special topic in literary and cultural studies
+. Topics vary from semester to semester. Students should con
+sult the department's ""Announcement of Classes"" for offering
+s well before the beginning of the semester."
+ENGLISH H195A,1,"This is a two-semester course, graded IP at the end of the f
+irst semester. During the second semester, each student will
+ write an honors thesis. Completion of the thesis is require
+d for a passing grade in the course."
+ENGLISH H195B,1,"This is a two-semester course, graded IP at the end of the f
+irst semester. During the second semester, each student will
+ write an honors thesis. Completion of the thesis is require
+d for a passing grade in the course."
+ENGLISH 198,1,"Enrollment is restricted by university regulations. Group st
+udy in a field that shall not coincide with that of any regu
+lar course and shall be specific enough to enable students t
+o write essays based upon their studies."
+ENGLISH 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+ENGLISH 199,1,"Meetings to be arranged. Enrollment is restricted by univers
+ity regulations. Reading and conference with the instructor 
+in a field that shall not coincide with that of any regular 
+course and shall be specific enough to enable students to wr
+ite essays based upon their studies."
+ENGLISH R1A,1,"Training in writing expository prose. Instruction in exposit
+ory writing in conjunction with reading literature. Satisfie
+s the first half of the Reading and Composition requirement."
+ENGLISH R1AN,1,"Training in writing expository prose. Instruction in writing
+ and reading expository prose. Satisfies the first half of t
+he Reading and Composition requirement."
+ENGLISH R1B,1,"Training in writing expository prose. Further instruction in
+ expository writing in conjunction with reading literature. 
+Satisfies the second half of the Reading and Composition req
+uirement."
+ENGLISH 17,1,Lectures on Shakespeare and reading of his best works.
+ENGLISH 20,1,"Lectures on and discussion of major authors of modern Britis
+h and American literature."
+ENGLISH 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+ENGLISH 25,1,"An introduction to the grammar of English, including phonolo
+gy (sound structure), morphology (word structure), syntax (s
+entence structure), semantics (linguistic meaning), and prag
+matics (contextual meaning), with consideration of different
+ varieties of English in use within the United States and th
+roughout the world, and comparison of English with other lan
+guages."
+ENGLISH 26,1,"Lectures and discussion on poetry intended to develop the st
+udent's ability to understand and evaluate a poem. Designed 
+primarily for students whose major is not English, but major
+s and prospective majors are welcome."
+ENGLISH 27,1,"Lectures and discussion intended to develop the student's ab
+ility to understand and evaluate fiction. Designed primarily
+ for students whose major is not English, but majors and pro
+spective majors are welcome."
+ENGLISH 28,1,"Lectures and discussion intended to develop the student's ab
+ility to read, understand and evaluate plays. Designed prima
+rily for students whose major is not English, but majors and
+ prospective majors are welcome."
+ENGLISH 31AC,1,"An introduction to the ethnic diversity of American literatu
+re. The course will take substantial account of the literatu
+re of three or more of the following groups: African America
+ns, Native Americans, Asian Americans, Chicanos/Latinos, and
+ European Americans. Topics vary from semester to semester. 
+Students should consult the department's ""Announcement of Cl
+asses"" well before the beginning of the semester for details
+."
+ENGLISH 33,1,"Major literary and cultural texts in the African American tr
+adition from origins to the present."
+ENGLISH 37,1,"Major literary and cultural texts in the Chicana/o tradition
+ from origins to the present."
+ENGLISH 39A,1,"Topics vary from semester to semester. Students should consu
+lt the department's ""Announcement of Classes"" for current of
+ferings well before the start of the semester. (Sections lim
+ited to 15 students each.)"
+ENGLISH 43A,1,"A workshop course intended for students who have recently be
+gun to write fiction or who have not previously taken a cour
+se in creative writing."
+ENGLISH 43B,1,"A workshop course intended for students who have recently be
+gun to write verse or who have not previously taken a course
+ in creative writing."
+ENGLISH 43N,1,"A workshop course in creative non-fiction, a prose genre tha
+t takes on non-fiction subjects (the world of culture, histo
+ry, personal experience) but also is alert to the creativity
+ required to translate those subjects into the realm of writ
+ing. Students will study exemplary works of creative non-fic
+tion in different modes (e.g. literary journalism, personal 
+essay, travel writing) and write their own works in selected
+ modes as well."
+ENGLISH 45A,1,"Historical survey of literature in English: Beginnings throu
+gh Milton."
+ENGLISH 45B,1,"Historical survey of literature in English: The late-17th th
+rough the mid-19th century."
+ENGLISH 45C,1,"Historical survey of literature in English: the mid-19th thr
+ough the 20th century."
+ENGLISH 53,1,"This course provides a broad introductory survey of early to
+ contemporary Asian American literary and cultural productio
+n and an opportunity to develop and practice techniques for 
+analyzing literary and cultural forms. English 53 aims to se
+rve students from across campus and is especially suitable f
+or students who have never taken a college-level literary or
+ cultural studies course and would like to improve their ess
+ay-writing skills."
+ENGLISH C77,1,"This integrative course, taught by a humanities professor an
+d a science professor, surveys current global environmental 
+issues; introduces the basic intellectual tools of environme
+ntal science; investigates ways the human relationship to na
+ture has been imagined in literary and philosophical traditi
+ons; and examines how tools of scientific and literary analy
+sis; scientific method, and imaginative thinking can clarify
+ what is at stake in environmental"
+ENGLISH 80K,1,The study of selected works written for children.
+ENGLISH 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+ENGLISH 98,1,"Group study in a field that may not coincide with that of an
+y regular course and must be specific enough to enable stude
+nts to write essays based upon their studies."
+ENGLISH 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+ENGLISH 99,1,"Meetings to be arranged. Reading and regular conference with
+ the instructor in a field that shall not coincide with that
+ of any regular course and shall be specific enough to enabl
+e students to write essays based on their studies."
+ENGLISH 101,1,"The history of the English language from its Indo-European r
+oots, through its Old, Middle, and Early Modern periods, as 
+preserved in the literary heritage, to its different forms i
+n use throughout the world today."
+ENGLISH 102,1,Topics vary from semester to semester.
+ENGLISH 104,1,"Basic introduction to the vocabulary, grammar, and syntax of
+ Old English designed to get students reading original texts
+ immediately. Typical Old English texts include: riddles, ch
+arms, medical recipes, laws, chronicles, elegies, saints' li
+ves, heroic poetry, and monster lore."
+ENGLISH 105,1,"The five centuries of the Anglo-Saxon period encompass a rem
+arkably diverse range of literature: heroic epics and lyric 
+laments; riddles, recipes, and magic spells; matter-of-fact 
+accounts of monsters and miracles; and histories that set ne
+w standards for scholarship. This course surveys Anglo-Saxon
+ literature in modern translation, encompassing texts origin
+ally written in both Old English and Latin, and prose as wel
+l as verse. At the heart of"
+ENGLISH 107,1,"Introduction to the English Bible treated as a literary work
+."
+ENGLISH 110,1,"Development of literary form and idiom throughout the Christ
+ian West from the first to the fifteenth century."
+ENGLISH 111,1,Lectures on and discussion of Chaucer's major works.
+ENGLISH 112,1,"Middle English literature exclusive of Chaucer studied in th
+e original language."
+ENGLISH 114A,1,English drama to 1603.
+ENGLISH 114B,1,English drama from 1603 to 1700.
+ENGLISH 115A,1,"Beginnings of the English Renaissance and literature of the 
+16th century."
+ENGLISH 115B,1,Literature of the 17th century.
+ENGLISH 116,1,"A survey of the principal continental documents which are im
+portant to an understanding of the English Renaissance."
+ENGLISH 117A,1,A chronological survey of Shakespeare's career.
+ENGLISH 117B,1,A chronological survey of Shakespeare's career.
+ENGLISH 117F,1,"Close study of the texts and films based on 8 to 10 plays. L
+ectures will emphasize the critical implications of transpos
+ing plays to film. The goal of the course is the critical un
+derstanding of Shakespeare, and the course satisfies the dep
+artmental requirement of a course on Shakespeare in the majo
+r."
+ENGLISH 117J,1,"Study of selected plays, with practice in various critical a
+pproaches, e.g., establishing text, relation to source, chan
+ging concepts of comedy and tragedy, influence of theatrical
+ conditions on technique."
+ENGLISH 117S,1,Lectures on Shakespeare and reading of his best works.
+ENGLISH 117T,1,"The interrelation of Elizabethan plays and stage practices. 
+Classroom exercises, written assignments, and a final examin
+ation. The course will usually culminate in the performance 
+of a play."
+ENGLISH 118,1,Lectures on and discussion of Milton's major works.
+ENGLISH 119,1,"Lectures on and discussion of Dryden, Swift, Pope, and some 
+of their contemporaries."
+ENGLISH 120,1,"Lectures on and discussion of later eighteenth-century Briti
+sh literature."
+ENGLISH 121,1,"Blake, Wordsworth, Coleridge, Byron, Shelley, Keats, and con
+temporaries."
+ENGLISH 122,1,"Literature of the Victorian period with an emphasis on poetr
+y and nonfiction prose."
+ENGLISH 125A,1,Defoe through Scott.
+ENGLISH 125B,1,Dickens through Conrad.
+ENGLISH 125C,1,Lectures on and discussion of major European novels.
+ENGLISH 125D,1,"Lectures on and discussion of major novels of the twentieth 
+century."
+ENGLISH 125E,1,"Important contemporary novels, some of which may be read in 
+translation."
+ENGLISH 126,1,"Lectures on and discussion of British literature written bet
+ween 1900 and 1945."
+ENGLISH 127,1,British and American poetry: 1900 to the present.
+ENGLISH 128,1,British and American drama: 1860 to the present.
+ENGLISH 130A,1,"Lectures on and discussion of the major writers of the early
+ American period."
+ENGLISH 130B,1,"Lectures on and discussion of the major texts of the America
+n Renaissance."
+ENGLISH 130C,1,"Lectures on and discussion of American literature from the C
+ivil War through 1900."
+ENGLISH 130D,1,A survey of modern American literature.
+ENGLISH 131,1,A historical survey of American poetry and its backgrounds.
+ENGLISH 132,1,A survey of major American novels.
+ENGLISH 133A,1,"Major literary and cultural texts in the African American tr
+adition from origins through World War I."
+ENGLISH 133B,1,"Major literary and cultural texts in the African American tr
+adition from the Harlem Renaissance through the twentieth ce
+ntury."
+ENGLISH 133T,1,"Topics vary from semester to semester. Students should consu
+lt the department's ""Announcement of Classes"" for offerings 
+well before the beginning of the semester."
+ENGLISH 134,1,"Lectures on and discussion of selected works written since t
+he Second World War."
+ENGLISH 135AC,1,"Study of the ethnic diversity of American literature. The co
+urse will take substantial account of the literature of thre
+e or more of the following groups: African Americans, Native
+ Americans, Asian Americans, Chicanos/Latinos, and European 
+Americans. Topics vary from semester to semester. Students s
+hould consult the department's ""Announcement of Classes"" wel
+l before the beginning of the semester for details."
+ENGLISH C136,1,"A course on the intellectual, cultural, historical, and soci
+al backgrounds to American literature. Topics will vary from
+ semester to semester. Students should consult the departmen
+t's ""Announcement of Classes"" for current offerings well bef
+ore the start of the semester."
+ENGLISH 137A,1,"Major literary and cultural texts in the Chicana/o tradition
+ from origins through the Mexican Revolution of 1910."
+ENGLISH 137B,1,"Major literary and cultural texts in the Chicana/o tradition
+ from 1910 through the contemporary Chicana/o period."
+ENGLISH 137T,1,Topics in Chicana/o literature and culture.
+ENGLISH 138,1,"An examination of various aspects of the modern literature w
+ritten in English in Africa, the Caribbean, India, and South
+east Asia. Topics will vary from semester to semester. Stude
+nts should consult the department's ""Announcement of Classes
+"" for current offerings well before the start of the semeste
+r."
+ENGLISH 139,1,"Literatures of various regions in which English is one of th
+e spoken languages, such as Canada, the Caribbean, Australia
+, Africa, India; and the writings of specific groups or dist
+inctive cultures in the English-speaking world, including th
+e U.S. and the British Isles. Topics vary from semester to s
+emester. Students should consult the department's ""Announcem
+ent of Classes"" for current offerings well before the start 
+of the semester"
+ENGLISH 141,1,"Writing in connection with reading in recent English literat
+ure and its continental background."
+ENGLISH 143A,1,A seminar in writing short stories.
+ENGLISH 143B,1,A seminar in writing poetry.
+ENGLISH 143C,1,"Students will work through the semester on a single project,
+ either fiction (novel) or nonfiction (biography, history)."
+ENGLISH 143D,1,A seminar in expository and critical writing.
+ENGLISH 143E,1,A seminar in playwriting.
+ENGLISH 143N,1,A seminar in the writing of prose nonfiction as an art.
+ENGLISH 143T,1,"Open to those who wish to assimilate foreign influences for 
+writing poetry or to seek a fuller understanding of any fore
+ign poetry by rendering it into English."
+ENGLISH C143V,1,"Since visual and literary studies have historically been vie
+wed as separate disciplines, we will use theories from both 
+to study those forms of self-representation that defy discip
+linary boundaries, or what we call ""visual autobiography."" T
+he course aims to help students become conversant with the e
+lements of alphabetic literacy (reading and writing) and vis
+ual literacy (observing and making) in order to develop a th
+ird distinctive"
+ENGLISH 145,1,"An introduction to different modes of technological, critica
+l, and creative writing and the intersections among them and
+ to the representation of technology and science in literatu
+re, film, and other media. This course is writing-intensive 
+and aims to serve students from across campus."
+ENGLISH 152,1,Topics will vary from semester to semester.
+ENGLISH 153T,1,"Immersive study of a topic in Asian American Literatures and
+ Cultures. Particular offerings may focus on an author, genr
+e, form, literary historical issue, or theoretical problem. 
+Topics vary from term to term. Students should consult the D
+epartment's ""Announcement of Classes"" for offerings well bef
+ore the beginning of the term."
+ENGLISH 160,1,"An introduction to issues in literary criticism with emphasi
+s on application of principles and methods to selected liter
+ary texts."
+ENGLISH 161,1,This class will focus on literary theory.
+ENGLISH 165,1,"Designed primarily for English majors. Topics vary from seme
+ster to semester. Students should consult the department's ""
+Announcement of Classes"" for offerings well before the begin
+ning of the semester."
+ENGLISH 165AC,1,"Designed primarily for English majors. Study of a special to
+pic related to the diversity of the United States. Topics va
+ry from semester to semester. Students should consult the de
+partment's ""Announcement of Classes"" for offerings well befo
+re the beginning of the semester."
+ENGLISH 166,1,"Immersive study of an author, genre, form, or literary histo
+rical issue. Topics vary from term to term. Students should 
+consult the department's ""Announcement of Classes"" for offer
+ings well before the beginning of the term."
+ENGLISH 166AC,1,"In this course, students investigate the way literature and 
+other art forms have both represented the diversity of the U
+nited States and shaped conceptions of diversity. English 16
+6AC provides students with an opportunity to deepen and comp
+licate their appreciation of the way fictions make meaning, 
+shape our understanding and experience of the world, and tra
+nsform society. Topics vary from term to"
+ENGLISH N166,1,"Immersive study of an author, genre, form, or literary histo
+rical issue. Topics vary from summer to summer."
+ENGLISH 170,1,"Studies in the relationship of literature in English to the 
+arts."
+ENGLISH 171,1,"Sexual identity in literature in relation to thematics, lite
+rary convention, psychology, and the particular politics and
+ sociology of individual cultures. The course may range broa
+dly over Western literature or concentrate on one historical
+ period."
+ENGLISH 172,1,"Studies in the relationship of literature in English to psyc
+hology."
+ENGLISH 173,1,"Studies in film as a mode of representing reality; cinematic
+ techniques and the ""language"" of film. Lectures, class disc
+ussions, and film viewings."
+ENGLISH 174,1,Topics will vary from semester to semester.
+ENGLISH 175,1,"Studies of the relationships among literature, culture, and 
+""disability."" The course may range broadly or concentrate on
+ one historical period, genre, or issue."
+ENGLISH 176,1,Topics will vary from semester to semester.
+ENGLISH 177,1,"Studies in the relationship of literature in English to phil
+osophy."
+ENGLISH 178,1,"Study of representative forms of folklore and oral literatur
+e among the English-speaking people of the British Isles and
+ North America."
+ENGLISH 179,1,"Study of the English language as a medium for literature. To
+pics may include rhyme, alliteration, meter, poetic syntax, 
+metaphor, irony, the language of point of view, narrative te
+nse, orality, literacy, etc."
+ENGLISH 180A,1,Lectures on and discussion of autobiographical forms.
+ENGLISH 180C,1,"Studies of representative comic forms, techniques, and point
+s of view."
+ENGLISH 180E,1,"Reading and discussion of epics, considering their cultural 
+and historical contexts, the nature of their composition, an
+d the development of the form."
+ENGLISH 180H,1,Lectures on and discussion of the form of the short story.
+ENGLISH 180J,1,"Study of the essay as a literary form, the circumstances of 
+its use and development, and its fortunes in twentieth-centu
+ry culture."
+ENGLISH 180L,1,Study of lyric forms and techniques.
+ENGLISH 180N,1,"Study of the novel as a literary genre, its formal developme
+nt and variations, its technical possibilities, its cultural
+ functions. Topics may vary from semester to semester."
+ENGLISH 180R,1,"Study of the romance as a literary genre. Topics may vary fr
+om semester to semester; focus may be historical or restrict
+ed to a particular period (e.g., medieval, modern)."
+ENGLISH 180S,1,"Study of representative satire forms, techniques, and points
+ of view."
+ENGLISH 180T,1,"Study of representative tragic forms, techniques, and points
+ of view."
+ENGLISH 180Z,1,"Study of speculative fiction (or science fiction) as a genre
+. Topics may vary from semester to semester. Focus may be hi
+storical or thematic."
+ENGLISH C181,1,"“Digital humanities” describes how digital formats and tools
+ can be used to produce knowledge about cultural materials. 
+This course introduces students to techniques used to study 
+visual culture and related disciplines, possibly including m
+apping, network analysis, digital (re)construction of object
+s and environments; digital editions of texts or online exhi
+bitions; digital manipulation of images; and content-managem
+ent systems and structured data. The class also"
+ENGLISH 190,1,"Research-oriented and designed for upper-division English ma
+jors. Intensive examination of critical approaches, literary
+ theory, or a special topic in literary and cultural studies
+. Topics vary from semester to semester. Students should con
+sult the department's ""Announcement of Classes"" for offering
+s well before the beginning of the semester."
+ENGLISH H195A,1,"This is a two-semester course, graded IP at the end of the f
+irst semester. During the second semester, each student will
+ write an honors thesis. Completion of the thesis is require
+d for a passing grade in the course."
+ENGLISH H195B,1,"This is a two-semester course, graded IP at the end of the f
+irst semester. During the second semester, each student will
+ write an honors thesis. Completion of the thesis is require
+d for a passing grade in the course."
+ENGLISH 198,1,"Enrollment is restricted by university regulations. Group st
+udy in a field that shall not coincide with that of any regu
+lar course and shall be specific enough to enable students t
+o write essays based upon their studies."
+ENGLISH 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+ENGLISH 199,1,"Meetings to be arranged. Enrollment is restricted by univers
+ity regulations. Reading and conference with the instructor 
+in a field that shall not coincide with that of any regular 
+course and shall be specific enough to enable students to wr
+ite essays based upon their studies."
+ENGLISH R1A,1,"Training in writing expository prose. Instruction in exposit
+ory writing in conjunction with reading literature. Satisfie
+s the first half of the Reading and Composition requirement."
+ENGLISH R1AN,1,"Training in writing expository prose. Instruction in writing
+ and reading expository prose. Satisfies the first half of t
+he Reading and Composition requirement."
+ENGLISH R1B,1,"Training in writing expository prose. Further instruction in
+ expository writing in conjunction with reading literature. 
+Satisfies the second half of the Reading and Composition req
+uirement."
+ENGLISH 17,1,Lectures on Shakespeare and reading of his best works.
+ENGLISH 20,1,"Lectures on and discussion of major authors of modern Britis
+h and American literature."
+ENGLISH 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+ENGLISH 25,1,"An introduction to the grammar of English, including phonolo
+gy (sound structure), morphology (word structure), syntax (s
+entence structure), semantics (linguistic meaning), and prag
+matics (contextual meaning), with consideration of different
+ varieties of English in use within the United States and th
+roughout the world, and comparison of English with other lan
+guages."
+ENGLISH 26,1,"Lectures and discussion on poetry intended to develop the st
+udent's ability to understand and evaluate a poem. Designed 
+primarily for students whose major is not English, but major
+s and prospective majors are welcome."
+ENGLISH 27,1,"Lectures and discussion intended to develop the student's ab
+ility to understand and evaluate fiction. Designed primarily
+ for students whose major is not English, but majors and pro
+spective majors are welcome."
+ENGLISH 28,1,"Lectures and discussion intended to develop the student's ab
+ility to read, understand and evaluate plays. Designed prima
+rily for students whose major is not English, but majors and
+ prospective majors are welcome."
+ENGLISH 31AC,1,"An introduction to the ethnic diversity of American literatu
+re. The course will take substantial account of the literatu
+re of three or more of the following groups: African America
+ns, Native Americans, Asian Americans, Chicanos/Latinos, and
+ European Americans. Topics vary from semester to semester. 
+Students should consult the department's ""Announcement of Cl
+asses"" well before the beginning of the semester for details
+."
+ENGLISH 33,1,"Major literary and cultural texts in the African American tr
+adition from origins to the present."
+ENGLISH 37,1,"Major literary and cultural texts in the Chicana/o tradition
+ from origins to the present."
+ENGLISH 39A,1,"Topics vary from semester to semester. Students should consu
+lt the department's ""Announcement of Classes"" for current of
+ferings well before the start of the semester. (Sections lim
+ited to 15 students each.)"
+ENGLISH 43A,1,"A workshop course intended for students who have recently be
+gun to write fiction or who have not previously taken a cour
+se in creative writing."
+ENGLISH 43B,1,"A workshop course intended for students who have recently be
+gun to write verse or who have not previously taken a course
+ in creative writing."
+ENGLISH 43N,1,"A workshop course in creative non-fiction, a prose genre tha
+t takes on non-fiction subjects (the world of culture, histo
+ry, personal experience) but also is alert to the creativity
+ required to translate those subjects into the realm of writ
+ing. Students will study exemplary works of creative non-fic
+tion in different modes (e.g. literary journalism, personal 
+essay, travel writing) and write their own works in selected
+ modes as well."
+ENGLISH 45A,1,"Historical survey of literature in English: Beginnings throu
+gh Milton."
+ENGLISH 45B,1,"Historical survey of literature in English: The late-17th th
+rough the mid-19th century."
+ENGLISH 45C,1,"Historical survey of literature in English: the mid-19th thr
+ough the 20th century."
+ENGLISH 53,1,"This course provides a broad introductory survey of early to
+ contemporary Asian American literary and cultural productio
+n and an opportunity to develop and practice techniques for 
+analyzing literary and cultural forms. English 53 aims to se
+rve students from across campus and is especially suitable f
+or students who have never taken a college-level literary or
+ cultural studies course and would like to improve their ess
+ay-writing skills."
+ENGLISH C77,1,"This integrative course, taught by a humanities professor an
+d a science professor, surveys current global environmental 
+issues; introduces the basic intellectual tools of environme
+ntal science; investigates ways the human relationship to na
+ture has been imagined in literary and philosophical traditi
+ons; and examines how tools of scientific and literary analy
+sis; scientific method, and imaginative thinking can clarify
+ what is at stake in environmental"
+ENGLISH 80K,1,The study of selected works written for children.
+ENGLISH 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+ENGLISH 98,1,"Group study in a field that may not coincide with that of an
+y regular course and must be specific enough to enable stude
+nts to write essays based upon their studies."
+ENGLISH 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+ENGLISH 99,1,"Meetings to be arranged. Reading and regular conference with
+ the instructor in a field that shall not coincide with that
+ of any regular course and shall be specific enough to enabl
+e students to write essays based on their studies."
+ENGLISH 101,1,"The history of the English language from its Indo-European r
+oots, through its Old, Middle, and Early Modern periods, as 
+preserved in the literary heritage, to its different forms i
+n use throughout the world today."
+ENGLISH 102,1,Topics vary from semester to semester.
+ENGLISH 104,1,"Basic introduction to the vocabulary, grammar, and syntax of
+ Old English designed to get students reading original texts
+ immediately. Typical Old English texts include: riddles, ch
+arms, medical recipes, laws, chronicles, elegies, saints' li
+ves, heroic poetry, and monster lore."
+ENGLISH 105,1,"The five centuries of the Anglo-Saxon period encompass a rem
+arkably diverse range of literature: heroic epics and lyric 
+laments; riddles, recipes, and magic spells; matter-of-fact 
+accounts of monsters and miracles; and histories that set ne
+w standards for scholarship. This course surveys Anglo-Saxon
+ literature in modern translation, encompassing texts origin
+ally written in both Old English and Latin, and prose as wel
+l as verse. At the heart of"
+ENGLISH 107,1,"Introduction to the English Bible treated as a literary work
+."
+ENGLISH 110,1,"Development of literary form and idiom throughout the Christ
+ian West from the first to the fifteenth century."
+ENGLISH 111,1,Lectures on and discussion of Chaucer's major works.
+ENGLISH 112,1,"Middle English literature exclusive of Chaucer studied in th
+e original language."
+ENGLISH 114A,1,English drama to 1603.
+ENGLISH 114B,1,English drama from 1603 to 1700.
+ENGLISH 115A,1,"Beginnings of the English Renaissance and literature of the 
+16th century."
+ENGLISH 115B,1,Literature of the 17th century.
+ENGLISH 116,1,"A survey of the principal continental documents which are im
+portant to an understanding of the English Renaissance."
+ENGLISH 117A,1,A chronological survey of Shakespeare's career.
+ENGLISH 117B,1,A chronological survey of Shakespeare's career.
+ENGLISH 117F,1,"Close study of the texts and films based on 8 to 10 plays. L
+ectures will emphasize the critical implications of transpos
+ing plays to film. The goal of the course is the critical un
+derstanding of Shakespeare, and the course satisfies the dep
+artmental requirement of a course on Shakespeare in the majo
+r."
+ENGLISH 117J,1,"Study of selected plays, with practice in various critical a
+pproaches, e.g., establishing text, relation to source, chan
+ging concepts of comedy and tragedy, influence of theatrical
+ conditions on technique."
+ENGLISH 117S,1,Lectures on Shakespeare and reading of his best works.
+ENGLISH 117T,1,"The interrelation of Elizabethan plays and stage practices. 
+Classroom exercises, written assignments, and a final examin
+ation. The course will usually culminate in the performance 
+of a play."
+ENGLISH 118,1,Lectures on and discussion of Milton's major works.
+ENGLISH 119,1,"Lectures on and discussion of Dryden, Swift, Pope, and some 
+of their contemporaries."
+ENGLISH 120,1,"Lectures on and discussion of later eighteenth-century Briti
+sh literature."
+ENGLISH 121,1,"Blake, Wordsworth, Coleridge, Byron, Shelley, Keats, and con
+temporaries."
+ENGLISH 122,1,"Literature of the Victorian period with an emphasis on poetr
+y and nonfiction prose."
+ENGLISH 125A,1,Defoe through Scott.
+ENGLISH 125B,1,Dickens through Conrad.
+ENGLISH 125C,1,Lectures on and discussion of major European novels.
+ENGLISH 125D,1,"Lectures on and discussion of major novels of the twentieth 
+century."
+ENGLISH 125E,1,"Important contemporary novels, some of which may be read in 
+translation."
+ENGLISH 126,1,"Lectures on and discussion of British literature written bet
+ween 1900 and 1945."
+ENGLISH 127,1,British and American poetry: 1900 to the present.
+ENGLISH 128,1,British and American drama: 1860 to the present.
+ENGLISH 130A,1,"Lectures on and discussion of the major writers of the early
+ American period."
+ENGLISH 130B,1,"Lectures on and discussion of the major texts of the America
+n Renaissance."
+ENGLISH 130C,1,"Lectures on and discussion of American literature from the C
+ivil War through 1900."
+ENGLISH 130D,1,A survey of modern American literature.
+ENGLISH 131,1,A historical survey of American poetry and its backgrounds.
+ENGLISH 132,1,A survey of major American novels.
+ENGLISH 133A,1,"Major literary and cultural texts in the African American tr
+adition from origins through World War I."
+ENGLISH 133B,1,"Major literary and cultural texts in the African American tr
+adition from the Harlem Renaissance through the twentieth ce
+ntury."
+ENGLISH 133T,1,"Topics vary from semester to semester. Students should consu
+lt the department's ""Announcement of Classes"" for offerings 
+well before the beginning of the semester."
+ENGLISH 134,1,"Lectures on and discussion of selected works written since t
+he Second World War."
+ENGLISH 135AC,1,"Study of the ethnic diversity of American literature. The co
+urse will take substantial account of the literature of thre
+e or more of the following groups: African Americans, Native
+ Americans, Asian Americans, Chicanos/Latinos, and European 
+Americans. Topics vary from semester to semester. Students s
+hould consult the department's ""Announcement of Classes"" wel
+l before the beginning of the semester for details."
+ENGLISH C136,1,"A course on the intellectual, cultural, historical, and soci
+al backgrounds to American literature. Topics will vary from
+ semester to semester. Students should consult the departmen
+t's ""Announcement of Classes"" for current offerings well bef
+ore the start of the semester."
+ENGLISH 137A,1,"Major literary and cultural texts in the Chicana/o tradition
+ from origins through the Mexican Revolution of 1910."
+ENGLISH 137B,1,"Major literary and cultural texts in the Chicana/o tradition
+ from 1910 through the contemporary Chicana/o period."
+ENGLISH 137T,1,Topics in Chicana/o literature and culture.
+ENGLISH 138,1,"An examination of various aspects of the modern literature w
+ritten in English in Africa, the Caribbean, India, and South
+east Asia. Topics will vary from semester to semester. Stude
+nts should consult the department's ""Announcement of Classes
+"" for current offerings well before the start of the semeste
+r."
+ENGLISH 139,1,"Literatures of various regions in which English is one of th
+e spoken languages, such as Canada, the Caribbean, Australia
+, Africa, India; and the writings of specific groups or dist
+inctive cultures in the English-speaking world, including th
+e U.S. and the British Isles. Topics vary from semester to s
+emester. Students should consult the department's ""Announcem
+ent of Classes"" for current offerings well before the start 
+of the semester"
+ENGLISH 141,1,"Writing in connection with reading in recent English literat
+ure and its continental background."
+ENGLISH 143A,1,A seminar in writing short stories.
+ENGLISH 143B,1,A seminar in writing poetry.
+ENGLISH 143C,1,"Students will work through the semester on a single project,
+ either fiction (novel) or nonfiction (biography, history)."
+ENGLISH 143D,1,A seminar in expository and critical writing.
+ENGLISH 143E,1,A seminar in playwriting.
+ENGLISH 143N,1,A seminar in the writing of prose nonfiction as an art.
+ENGLISH 143T,1,"Open to those who wish to assimilate foreign influences for 
+writing poetry or to seek a fuller understanding of any fore
+ign poetry by rendering it into English."
+ENGLISH C143V,1,"Since visual and literary studies have historically been vie
+wed as separate disciplines, we will use theories from both 
+to study those forms of self-representation that defy discip
+linary boundaries, or what we call ""visual autobiography."" T
+he course aims to help students become conversant with the e
+lements of alphabetic literacy (reading and writing) and vis
+ual literacy (observing and making) in order to develop a th
+ird distinctive"
+ENGLISH 145,1,"An introduction to different modes of technological, critica
+l, and creative writing and the intersections among them and
+ to the representation of technology and science in literatu
+re, film, and other media. This course is writing-intensive 
+and aims to serve students from across campus."
+ENGLISH 152,1,Topics will vary from semester to semester.
+ENGLISH 153T,1,"Immersive study of a topic in Asian American Literatures and
+ Cultures. Particular offerings may focus on an author, genr
+e, form, literary historical issue, or theoretical problem. 
+Topics vary from term to term. Students should consult the D
+epartment's ""Announcement of Classes"" for offerings well bef
+ore the beginning of the term."
+ENGLISH 160,1,"An introduction to issues in literary criticism with emphasi
+s on application of principles and methods to selected liter
+ary texts."
+ENGLISH 161,1,This class will focus on literary theory.
+ENGLISH 165,1,"Designed primarily for English majors. Topics vary from seme
+ster to semester. Students should consult the department's ""
+Announcement of Classes"" for offerings well before the begin
+ning of the semester."
+ENGLISH 165AC,1,"Designed primarily for English majors. Study of a special to
+pic related to the diversity of the United States. Topics va
+ry from semester to semester. Students should consult the de
+partment's ""Announcement of Classes"" for offerings well befo
+re the beginning of the semester."
+ENGLISH 166,1,"Immersive study of an author, genre, form, or literary histo
+rical issue. Topics vary from term to term. Students should 
+consult the department's ""Announcement of Classes"" for offer
+ings well before the beginning of the term."
+ENGLISH 166AC,1,"In this course, students investigate the way literature and 
+other art forms have both represented the diversity of the U
+nited States and shaped conceptions of diversity. English 16
+6AC provides students with an opportunity to deepen and comp
+licate their appreciation of the way fictions make meaning, 
+shape our understanding and experience of the world, and tra
+nsform society. Topics vary from term to"
+ENGLISH N166,1,"Immersive study of an author, genre, form, or literary histo
+rical issue. Topics vary from summer to summer."
+ENGLISH 170,1,"Studies in the relationship of literature in English to the 
+arts."
+ENGLISH 171,1,"Sexual identity in literature in relation to thematics, lite
+rary convention, psychology, and the particular politics and
+ sociology of individual cultures. The course may range broa
+dly over Western literature or concentrate on one historical
+ period."
+ENGLISH 172,1,"Studies in the relationship of literature in English to psyc
+hology."
+ENGLISH 173,1,"Studies in film as a mode of representing reality; cinematic
+ techniques and the ""language"" of film. Lectures, class disc
+ussions, and film viewings."
+ENGLISH 174,1,Topics will vary from semester to semester.
+ENGLISH 175,1,"Studies of the relationships among literature, culture, and 
+""disability."" The course may range broadly or concentrate on
+ one historical period, genre, or issue."
+ENGLISH 176,1,Topics will vary from semester to semester.
+ENGLISH 177,1,"Studies in the relationship of literature in English to phil
+osophy."
+ENGLISH 178,1,"Study of representative forms of folklore and oral literatur
+e among the English-speaking people of the British Isles and
+ North America."
+ENGLISH 179,1,"Study of the English language as a medium for literature. To
+pics may include rhyme, alliteration, meter, poetic syntax, 
+metaphor, irony, the language of point of view, narrative te
+nse, orality, literacy, etc."
+ENGLISH 180A,1,Lectures on and discussion of autobiographical forms.
+ENGLISH 180C,1,"Studies of representative comic forms, techniques, and point
+s of view."
+ENGLISH 180E,1,"Reading and discussion of epics, considering their cultural 
+and historical contexts, the nature of their composition, an
+d the development of the form."
+ENGLISH 180H,1,Lectures on and discussion of the form of the short story.
+ENGLISH 180J,1,"Study of the essay as a literary form, the circumstances of 
+its use and development, and its fortunes in twentieth-centu
+ry culture."
+ENGLISH 180L,1,Study of lyric forms and techniques.
+ENGLISH 180N,1,"Study of the novel as a literary genre, its formal developme
+nt and variations, its technical possibilities, its cultural
+ functions. Topics may vary from semester to semester."
+ENGLISH 180R,1,"Study of the romance as a literary genre. Topics may vary fr
+om semester to semester; focus may be historical or restrict
+ed to a particular period (e.g., medieval, modern)."
+ENGLISH 180S,1,"Study of representative satire forms, techniques, and points
+ of view."
+ENGLISH 180T,1,"Study of representative tragic forms, techniques, and points
+ of view."
+ENGLISH 180Z,1,"Study of speculative fiction (or science fiction) as a genre
+. Topics may vary from semester to semester. Focus may be hi
+storical or thematic."
+ENGLISH C181,1,"“Digital humanities” describes how digital formats and tools
+ can be used to produce knowledge about cultural materials. 
+This course introduces students to techniques used to study 
+visual culture and related disciplines, possibly including m
+apping, network analysis, digital (re)construction of object
+s and environments; digital editions of texts or online exhi
+bitions; digital manipulation of images; and content-managem
+ent systems and structured data. The class also"
+ENGLISH 190,1,"Research-oriented and designed for upper-division English ma
+jors. Intensive examination of critical approaches, literary
+ theory, or a special topic in literary and cultural studies
+. Topics vary from semester to semester. Students should con
+sult the department's ""Announcement of Classes"" for offering
+s well before the beginning of the semester."
+ENGLISH H195A,1,"This is a two-semester course, graded IP at the end of the f
+irst semester. During the second semester, each student will
+ write an honors thesis. Completion of the thesis is require
+d for a passing grade in the course."
+ENGLISH H195B,1,"This is a two-semester course, graded IP at the end of the f
+irst semester. During the second semester, each student will
+ write an honors thesis. Completion of the thesis is require
+d for a passing grade in the course."
+ENGLISH 198,1,"Enrollment is restricted by university regulations. Group st
+udy in a field that shall not coincide with that of any regu
+lar course and shall be specific enough to enable students t
+o write essays based upon their studies."
+ENGLISH 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+ENGLISH 199,1,"Meetings to be arranged. Enrollment is restricted by univers
+ity regulations. Reading and conference with the instructor 
+in a field that shall not coincide with that of any regular 
+course and shall be specific enough to enable students to wr
+ite essays based upon their studies."

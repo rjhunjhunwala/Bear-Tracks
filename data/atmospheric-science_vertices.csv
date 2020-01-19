@@ -1,53 +1,1849 @@
 name,size,about
-EPS 3,1,"An overview of the processes that control water supply to natural ecosystems and human civilization. Hydrologic cycle, floods, droughts, groundwater. Patterns of water use, threats to water quality, effects of global climate change on future water supplies. Water issues facing California."
-EPS 7,1,"This course covers the physical processes that determine Earth's past, present, and future climate, with a particular focus on the essentially irreversible climate change (a.k.a., global warming) caused by the burning of coal, oil, and natural gas. Topics will also"
-EPS 10,1,"A science-based course on the most significant eruptions Earth has produced. Most eruptions discussed will be from within historic time and will involve information from geology (volcanology), geography, archaeology, history, art, and paleoenvironmental records such as tree-rings and ice-cores. After a two-class introduction to volcanoes, volcanic activity, and volcanology, and the hazards vs benefits of eruptions, each class will feature one"
-EPS C12,1,"A tour of the mysteries and inner workings of our solar system. What are planets made of? Why do they orbit the sun the way they do? How do planets form, and what are they made of? Why do some bizarre moons have oceans, volcanoes, and ice floes? What makes the Earth hospitable for life? Is the Earth a common type of planet or some cosmic quirk? This course will introduce basic physics, chemistry, and math to understand planets, moons, rings"
-EPS W12,1,"A tour of the mysteries and inner workings of our solar system. What are planets made of? Why do they orbit the sun the way they do? How do planets form, and what are they made of? Why do some bizarre moons have oceans, volcanoes, and ice floes? What makes the Earth hospitable for life? Is the Earth a common type of planet or some cosmic quirk? This course will introduce basic physics, chemistry"
-EPS 20,1,"Introduction to earthquakes, their causes and effects. General discussion of basic principles and methods of seismology and geological tectonics, distribution of earthquakes in space and time, effects of earthquakes, and earthquake hazard and risk, with particular emphasis on the situation in California."
-EPS C20,1,"Introduction to earthquakes, their causes and effects. General discussion of basic principles and methods of seismology and geological tectonics, distribution of earthquakes in space and time, effects of earthquakes, and earthquake hazard and risk, with particular emphasis on the situation in California."
-EPS 24,1,The freshman seminar in earth and planetary science is designed to provide new students with an opportunity to explore a topic in geology or earth sciences with a faculty member in a small seminar setting. Topics will vary from semester to semester but will include such possible topics as great voyages of geologic discovery and the role of atmospheric sciences in geologic study.
-EPS 39,1,Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester.
-EPS 39A,1,Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester.
-EPS 50,1,"An introduction to the physical and chemical processes that have shaped the earth through time, with emphasis on the theory of plate tectonics. Laboratory work will involve the practical study of minerals, rocks, and geologic maps and exercises on geological processes."
-EPS 80,1,This course focuses on the processes on and in the earth that shape the environment. Humanity's use of land and oceans is examined based on an understanding of these processes.
-EPS 81,1,"An introductory survey of the atmospheres of Earth and other planets, spanning diverse phenomena such as hurricanes, drought, Martian dust storms, and the exotic winds on planets orbiting other stars. This course introduces the basics of planetary weather and climate, showing through exploration of a diverse set of atmospheres and paleoclimates that the world around us need not always be the way we currently observe it. Topics include atmospheric composition"
-EPS C82,1,"This course offers multidisciplinary approach to begin answering the question ""Why are oceans important to us?"" Upon a physical, chemical, and geologic base, we introduce the alien world of sea life, the importance of the ocean to the global carbon cycle, and the principles of ecology with a focus on the important concept of energy flow through food webs. Lectures expand beyond science to include current topics as diverse as"
-EPS N82,1,"The geology, physics, chemistry, and biology of the world oceans. The application of oceanographic sciences to human problems will be explored through special topics such as energy from the sea, marine pollution, food from the sea, and climate change."
-EPS 84,1,"Sophomore seminars are small interactive courses offered by faculty members in departments all across the campus. Sophomore seminars offer opportunity for close, regular intellectual contact between faculty members and students in the crucial second year. The topics vary from department to department and semester to semester. Enrollment limited to 15 sophomores."
-EPS 88,1,"Earthquakes and El Ninos are examples of natural hazards in California. The course uses Python/Jupyter Notebook and real-world observations to introduce students to these and other Earth phenomena and their underlying physics. The students will learn how to access and visualize the data, extract signals, and make probability forecasts. The final module is a project that synthesizes the course material to make a probabilistic forecast. The course will be co-taught"
-EPS 98,1,Group studies of selected topics which vary from semester to semester.
-EPS 100A,1,"Introduction to structural, compositional, and physical properties of minerals, their analogs and related substances, their genesis in various geological and synthetic processes, and laboratory techniques to identify and investigate minerals. One field trip to selected mineral deposits and visits to laboratories."
-EPS 100B,1,"Introduction to the principal geologic environments where rocks are formed and displayed. Igneous, sedimentary, and metamorphic processes discussed in the context of global tectonics."
-EPS C100,1,"For undergraduates interested in improving their ability to communicate their scientific knowledge by teaching ocean science in elementary schools or science centers/aquariums. The course will combine instruction in inquiry-based teaching methods and learning pedagogy with six weeks of supervised teaching experience in a local school classroom or the Lawrence Hall of Science with a partner. Thus, students will practice communicating"
-EPS 101,1,"Geological mapping, field observation, and problem-solving in the Berkeley hills and environs leading to original interpretation of geological processes and history from stratigraphic, structural, and lithological investigations. Integration of the Berkeley hills geology into the Coast Ranges and California as a whole through field trips to key localities. Training in digital field mapping, global positioning systems, and laser surveying. Interdisciplinary"
-EPS 102,1,"Formation and evolution of the earth. Nucleosynthesis; formation of the solar system; planetary accretion; dating the earth and solar system; formation of the core, mantle, oceans, and atmosphere; plate tectonics; heat transfer and internal dynamics; stratigraphic record of environment, and evolution; climate history and climate change."
-EPS 103,1,"Introduction to marine geochemistry: the global water cycle; processes governing the distribution of chemical species within the hydrosphere; ocean circulation; chemical mass balances, fluxes, and reactions in the marine environment from global to submicron scales; carbon system equilibrium chemistry and biogeochemistry of fresh and salt walter; applications of natural and anthropogenic stable and radioactive tracers; internal ocean proc"
-EPS 104,1,"Linear systems. Linear inverse problems, least squares; generalized inverse, resolution; Fourier series, integral transforms; time series analysis, spherical harmonics; partial differntial equations of geophysics; functions of a complex variable; probability and significance tests, maximum likelihood methods. Intended for students in geophysics and other physical sciences."
-EPS 108,1,"Basic principles in studying the physical properties of earth materials and the dynamic processes of the earth. Examples are drawn from tectonics, mechanics of earthquakes, etc., to augment course material."
-EPS 109,1,"Introduction to modern computer simulation methods and their application to selected Earth and Planetary Science problems. In hands-on computer labs, students will learn about numerical algorithms, learn to program and modify provided programs, and display the solution graphically. This is an introductory course and no programming experience is required. Examples include fractals in geophysics, properties of materials at high pressure, celestial"
-EPS 111,1,"Basin development related to plate tectonics. Origin of petroleum: quality, quantity, thermal maturation of organic matter in source rock. Primary and secondary migration. Petroleum composition. Reservoir rock: stratigraphy and geometry. Traps: structural, stratigraphic or combination. Reservoir fluids and energy. Oil provinces, individual fields."
-EPS 113,1,"We will survey the biological oceanography underlying geochemical transformations in the sea. Students will develop a strong understanding of evolution, the central dogma of molecular biology, cell structure across the domains of life, population ecology, the metabolic strategies employed by marine organisms, and the biomarkers of life in the ocean. These biological concepts will be the foundation for understanding geochemical shifts as the earth was oxygenated, changes"
-EPS 115,1,"Collecting, analyzing, and presenting stratigraphic data; dating and correlating sedimentary rocks; recognizing ancient environments and reconstructing Earth history; seismic and sequence stratigraphy; event stratigraphy and neocatastrophism; applications of stratigraphy to climate change, petroleum geology, and archaeology."
-EPS 116,1,Introduction to the geometry and mechanics of brittle and ductile geologic structures; their origins and genetic relation to stress fields and their use as kinematic indicators; case histories of selected regions to elucidate tectonic evolution in different plate tectonic settings. Laboratory exercises will focus on analysis of hand specimens and structural relations portrayed on geologic maps. Several trips to observe geologic structures
-EPS 117,1,"Quantitative examination of landforms, runoff generation, weathering, mechanics of soil erosion by water and wind, mass wasting, glacial and periglacial processes and hillslope evolution."
-EPS 118,1,"Advanced geological mapping, intensive field observation, and problem solving in the field areas selected by instructors. Includes preparation of final reports."
-EPS 119,1,Two to four weekend field trips to localities of geological interest.
-EPS 122,1,"Gravity field, density distribution, and internal seismic structure of the Earth and planets. Constitution, composition, temperature distribution, and energetics of the Earth's interior. The geomagnetic field and the geodynamo, and concepts in seismic imaging and geophysical fluid dynamics. This"
-EPS 124,1,"An overview of the use of natural isotopic variations to study earth, planetary, and environmental problems. Topics include geochronology, cosmogenic isotope studies of surficial processes, radiocarbon and the carbon cycle, water isotopes in the water cycle, and radiogenic and stable isotope studies of planetary evolution, mantle dynamics, volcanoes, groundwater, and geothermal systems. The course begins with a short introduction to nuclear"
-EPS 125,1,"This course provides an introduction to the principles of stable isotope geochemistry and the application of these principles to problems in Earth and planetary science. This course provides a foundation for the physical, chemical, and biological processes that cause isotopes to fractionate in nature including the kinetic theory of gases, equilibrium thermodynamics, and the kinetics of chemical reactions. These principles will be applied to the study"
-EPS C129,1,"This course describes how the physical environment (light, wind, temperature, humidity) of plants and soil affects the physiological status of plants and how plants affect their physical environment. Using experimental data and theory, it examines physical, biological, and chemical processes affecting transfer of momentum, energy, and material (water, CO2, atmospheric trace gases) between vegetation and the atmosphere. Plant biometeorology instrumentation"
-EPS 130,1,Generation of seismic waves. Synthetic accelerograms. Instrumentation to measure strong ground motion. Estimation of seismic motion at a site. Ground motion spectra. Influence of soils and geologic structures. Seismic risk mapping.
-EPS 131,1,"Chemical reactions in geological processes. Thermodynamic methods for predicting chemical equilibria in nature. Isotopic and chemical tracers of transport processes in the earth. Chemistry of the solid earth, oceans, and atmosphere."
-EPS C146,1,"The tectonics and morphology of the sea floor, the geologic processes in the deep and shelf seas, and the climatic record contained in deep-sea sediments. The course will cover sources and composition of marine sediments, sea-level change, ocean circulation, paleoenvironmental reconstruction using fossils, imprint of climatic zonation on marine sediments, marine stratigraphy, and ocean floor resources."
-EPS 150,1,"Analysis and discussion of three research problems on the interactions of solid earth, hydrologic, chemical, and atmospheric processes. Emphasis is on the synthesis and application of the student's disciplinary knowledge to a new integrative problem in the earth sciences."
-EPS C162,1,"Physics of planetary systems, both solar and extra-solar. Star and planet formation, radioactive dating, small-body dynamics and interaction of radiation with matter, tides, planetary interiors, atmospheres, and magnetospheres. High-quality oral presentations may be required in addition to problem sets and a final exam."
-EPS C178,1,"The theory and practice of geophysical methods for determining the subsurface distribution of physical rock and soil properties. Measurements of gravity and magnetic fields, electrical and electromagnetic fields, and seismic velocity are interpreted to map the subsurface distribution of density, magnetic susceptibility, electrical conductivity, and mechanical properties."
-EPS C180,1,"This course is an introduction to air pollution and the chemistry of earth's atmosphere. We will focus on the fundamental natural processes controlling trace gas and aerosol concentrations in the atmosphere, and how anthropogenic activity has affected those processes at the local, regional, and global scales. Specific topics include stratospheric ozone depletion, increasing concentrations of green house gasses, smog, and changes in the oxidation"
-EPS C181,1,This course examines the processes that determine the structure and circulation of the Earth's atmosphere. The approach is deductive rather than descriptive: to figure out the properties and behavior of the Earth's atmosphere based on the laws of physics and fluid dynamics. Topics will include interaction between radiation and atmospheric composition; the role of water in the energy and radiation balance; governing equations for atmospheric motion
-EPS C182,1,"Fluid dynamics, radiative transfer, and the kinetics, spectroscopy, and measurement of atmospherically relevant species are explored through laboratory experiments, numerical simulations, and field observations."
-EPS C183,1,"The focus is the (unsolved) puzzle of the contemporary carbon cycle. Why is the concentration of atmospheric CO2 changing at the rate observed? What are the terrestrial and oceanic processes that add and remove carbon from the atmosphere? What are the carbon management strategies under discussion? How can emission protocols be verified? Students are encouraged to gain hands-on experience with the available data, and learn modeling"
-EPS H195,1,Original research and preparation of an acceptable thesis. May be taken during two consecutive semesters of senior year and may be substituted for six units of the upper division requirement with consent of major adviser.
-EPS 197,1,Written proposal signed by faculty sponsor and approved by major faculty advisor. Supervised experience relevant to specific aspects of students' EPS specialization in off-campus organization. Regular meetings with faculty sponsor and written report required.
-EPS 198,1,Group studies of selected topics which vary from semester to semester.
+EPS 3,1,"An overview of the processes that control water supply to na
+tural ecosystems and human civilization. Hydrologic cycle, f
+loods, droughts, groundwater. Patterns of water use, threats
+ to water quality, effects of global climate change on futur
+e water supplies. Water issues facing California."
+EPS 7,1,"This course covers the physical processes that determine Ear
+th's past, present, and future climate, with a particular fo
+cus on the essentially irreversible climate change (a.k.a., 
+global warming) caused by the burning of coal, oil, and natu
+ral gas. Topics will also"
+EPS 10,1,"A science-based course on the most significant eruptions Ear
+th has produced. Most eruptions discussed will be from withi
+n historic time and will involve information from geology (v
+olcanology), geography, archaeology, history, art, and paleo
+environmental records such as tree-rings and ice-cores. Afte
+r a two-class introduction to volcanoes, volcanic activity, 
+and volcanology, and the hazards vs benefits of eruptions, e
+ach class will feature one"
+EPS C12,1,"A tour of the mysteries and inner workings of our solar syst
+em. What are planets made of? Why do they orbit the sun the 
+way they do? How do planets form, and what are they made of?
+ Why do some bizarre moons have oceans, volcanoes, and ice f
+loes? What makes the Earth hospitable for life? Is the Earth
+ a common type of planet or some cosmic quirk? This course w
+ill introduce basic physics, chemistry, and math to understa
+nd planets, moons, rings"
+EPS W12,1,"A tour of the mysteries and inner workings of our solar syst
+em. What are planets made of? Why do they orbit the sun the 
+way they do? How do planets form, and what are they made of?
+ Why do some bizarre moons have oceans, volcanoes, and ice f
+loes? What makes the Earth hospitable for life? Is the Earth
+ a common type of planet or some cosmic quirk? This course w
+ill introduce basic physics, chemistry"
+EPS 20,1,"Introduction to earthquakes, their causes and effects. Gener
+al discussion of basic principles and methods of seismology 
+and geological tectonics, distribution of earthquakes in spa
+ce and time, effects of earthquakes, and earthquake hazard a
+nd risk, with particular emphasis on the situation in Califo
+rnia."
+EPS C20,1,"Introduction to earthquakes, their causes and effects. Gener
+al discussion of basic principles and methods of seismology 
+and geological tectonics, distribution of earthquakes in spa
+ce and time, effects of earthquakes, and earthquake hazard a
+nd risk, with particular emphasis on the situation in Califo
+rnia."
+EPS 24,1,"The freshman seminar in earth and planetary science is desig
+ned to provide new students with an opportunity to explore a
+ topic in geology or earth sciences with a faculty member in
+ a small seminar setting. Topics will vary from semester to 
+semester but will include such possible topics as great voya
+ges of geologic discovery and the role of atmospheric scienc
+es in geologic study."
+EPS 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+EPS 39A,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+EPS 50,1,"An introduction to the physical and chemical processes that 
+have shaped the earth through time, with emphasis on the the
+ory of plate tectonics. Laboratory work will involve the pra
+ctical study of minerals, rocks, and geologic maps and exerc
+ises on geological processes."
+EPS 80,1,"This course focuses on the processes on and in the earth tha
+t shape the environment. Humanity's use of land and oceans i
+s examined based on an understanding of these processes."
+EPS 81,1,"An introductory survey of the atmospheres of Earth and other
+ planets, spanning diverse phenomena such as hurricanes, dro
+ught, Martian dust storms, and the exotic winds on planets o
+rbiting other stars. This course introduces the basics of pl
+anetary weather and climate, showing through exploration of 
+a diverse set of atmospheres and paleoclimates that the worl
+d around us need not always be the way we currently observe 
+it. Topics include atmospheric composition"
+EPS C82,1,"This course offers multidisciplinary approach to begin answe
+ring the question ""Why are oceans important to us?"" Upon a p
+hysical, chemical, and geologic base, we introduce the alien
+ world of sea life, the importance of the ocean to the globa
+l carbon cycle, and the principles of ecology with a focus o
+n the important concept of energy flow through food webs. Le
+ctures expand beyond science to include current topics as di
+verse as"
+EPS N82,1,"The geology, physics, chemistry, and biology of the world oc
+eans. The application of oceanographic sciences to human pro
+blems will be explored through special topics such as energy
+ from the sea, marine pollution, food from the sea, and clim
+ate change."
+EPS 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+EPS 88,1,"Earthquakes and El Ninos are examples of natural hazards in 
+California. The course uses Python/Jupyter Notebook and real
+-world observations to introduce students to these and other
+ Earth phenomena and their underlying physics. The students 
+will learn how to access and visualize the data, extract sig
+nals, and make probability forecasts. The final module is a 
+project that synthesizes the course material to make a proba
+bilistic forecast. The course will be co-taught"
+EPS 98,1,"Group studies of selected topics which vary from semester to
+ semester."
+EPS 100A,1,"Introduction to structural, compositional, and physical prop
+erties of minerals, their analogs and related substances, th
+eir genesis in various geological and synthetic processes, a
+nd laboratory techniques to identify and investigate mineral
+s. One field trip to selected mineral deposits and visits to
+ laboratories."
+EPS 100B,1,"Introduction to the principal geologic environments where ro
+cks are formed and displayed. Igneous, sedimentary, and meta
+morphic processes discussed in the context of global tectoni
+cs."
+EPS C100,1,"For undergraduates interested in improving their ability to 
+communicate their scientific knowledge by teaching ocean sci
+ence in elementary schools or science centers/aquariums. The
+ course will combine instruction in inquiry-based teaching m
+ethods and learning pedagogy with six weeks of supervised te
+aching experience in a local school classroom or the Lawrenc
+e Hall of Science with a partner. Thus, students will practi
+ce communicating"
+EPS 101,1,"Geological mapping, field observation, and problem-solving i
+n the Berkeley hills and environs leading to original interp
+retation of geological processes and history from stratigrap
+hic, structural, and lithological investigations. Integratio
+n of the Berkeley hills geology into the Coast Ranges and Ca
+lifornia as a whole through field trips to key localities. T
+raining in digital field mapping, global positioning systems
+, and laser surveying. Interdisciplinary"
+EPS 102,1,"Formation and evolution of the earth. Nucleosynthesis; forma
+tion of the solar system; planetary accretion; dating the ea
+rth and solar system; formation of the core, mantle, oceans,
+ and atmosphere; plate tectonics; heat transfer and internal
+ dynamics; stratigraphic record of environment, and evolutio
+n; climate history and climate change."
+EPS 103,1,"Introduction to marine geochemistry: the global water cycle;
+ processes governing the distribution of chemical species wi
+thin the hydrosphere; ocean circulation; chemical mass balan
+ces, fluxes, and reactions in the marine environment from gl
+obal to submicron scales; carbon system equilibrium chemistr
+y and biogeochemistry of fresh and salt walter; applications
+ of natural and anthropogenic stable and radioactive tracers
+; internal ocean proc"
+EPS 104,1,"Linear systems. Linear inverse problems, least squares; gene
+ralized inverse, resolution; Fourier series, integral transf
+orms; time series analysis, spherical harmonics; partial dif
+ferntial equations of geophysics; functions of a complex var
+iable; probability and significance tests, maximum likelihoo
+d methods. Intended for students in geophysics and other phy
+sical sciences."
+EPS 108,1,"Basic principles in studying the physical properties of eart
+h materials and the dynamic processes of the earth. Examples
+ are drawn from tectonics, mechanics of earthquakes, etc., t
+o augment course material."
+EPS 109,1,"Introduction to modern computer simulation methods and their
+ application to selected Earth and Planetary Science problem
+s. In hands-on computer labs, students will learn about nume
+rical algorithms, learn to program and modify provided progr
+ams, and display the solution graphically. This is an introd
+uctory course and no programming experience is required. Exa
+mples include fractals in geophysics, properties of material
+s at high pressure, celestial"
+EPS 111,1,"Basin development related to plate tectonics. Origin of petr
+oleum: quality, quantity, thermal maturation of organic matt
+er in source rock. Primary and secondary migration. Petroleu
+m composition. Reservoir rock: stratigraphy and geometry. Tr
+aps: structural, stratigraphic or combination. Reservoir flu
+ids and energy. Oil provinces, individual fields."
+EPS 113,1,"We will survey the biological oceanography underlying geoche
+mical transformations in the sea. Students will develop a st
+rong understanding of evolution, the central dogma of molecu
+lar biology, cell structure across the domains of life, popu
+lation ecology, the metabolic strategies employed by marine 
+organisms, and the biomarkers of life in the ocean. These bi
+ological concepts will be the foundation for understanding g
+eochemical shifts as the earth was oxygenated, changes"
+EPS 115,1,"Collecting, analyzing, and presenting stratigraphic data; da
+ting and correlating sedimentary rocks; recognizing ancient 
+environments and reconstructing Earth history; seismic and s
+equence stratigraphy; event stratigraphy and neocatastrophis
+m; applications of stratigraphy to climate change, petroleum
+ geology, and archaeology."
+EPS 116,1,"Introduction to the geometry and mechanics of brittle and du
+ctile geologic structures; their origins and genetic relatio
+n to stress fields and their use as kinematic indicators; ca
+se histories of selected regions to elucidate tectonic evolu
+tion in different plate tectonic settings. Laboratory exerci
+ses will focus on analysis of hand specimens and structural 
+relations portrayed on geologic maps. Several trips to obser
+ve geologic structures"
+EPS 117,1,"Quantitative examination of landforms, runoff generation, we
+athering, mechanics of soil erosion by water and wind, mass 
+wasting, glacial and periglacial processes and hillslope evo
+lution."
+EPS 118,1,"Advanced geological mapping, intensive field observation, an
+d problem solving in the field areas selected by instructors
+. Includes preparation of final reports."
+EPS 119,1,"Two to four weekend field trips to localities of geological 
+interest."
+EPS 122,1,"Gravity field, density distribution, and internal seismic st
+ructure of the Earth and planets. Constitution, composition,
+ temperature distribution, and energetics of the Earth's int
+erior. The geomagnetic field and the geodynamo, and concepts
+ in seismic imaging and geophysical fluid dynamics. This"
+EPS 124,1,"An overview of the use of natural isotopic variations to stu
+dy earth, planetary, and environmental problems. Topics incl
+ude geochronology, cosmogenic isotope studies of surficial p
+rocesses, radiocarbon and the carbon cycle, water isotopes i
+n the water cycle, and radiogenic and stable isotope studies
+ of planetary evolution, mantle dynamics, volcanoes, groundw
+ater, and geothermal systems. The course begins with a short
+ introduction to nuclear"
+EPS 125,1,"This course provides an introduction to the principles of st
+able isotope geochemistry and the application of these princ
+iples to problems in Earth and planetary science. This cours
+e provides a foundation for the physical, chemical, and biol
+ogical processes that cause isotopes to fractionate in natur
+e including the kinetic theory of gases, equilibrium thermod
+ynamics, and the kinetics of chemical reactions. These princ
+iples will be applied to the study"
+EPS C129,1,"This course describes how the physical environment (light, w
+ind, temperature, humidity) of plants and soil affects the p
+hysiological status of plants and how plants affect their ph
+ysical environment. Using experimental data and theory, it e
+xamines physical, biological, and chemical processes affecti
+ng transfer of momentum, energy, and material (water, CO2, a
+tmospheric trace gases) between vegetation and the atmospher
+e. Plant biometeorology instrumentation"
+EPS 130,1,"Generation of seismic waves. Synthetic accelerograms. Instru
+mentation to measure strong ground motion. Estimation of sei
+smic motion at a site. Ground motion spectra. Influence of s
+oils and geologic structures. Seismic risk mapping."
+EPS 131,1,"Chemical reactions in geological processes. Thermodynamic me
+thods for predicting chemical equilibria in nature. Isotopic
+ and chemical tracers of transport processes in the earth. C
+hemistry of the solid earth, oceans, and atmosphere."
+EPS C146,1,"The tectonics and morphology of the sea floor, the geologic 
+processes in the deep and shelf seas, and the climatic recor
+d contained in deep-sea sediments. The course will cover sou
+rces and composition of marine sediments, sea-level change, 
+ocean circulation, paleoenvironmental reconstruction using f
+ossils, imprint of climatic zonation on marine sediments, ma
+rine stratigraphy, and ocean floor resources."
+EPS 150,1,"Analysis and discussion of three research problems on the in
+teractions of solid earth, hydrologic, chemical, and atmosph
+eric processes. Emphasis is on the synthesis and application
+ of the student's disciplinary knowledge to a new integrativ
+e problem in the earth sciences."
+EPS C162,1,"Physics of planetary systems, both solar and extra-solar. St
+ar and planet formation, radioactive dating, small-body dyna
+mics and interaction of radiation with matter, tides, planet
+ary interiors, atmospheres, and magnetospheres. High-quality
+ oral presentations may be required in addition to problem s
+ets and a final exam."
+EPS C178,1,"The theory and practice of geophysical methods for determini
+ng the subsurface distribution of physical rock and soil pro
+perties. Measurements of gravity and magnetic fields, electr
+ical and electromagnetic fields, and seismic velocity are in
+terpreted to map the subsurface distribution of density, mag
+netic susceptibility, electrical conductivity, and mechanica
+l properties."
+EPS C180,1,"This course is an introduction to air pollution and the chem
+istry of earth's atmosphere. We will focus on the fundamenta
+l natural processes controlling trace gas and aerosol concen
+trations in the atmosphere, and how anthropogenic activity h
+as affected those processes at the local, regional, and glob
+al scales. Specific topics include stratospheric ozone deple
+tion, increasing concentrations of green house gasses, smog,
+ and changes in the oxidation"
+EPS C181,1,"This course examines the processes that determine the struct
+ure and circulation of the Earth's atmosphere. The approach 
+is deductive rather than descriptive: to figure out the prop
+erties and behavior of the Earth's atmosphere based on the l
+aws of physics and fluid dynamics. Topics will include inter
+action between radiation and atmospheric composition; the ro
+le of water in the energy and radiation balance; governing e
+quations for atmospheric motion"
+EPS C182,1,"Fluid dynamics, radiative transfer, and the kinetics, spectr
+oscopy, and measurement of atmospherically relevant species 
+are explored through laboratory experiments, numerical simul
+ations, and field observations."
+EPS C183,1,"The focus is the (unsolved) puzzle of the contemporary carbo
+n cycle. Why is the concentration of atmospheric CO2 changin
+g at the rate observed? What are the terrestrial and oceanic
+ processes that add and remove carbon from the atmosphere? W
+hat are the carbon management strategies under discussion? H
+ow can emission protocols be verified? Students are encourag
+ed to gain hands-on experience with the available data, and 
+learn modeling"
+EPS H195,1,"Original research and preparation of an acceptable thesis. M
+ay be taken during two consecutive semesters of senior year 
+and may be substituted for six units of the upper division r
+equirement with consent of major adviser."
+EPS 197,1,"Written proposal signed by faculty sponsor and approved by m
+ajor faculty advisor. Supervised experience relevant to spec
+ific aspects of students' EPS specialization in off-campus o
+rganization. Regular meetings with faculty sponsor and writt
+en report required."
+EPS 198,1,"Group studies of selected topics which vary from semester to
+ semester."
+EPS 199,1,Enrollment is restricted by regulations.
+EPS 3,1,"An overview of the processes that control water supply to na
+tural ecosystems and human civilization. Hydrologic cycle, f
+loods, droughts, groundwater. Patterns of water use, threats
+ to water quality, effects of global climate change on futur
+e water supplies. Water issues facing California."
+EPS 7,1,"This course covers the physical processes that determine Ear
+th's past, present, and future climate, with a particular fo
+cus on the essentially irreversible climate change (a.k.a., 
+global warming) caused by the burning of coal, oil, and natu
+ral gas. Topics will also"
+EPS 10,1,"A science-based course on the most significant eruptions Ear
+th has produced. Most eruptions discussed will be from withi
+n historic time and will involve information from geology (v
+olcanology), geography, archaeology, history, art, and paleo
+environmental records such as tree-rings and ice-cores. Afte
+r a two-class introduction to volcanoes, volcanic activity, 
+and volcanology, and the hazards vs benefits of eruptions, e
+ach class will feature one"
+EPS C12,1,"A tour of the mysteries and inner workings of our solar syst
+em. What are planets made of? Why do they orbit the sun the 
+way they do? How do planets form, and what are they made of?
+ Why do some bizarre moons have oceans, volcanoes, and ice f
+loes? What makes the Earth hospitable for life? Is the Earth
+ a common type of planet or some cosmic quirk? This course w
+ill introduce basic physics, chemistry, and math to understa
+nd planets, moons, rings"
+EPS W12,1,"A tour of the mysteries and inner workings of our solar syst
+em. What are planets made of? Why do they orbit the sun the 
+way they do? How do planets form, and what are they made of?
+ Why do some bizarre moons have oceans, volcanoes, and ice f
+loes? What makes the Earth hospitable for life? Is the Earth
+ a common type of planet or some cosmic quirk? This course w
+ill introduce basic physics, chemistry"
+EPS 20,1,"Introduction to earthquakes, their causes and effects. Gener
+al discussion of basic principles and methods of seismology 
+and geological tectonics, distribution of earthquakes in spa
+ce and time, effects of earthquakes, and earthquake hazard a
+nd risk, with particular emphasis on the situation in Califo
+rnia."
+EPS C20,1,"Introduction to earthquakes, their causes and effects. Gener
+al discussion of basic principles and methods of seismology 
+and geological tectonics, distribution of earthquakes in spa
+ce and time, effects of earthquakes, and earthquake hazard a
+nd risk, with particular emphasis on the situation in Califo
+rnia."
+EPS 24,1,"The freshman seminar in earth and planetary science is desig
+ned to provide new students with an opportunity to explore a
+ topic in geology or earth sciences with a faculty member in
+ a small seminar setting. Topics will vary from semester to 
+semester but will include such possible topics as great voya
+ges of geologic discovery and the role of atmospheric scienc
+es in geologic study."
+EPS 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+EPS 39A,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+EPS 50,1,"An introduction to the physical and chemical processes that 
+have shaped the earth through time, with emphasis on the the
+ory of plate tectonics. Laboratory work will involve the pra
+ctical study of minerals, rocks, and geologic maps and exerc
+ises on geological processes."
+EPS 80,1,"This course focuses on the processes on and in the earth tha
+t shape the environment. Humanity's use of land and oceans i
+s examined based on an understanding of these processes."
+EPS 81,1,"An introductory survey of the atmospheres of Earth and other
+ planets, spanning diverse phenomena such as hurricanes, dro
+ught, Martian dust storms, and the exotic winds on planets o
+rbiting other stars. This course introduces the basics of pl
+anetary weather and climate, showing through exploration of 
+a diverse set of atmospheres and paleoclimates that the worl
+d around us need not always be the way we currently observe 
+it. Topics include atmospheric composition"
+EPS C82,1,"This course offers multidisciplinary approach to begin answe
+ring the question ""Why are oceans important to us?"" Upon a p
+hysical, chemical, and geologic base, we introduce the alien
+ world of sea life, the importance of the ocean to the globa
+l carbon cycle, and the principles of ecology with a focus o
+n the important concept of energy flow through food webs. Le
+ctures expand beyond science to include current topics as di
+verse as"
+EPS N82,1,"The geology, physics, chemistry, and biology of the world oc
+eans. The application of oceanographic sciences to human pro
+blems will be explored through special topics such as energy
+ from the sea, marine pollution, food from the sea, and clim
+ate change."
+EPS 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+EPS 88,1,"Earthquakes and El Ninos are examples of natural hazards in 
+California. The course uses Python/Jupyter Notebook and real
+-world observations to introduce students to these and other
+ Earth phenomena and their underlying physics. The students 
+will learn how to access and visualize the data, extract sig
+nals, and make probability forecasts. The final module is a 
+project that synthesizes the course material to make a proba
+bilistic forecast. The course will be co-taught"
+EPS 98,1,"Group studies of selected topics which vary from semester to
+ semester."
+EPS 100A,1,"Introduction to structural, compositional, and physical prop
+erties of minerals, their analogs and related substances, th
+eir genesis in various geological and synthetic processes, a
+nd laboratory techniques to identify and investigate mineral
+s. One field trip to selected mineral deposits and visits to
+ laboratories."
+EPS 100B,1,"Introduction to the principal geologic environments where ro
+cks are formed and displayed. Igneous, sedimentary, and meta
+morphic processes discussed in the context of global tectoni
+cs."
+EPS C100,1,"For undergraduates interested in improving their ability to 
+communicate their scientific knowledge by teaching ocean sci
+ence in elementary schools or science centers/aquariums. The
+ course will combine instruction in inquiry-based teaching m
+ethods and learning pedagogy with six weeks of supervised te
+aching experience in a local school classroom or the Lawrenc
+e Hall of Science with a partner. Thus, students will practi
+ce communicating"
+EPS 101,1,"Geological mapping, field observation, and problem-solving i
+n the Berkeley hills and environs leading to original interp
+retation of geological processes and history from stratigrap
+hic, structural, and lithological investigations. Integratio
+n of the Berkeley hills geology into the Coast Ranges and Ca
+lifornia as a whole through field trips to key localities. T
+raining in digital field mapping, global positioning systems
+, and laser surveying. Interdisciplinary"
+EPS 102,1,"Formation and evolution of the earth. Nucleosynthesis; forma
+tion of the solar system; planetary accretion; dating the ea
+rth and solar system; formation of the core, mantle, oceans,
+ and atmosphere; plate tectonics; heat transfer and internal
+ dynamics; stratigraphic record of environment, and evolutio
+n; climate history and climate change."
+EPS 103,1,"Introduction to marine geochemistry: the global water cycle;
+ processes governing the distribution of chemical species wi
+thin the hydrosphere; ocean circulation; chemical mass balan
+ces, fluxes, and reactions in the marine environment from gl
+obal to submicron scales; carbon system equilibrium chemistr
+y and biogeochemistry of fresh and salt walter; applications
+ of natural and anthropogenic stable and radioactive tracers
+; internal ocean proc"
+EPS 104,1,"Linear systems. Linear inverse problems, least squares; gene
+ralized inverse, resolution; Fourier series, integral transf
+orms; time series analysis, spherical harmonics; partial dif
+ferntial equations of geophysics; functions of a complex var
+iable; probability and significance tests, maximum likelihoo
+d methods. Intended for students in geophysics and other phy
+sical sciences."
+EPS 108,1,"Basic principles in studying the physical properties of eart
+h materials and the dynamic processes of the earth. Examples
+ are drawn from tectonics, mechanics of earthquakes, etc., t
+o augment course material."
+EPS 109,1,"Introduction to modern computer simulation methods and their
+ application to selected Earth and Planetary Science problem
+s. In hands-on computer labs, students will learn about nume
+rical algorithms, learn to program and modify provided progr
+ams, and display the solution graphically. This is an introd
+uctory course and no programming experience is required. Exa
+mples include fractals in geophysics, properties of material
+s at high pressure, celestial"
+EPS 111,1,"Basin development related to plate tectonics. Origin of petr
+oleum: quality, quantity, thermal maturation of organic matt
+er in source rock. Primary and secondary migration. Petroleu
+m composition. Reservoir rock: stratigraphy and geometry. Tr
+aps: structural, stratigraphic or combination. Reservoir flu
+ids and energy. Oil provinces, individual fields."
+EPS 113,1,"We will survey the biological oceanography underlying geoche
+mical transformations in the sea. Students will develop a st
+rong understanding of evolution, the central dogma of molecu
+lar biology, cell structure across the domains of life, popu
+lation ecology, the metabolic strategies employed by marine 
+organisms, and the biomarkers of life in the ocean. These bi
+ological concepts will be the foundation for understanding g
+eochemical shifts as the earth was oxygenated, changes"
+EPS 115,1,"Collecting, analyzing, and presenting stratigraphic data; da
+ting and correlating sedimentary rocks; recognizing ancient 
+environments and reconstructing Earth history; seismic and s
+equence stratigraphy; event stratigraphy and neocatastrophis
+m; applications of stratigraphy to climate change, petroleum
+ geology, and archaeology."
+EPS 116,1,"Introduction to the geometry and mechanics of brittle and du
+ctile geologic structures; their origins and genetic relatio
+n to stress fields and their use as kinematic indicators; ca
+se histories of selected regions to elucidate tectonic evolu
+tion in different plate tectonic settings. Laboratory exerci
+ses will focus on analysis of hand specimens and structural 
+relations portrayed on geologic maps. Several trips to obser
+ve geologic structures"
+EPS 117,1,"Quantitative examination of landforms, runoff generation, we
+athering, mechanics of soil erosion by water and wind, mass 
+wasting, glacial and periglacial processes and hillslope evo
+lution."
+EPS 118,1,"Advanced geological mapping, intensive field observation, an
+d problem solving in the field areas selected by instructors
+. Includes preparation of final reports."
+EPS 119,1,"Two to four weekend field trips to localities of geological 
+interest."
+EPS 122,1,"Gravity field, density distribution, and internal seismic st
+ructure of the Earth and planets. Constitution, composition,
+ temperature distribution, and energetics of the Earth's int
+erior. The geomagnetic field and the geodynamo, and concepts
+ in seismic imaging and geophysical fluid dynamics. This"
+EPS 124,1,"An overview of the use of natural isotopic variations to stu
+dy earth, planetary, and environmental problems. Topics incl
+ude geochronology, cosmogenic isotope studies of surficial p
+rocesses, radiocarbon and the carbon cycle, water isotopes i
+n the water cycle, and radiogenic and stable isotope studies
+ of planetary evolution, mantle dynamics, volcanoes, groundw
+ater, and geothermal systems. The course begins with a short
+ introduction to nuclear"
+EPS 125,1,"This course provides an introduction to the principles of st
+able isotope geochemistry and the application of these princ
+iples to problems in Earth and planetary science. This cours
+e provides a foundation for the physical, chemical, and biol
+ogical processes that cause isotopes to fractionate in natur
+e including the kinetic theory of gases, equilibrium thermod
+ynamics, and the kinetics of chemical reactions. These princ
+iples will be applied to the study"
+EPS C129,1,"This course describes how the physical environment (light, w
+ind, temperature, humidity) of plants and soil affects the p
+hysiological status of plants and how plants affect their ph
+ysical environment. Using experimental data and theory, it e
+xamines physical, biological, and chemical processes affecti
+ng transfer of momentum, energy, and material (water, CO2, a
+tmospheric trace gases) between vegetation and the atmospher
+e. Plant biometeorology instrumentation"
+EPS 130,1,"Generation of seismic waves. Synthetic accelerograms. Instru
+mentation to measure strong ground motion. Estimation of sei
+smic motion at a site. Ground motion spectra. Influence of s
+oils and geologic structures. Seismic risk mapping."
+EPS 131,1,"Chemical reactions in geological processes. Thermodynamic me
+thods for predicting chemical equilibria in nature. Isotopic
+ and chemical tracers of transport processes in the earth. C
+hemistry of the solid earth, oceans, and atmosphere."
+EPS C146,1,"The tectonics and morphology of the sea floor, the geologic 
+processes in the deep and shelf seas, and the climatic recor
+d contained in deep-sea sediments. The course will cover sou
+rces and composition of marine sediments, sea-level change, 
+ocean circulation, paleoenvironmental reconstruction using f
+ossils, imprint of climatic zonation on marine sediments, ma
+rine stratigraphy, and ocean floor resources."
+EPS 150,1,"Analysis and discussion of three research problems on the in
+teractions of solid earth, hydrologic, chemical, and atmosph
+eric processes. Emphasis is on the synthesis and application
+ of the student's disciplinary knowledge to a new integrativ
+e problem in the earth sciences."
+EPS C162,1,"Physics of planetary systems, both solar and extra-solar. St
+ar and planet formation, radioactive dating, small-body dyna
+mics and interaction of radiation with matter, tides, planet
+ary interiors, atmospheres, and magnetospheres. High-quality
+ oral presentations may be required in addition to problem s
+ets and a final exam."
+EPS C178,1,"The theory and practice of geophysical methods for determini
+ng the subsurface distribution of physical rock and soil pro
+perties. Measurements of gravity and magnetic fields, electr
+ical and electromagnetic fields, and seismic velocity are in
+terpreted to map the subsurface distribution of density, mag
+netic susceptibility, electrical conductivity, and mechanica
+l properties."
+EPS C180,1,"This course is an introduction to air pollution and the chem
+istry of earth's atmosphere. We will focus on the fundamenta
+l natural processes controlling trace gas and aerosol concen
+trations in the atmosphere, and how anthropogenic activity h
+as affected those processes at the local, regional, and glob
+al scales. Specific topics include stratospheric ozone deple
+tion, increasing concentrations of green house gasses, smog,
+ and changes in the oxidation"
+EPS C181,1,"This course examines the processes that determine the struct
+ure and circulation of the Earth's atmosphere. The approach 
+is deductive rather than descriptive: to figure out the prop
+erties and behavior of the Earth's atmosphere based on the l
+aws of physics and fluid dynamics. Topics will include inter
+action between radiation and atmospheric composition; the ro
+le of water in the energy and radiation balance; governing e
+quations for atmospheric motion"
+EPS C182,1,"Fluid dynamics, radiative transfer, and the kinetics, spectr
+oscopy, and measurement of atmospherically relevant species 
+are explored through laboratory experiments, numerical simul
+ations, and field observations."
+EPS C183,1,"The focus is the (unsolved) puzzle of the contemporary carbo
+n cycle. Why is the concentration of atmospheric CO2 changin
+g at the rate observed? What are the terrestrial and oceanic
+ processes that add and remove carbon from the atmosphere? W
+hat are the carbon management strategies under discussion? H
+ow can emission protocols be verified? Students are encourag
+ed to gain hands-on experience with the available data, and 
+learn modeling"
+EPS H195,1,"Original research and preparation of an acceptable thesis. M
+ay be taken during two consecutive semesters of senior year 
+and may be substituted for six units of the upper division r
+equirement with consent of major adviser."
+EPS 197,1,"Written proposal signed by faculty sponsor and approved by m
+ajor faculty advisor. Supervised experience relevant to spec
+ific aspects of students' EPS specialization in off-campus o
+rganization. Regular meetings with faculty sponsor and writt
+en report required."
+EPS 198,1,"Group studies of selected topics which vary from semester to
+ semester."
+EPS 199,1,Enrollment is restricted by regulations.
+EPS 3,1,"An overview of the processes that control water supply to na
+tural ecosystems and human civilization. Hydrologic cycle, f
+loods, droughts, groundwater. Patterns of water use, threats
+ to water quality, effects of global climate change on futur
+e water supplies. Water issues facing California."
+EPS 7,1,"This course covers the physical processes that determine Ear
+th's past, present, and future climate, with a particular fo
+cus on the essentially irreversible climate change (a.k.a., 
+global warming) caused by the burning of coal, oil, and natu
+ral gas. Topics will also"
+EPS 10,1,"A science-based course on the most significant eruptions Ear
+th has produced. Most eruptions discussed will be from withi
+n historic time and will involve information from geology (v
+olcanology), geography, archaeology, history, art, and paleo
+environmental records such as tree-rings and ice-cores. Afte
+r a two-class introduction to volcanoes, volcanic activity, 
+and volcanology, and the hazards vs benefits of eruptions, e
+ach class will feature one"
+EPS C12,1,"A tour of the mysteries and inner workings of our solar syst
+em. What are planets made of? Why do they orbit the sun the 
+way they do? How do planets form, and what are they made of?
+ Why do some bizarre moons have oceans, volcanoes, and ice f
+loes? What makes the Earth hospitable for life? Is the Earth
+ a common type of planet or some cosmic quirk? This course w
+ill introduce basic physics, chemistry, and math to understa
+nd planets, moons, rings"
+EPS W12,1,"A tour of the mysteries and inner workings of our solar syst
+em. What are planets made of? Why do they orbit the sun the 
+way they do? How do planets form, and what are they made of?
+ Why do some bizarre moons have oceans, volcanoes, and ice f
+loes? What makes the Earth hospitable for life? Is the Earth
+ a common type of planet or some cosmic quirk? This course w
+ill introduce basic physics, chemistry"
+EPS 20,1,"Introduction to earthquakes, their causes and effects. Gener
+al discussion of basic principles and methods of seismology 
+and geological tectonics, distribution of earthquakes in spa
+ce and time, effects of earthquakes, and earthquake hazard a
+nd risk, with particular emphasis on the situation in Califo
+rnia."
+EPS C20,1,"Introduction to earthquakes, their causes and effects. Gener
+al discussion of basic principles and methods of seismology 
+and geological tectonics, distribution of earthquakes in spa
+ce and time, effects of earthquakes, and earthquake hazard a
+nd risk, with particular emphasis on the situation in Califo
+rnia."
+EPS 24,1,"The freshman seminar in earth and planetary science is desig
+ned to provide new students with an opportunity to explore a
+ topic in geology or earth sciences with a faculty member in
+ a small seminar setting. Topics will vary from semester to 
+semester but will include such possible topics as great voya
+ges of geologic discovery and the role of atmospheric scienc
+es in geologic study."
+EPS 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+EPS 39A,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+EPS 50,1,"An introduction to the physical and chemical processes that 
+have shaped the earth through time, with emphasis on the the
+ory of plate tectonics. Laboratory work will involve the pra
+ctical study of minerals, rocks, and geologic maps and exerc
+ises on geological processes."
+EPS 80,1,"This course focuses on the processes on and in the earth tha
+t shape the environment. Humanity's use of land and oceans i
+s examined based on an understanding of these processes."
+EPS 81,1,"An introductory survey of the atmospheres of Earth and other
+ planets, spanning diverse phenomena such as hurricanes, dro
+ught, Martian dust storms, and the exotic winds on planets o
+rbiting other stars. This course introduces the basics of pl
+anetary weather and climate, showing through exploration of 
+a diverse set of atmospheres and paleoclimates that the worl
+d around us need not always be the way we currently observe 
+it. Topics include atmospheric composition"
+EPS C82,1,"This course offers multidisciplinary approach to begin answe
+ring the question ""Why are oceans important to us?"" Upon a p
+hysical, chemical, and geologic base, we introduce the alien
+ world of sea life, the importance of the ocean to the globa
+l carbon cycle, and the principles of ecology with a focus o
+n the important concept of energy flow through food webs. Le
+ctures expand beyond science to include current topics as di
+verse as"
+EPS N82,1,"The geology, physics, chemistry, and biology of the world oc
+eans. The application of oceanographic sciences to human pro
+blems will be explored through special topics such as energy
+ from the sea, marine pollution, food from the sea, and clim
+ate change."
+EPS 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+EPS 88,1,"Earthquakes and El Ninos are examples of natural hazards in 
+California. The course uses Python/Jupyter Notebook and real
+-world observations to introduce students to these and other
+ Earth phenomena and their underlying physics. The students 
+will learn how to access and visualize the data, extract sig
+nals, and make probability forecasts. The final module is a 
+project that synthesizes the course material to make a proba
+bilistic forecast. The course will be co-taught"
+EPS 98,1,"Group studies of selected topics which vary from semester to
+ semester."
+EPS 100A,1,"Introduction to structural, compositional, and physical prop
+erties of minerals, their analogs and related substances, th
+eir genesis in various geological and synthetic processes, a
+nd laboratory techniques to identify and investigate mineral
+s. One field trip to selected mineral deposits and visits to
+ laboratories."
+EPS 100B,1,"Introduction to the principal geologic environments where ro
+cks are formed and displayed. Igneous, sedimentary, and meta
+morphic processes discussed in the context of global tectoni
+cs."
+EPS C100,1,"For undergraduates interested in improving their ability to 
+communicate their scientific knowledge by teaching ocean sci
+ence in elementary schools or science centers/aquariums. The
+ course will combine instruction in inquiry-based teaching m
+ethods and learning pedagogy with six weeks of supervised te
+aching experience in a local school classroom or the Lawrenc
+e Hall of Science with a partner. Thus, students will practi
+ce communicating"
+EPS 101,1,"Geological mapping, field observation, and problem-solving i
+n the Berkeley hills and environs leading to original interp
+retation of geological processes and history from stratigrap
+hic, structural, and lithological investigations. Integratio
+n of the Berkeley hills geology into the Coast Ranges and Ca
+lifornia as a whole through field trips to key localities. T
+raining in digital field mapping, global positioning systems
+, and laser surveying. Interdisciplinary"
+EPS 102,1,"Formation and evolution of the earth. Nucleosynthesis; forma
+tion of the solar system; planetary accretion; dating the ea
+rth and solar system; formation of the core, mantle, oceans,
+ and atmosphere; plate tectonics; heat transfer and internal
+ dynamics; stratigraphic record of environment, and evolutio
+n; climate history and climate change."
+EPS 103,1,"Introduction to marine geochemistry: the global water cycle;
+ processes governing the distribution of chemical species wi
+thin the hydrosphere; ocean circulation; chemical mass balan
+ces, fluxes, and reactions in the marine environment from gl
+obal to submicron scales; carbon system equilibrium chemistr
+y and biogeochemistry of fresh and salt walter; applications
+ of natural and anthropogenic stable and radioactive tracers
+; internal ocean proc"
+EPS 104,1,"Linear systems. Linear inverse problems, least squares; gene
+ralized inverse, resolution; Fourier series, integral transf
+orms; time series analysis, spherical harmonics; partial dif
+ferntial equations of geophysics; functions of a complex var
+iable; probability and significance tests, maximum likelihoo
+d methods. Intended for students in geophysics and other phy
+sical sciences."
+EPS 108,1,"Basic principles in studying the physical properties of eart
+h materials and the dynamic processes of the earth. Examples
+ are drawn from tectonics, mechanics of earthquakes, etc., t
+o augment course material."
+EPS 109,1,"Introduction to modern computer simulation methods and their
+ application to selected Earth and Planetary Science problem
+s. In hands-on computer labs, students will learn about nume
+rical algorithms, learn to program and modify provided progr
+ams, and display the solution graphically. This is an introd
+uctory course and no programming experience is required. Exa
+mples include fractals in geophysics, properties of material
+s at high pressure, celestial"
+EPS 111,1,"Basin development related to plate tectonics. Origin of petr
+oleum: quality, quantity, thermal maturation of organic matt
+er in source rock. Primary and secondary migration. Petroleu
+m composition. Reservoir rock: stratigraphy and geometry. Tr
+aps: structural, stratigraphic or combination. Reservoir flu
+ids and energy. Oil provinces, individual fields."
+EPS 113,1,"We will survey the biological oceanography underlying geoche
+mical transformations in the sea. Students will develop a st
+rong understanding of evolution, the central dogma of molecu
+lar biology, cell structure across the domains of life, popu
+lation ecology, the metabolic strategies employed by marine 
+organisms, and the biomarkers of life in the ocean. These bi
+ological concepts will be the foundation for understanding g
+eochemical shifts as the earth was oxygenated, changes"
+EPS 115,1,"Collecting, analyzing, and presenting stratigraphic data; da
+ting and correlating sedimentary rocks; recognizing ancient 
+environments and reconstructing Earth history; seismic and s
+equence stratigraphy; event stratigraphy and neocatastrophis
+m; applications of stratigraphy to climate change, petroleum
+ geology, and archaeology."
+EPS 116,1,"Introduction to the geometry and mechanics of brittle and du
+ctile geologic structures; their origins and genetic relatio
+n to stress fields and their use as kinematic indicators; ca
+se histories of selected regions to elucidate tectonic evolu
+tion in different plate tectonic settings. Laboratory exerci
+ses will focus on analysis of hand specimens and structural 
+relations portrayed on geologic maps. Several trips to obser
+ve geologic structures"
+EPS 117,1,"Quantitative examination of landforms, runoff generation, we
+athering, mechanics of soil erosion by water and wind, mass 
+wasting, glacial and periglacial processes and hillslope evo
+lution."
+EPS 118,1,"Advanced geological mapping, intensive field observation, an
+d problem solving in the field areas selected by instructors
+. Includes preparation of final reports."
+EPS 119,1,"Two to four weekend field trips to localities of geological 
+interest."
+EPS 122,1,"Gravity field, density distribution, and internal seismic st
+ructure of the Earth and planets. Constitution, composition,
+ temperature distribution, and energetics of the Earth's int
+erior. The geomagnetic field and the geodynamo, and concepts
+ in seismic imaging and geophysical fluid dynamics. This"
+EPS 124,1,"An overview of the use of natural isotopic variations to stu
+dy earth, planetary, and environmental problems. Topics incl
+ude geochronology, cosmogenic isotope studies of surficial p
+rocesses, radiocarbon and the carbon cycle, water isotopes i
+n the water cycle, and radiogenic and stable isotope studies
+ of planetary evolution, mantle dynamics, volcanoes, groundw
+ater, and geothermal systems. The course begins with a short
+ introduction to nuclear"
+EPS 125,1,"This course provides an introduction to the principles of st
+able isotope geochemistry and the application of these princ
+iples to problems in Earth and planetary science. This cours
+e provides a foundation for the physical, chemical, and biol
+ogical processes that cause isotopes to fractionate in natur
+e including the kinetic theory of gases, equilibrium thermod
+ynamics, and the kinetics of chemical reactions. These princ
+iples will be applied to the study"
+EPS C129,1,"This course describes how the physical environment (light, w
+ind, temperature, humidity) of plants and soil affects the p
+hysiological status of plants and how plants affect their ph
+ysical environment. Using experimental data and theory, it e
+xamines physical, biological, and chemical processes affecti
+ng transfer of momentum, energy, and material (water, CO2, a
+tmospheric trace gases) between vegetation and the atmospher
+e. Plant biometeorology instrumentation"
+EPS 130,1,"Generation of seismic waves. Synthetic accelerograms. Instru
+mentation to measure strong ground motion. Estimation of sei
+smic motion at a site. Ground motion spectra. Influence of s
+oils and geologic structures. Seismic risk mapping."
+EPS 131,1,"Chemical reactions in geological processes. Thermodynamic me
+thods for predicting chemical equilibria in nature. Isotopic
+ and chemical tracers of transport processes in the earth. C
+hemistry of the solid earth, oceans, and atmosphere."
+EPS C146,1,"The tectonics and morphology of the sea floor, the geologic 
+processes in the deep and shelf seas, and the climatic recor
+d contained in deep-sea sediments. The course will cover sou
+rces and composition of marine sediments, sea-level change, 
+ocean circulation, paleoenvironmental reconstruction using f
+ossils, imprint of climatic zonation on marine sediments, ma
+rine stratigraphy, and ocean floor resources."
+EPS 150,1,"Analysis and discussion of three research problems on the in
+teractions of solid earth, hydrologic, chemical, and atmosph
+eric processes. Emphasis is on the synthesis and application
+ of the student's disciplinary knowledge to a new integrativ
+e problem in the earth sciences."
+EPS C162,1,"Physics of planetary systems, both solar and extra-solar. St
+ar and planet formation, radioactive dating, small-body dyna
+mics and interaction of radiation with matter, tides, planet
+ary interiors, atmospheres, and magnetospheres. High-quality
+ oral presentations may be required in addition to problem s
+ets and a final exam."
+EPS C178,1,"The theory and practice of geophysical methods for determini
+ng the subsurface distribution of physical rock and soil pro
+perties. Measurements of gravity and magnetic fields, electr
+ical and electromagnetic fields, and seismic velocity are in
+terpreted to map the subsurface distribution of density, mag
+netic susceptibility, electrical conductivity, and mechanica
+l properties."
+EPS C180,1,"This course is an introduction to air pollution and the chem
+istry of earth's atmosphere. We will focus on the fundamenta
+l natural processes controlling trace gas and aerosol concen
+trations in the atmosphere, and how anthropogenic activity h
+as affected those processes at the local, regional, and glob
+al scales. Specific topics include stratospheric ozone deple
+tion, increasing concentrations of green house gasses, smog,
+ and changes in the oxidation"
+EPS C181,1,"This course examines the processes that determine the struct
+ure and circulation of the Earth's atmosphere. The approach 
+is deductive rather than descriptive: to figure out the prop
+erties and behavior of the Earth's atmosphere based on the l
+aws of physics and fluid dynamics. Topics will include inter
+action between radiation and atmospheric composition; the ro
+le of water in the energy and radiation balance; governing e
+quations for atmospheric motion"
+EPS C182,1,"Fluid dynamics, radiative transfer, and the kinetics, spectr
+oscopy, and measurement of atmospherically relevant species 
+are explored through laboratory experiments, numerical simul
+ations, and field observations."
+EPS C183,1,"The focus is the (unsolved) puzzle of the contemporary carbo
+n cycle. Why is the concentration of atmospheric CO2 changin
+g at the rate observed? What are the terrestrial and oceanic
+ processes that add and remove carbon from the atmosphere? W
+hat are the carbon management strategies under discussion? H
+ow can emission protocols be verified? Students are encourag
+ed to gain hands-on experience with the available data, and 
+learn modeling"
+EPS H195,1,"Original research and preparation of an acceptable thesis. M
+ay be taken during two consecutive semesters of senior year 
+and may be substituted for six units of the upper division r
+equirement with consent of major adviser."
+EPS 197,1,"Written proposal signed by faculty sponsor and approved by m
+ajor faculty advisor. Supervised experience relevant to spec
+ific aspects of students' EPS specialization in off-campus o
+rganization. Regular meetings with faculty sponsor and writt
+en report required."
+EPS 198,1,"Group studies of selected topics which vary from semester to
+ semester."
+EPS 199,1,Enrollment is restricted by regulations.
+EPS 3,1,"An overview of the processes that control water supply to na
+tural ecosystems and human civilization. Hydrologic cycle, f
+loods, droughts, groundwater. Patterns of water use, threats
+ to water quality, effects of global climate change on futur
+e water supplies. Water issues facing California."
+EPS 7,1,"This course covers the physical processes that determine Ear
+th's past, present, and future climate, with a particular fo
+cus on the essentially irreversible climate change (a.k.a., 
+global warming) caused by the burning of coal, oil, and natu
+ral gas. Topics will also"
+EPS 10,1,"A science-based course on the most significant eruptions Ear
+th has produced. Most eruptions discussed will be from withi
+n historic time and will involve information from geology (v
+olcanology), geography, archaeology, history, art, and paleo
+environmental records such as tree-rings and ice-cores. Afte
+r a two-class introduction to volcanoes, volcanic activity, 
+and volcanology, and the hazards vs benefits of eruptions, e
+ach class will feature one"
+EPS C12,1,"A tour of the mysteries and inner workings of our solar syst
+em. What are planets made of? Why do they orbit the sun the 
+way they do? How do planets form, and what are they made of?
+ Why do some bizarre moons have oceans, volcanoes, and ice f
+loes? What makes the Earth hospitable for life? Is the Earth
+ a common type of planet or some cosmic quirk? This course w
+ill introduce basic physics, chemistry, and math to understa
+nd planets, moons, rings"
+EPS W12,1,"A tour of the mysteries and inner workings of our solar syst
+em. What are planets made of? Why do they orbit the sun the 
+way they do? How do planets form, and what are they made of?
+ Why do some bizarre moons have oceans, volcanoes, and ice f
+loes? What makes the Earth hospitable for life? Is the Earth
+ a common type of planet or some cosmic quirk? This course w
+ill introduce basic physics, chemistry"
+EPS 20,1,"Introduction to earthquakes, their causes and effects. Gener
+al discussion of basic principles and methods of seismology 
+and geological tectonics, distribution of earthquakes in spa
+ce and time, effects of earthquakes, and earthquake hazard a
+nd risk, with particular emphasis on the situation in Califo
+rnia."
+EPS C20,1,"Introduction to earthquakes, their causes and effects. Gener
+al discussion of basic principles and methods of seismology 
+and geological tectonics, distribution of earthquakes in spa
+ce and time, effects of earthquakes, and earthquake hazard a
+nd risk, with particular emphasis on the situation in Califo
+rnia."
+EPS 24,1,"The freshman seminar in earth and planetary science is desig
+ned to provide new students with an opportunity to explore a
+ topic in geology or earth sciences with a faculty member in
+ a small seminar setting. Topics will vary from semester to 
+semester but will include such possible topics as great voya
+ges of geologic discovery and the role of atmospheric scienc
+es in geologic study."
+EPS 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+EPS 39A,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+EPS 50,1,"An introduction to the physical and chemical processes that 
+have shaped the earth through time, with emphasis on the the
+ory of plate tectonics. Laboratory work will involve the pra
+ctical study of minerals, rocks, and geologic maps and exerc
+ises on geological processes."
+EPS 80,1,"This course focuses on the processes on and in the earth tha
+t shape the environment. Humanity's use of land and oceans i
+s examined based on an understanding of these processes."
+EPS 81,1,"An introductory survey of the atmospheres of Earth and other
+ planets, spanning diverse phenomena such as hurricanes, dro
+ught, Martian dust storms, and the exotic winds on planets o
+rbiting other stars. This course introduces the basics of pl
+anetary weather and climate, showing through exploration of 
+a diverse set of atmospheres and paleoclimates that the worl
+d around us need not always be the way we currently observe 
+it. Topics include atmospheric composition"
+EPS C82,1,"This course offers multidisciplinary approach to begin answe
+ring the question ""Why are oceans important to us?"" Upon a p
+hysical, chemical, and geologic base, we introduce the alien
+ world of sea life, the importance of the ocean to the globa
+l carbon cycle, and the principles of ecology with a focus o
+n the important concept of energy flow through food webs. Le
+ctures expand beyond science to include current topics as di
+verse as"
+EPS N82,1,"The geology, physics, chemistry, and biology of the world oc
+eans. The application of oceanographic sciences to human pro
+blems will be explored through special topics such as energy
+ from the sea, marine pollution, food from the sea, and clim
+ate change."
+EPS 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+EPS 88,1,"Earthquakes and El Ninos are examples of natural hazards in 
+California. The course uses Python/Jupyter Notebook and real
+-world observations to introduce students to these and other
+ Earth phenomena and their underlying physics. The students 
+will learn how to access and visualize the data, extract sig
+nals, and make probability forecasts. The final module is a 
+project that synthesizes the course material to make a proba
+bilistic forecast. The course will be co-taught"
+EPS 98,1,"Group studies of selected topics which vary from semester to
+ semester."
+EPS 100A,1,"Introduction to structural, compositional, and physical prop
+erties of minerals, their analogs and related substances, th
+eir genesis in various geological and synthetic processes, a
+nd laboratory techniques to identify and investigate mineral
+s. One field trip to selected mineral deposits and visits to
+ laboratories."
+EPS 100B,1,"Introduction to the principal geologic environments where ro
+cks are formed and displayed. Igneous, sedimentary, and meta
+morphic processes discussed in the context of global tectoni
+cs."
+EPS C100,1,"For undergraduates interested in improving their ability to 
+communicate their scientific knowledge by teaching ocean sci
+ence in elementary schools or science centers/aquariums. The
+ course will combine instruction in inquiry-based teaching m
+ethods and learning pedagogy with six weeks of supervised te
+aching experience in a local school classroom or the Lawrenc
+e Hall of Science with a partner. Thus, students will practi
+ce communicating"
+EPS 101,1,"Geological mapping, field observation, and problem-solving i
+n the Berkeley hills and environs leading to original interp
+retation of geological processes and history from stratigrap
+hic, structural, and lithological investigations. Integratio
+n of the Berkeley hills geology into the Coast Ranges and Ca
+lifornia as a whole through field trips to key localities. T
+raining in digital field mapping, global positioning systems
+, and laser surveying. Interdisciplinary"
+EPS 102,1,"Formation and evolution of the earth. Nucleosynthesis; forma
+tion of the solar system; planetary accretion; dating the ea
+rth and solar system; formation of the core, mantle, oceans,
+ and atmosphere; plate tectonics; heat transfer and internal
+ dynamics; stratigraphic record of environment, and evolutio
+n; climate history and climate change."
+EPS 103,1,"Introduction to marine geochemistry: the global water cycle;
+ processes governing the distribution of chemical species wi
+thin the hydrosphere; ocean circulation; chemical mass balan
+ces, fluxes, and reactions in the marine environment from gl
+obal to submicron scales; carbon system equilibrium chemistr
+y and biogeochemistry of fresh and salt walter; applications
+ of natural and anthropogenic stable and radioactive tracers
+; internal ocean proc"
+EPS 104,1,"Linear systems. Linear inverse problems, least squares; gene
+ralized inverse, resolution; Fourier series, integral transf
+orms; time series analysis, spherical harmonics; partial dif
+ferntial equations of geophysics; functions of a complex var
+iable; probability and significance tests, maximum likelihoo
+d methods. Intended for students in geophysics and other phy
+sical sciences."
+EPS 108,1,"Basic principles in studying the physical properties of eart
+h materials and the dynamic processes of the earth. Examples
+ are drawn from tectonics, mechanics of earthquakes, etc., t
+o augment course material."
+EPS 109,1,"Introduction to modern computer simulation methods and their
+ application to selected Earth and Planetary Science problem
+s. In hands-on computer labs, students will learn about nume
+rical algorithms, learn to program and modify provided progr
+ams, and display the solution graphically. This is an introd
+uctory course and no programming experience is required. Exa
+mples include fractals in geophysics, properties of material
+s at high pressure, celestial"
+EPS 111,1,"Basin development related to plate tectonics. Origin of petr
+oleum: quality, quantity, thermal maturation of organic matt
+er in source rock. Primary and secondary migration. Petroleu
+m composition. Reservoir rock: stratigraphy and geometry. Tr
+aps: structural, stratigraphic or combination. Reservoir flu
+ids and energy. Oil provinces, individual fields."
+EPS 113,1,"We will survey the biological oceanography underlying geoche
+mical transformations in the sea. Students will develop a st
+rong understanding of evolution, the central dogma of molecu
+lar biology, cell structure across the domains of life, popu
+lation ecology, the metabolic strategies employed by marine 
+organisms, and the biomarkers of life in the ocean. These bi
+ological concepts will be the foundation for understanding g
+eochemical shifts as the earth was oxygenated, changes"
+EPS 115,1,"Collecting, analyzing, and presenting stratigraphic data; da
+ting and correlating sedimentary rocks; recognizing ancient 
+environments and reconstructing Earth history; seismic and s
+equence stratigraphy; event stratigraphy and neocatastrophis
+m; applications of stratigraphy to climate change, petroleum
+ geology, and archaeology."
+EPS 116,1,"Introduction to the geometry and mechanics of brittle and du
+ctile geologic structures; their origins and genetic relatio
+n to stress fields and their use as kinematic indicators; ca
+se histories of selected regions to elucidate tectonic evolu
+tion in different plate tectonic settings. Laboratory exerci
+ses will focus on analysis of hand specimens and structural 
+relations portrayed on geologic maps. Several trips to obser
+ve geologic structures"
+EPS 117,1,"Quantitative examination of landforms, runoff generation, we
+athering, mechanics of soil erosion by water and wind, mass 
+wasting, glacial and periglacial processes and hillslope evo
+lution."
+EPS 118,1,"Advanced geological mapping, intensive field observation, an
+d problem solving in the field areas selected by instructors
+. Includes preparation of final reports."
+EPS 119,1,"Two to four weekend field trips to localities of geological 
+interest."
+EPS 122,1,"Gravity field, density distribution, and internal seismic st
+ructure of the Earth and planets. Constitution, composition,
+ temperature distribution, and energetics of the Earth's int
+erior. The geomagnetic field and the geodynamo, and concepts
+ in seismic imaging and geophysical fluid dynamics. This"
+EPS 124,1,"An overview of the use of natural isotopic variations to stu
+dy earth, planetary, and environmental problems. Topics incl
+ude geochronology, cosmogenic isotope studies of surficial p
+rocesses, radiocarbon and the carbon cycle, water isotopes i
+n the water cycle, and radiogenic and stable isotope studies
+ of planetary evolution, mantle dynamics, volcanoes, groundw
+ater, and geothermal systems. The course begins with a short
+ introduction to nuclear"
+EPS 125,1,"This course provides an introduction to the principles of st
+able isotope geochemistry and the application of these princ
+iples to problems in Earth and planetary science. This cours
+e provides a foundation for the physical, chemical, and biol
+ogical processes that cause isotopes to fractionate in natur
+e including the kinetic theory of gases, equilibrium thermod
+ynamics, and the kinetics of chemical reactions. These princ
+iples will be applied to the study"
+EPS C129,1,"This course describes how the physical environment (light, w
+ind, temperature, humidity) of plants and soil affects the p
+hysiological status of plants and how plants affect their ph
+ysical environment. Using experimental data and theory, it e
+xamines physical, biological, and chemical processes affecti
+ng transfer of momentum, energy, and material (water, CO2, a
+tmospheric trace gases) between vegetation and the atmospher
+e. Plant biometeorology instrumentation"
+EPS 130,1,"Generation of seismic waves. Synthetic accelerograms. Instru
+mentation to measure strong ground motion. Estimation of sei
+smic motion at a site. Ground motion spectra. Influence of s
+oils and geologic structures. Seismic risk mapping."
+EPS 131,1,"Chemical reactions in geological processes. Thermodynamic me
+thods for predicting chemical equilibria in nature. Isotopic
+ and chemical tracers of transport processes in the earth. C
+hemistry of the solid earth, oceans, and atmosphere."
+EPS C146,1,"The tectonics and morphology of the sea floor, the geologic 
+processes in the deep and shelf seas, and the climatic recor
+d contained in deep-sea sediments. The course will cover sou
+rces and composition of marine sediments, sea-level change, 
+ocean circulation, paleoenvironmental reconstruction using f
+ossils, imprint of climatic zonation on marine sediments, ma
+rine stratigraphy, and ocean floor resources."
+EPS 150,1,"Analysis and discussion of three research problems on the in
+teractions of solid earth, hydrologic, chemical, and atmosph
+eric processes. Emphasis is on the synthesis and application
+ of the student's disciplinary knowledge to a new integrativ
+e problem in the earth sciences."
+EPS C162,1,"Physics of planetary systems, both solar and extra-solar. St
+ar and planet formation, radioactive dating, small-body dyna
+mics and interaction of radiation with matter, tides, planet
+ary interiors, atmospheres, and magnetospheres. High-quality
+ oral presentations may be required in addition to problem s
+ets and a final exam."
+EPS C178,1,"The theory and practice of geophysical methods for determini
+ng the subsurface distribution of physical rock and soil pro
+perties. Measurements of gravity and magnetic fields, electr
+ical and electromagnetic fields, and seismic velocity are in
+terpreted to map the subsurface distribution of density, mag
+netic susceptibility, electrical conductivity, and mechanica
+l properties."
+EPS C180,1,"This course is an introduction to air pollution and the chem
+istry of earth's atmosphere. We will focus on the fundamenta
+l natural processes controlling trace gas and aerosol concen
+trations in the atmosphere, and how anthropogenic activity h
+as affected those processes at the local, regional, and glob
+al scales. Specific topics include stratospheric ozone deple
+tion, increasing concentrations of green house gasses, smog,
+ and changes in the oxidation"
+EPS C181,1,"This course examines the processes that determine the struct
+ure and circulation of the Earth's atmosphere. The approach 
+is deductive rather than descriptive: to figure out the prop
+erties and behavior of the Earth's atmosphere based on the l
+aws of physics and fluid dynamics. Topics will include inter
+action between radiation and atmospheric composition; the ro
+le of water in the energy and radiation balance; governing e
+quations for atmospheric motion"
+EPS C182,1,"Fluid dynamics, radiative transfer, and the kinetics, spectr
+oscopy, and measurement of atmospherically relevant species 
+are explored through laboratory experiments, numerical simul
+ations, and field observations."
+EPS C183,1,"The focus is the (unsolved) puzzle of the contemporary carbo
+n cycle. Why is the concentration of atmospheric CO2 changin
+g at the rate observed? What are the terrestrial and oceanic
+ processes that add and remove carbon from the atmosphere? W
+hat are the carbon management strategies under discussion? H
+ow can emission protocols be verified? Students are encourag
+ed to gain hands-on experience with the available data, and 
+learn modeling"
+EPS H195,1,"Original research and preparation of an acceptable thesis. M
+ay be taken during two consecutive semesters of senior year 
+and may be substituted for six units of the upper division r
+equirement with consent of major adviser."
+EPS 197,1,"Written proposal signed by faculty sponsor and approved by m
+ajor faculty advisor. Supervised experience relevant to spec
+ific aspects of students' EPS specialization in off-campus o
+rganization. Regular meetings with faculty sponsor and writt
+en report required."
+EPS 198,1,"Group studies of selected topics which vary from semester to
+ semester."
+EPS 199,1,Enrollment is restricted by regulations.
+EPS 3,1,"An overview of the processes that control water supply to na
+tural ecosystems and human civilization. Hydrologic cycle, f
+loods, droughts, groundwater. Patterns of water use, threats
+ to water quality, effects of global climate change on futur
+e water supplies. Water issues facing California."
+EPS 7,1,"This course covers the physical processes that determine Ear
+th's past, present, and future climate, with a particular fo
+cus on the essentially irreversible climate change (a.k.a., 
+global warming) caused by the burning of coal, oil, and natu
+ral gas. Topics will also"
+EPS 10,1,"A science-based course on the most significant eruptions Ear
+th has produced. Most eruptions discussed will be from withi
+n historic time and will involve information from geology (v
+olcanology), geography, archaeology, history, art, and paleo
+environmental records such as tree-rings and ice-cores. Afte
+r a two-class introduction to volcanoes, volcanic activity, 
+and volcanology, and the hazards vs benefits of eruptions, e
+ach class will feature one"
+EPS C12,1,"A tour of the mysteries and inner workings of our solar syst
+em. What are planets made of? Why do they orbit the sun the 
+way they do? How do planets form, and what are they made of?
+ Why do some bizarre moons have oceans, volcanoes, and ice f
+loes? What makes the Earth hospitable for life? Is the Earth
+ a common type of planet or some cosmic quirk? This course w
+ill introduce basic physics, chemistry, and math to understa
+nd planets, moons, rings"
+EPS W12,1,"A tour of the mysteries and inner workings of our solar syst
+em. What are planets made of? Why do they orbit the sun the 
+way they do? How do planets form, and what are they made of?
+ Why do some bizarre moons have oceans, volcanoes, and ice f
+loes? What makes the Earth hospitable for life? Is the Earth
+ a common type of planet or some cosmic quirk? This course w
+ill introduce basic physics, chemistry"
+EPS 20,1,"Introduction to earthquakes, their causes and effects. Gener
+al discussion of basic principles and methods of seismology 
+and geological tectonics, distribution of earthquakes in spa
+ce and time, effects of earthquakes, and earthquake hazard a
+nd risk, with particular emphasis on the situation in Califo
+rnia."
+EPS C20,1,"Introduction to earthquakes, their causes and effects. Gener
+al discussion of basic principles and methods of seismology 
+and geological tectonics, distribution of earthquakes in spa
+ce and time, effects of earthquakes, and earthquake hazard a
+nd risk, with particular emphasis on the situation in Califo
+rnia."
+EPS 24,1,"The freshman seminar in earth and planetary science is desig
+ned to provide new students with an opportunity to explore a
+ topic in geology or earth sciences with a faculty member in
+ a small seminar setting. Topics will vary from semester to 
+semester but will include such possible topics as great voya
+ges of geologic discovery and the role of atmospheric scienc
+es in geologic study."
+EPS 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+EPS 39A,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+EPS 50,1,"An introduction to the physical and chemical processes that 
+have shaped the earth through time, with emphasis on the the
+ory of plate tectonics. Laboratory work will involve the pra
+ctical study of minerals, rocks, and geologic maps and exerc
+ises on geological processes."
+EPS 80,1,"This course focuses on the processes on and in the earth tha
+t shape the environment. Humanity's use of land and oceans i
+s examined based on an understanding of these processes."
+EPS 81,1,"An introductory survey of the atmospheres of Earth and other
+ planets, spanning diverse phenomena such as hurricanes, dro
+ught, Martian dust storms, and the exotic winds on planets o
+rbiting other stars. This course introduces the basics of pl
+anetary weather and climate, showing through exploration of 
+a diverse set of atmospheres and paleoclimates that the worl
+d around us need not always be the way we currently observe 
+it. Topics include atmospheric composition"
+EPS C82,1,"This course offers multidisciplinary approach to begin answe
+ring the question ""Why are oceans important to us?"" Upon a p
+hysical, chemical, and geologic base, we introduce the alien
+ world of sea life, the importance of the ocean to the globa
+l carbon cycle, and the principles of ecology with a focus o
+n the important concept of energy flow through food webs. Le
+ctures expand beyond science to include current topics as di
+verse as"
+EPS N82,1,"The geology, physics, chemistry, and biology of the world oc
+eans. The application of oceanographic sciences to human pro
+blems will be explored through special topics such as energy
+ from the sea, marine pollution, food from the sea, and clim
+ate change."
+EPS 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+EPS 88,1,"Earthquakes and El Ninos are examples of natural hazards in 
+California. The course uses Python/Jupyter Notebook and real
+-world observations to introduce students to these and other
+ Earth phenomena and their underlying physics. The students 
+will learn how to access and visualize the data, extract sig
+nals, and make probability forecasts. The final module is a 
+project that synthesizes the course material to make a proba
+bilistic forecast. The course will be co-taught"
+EPS 98,1,"Group studies of selected topics which vary from semester to
+ semester."
+EPS 100A,1,"Introduction to structural, compositional, and physical prop
+erties of minerals, their analogs and related substances, th
+eir genesis in various geological and synthetic processes, a
+nd laboratory techniques to identify and investigate mineral
+s. One field trip to selected mineral deposits and visits to
+ laboratories."
+EPS 100B,1,"Introduction to the principal geologic environments where ro
+cks are formed and displayed. Igneous, sedimentary, and meta
+morphic processes discussed in the context of global tectoni
+cs."
+EPS C100,1,"For undergraduates interested in improving their ability to 
+communicate their scientific knowledge by teaching ocean sci
+ence in elementary schools or science centers/aquariums. The
+ course will combine instruction in inquiry-based teaching m
+ethods and learning pedagogy with six weeks of supervised te
+aching experience in a local school classroom or the Lawrenc
+e Hall of Science with a partner. Thus, students will practi
+ce communicating"
+EPS 101,1,"Geological mapping, field observation, and problem-solving i
+n the Berkeley hills and environs leading to original interp
+retation of geological processes and history from stratigrap
+hic, structural, and lithological investigations. Integratio
+n of the Berkeley hills geology into the Coast Ranges and Ca
+lifornia as a whole through field trips to key localities. T
+raining in digital field mapping, global positioning systems
+, and laser surveying. Interdisciplinary"
+EPS 102,1,"Formation and evolution of the earth. Nucleosynthesis; forma
+tion of the solar system; planetary accretion; dating the ea
+rth and solar system; formation of the core, mantle, oceans,
+ and atmosphere; plate tectonics; heat transfer and internal
+ dynamics; stratigraphic record of environment, and evolutio
+n; climate history and climate change."
+EPS 103,1,"Introduction to marine geochemistry: the global water cycle;
+ processes governing the distribution of chemical species wi
+thin the hydrosphere; ocean circulation; chemical mass balan
+ces, fluxes, and reactions in the marine environment from gl
+obal to submicron scales; carbon system equilibrium chemistr
+y and biogeochemistry of fresh and salt walter; applications
+ of natural and anthropogenic stable and radioactive tracers
+; internal ocean proc"
+EPS 104,1,"Linear systems. Linear inverse problems, least squares; gene
+ralized inverse, resolution; Fourier series, integral transf
+orms; time series analysis, spherical harmonics; partial dif
+ferntial equations of geophysics; functions of a complex var
+iable; probability and significance tests, maximum likelihoo
+d methods. Intended for students in geophysics and other phy
+sical sciences."
+EPS 108,1,"Basic principles in studying the physical properties of eart
+h materials and the dynamic processes of the earth. Examples
+ are drawn from tectonics, mechanics of earthquakes, etc., t
+o augment course material."
+EPS 109,1,"Introduction to modern computer simulation methods and their
+ application to selected Earth and Planetary Science problem
+s. In hands-on computer labs, students will learn about nume
+rical algorithms, learn to program and modify provided progr
+ams, and display the solution graphically. This is an introd
+uctory course and no programming experience is required. Exa
+mples include fractals in geophysics, properties of material
+s at high pressure, celestial"
+EPS 111,1,"Basin development related to plate tectonics. Origin of petr
+oleum: quality, quantity, thermal maturation of organic matt
+er in source rock. Primary and secondary migration. Petroleu
+m composition. Reservoir rock: stratigraphy and geometry. Tr
+aps: structural, stratigraphic or combination. Reservoir flu
+ids and energy. Oil provinces, individual fields."
+EPS 113,1,"We will survey the biological oceanography underlying geoche
+mical transformations in the sea. Students will develop a st
+rong understanding of evolution, the central dogma of molecu
+lar biology, cell structure across the domains of life, popu
+lation ecology, the metabolic strategies employed by marine 
+organisms, and the biomarkers of life in the ocean. These bi
+ological concepts will be the foundation for understanding g
+eochemical shifts as the earth was oxygenated, changes"
+EPS 115,1,"Collecting, analyzing, and presenting stratigraphic data; da
+ting and correlating sedimentary rocks; recognizing ancient 
+environments and reconstructing Earth history; seismic and s
+equence stratigraphy; event stratigraphy and neocatastrophis
+m; applications of stratigraphy to climate change, petroleum
+ geology, and archaeology."
+EPS 116,1,"Introduction to the geometry and mechanics of brittle and du
+ctile geologic structures; their origins and genetic relatio
+n to stress fields and their use as kinematic indicators; ca
+se histories of selected regions to elucidate tectonic evolu
+tion in different plate tectonic settings. Laboratory exerci
+ses will focus on analysis of hand specimens and structural 
+relations portrayed on geologic maps. Several trips to obser
+ve geologic structures"
+EPS 117,1,"Quantitative examination of landforms, runoff generation, we
+athering, mechanics of soil erosion by water and wind, mass 
+wasting, glacial and periglacial processes and hillslope evo
+lution."
+EPS 118,1,"Advanced geological mapping, intensive field observation, an
+d problem solving in the field areas selected by instructors
+. Includes preparation of final reports."
+EPS 119,1,"Two to four weekend field trips to localities of geological 
+interest."
+EPS 122,1,"Gravity field, density distribution, and internal seismic st
+ructure of the Earth and planets. Constitution, composition,
+ temperature distribution, and energetics of the Earth's int
+erior. The geomagnetic field and the geodynamo, and concepts
+ in seismic imaging and geophysical fluid dynamics. This"
+EPS 124,1,"An overview of the use of natural isotopic variations to stu
+dy earth, planetary, and environmental problems. Topics incl
+ude geochronology, cosmogenic isotope studies of surficial p
+rocesses, radiocarbon and the carbon cycle, water isotopes i
+n the water cycle, and radiogenic and stable isotope studies
+ of planetary evolution, mantle dynamics, volcanoes, groundw
+ater, and geothermal systems. The course begins with a short
+ introduction to nuclear"
+EPS 125,1,"This course provides an introduction to the principles of st
+able isotope geochemistry and the application of these princ
+iples to problems in Earth and planetary science. This cours
+e provides a foundation for the physical, chemical, and biol
+ogical processes that cause isotopes to fractionate in natur
+e including the kinetic theory of gases, equilibrium thermod
+ynamics, and the kinetics of chemical reactions. These princ
+iples will be applied to the study"
+EPS C129,1,"This course describes how the physical environment (light, w
+ind, temperature, humidity) of plants and soil affects the p
+hysiological status of plants and how plants affect their ph
+ysical environment. Using experimental data and theory, it e
+xamines physical, biological, and chemical processes affecti
+ng transfer of momentum, energy, and material (water, CO2, a
+tmospheric trace gases) between vegetation and the atmospher
+e. Plant biometeorology instrumentation"
+EPS 130,1,"Generation of seismic waves. Synthetic accelerograms. Instru
+mentation to measure strong ground motion. Estimation of sei
+smic motion at a site. Ground motion spectra. Influence of s
+oils and geologic structures. Seismic risk mapping."
+EPS 131,1,"Chemical reactions in geological processes. Thermodynamic me
+thods for predicting chemical equilibria in nature. Isotopic
+ and chemical tracers of transport processes in the earth. C
+hemistry of the solid earth, oceans, and atmosphere."
+EPS C146,1,"The tectonics and morphology of the sea floor, the geologic 
+processes in the deep and shelf seas, and the climatic recor
+d contained in deep-sea sediments. The course will cover sou
+rces and composition of marine sediments, sea-level change, 
+ocean circulation, paleoenvironmental reconstruction using f
+ossils, imprint of climatic zonation on marine sediments, ma
+rine stratigraphy, and ocean floor resources."
+EPS 150,1,"Analysis and discussion of three research problems on the in
+teractions of solid earth, hydrologic, chemical, and atmosph
+eric processes. Emphasis is on the synthesis and application
+ of the student's disciplinary knowledge to a new integrativ
+e problem in the earth sciences."
+EPS C162,1,"Physics of planetary systems, both solar and extra-solar. St
+ar and planet formation, radioactive dating, small-body dyna
+mics and interaction of radiation with matter, tides, planet
+ary interiors, atmospheres, and magnetospheres. High-quality
+ oral presentations may be required in addition to problem s
+ets and a final exam."
+EPS C178,1,"The theory and practice of geophysical methods for determini
+ng the subsurface distribution of physical rock and soil pro
+perties. Measurements of gravity and magnetic fields, electr
+ical and electromagnetic fields, and seismic velocity are in
+terpreted to map the subsurface distribution of density, mag
+netic susceptibility, electrical conductivity, and mechanica
+l properties."
+EPS C180,1,"This course is an introduction to air pollution and the chem
+istry of earth's atmosphere. We will focus on the fundamenta
+l natural processes controlling trace gas and aerosol concen
+trations in the atmosphere, and how anthropogenic activity h
+as affected those processes at the local, regional, and glob
+al scales. Specific topics include stratospheric ozone deple
+tion, increasing concentrations of green house gasses, smog,
+ and changes in the oxidation"
+EPS C181,1,"This course examines the processes that determine the struct
+ure and circulation of the Earth's atmosphere. The approach 
+is deductive rather than descriptive: to figure out the prop
+erties and behavior of the Earth's atmosphere based on the l
+aws of physics and fluid dynamics. Topics will include inter
+action between radiation and atmospheric composition; the ro
+le of water in the energy and radiation balance; governing e
+quations for atmospheric motion"
+EPS C182,1,"Fluid dynamics, radiative transfer, and the kinetics, spectr
+oscopy, and measurement of atmospherically relevant species 
+are explored through laboratory experiments, numerical simul
+ations, and field observations."
+EPS C183,1,"The focus is the (unsolved) puzzle of the contemporary carbo
+n cycle. Why is the concentration of atmospheric CO2 changin
+g at the rate observed? What are the terrestrial and oceanic
+ processes that add and remove carbon from the atmosphere? W
+hat are the carbon management strategies under discussion? H
+ow can emission protocols be verified? Students are encourag
+ed to gain hands-on experience with the available data, and 
+learn modeling"
+EPS H195,1,"Original research and preparation of an acceptable thesis. M
+ay be taken during two consecutive semesters of senior year 
+and may be substituted for six units of the upper division r
+equirement with consent of major adviser."
+EPS 197,1,"Written proposal signed by faculty sponsor and approved by m
+ajor faculty advisor. Supervised experience relevant to spec
+ific aspects of students' EPS specialization in off-campus o
+rganization. Regular meetings with faculty sponsor and writt
+en report required."
+EPS 198,1,"Group studies of selected topics which vary from semester to
+ semester."
+EPS 199,1,Enrollment is restricted by regulations.
+EPS 3,1,"An overview of the processes that control water supply to na
+tural ecosystems and human civilization. Hydrologic cycle, f
+loods, droughts, groundwater. Patterns of water use, threats
+ to water quality, effects of global climate change on futur
+e water supplies. Water issues facing California."
+EPS 7,1,"This course covers the physical processes that determine Ear
+th's past, present, and future climate, with a particular fo
+cus on the essentially irreversible climate change (a.k.a., 
+global warming) caused by the burning of coal, oil, and natu
+ral gas. Topics will also"
+EPS 10,1,"A science-based course on the most significant eruptions Ear
+th has produced. Most eruptions discussed will be from withi
+n historic time and will involve information from geology (v
+olcanology), geography, archaeology, history, art, and paleo
+environmental records such as tree-rings and ice-cores. Afte
+r a two-class introduction to volcanoes, volcanic activity, 
+and volcanology, and the hazards vs benefits of eruptions, e
+ach class will feature one"
+EPS C12,1,"A tour of the mysteries and inner workings of our solar syst
+em. What are planets made of? Why do they orbit the sun the 
+way they do? How do planets form, and what are they made of?
+ Why do some bizarre moons have oceans, volcanoes, and ice f
+loes? What makes the Earth hospitable for life? Is the Earth
+ a common type of planet or some cosmic quirk? This course w
+ill introduce basic physics, chemistry, and math to understa
+nd planets, moons, rings"
+EPS W12,1,"A tour of the mysteries and inner workings of our solar syst
+em. What are planets made of? Why do they orbit the sun the 
+way they do? How do planets form, and what are they made of?
+ Why do some bizarre moons have oceans, volcanoes, and ice f
+loes? What makes the Earth hospitable for life? Is the Earth
+ a common type of planet or some cosmic quirk? This course w
+ill introduce basic physics, chemistry"
+EPS 20,1,"Introduction to earthquakes, their causes and effects. Gener
+al discussion of basic principles and methods of seismology 
+and geological tectonics, distribution of earthquakes in spa
+ce and time, effects of earthquakes, and earthquake hazard a
+nd risk, with particular emphasis on the situation in Califo
+rnia."
+EPS C20,1,"Introduction to earthquakes, their causes and effects. Gener
+al discussion of basic principles and methods of seismology 
+and geological tectonics, distribution of earthquakes in spa
+ce and time, effects of earthquakes, and earthquake hazard a
+nd risk, with particular emphasis on the situation in Califo
+rnia."
+EPS 24,1,"The freshman seminar in earth and planetary science is desig
+ned to provide new students with an opportunity to explore a
+ topic in geology or earth sciences with a faculty member in
+ a small seminar setting. Topics will vary from semester to 
+semester but will include such possible topics as great voya
+ges of geologic discovery and the role of atmospheric scienc
+es in geologic study."
+EPS 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+EPS 39A,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+EPS 50,1,"An introduction to the physical and chemical processes that 
+have shaped the earth through time, with emphasis on the the
+ory of plate tectonics. Laboratory work will involve the pra
+ctical study of minerals, rocks, and geologic maps and exerc
+ises on geological processes."
+EPS 80,1,"This course focuses on the processes on and in the earth tha
+t shape the environment. Humanity's use of land and oceans i
+s examined based on an understanding of these processes."
+EPS 81,1,"An introductory survey of the atmospheres of Earth and other
+ planets, spanning diverse phenomena such as hurricanes, dro
+ught, Martian dust storms, and the exotic winds on planets o
+rbiting other stars. This course introduces the basics of pl
+anetary weather and climate, showing through exploration of 
+a diverse set of atmospheres and paleoclimates that the worl
+d around us need not always be the way we currently observe 
+it. Topics include atmospheric composition"
+EPS C82,1,"This course offers multidisciplinary approach to begin answe
+ring the question ""Why are oceans important to us?"" Upon a p
+hysical, chemical, and geologic base, we introduce the alien
+ world of sea life, the importance of the ocean to the globa
+l carbon cycle, and the principles of ecology with a focus o
+n the important concept of energy flow through food webs. Le
+ctures expand beyond science to include current topics as di
+verse as"
+EPS N82,1,"The geology, physics, chemistry, and biology of the world oc
+eans. The application of oceanographic sciences to human pro
+blems will be explored through special topics such as energy
+ from the sea, marine pollution, food from the sea, and clim
+ate change."
+EPS 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+EPS 88,1,"Earthquakes and El Ninos are examples of natural hazards in 
+California. The course uses Python/Jupyter Notebook and real
+-world observations to introduce students to these and other
+ Earth phenomena and their underlying physics. The students 
+will learn how to access and visualize the data, extract sig
+nals, and make probability forecasts. The final module is a 
+project that synthesizes the course material to make a proba
+bilistic forecast. The course will be co-taught"
+EPS 98,1,"Group studies of selected topics which vary from semester to
+ semester."
+EPS 100A,1,"Introduction to structural, compositional, and physical prop
+erties of minerals, their analogs and related substances, th
+eir genesis in various geological and synthetic processes, a
+nd laboratory techniques to identify and investigate mineral
+s. One field trip to selected mineral deposits and visits to
+ laboratories."
+EPS 100B,1,"Introduction to the principal geologic environments where ro
+cks are formed and displayed. Igneous, sedimentary, and meta
+morphic processes discussed in the context of global tectoni
+cs."
+EPS C100,1,"For undergraduates interested in improving their ability to 
+communicate their scientific knowledge by teaching ocean sci
+ence in elementary schools or science centers/aquariums. The
+ course will combine instruction in inquiry-based teaching m
+ethods and learning pedagogy with six weeks of supervised te
+aching experience in a local school classroom or the Lawrenc
+e Hall of Science with a partner. Thus, students will practi
+ce communicating"
+EPS 101,1,"Geological mapping, field observation, and problem-solving i
+n the Berkeley hills and environs leading to original interp
+retation of geological processes and history from stratigrap
+hic, structural, and lithological investigations. Integratio
+n of the Berkeley hills geology into the Coast Ranges and Ca
+lifornia as a whole through field trips to key localities. T
+raining in digital field mapping, global positioning systems
+, and laser surveying. Interdisciplinary"
+EPS 102,1,"Formation and evolution of the earth. Nucleosynthesis; forma
+tion of the solar system; planetary accretion; dating the ea
+rth and solar system; formation of the core, mantle, oceans,
+ and atmosphere; plate tectonics; heat transfer and internal
+ dynamics; stratigraphic record of environment, and evolutio
+n; climate history and climate change."
+EPS 103,1,"Introduction to marine geochemistry: the global water cycle;
+ processes governing the distribution of chemical species wi
+thin the hydrosphere; ocean circulation; chemical mass balan
+ces, fluxes, and reactions in the marine environment from gl
+obal to submicron scales; carbon system equilibrium chemistr
+y and biogeochemistry of fresh and salt walter; applications
+ of natural and anthropogenic stable and radioactive tracers
+; internal ocean proc"
+EPS 104,1,"Linear systems. Linear inverse problems, least squares; gene
+ralized inverse, resolution; Fourier series, integral transf
+orms; time series analysis, spherical harmonics; partial dif
+ferntial equations of geophysics; functions of a complex var
+iable; probability and significance tests, maximum likelihoo
+d methods. Intended for students in geophysics and other phy
+sical sciences."
+EPS 108,1,"Basic principles in studying the physical properties of eart
+h materials and the dynamic processes of the earth. Examples
+ are drawn from tectonics, mechanics of earthquakes, etc., t
+o augment course material."
+EPS 109,1,"Introduction to modern computer simulation methods and their
+ application to selected Earth and Planetary Science problem
+s. In hands-on computer labs, students will learn about nume
+rical algorithms, learn to program and modify provided progr
+ams, and display the solution graphically. This is an introd
+uctory course and no programming experience is required. Exa
+mples include fractals in geophysics, properties of material
+s at high pressure, celestial"
+EPS 111,1,"Basin development related to plate tectonics. Origin of petr
+oleum: quality, quantity, thermal maturation of organic matt
+er in source rock. Primary and secondary migration. Petroleu
+m composition. Reservoir rock: stratigraphy and geometry. Tr
+aps: structural, stratigraphic or combination. Reservoir flu
+ids and energy. Oil provinces, individual fields."
+EPS 113,1,"We will survey the biological oceanography underlying geoche
+mical transformations in the sea. Students will develop a st
+rong understanding of evolution, the central dogma of molecu
+lar biology, cell structure across the domains of life, popu
+lation ecology, the metabolic strategies employed by marine 
+organisms, and the biomarkers of life in the ocean. These bi
+ological concepts will be the foundation for understanding g
+eochemical shifts as the earth was oxygenated, changes"
+EPS 115,1,"Collecting, analyzing, and presenting stratigraphic data; da
+ting and correlating sedimentary rocks; recognizing ancient 
+environments and reconstructing Earth history; seismic and s
+equence stratigraphy; event stratigraphy and neocatastrophis
+m; applications of stratigraphy to climate change, petroleum
+ geology, and archaeology."
+EPS 116,1,"Introduction to the geometry and mechanics of brittle and du
+ctile geologic structures; their origins and genetic relatio
+n to stress fields and their use as kinematic indicators; ca
+se histories of selected regions to elucidate tectonic evolu
+tion in different plate tectonic settings. Laboratory exerci
+ses will focus on analysis of hand specimens and structural 
+relations portrayed on geologic maps. Several trips to obser
+ve geologic structures"
+EPS 117,1,"Quantitative examination of landforms, runoff generation, we
+athering, mechanics of soil erosion by water and wind, mass 
+wasting, glacial and periglacial processes and hillslope evo
+lution."
+EPS 118,1,"Advanced geological mapping, intensive field observation, an
+d problem solving in the field areas selected by instructors
+. Includes preparation of final reports."
+EPS 119,1,"Two to four weekend field trips to localities of geological 
+interest."
+EPS 122,1,"Gravity field, density distribution, and internal seismic st
+ructure of the Earth and planets. Constitution, composition,
+ temperature distribution, and energetics of the Earth's int
+erior. The geomagnetic field and the geodynamo, and concepts
+ in seismic imaging and geophysical fluid dynamics. This"
+EPS 124,1,"An overview of the use of natural isotopic variations to stu
+dy earth, planetary, and environmental problems. Topics incl
+ude geochronology, cosmogenic isotope studies of surficial p
+rocesses, radiocarbon and the carbon cycle, water isotopes i
+n the water cycle, and radiogenic and stable isotope studies
+ of planetary evolution, mantle dynamics, volcanoes, groundw
+ater, and geothermal systems. The course begins with a short
+ introduction to nuclear"
+EPS 125,1,"This course provides an introduction to the principles of st
+able isotope geochemistry and the application of these princ
+iples to problems in Earth and planetary science. This cours
+e provides a foundation for the physical, chemical, and biol
+ogical processes that cause isotopes to fractionate in natur
+e including the kinetic theory of gases, equilibrium thermod
+ynamics, and the kinetics of chemical reactions. These princ
+iples will be applied to the study"
+EPS C129,1,"This course describes how the physical environment (light, w
+ind, temperature, humidity) of plants and soil affects the p
+hysiological status of plants and how plants affect their ph
+ysical environment. Using experimental data and theory, it e
+xamines physical, biological, and chemical processes affecti
+ng transfer of momentum, energy, and material (water, CO2, a
+tmospheric trace gases) between vegetation and the atmospher
+e. Plant biometeorology instrumentation"
+EPS 130,1,"Generation of seismic waves. Synthetic accelerograms. Instru
+mentation to measure strong ground motion. Estimation of sei
+smic motion at a site. Ground motion spectra. Influence of s
+oils and geologic structures. Seismic risk mapping."
+EPS 131,1,"Chemical reactions in geological processes. Thermodynamic me
+thods for predicting chemical equilibria in nature. Isotopic
+ and chemical tracers of transport processes in the earth. C
+hemistry of the solid earth, oceans, and atmosphere."
+EPS C146,1,"The tectonics and morphology of the sea floor, the geologic 
+processes in the deep and shelf seas, and the climatic recor
+d contained in deep-sea sediments. The course will cover sou
+rces and composition of marine sediments, sea-level change, 
+ocean circulation, paleoenvironmental reconstruction using f
+ossils, imprint of climatic zonation on marine sediments, ma
+rine stratigraphy, and ocean floor resources."
+EPS 150,1,"Analysis and discussion of three research problems on the in
+teractions of solid earth, hydrologic, chemical, and atmosph
+eric processes. Emphasis is on the synthesis and application
+ of the student's disciplinary knowledge to a new integrativ
+e problem in the earth sciences."
+EPS C162,1,"Physics of planetary systems, both solar and extra-solar. St
+ar and planet formation, radioactive dating, small-body dyna
+mics and interaction of radiation with matter, tides, planet
+ary interiors, atmospheres, and magnetospheres. High-quality
+ oral presentations may be required in addition to problem s
+ets and a final exam."
+EPS C178,1,"The theory and practice of geophysical methods for determini
+ng the subsurface distribution of physical rock and soil pro
+perties. Measurements of gravity and magnetic fields, electr
+ical and electromagnetic fields, and seismic velocity are in
+terpreted to map the subsurface distribution of density, mag
+netic susceptibility, electrical conductivity, and mechanica
+l properties."
+EPS C180,1,"This course is an introduction to air pollution and the chem
+istry of earth's atmosphere. We will focus on the fundamenta
+l natural processes controlling trace gas and aerosol concen
+trations in the atmosphere, and how anthropogenic activity h
+as affected those processes at the local, regional, and glob
+al scales. Specific topics include stratospheric ozone deple
+tion, increasing concentrations of green house gasses, smog,
+ and changes in the oxidation"
+EPS C181,1,"This course examines the processes that determine the struct
+ure and circulation of the Earth's atmosphere. The approach 
+is deductive rather than descriptive: to figure out the prop
+erties and behavior of the Earth's atmosphere based on the l
+aws of physics and fluid dynamics. Topics will include inter
+action between radiation and atmospheric composition; the ro
+le of water in the energy and radiation balance; governing e
+quations for atmospheric motion"
+EPS C182,1,"Fluid dynamics, radiative transfer, and the kinetics, spectr
+oscopy, and measurement of atmospherically relevant species 
+are explored through laboratory experiments, numerical simul
+ations, and field observations."
+EPS C183,1,"The focus is the (unsolved) puzzle of the contemporary carbo
+n cycle. Why is the concentration of atmospheric CO2 changin
+g at the rate observed? What are the terrestrial and oceanic
+ processes that add and remove carbon from the atmosphere? W
+hat are the carbon management strategies under discussion? H
+ow can emission protocols be verified? Students are encourag
+ed to gain hands-on experience with the available data, and 
+learn modeling"
+EPS H195,1,"Original research and preparation of an acceptable thesis. M
+ay be taken during two consecutive semesters of senior year 
+and may be substituted for six units of the upper division r
+equirement with consent of major adviser."
+EPS 197,1,"Written proposal signed by faculty sponsor and approved by m
+ajor faculty advisor. Supervised experience relevant to spec
+ific aspects of students' EPS specialization in off-campus o
+rganization. Regular meetings with faculty sponsor and writt
+en report required."
+EPS 198,1,"Group studies of selected topics which vary from semester to
+ semester."
 EPS 199,1,Enrollment is restricted by regulations.

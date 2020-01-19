@@ -1,54 +1,1046 @@
 name,size,about
 ITALIAN 1,1,Basic grammar for beginners: Part one.
-ITALIAN 1R,1,"An intensive Italian language course designed for native or advanced speakers of Romance languages (French, Spanish, Portuguese, Romanian, Catalan). In one semester, we will cover materials usually taught in two semesters in Elementary Italian 1 and 2. Students who successfully complete the course will be able to enroll in Italian 3 (Intermediate Italian). Regular attendance is mandatory."
-ITALIAN 1S,1,"An intensive Italian language course designed for native or advanced speakers of Romance languages (French, Spanish, Portuguese, Romanian, Catalan). In one semester, we will cover materials usually taught in two semesters in Elementary Italian 1 and 2. Students who successfully complete the course will be able to enroll in Italian 3 (Intermediate Italian). Regular and continued attendance of both classes is mandatory."
-ITALIAN W1,1,"Elementary Italian W1 is for beginners and focuses on developing basic language skills (reading, writing, speaking, and listening) in Italian. Italian will be spoken in class at all times; students will be exposed to authentic Italian material from films, songs, websites, and will have the opportunity to practice their listening and speaking skills daily. This is a hybrid course, including both a face-to-face and a hybrid component to be completed online: attendance"
+ITALIAN 1R,1,"An intensive Italian language course designed for native or 
+advanced speakers of Romance languages (French, Spanish, Por
+tuguese, Romanian, Catalan). In one semester, we will cover 
+materials usually taught in two semesters in Elementary Ital
+ian 1 and 2. Students who successfully complete the course w
+ill be able to enroll in Italian 3 (Intermediate Italian). R
+egular attendance is mandatory."
+ITALIAN 1S,1,"An intensive Italian language course designed for native or 
+advanced speakers of Romance languages (French, Spanish, Por
+tuguese, Romanian, Catalan). In one semester, we will cover 
+materials usually taught in two semesters in Elementary Ital
+ian 1 and 2. Students who successfully complete the course w
+ill be able to enroll in Italian 3 (Intermediate Italian). R
+egular and continued attendance of both classes is mandatory
+."
+ITALIAN W1,1,"Elementary Italian W1 is for beginners and focuses on develo
+ping basic language skills (reading, writing, speaking, and 
+listening) in Italian. Italian will be spoken in class at al
+l times; students will be exposed to authentic Italian mater
+ial from films, songs, websites, and will have the opportuni
+ty to practice their listening and speaking skills daily. Th
+is is a hybrid course, including both a face-to-face and a h
+ybrid component to be completed online: attendance"
 ITALIAN 2,1,Basic grammar for beginners: Part two.
-ITALIAN W2,1,"Elementary Italian W2 is for students who already have some knowledge of basic structures and vocabulary of Italian. Students will expand their knowledge and mastery of grammar, vocabulary, pronunciation; improve speaking, listening, reading and writing skills and learn about Italian culture and society. Italian will be spoken in class at all times; students will be exposed to authentic Italian material and will practice listening and speaking daily."
+ITALIAN W2,1,"Elementary Italian W2 is for students who already have some 
+knowledge of basic structures and vocabulary of Italian. Stu
+dents will expand their knowledge and mastery of grammar, vo
+cabulary, pronunciation; improve speaking, listening, readin
+g and writing skills and learn about Italian culture and soc
+iety. Italian will be spoken in class at all times; students
+ will be exposed to authentic Italian material and will prac
+tice listening and speaking daily."
 ITALIAN 3,1,"Grammar review, reading, and written composition."
-ITALIAN 4,1,Selected readings in modern Italian prose; a review of the essentials of grammar; written and oral compositions.
-ITALIAN R5A,1,"Reading and composition course based on works by Italians and foreigners about Italy and its culture and by Italians about their distinctive experiences of other cultures as tourists and emigrants. Works studied will be primarily chosen from among fiction and non fiction narratives, both originally in English and translated into it. R5A satisfies the first half of the Reading and Composition Requirement and R5B satisfies the second half."
-ITALIAN R5B,1,"Reading and composition course based on works by Italians and foreigners about Italy and its culture and by Italians about their distinctive experiences of other cultures as tourists and emigrants. Works studied will be primarily chosen from among fiction and non fiction narratives, both originally in English and translated into it. R5A satisfies the first half of the Reading and Composition Requirement"
-ITALIAN 11,1,"The aim of this course is to develop and enhance oral communication skills in students who have already learned the basics of Italian grammar in Italian 1 and Italian 2. Through this course students will enrich their listening and speaking skills through the acquisition of new vocabulary, conversational practice, oral reports, discussions, and collaborative projects."
-ITALIAN 12,1,"The course is designed to develop and enhance oral communication skills at an advanced level, by means of conversational practice, discussion of readings, student presentation or original material, and use of audio-visual materials and realia."
-ITALIAN N12,1,"This course is designed to develop and enhance oral communication skills at an advance level, by means of conversational practice, discussion of readings, student presentation on original material, and use of audio-visual materials and realia."
-ITALIAN 24,1,"The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley Seminars are offered in all campus departments, and topics vary from department to department and semester to semester."
-ITALIAN 25,1,"This course serves as an introduction to Italian Studies in a comparative and interdisciplinary context. In each iteration of the course, students will learn about major intellectual debates in Italian culture and society, viewed in relation to their global context. Topics will vary with instructor."
-ITALIAN 30,1,An introduction to Dante's works in the cultural and historical context of the European Middle Ages.
-ITALIAN N30,1,An introduction to Dante's works in the cultural and historical context of the European Middle Ages.
-ITALIAN 39C,1,Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester.
-ITALIAN 39F,1,Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester.
-ITALIAN 40,1,"Introduction to Italian studies through selected topics and themes integral to the history, literature, and arts of Italy from Dante to Fellini."
-ITALIAN 50,1,"Interdisciplinary introduction to the Italian Renaissance through selected topics integral to the history, literature, and arts of Italy in the fifteenth and sixteenth centuries."
+ITALIAN 4,1,"Selected readings in modern Italian prose; a review of the e
+ssentials of grammar; written and oral compositions."
+ITALIAN R5A,1,"Reading and composition course based on works by Italians an
+d foreigners about Italy and its culture and by Italians abo
+ut their distinctive experiences of other cultures as touris
+ts and emigrants. Works studied will be primarily chosen fro
+m among fiction and non fiction narratives, both originally 
+in English and translated into it. R5A satisfies the first h
+alf of the Reading and Composition Requirement and R5B satis
+fies the second half."
+ITALIAN R5B,1,"Reading and composition course based on works by Italians an
+d foreigners about Italy and its culture and by Italians abo
+ut their distinctive experiences of other cultures as touris
+ts and emigrants. Works studied will be primarily chosen fro
+m among fiction and non fiction narratives, both originally 
+in English and translated into it. R5A satisfies the first h
+alf of the Reading and Composition Requirement"
+ITALIAN 11,1,"The aim of this course is to develop and enhance oral commun
+ication skills in students who have already learned the basi
+cs of Italian grammar in Italian 1 and Italian 2. Through th
+is course students will enrich their listening and speaking 
+skills through the acquisition of new vocabulary, conversati
+onal practice, oral reports, discussions, and collaborative 
+projects."
+ITALIAN 12,1,"The course is designed to develop and enhance oral communica
+tion skills at an advanced level, by means of conversational
+ practice, discussion of readings, student presentation or o
+riginal material, and use of audio-visual materials and real
+ia."
+ITALIAN N12,1,"This course is designed to develop and enhance oral communic
+ation skills at an advance level, by means of conversational
+ practice, discussion of readings, student presentation on o
+riginal material, and use of audio-visual materials and real
+ia."
+ITALIAN 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+ITALIAN 25,1,"This course serves as an introduction to Italian Studies in 
+a comparative and interdisciplinary context. In each iterati
+on of the course, students will learn about major intellectu
+al debates in Italian culture and society, viewed in relatio
+n to their global context. Topics will vary with instructor."
+ITALIAN 30,1,"An introduction to Dante's works in the cultural and histori
+cal context of the European Middle Ages."
+ITALIAN N30,1,"An introduction to Dante's works in the cultural and histori
+cal context of the European Middle Ages."
+ITALIAN 39C,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+ITALIAN 39F,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+ITALIAN 40,1,"Introduction to Italian studies through selected topics and 
+themes integral to the history, literature, and arts of Ital
+y from Dante to Fellini."
+ITALIAN 50,1,"Interdisciplinary introduction to the Italian Renaissance th
+rough selected topics integral to the history, literature, a
+nd arts of Italy in the fifteenth and sixteenth centuries."
 ITALIAN C62,1,
-ITALIAN 70,1,"This course is a brief introduction to the history of Italian cinema. No prior knowledge of Italian cinema or film theory is necessary. We will study major auteurs and genres of Italian cinema in the context of Italian culture and history from 1895 to the present. The course is structured chronologically: we will begin with silent cinema, work our way through the 20th century, and end with contemporary"
-ITALIAN N70,1,"This course is a brief introduction to the history of Italian cinema. No prior knowledge of Italian cinema or film theory is necessary. We will study major auteurs and genres of Italian cinema in the context of Italian culture and history from 1895 to the present. The course is structured chronologically: we will begin with silent cinema, work our way through the 20th century, and end with contemporary cinema. All students must attend weekly screenings. Films and"
-ITALIAN 97,1,"Supervised field programs involving experiences in schools and school-related activities. Weekly participation commitment, regular individual meetings with faculty supervisor and written reports required."
-ITALIAN 98,1,Group study of selected topics not covered by regularly scheduled courses.
-ITALIAN 101,1,"A writing-intensive course that aims to strengthen writing skills though varied genres, including literary analysis, journalism, and biography, and through multiple revisions. The course is a prerequisite for all upper division courses."
-ITALIAN 101A,1,Reading and grammatical analysis of representative texts; advanced written composition.
-ITALIAN 101B,1,Reading and grammatical analysis of representative texts; advanced written composition.
-ITALIAN 102,1,"This course aims to develop advanced oral and aural skills through discussion, debate, performance, and role-play about the arts in Italy, including cinema, theater, the figurative arts, and music."
-ITALIAN 103,1,"Introduction to the historical development of culture and literature in Italian from the Middle Ages to the present day. Lectures, critical analysis of texts, frequent writing exercises. In Italian."
-ITALIAN 104,1,"Introduction to basic works of Italian literature (fiction, poetry, drama) with an emphasis on techniques of reading."
-ITALIAN 105,1,"Introduction to the historical development of Italian culture from the Middle Ages to the present, with an emphasis on critical analysis of literary and visual texts in relation to the politics and societies of the Italian peninsula, and an ultimate goal of advancing student’s critical and linguistic skills."
-ITALIAN 109,1,A close introductory reading of Dante's Commedia. Taught in Italian.
-ITALIAN 110,1,"Emphasis on the literature and culture of the 13th and 14th centuries. Literature will emphasize the ""Stil Novo"" and Dante's minor works as well as Boccaccio's and Petrarch's ."
-ITALIAN 112,1,Studies in the literature and culture of the High Renaissance and the Late Renaissance.
+ITALIAN 70,1,"This course is a brief introduction to the history of Italia
+n cinema. No prior knowledge of Italian cinema or film theor
+y is necessary. We will study major auteurs and genres of It
+alian cinema in the context of Italian culture and history f
+rom 1895 to the present. The course is structured chronologi
+cally: we will begin with silent cinema, work our way throug
+h the 20th century, and end with contemporary"
+ITALIAN N70,1,"This course is a brief introduction to the history of Italia
+n cinema. No prior knowledge of Italian cinema or film theor
+y is necessary. We will study major auteurs and genres of It
+alian cinema in the context of Italian culture and history f
+rom 1895 to the present. The course is structured chronologi
+cally: we will begin with silent cinema, work our way throug
+h the 20th century, and end with contemporary cinema. All st
+udents must attend weekly screenings. Films and"
+ITALIAN 97,1,"Supervised field programs involving experiences in schools a
+nd school-related activities. Weekly participation commitmen
+t, regular individual meetings with faculty supervisor and w
+ritten reports required."
+ITALIAN 98,1,"Group study of selected topics not covered by regularly sche
+duled courses."
+ITALIAN 101,1,"A writing-intensive course that aims to strengthen writing s
+kills though varied genres, including literary analysis, jou
+rnalism, and biography, and through multiple revisions. The 
+course is a prerequisite for all upper division courses."
+ITALIAN 101A,1,"Reading and grammatical analysis of representative texts; ad
+vanced written composition."
+ITALIAN 101B,1,"Reading and grammatical analysis of representative texts; ad
+vanced written composition."
+ITALIAN 102,1,"This course aims to develop advanced oral and aural skills t
+hrough discussion, debate, performance, and role-play about 
+the arts in Italy, including cinema, theater, the figurative
+ arts, and music."
+ITALIAN 103,1,"Introduction to the historical development of culture and li
+terature in Italian from the Middle Ages to the present day.
+ Lectures, critical analysis of texts, frequent writing exer
+cises. In Italian."
+ITALIAN 104,1,"Introduction to basic works of Italian literature (fiction, 
+poetry, drama) with an emphasis on techniques of reading."
+ITALIAN 105,1,"Introduction to the historical development of Italian cultur
+e from the Middle Ages to the present, with an emphasis on c
+ritical analysis of literary and visual texts in relation to
+ the politics and societies of the Italian peninsula, and an
+ ultimate goal of advancing student’s critical and linguisti
+c skills."
+ITALIAN 109,1,"A close introductory reading of Dante's Commedia. Taught in 
+Italian."
+ITALIAN 110,1,"Emphasis on the literature and culture of the 13th and 14th 
+centuries. Literature will emphasize the ""Stil Novo"" and Dan
+te's minor works as well as Boccaccio's and Petrarch's ."
+ITALIAN 112,1,"Studies in the literature and culture of the High Renaissanc
+e and the Late Renaissance."
 ITALIAN 114,1,"Emphasis on the works of Vico, Goldoni, Parini, Alfieri."
-ITALIAN 115,1,Studies in the literature and culture of nineteenth-century Italy.
-ITALIAN 117,1,"The main trends in the fiction, poetry, prose and theatre of the twentieth and twenty-first centuries."
-ITALIAN 120,1,"Three hours of lectures, readings, and discussion per week on major authors, themes, and movements in Italian literature."
-ITALIAN 130A,1,An introduction to Dante's Inferno in the context of his other works. Taught in English.
-ITALIAN 130B,1,A close introductory reading of Dante's Purgatorio and Paradiso. Prior completion of Italian 130A Inferno is recommended. Taught in English.
-ITALIAN 150AC,1,"This course will ask students to think critically about work and labor in various U.S. contexts, while introducing them to key concepts in late twentieth-century Italian social theory."
-ITALIAN 160,1,"The course will study Italian culture from the perspective of social and historical forces, as articulated by a broad variety of cultural, ideological, and institutional discourses."
-ITALIAN 160S,1,"The course will study Italian culture from the perspective of social and historical forces, as articulated by a broad variety of cultural, ideological, and institutional discourses."
-ITALIAN N160,1,"The course will study Italian culture from the perspective of social and historical forces, as articulated by a broad variety of cultural, ideological, and institutional discourses. Taught in English or Italian."
-ITALIAN 163,1,"The course will study Italian culture from the perspective of literary discourse in its responses to a broad spectrum of cultural, ideological, and institutional forces. Taught in English or Italian."
-ITALIAN 170,1,"An analysis of Italian cinema as seen in the development of specific film genres such as neorealism, comedy, self-reflexive cinema. Occasionally the course will concentrate on a specific director and study his individuality through style, theme, and personal development. This course fulfills film major requirement in one of history, genre, auteur."
-ITALIAN 175,1,"The interaction of film style with literary and poetic structure studied through film theories, film novels, and the work of outstanding Italian film directors. Literature shaped by film experience and films dealing with the essence of cinematic form will be analyzed. This course may fulfill the film major requirement in theory."
-ITALIAN H195,1,Limited to senior honors candidates. Directed study relating to the writing of an honors thesis.
-ITALIAN 197,1,"Supervised field programs involving experiences in schools and school-related activities. Weekly participation commitment, regular individual meetings with faculty supervisor and written reports required."
-ITALIAN 198,1,Supervised group study of selected topics not covered by regularly scheduled courses.
-ITALIAN 199,1,Enrollment restrictions apply; see the Introduction to the Course and Curricula section of this catalog.
+ITALIAN 115,1,"Studies in the literature and culture of nineteenth-century 
+Italy."
+ITALIAN 117,1,"The main trends in the fiction, poetry, prose and theatre of
+ the twentieth and twenty-first centuries."
+ITALIAN 120,1,"Three hours of lectures, readings, and discussion per week o
+n major authors, themes, and movements in Italian literature
+."
+ITALIAN 130A,1,"An introduction to Dante's Inferno in the context of his oth
+er works. Taught in English."
+ITALIAN 130B,1,"A close introductory reading of Dante's Purgatorio and Parad
+iso. Prior completion of Italian 130A Inferno is recommended
+. Taught in English."
+ITALIAN 150AC,1,"This course will ask students to think critically about work
+ and labor in various U.S. contexts, while introducing them 
+to key concepts in late twentieth-century Italian social the
+ory."
+ITALIAN 160,1,"The course will study Italian culture from the perspective o
+f social and historical forces, as articulated by a broad va
+riety of cultural, ideological, and institutional discourses
+."
+ITALIAN 160S,1,"The course will study Italian culture from the perspective o
+f social and historical forces, as articulated by a broad va
+riety of cultural, ideological, and institutional discourses
+."
+ITALIAN N160,1,"The course will study Italian culture from the perspective o
+f social and historical forces, as articulated by a broad va
+riety of cultural, ideological, and institutional discourses
+. Taught in English or Italian."
+ITALIAN 163,1,"The course will study Italian culture from the perspective o
+f literary discourse in its responses to a broad spectrum of
+ cultural, ideological, and institutional forces. Taught in 
+English or Italian."
+ITALIAN 170,1,"An analysis of Italian cinema as seen in the development of 
+specific film genres such as neorealism, comedy, self-reflex
+ive cinema. Occasionally the course will concentrate on a sp
+ecific director and study his individuality through style, t
+heme, and personal development. This course fulfills film ma
+jor requirement in one of history, genre, auteur."
+ITALIAN 175,1,"The interaction of film style with literary and poetic struc
+ture studied through film theories, film novels, and the wor
+k of outstanding Italian film directors. Literature shaped b
+y film experience and films dealing with the essence of cine
+matic form will be analyzed. This course may fulfill the fil
+m major requirement in theory."
+ITALIAN H195,1,"Limited to senior honors candidates. Directed study relating
+ to the writing of an honors thesis."
+ITALIAN 197,1,"Supervised field programs involving experiences in schools a
+nd school-related activities. Weekly participation commitmen
+t, regular individual meetings with faculty supervisor and w
+ritten reports required."
+ITALIAN 198,1,"Supervised group study of selected topics not covered by reg
+ularly scheduled courses."
+ITALIAN 199,1,"Enrollment restrictions apply; see the Introduction to the C
+ourse and Curricula section of this catalog."
+ITALIAN 1,1,Basic grammar for beginners: Part one.
+ITALIAN 1R,1,"An intensive Italian language course designed for native or 
+advanced speakers of Romance languages (French, Spanish, Por
+tuguese, Romanian, Catalan). In one semester, we will cover 
+materials usually taught in two semesters in Elementary Ital
+ian 1 and 2. Students who successfully complete the course w
+ill be able to enroll in Italian 3 (Intermediate Italian). R
+egular attendance is mandatory."
+ITALIAN 1S,1,"An intensive Italian language course designed for native or 
+advanced speakers of Romance languages (French, Spanish, Por
+tuguese, Romanian, Catalan). In one semester, we will cover 
+materials usually taught in two semesters in Elementary Ital
+ian 1 and 2. Students who successfully complete the course w
+ill be able to enroll in Italian 3 (Intermediate Italian). R
+egular and continued attendance of both classes is mandatory
+."
+ITALIAN W1,1,"Elementary Italian W1 is for beginners and focuses on develo
+ping basic language skills (reading, writing, speaking, and 
+listening) in Italian. Italian will be spoken in class at al
+l times; students will be exposed to authentic Italian mater
+ial from films, songs, websites, and will have the opportuni
+ty to practice their listening and speaking skills daily. Th
+is is a hybrid course, including both a face-to-face and a h
+ybrid component to be completed online: attendance"
+ITALIAN 2,1,Basic grammar for beginners: Part two.
+ITALIAN W2,1,"Elementary Italian W2 is for students who already have some 
+knowledge of basic structures and vocabulary of Italian. Stu
+dents will expand their knowledge and mastery of grammar, vo
+cabulary, pronunciation; improve speaking, listening, readin
+g and writing skills and learn about Italian culture and soc
+iety. Italian will be spoken in class at all times; students
+ will be exposed to authentic Italian material and will prac
+tice listening and speaking daily."
+ITALIAN 3,1,"Grammar review, reading, and written composition."
+ITALIAN 4,1,"Selected readings in modern Italian prose; a review of the e
+ssentials of grammar; written and oral compositions."
+ITALIAN R5A,1,"Reading and composition course based on works by Italians an
+d foreigners about Italy and its culture and by Italians abo
+ut their distinctive experiences of other cultures as touris
+ts and emigrants. Works studied will be primarily chosen fro
+m among fiction and non fiction narratives, both originally 
+in English and translated into it. R5A satisfies the first h
+alf of the Reading and Composition Requirement and R5B satis
+fies the second half."
+ITALIAN R5B,1,"Reading and composition course based on works by Italians an
+d foreigners about Italy and its culture and by Italians abo
+ut their distinctive experiences of other cultures as touris
+ts and emigrants. Works studied will be primarily chosen fro
+m among fiction and non fiction narratives, both originally 
+in English and translated into it. R5A satisfies the first h
+alf of the Reading and Composition Requirement"
+ITALIAN 11,1,"The aim of this course is to develop and enhance oral commun
+ication skills in students who have already learned the basi
+cs of Italian grammar in Italian 1 and Italian 2. Through th
+is course students will enrich their listening and speaking 
+skills through the acquisition of new vocabulary, conversati
+onal practice, oral reports, discussions, and collaborative 
+projects."
+ITALIAN 12,1,"The course is designed to develop and enhance oral communica
+tion skills at an advanced level, by means of conversational
+ practice, discussion of readings, student presentation or o
+riginal material, and use of audio-visual materials and real
+ia."
+ITALIAN N12,1,"This course is designed to develop and enhance oral communic
+ation skills at an advance level, by means of conversational
+ practice, discussion of readings, student presentation on o
+riginal material, and use of audio-visual materials and real
+ia."
+ITALIAN 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+ITALIAN 25,1,"This course serves as an introduction to Italian Studies in 
+a comparative and interdisciplinary context. In each iterati
+on of the course, students will learn about major intellectu
+al debates in Italian culture and society, viewed in relatio
+n to their global context. Topics will vary with instructor."
+ITALIAN 30,1,"An introduction to Dante's works in the cultural and histori
+cal context of the European Middle Ages."
+ITALIAN N30,1,"An introduction to Dante's works in the cultural and histori
+cal context of the European Middle Ages."
+ITALIAN 39C,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+ITALIAN 39F,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+ITALIAN 40,1,"Introduction to Italian studies through selected topics and 
+themes integral to the history, literature, and arts of Ital
+y from Dante to Fellini."
+ITALIAN 50,1,"Interdisciplinary introduction to the Italian Renaissance th
+rough selected topics integral to the history, literature, a
+nd arts of Italy in the fifteenth and sixteenth centuries."
+ITALIAN C62,1,
+ITALIAN 70,1,"This course is a brief introduction to the history of Italia
+n cinema. No prior knowledge of Italian cinema or film theor
+y is necessary. We will study major auteurs and genres of It
+alian cinema in the context of Italian culture and history f
+rom 1895 to the present. The course is structured chronologi
+cally: we will begin with silent cinema, work our way throug
+h the 20th century, and end with contemporary"
+ITALIAN N70,1,"This course is a brief introduction to the history of Italia
+n cinema. No prior knowledge of Italian cinema or film theor
+y is necessary. We will study major auteurs and genres of It
+alian cinema in the context of Italian culture and history f
+rom 1895 to the present. The course is structured chronologi
+cally: we will begin with silent cinema, work our way throug
+h the 20th century, and end with contemporary cinema. All st
+udents must attend weekly screenings. Films and"
+ITALIAN 97,1,"Supervised field programs involving experiences in schools a
+nd school-related activities. Weekly participation commitmen
+t, regular individual meetings with faculty supervisor and w
+ritten reports required."
+ITALIAN 98,1,"Group study of selected topics not covered by regularly sche
+duled courses."
+ITALIAN 101,1,"A writing-intensive course that aims to strengthen writing s
+kills though varied genres, including literary analysis, jou
+rnalism, and biography, and through multiple revisions. The 
+course is a prerequisite for all upper division courses."
+ITALIAN 101A,1,"Reading and grammatical analysis of representative texts; ad
+vanced written composition."
+ITALIAN 101B,1,"Reading and grammatical analysis of representative texts; ad
+vanced written composition."
+ITALIAN 102,1,"This course aims to develop advanced oral and aural skills t
+hrough discussion, debate, performance, and role-play about 
+the arts in Italy, including cinema, theater, the figurative
+ arts, and music."
+ITALIAN 103,1,"Introduction to the historical development of culture and li
+terature in Italian from the Middle Ages to the present day.
+ Lectures, critical analysis of texts, frequent writing exer
+cises. In Italian."
+ITALIAN 104,1,"Introduction to basic works of Italian literature (fiction, 
+poetry, drama) with an emphasis on techniques of reading."
+ITALIAN 105,1,"Introduction to the historical development of Italian cultur
+e from the Middle Ages to the present, with an emphasis on c
+ritical analysis of literary and visual texts in relation to
+ the politics and societies of the Italian peninsula, and an
+ ultimate goal of advancing student’s critical and linguisti
+c skills."
+ITALIAN 109,1,"A close introductory reading of Dante's Commedia. Taught in 
+Italian."
+ITALIAN 110,1,"Emphasis on the literature and culture of the 13th and 14th 
+centuries. Literature will emphasize the ""Stil Novo"" and Dan
+te's minor works as well as Boccaccio's and Petrarch's ."
+ITALIAN 112,1,"Studies in the literature and culture of the High Renaissanc
+e and the Late Renaissance."
+ITALIAN 114,1,"Emphasis on the works of Vico, Goldoni, Parini, Alfieri."
+ITALIAN 115,1,"Studies in the literature and culture of nineteenth-century 
+Italy."
+ITALIAN 117,1,"The main trends in the fiction, poetry, prose and theatre of
+ the twentieth and twenty-first centuries."
+ITALIAN 120,1,"Three hours of lectures, readings, and discussion per week o
+n major authors, themes, and movements in Italian literature
+."
+ITALIAN 130A,1,"An introduction to Dante's Inferno in the context of his oth
+er works. Taught in English."
+ITALIAN 130B,1,"A close introductory reading of Dante's Purgatorio and Parad
+iso. Prior completion of Italian 130A Inferno is recommended
+. Taught in English."
+ITALIAN 150AC,1,"This course will ask students to think critically about work
+ and labor in various U.S. contexts, while introducing them 
+to key concepts in late twentieth-century Italian social the
+ory."
+ITALIAN 160,1,"The course will study Italian culture from the perspective o
+f social and historical forces, as articulated by a broad va
+riety of cultural, ideological, and institutional discourses
+."
+ITALIAN 160S,1,"The course will study Italian culture from the perspective o
+f social and historical forces, as articulated by a broad va
+riety of cultural, ideological, and institutional discourses
+."
+ITALIAN N160,1,"The course will study Italian culture from the perspective o
+f social and historical forces, as articulated by a broad va
+riety of cultural, ideological, and institutional discourses
+. Taught in English or Italian."
+ITALIAN 163,1,"The course will study Italian culture from the perspective o
+f literary discourse in its responses to a broad spectrum of
+ cultural, ideological, and institutional forces. Taught in 
+English or Italian."
+ITALIAN 170,1,"An analysis of Italian cinema as seen in the development of 
+specific film genres such as neorealism, comedy, self-reflex
+ive cinema. Occasionally the course will concentrate on a sp
+ecific director and study his individuality through style, t
+heme, and personal development. This course fulfills film ma
+jor requirement in one of history, genre, auteur."
+ITALIAN 175,1,"The interaction of film style with literary and poetic struc
+ture studied through film theories, film novels, and the wor
+k of outstanding Italian film directors. Literature shaped b
+y film experience and films dealing with the essence of cine
+matic form will be analyzed. This course may fulfill the fil
+m major requirement in theory."
+ITALIAN H195,1,"Limited to senior honors candidates. Directed study relating
+ to the writing of an honors thesis."
+ITALIAN 197,1,"Supervised field programs involving experiences in schools a
+nd school-related activities. Weekly participation commitmen
+t, regular individual meetings with faculty supervisor and w
+ritten reports required."
+ITALIAN 198,1,"Supervised group study of selected topics not covered by reg
+ularly scheduled courses."
+ITALIAN 199,1,"Enrollment restrictions apply; see the Introduction to the C
+ourse and Curricula section of this catalog."
+ITALIAN 1,1,Basic grammar for beginners: Part one.
+ITALIAN 1R,1,"An intensive Italian language course designed for native or 
+advanced speakers of Romance languages (French, Spanish, Por
+tuguese, Romanian, Catalan). In one semester, we will cover 
+materials usually taught in two semesters in Elementary Ital
+ian 1 and 2. Students who successfully complete the course w
+ill be able to enroll in Italian 3 (Intermediate Italian). R
+egular attendance is mandatory."
+ITALIAN 1S,1,"An intensive Italian language course designed for native or 
+advanced speakers of Romance languages (French, Spanish, Por
+tuguese, Romanian, Catalan). In one semester, we will cover 
+materials usually taught in two semesters in Elementary Ital
+ian 1 and 2. Students who successfully complete the course w
+ill be able to enroll in Italian 3 (Intermediate Italian). R
+egular and continued attendance of both classes is mandatory
+."
+ITALIAN W1,1,"Elementary Italian W1 is for beginners and focuses on develo
+ping basic language skills (reading, writing, speaking, and 
+listening) in Italian. Italian will be spoken in class at al
+l times; students will be exposed to authentic Italian mater
+ial from films, songs, websites, and will have the opportuni
+ty to practice their listening and speaking skills daily. Th
+is is a hybrid course, including both a face-to-face and a h
+ybrid component to be completed online: attendance"
+ITALIAN 2,1,Basic grammar for beginners: Part two.
+ITALIAN W2,1,"Elementary Italian W2 is for students who already have some 
+knowledge of basic structures and vocabulary of Italian. Stu
+dents will expand their knowledge and mastery of grammar, vo
+cabulary, pronunciation; improve speaking, listening, readin
+g and writing skills and learn about Italian culture and soc
+iety. Italian will be spoken in class at all times; students
+ will be exposed to authentic Italian material and will prac
+tice listening and speaking daily."
+ITALIAN 3,1,"Grammar review, reading, and written composition."
+ITALIAN 4,1,"Selected readings in modern Italian prose; a review of the e
+ssentials of grammar; written and oral compositions."
+ITALIAN R5A,1,"Reading and composition course based on works by Italians an
+d foreigners about Italy and its culture and by Italians abo
+ut their distinctive experiences of other cultures as touris
+ts and emigrants. Works studied will be primarily chosen fro
+m among fiction and non fiction narratives, both originally 
+in English and translated into it. R5A satisfies the first h
+alf of the Reading and Composition Requirement and R5B satis
+fies the second half."
+ITALIAN R5B,1,"Reading and composition course based on works by Italians an
+d foreigners about Italy and its culture and by Italians abo
+ut their distinctive experiences of other cultures as touris
+ts and emigrants. Works studied will be primarily chosen fro
+m among fiction and non fiction narratives, both originally 
+in English and translated into it. R5A satisfies the first h
+alf of the Reading and Composition Requirement"
+ITALIAN 11,1,"The aim of this course is to develop and enhance oral commun
+ication skills in students who have already learned the basi
+cs of Italian grammar in Italian 1 and Italian 2. Through th
+is course students will enrich their listening and speaking 
+skills through the acquisition of new vocabulary, conversati
+onal practice, oral reports, discussions, and collaborative 
+projects."
+ITALIAN 12,1,"The course is designed to develop and enhance oral communica
+tion skills at an advanced level, by means of conversational
+ practice, discussion of readings, student presentation or o
+riginal material, and use of audio-visual materials and real
+ia."
+ITALIAN N12,1,"This course is designed to develop and enhance oral communic
+ation skills at an advance level, by means of conversational
+ practice, discussion of readings, student presentation on o
+riginal material, and use of audio-visual materials and real
+ia."
+ITALIAN 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+ITALIAN 25,1,"This course serves as an introduction to Italian Studies in 
+a comparative and interdisciplinary context. In each iterati
+on of the course, students will learn about major intellectu
+al debates in Italian culture and society, viewed in relatio
+n to their global context. Topics will vary with instructor."
+ITALIAN 30,1,"An introduction to Dante's works in the cultural and histori
+cal context of the European Middle Ages."
+ITALIAN N30,1,"An introduction to Dante's works in the cultural and histori
+cal context of the European Middle Ages."
+ITALIAN 39C,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+ITALIAN 39F,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+ITALIAN 40,1,"Introduction to Italian studies through selected topics and 
+themes integral to the history, literature, and arts of Ital
+y from Dante to Fellini."
+ITALIAN 50,1,"Interdisciplinary introduction to the Italian Renaissance th
+rough selected topics integral to the history, literature, a
+nd arts of Italy in the fifteenth and sixteenth centuries."
+ITALIAN C62,1,
+ITALIAN 70,1,"This course is a brief introduction to the history of Italia
+n cinema. No prior knowledge of Italian cinema or film theor
+y is necessary. We will study major auteurs and genres of It
+alian cinema in the context of Italian culture and history f
+rom 1895 to the present. The course is structured chronologi
+cally: we will begin with silent cinema, work our way throug
+h the 20th century, and end with contemporary"
+ITALIAN N70,1,"This course is a brief introduction to the history of Italia
+n cinema. No prior knowledge of Italian cinema or film theor
+y is necessary. We will study major auteurs and genres of It
+alian cinema in the context of Italian culture and history f
+rom 1895 to the present. The course is structured chronologi
+cally: we will begin with silent cinema, work our way throug
+h the 20th century, and end with contemporary cinema. All st
+udents must attend weekly screenings. Films and"
+ITALIAN 97,1,"Supervised field programs involving experiences in schools a
+nd school-related activities. Weekly participation commitmen
+t, regular individual meetings with faculty supervisor and w
+ritten reports required."
+ITALIAN 98,1,"Group study of selected topics not covered by regularly sche
+duled courses."
+ITALIAN 101,1,"A writing-intensive course that aims to strengthen writing s
+kills though varied genres, including literary analysis, jou
+rnalism, and biography, and through multiple revisions. The 
+course is a prerequisite for all upper division courses."
+ITALIAN 101A,1,"Reading and grammatical analysis of representative texts; ad
+vanced written composition."
+ITALIAN 101B,1,"Reading and grammatical analysis of representative texts; ad
+vanced written composition."
+ITALIAN 102,1,"This course aims to develop advanced oral and aural skills t
+hrough discussion, debate, performance, and role-play about 
+the arts in Italy, including cinema, theater, the figurative
+ arts, and music."
+ITALIAN 103,1,"Introduction to the historical development of culture and li
+terature in Italian from the Middle Ages to the present day.
+ Lectures, critical analysis of texts, frequent writing exer
+cises. In Italian."
+ITALIAN 104,1,"Introduction to basic works of Italian literature (fiction, 
+poetry, drama) with an emphasis on techniques of reading."
+ITALIAN 105,1,"Introduction to the historical development of Italian cultur
+e from the Middle Ages to the present, with an emphasis on c
+ritical analysis of literary and visual texts in relation to
+ the politics and societies of the Italian peninsula, and an
+ ultimate goal of advancing student’s critical and linguisti
+c skills."
+ITALIAN 109,1,"A close introductory reading of Dante's Commedia. Taught in 
+Italian."
+ITALIAN 110,1,"Emphasis on the literature and culture of the 13th and 14th 
+centuries. Literature will emphasize the ""Stil Novo"" and Dan
+te's minor works as well as Boccaccio's and Petrarch's ."
+ITALIAN 112,1,"Studies in the literature and culture of the High Renaissanc
+e and the Late Renaissance."
+ITALIAN 114,1,"Emphasis on the works of Vico, Goldoni, Parini, Alfieri."
+ITALIAN 115,1,"Studies in the literature and culture of nineteenth-century 
+Italy."
+ITALIAN 117,1,"The main trends in the fiction, poetry, prose and theatre of
+ the twentieth and twenty-first centuries."
+ITALIAN 120,1,"Three hours of lectures, readings, and discussion per week o
+n major authors, themes, and movements in Italian literature
+."
+ITALIAN 130A,1,"An introduction to Dante's Inferno in the context of his oth
+er works. Taught in English."
+ITALIAN 130B,1,"A close introductory reading of Dante's Purgatorio and Parad
+iso. Prior completion of Italian 130A Inferno is recommended
+. Taught in English."
+ITALIAN 150AC,1,"This course will ask students to think critically about work
+ and labor in various U.S. contexts, while introducing them 
+to key concepts in late twentieth-century Italian social the
+ory."
+ITALIAN 160,1,"The course will study Italian culture from the perspective o
+f social and historical forces, as articulated by a broad va
+riety of cultural, ideological, and institutional discourses
+."
+ITALIAN 160S,1,"The course will study Italian culture from the perspective o
+f social and historical forces, as articulated by a broad va
+riety of cultural, ideological, and institutional discourses
+."
+ITALIAN N160,1,"The course will study Italian culture from the perspective o
+f social and historical forces, as articulated by a broad va
+riety of cultural, ideological, and institutional discourses
+. Taught in English or Italian."
+ITALIAN 163,1,"The course will study Italian culture from the perspective o
+f literary discourse in its responses to a broad spectrum of
+ cultural, ideological, and institutional forces. Taught in 
+English or Italian."
+ITALIAN 170,1,"An analysis of Italian cinema as seen in the development of 
+specific film genres such as neorealism, comedy, self-reflex
+ive cinema. Occasionally the course will concentrate on a sp
+ecific director and study his individuality through style, t
+heme, and personal development. This course fulfills film ma
+jor requirement in one of history, genre, auteur."
+ITALIAN 175,1,"The interaction of film style with literary and poetic struc
+ture studied through film theories, film novels, and the wor
+k of outstanding Italian film directors. Literature shaped b
+y film experience and films dealing with the essence of cine
+matic form will be analyzed. This course may fulfill the fil
+m major requirement in theory."
+ITALIAN H195,1,"Limited to senior honors candidates. Directed study relating
+ to the writing of an honors thesis."
+ITALIAN 197,1,"Supervised field programs involving experiences in schools a
+nd school-related activities. Weekly participation commitmen
+t, regular individual meetings with faculty supervisor and w
+ritten reports required."
+ITALIAN 198,1,"Supervised group study of selected topics not covered by reg
+ularly scheduled courses."
+ITALIAN 199,1,"Enrollment restrictions apply; see the Introduction to the C
+ourse and Curricula section of this catalog."
+ITALIAN 1,1,Basic grammar for beginners: Part one.
+ITALIAN 1R,1,"An intensive Italian language course designed for native or 
+advanced speakers of Romance languages (French, Spanish, Por
+tuguese, Romanian, Catalan). In one semester, we will cover 
+materials usually taught in two semesters in Elementary Ital
+ian 1 and 2. Students who successfully complete the course w
+ill be able to enroll in Italian 3 (Intermediate Italian). R
+egular attendance is mandatory."
+ITALIAN 1S,1,"An intensive Italian language course designed for native or 
+advanced speakers of Romance languages (French, Spanish, Por
+tuguese, Romanian, Catalan). In one semester, we will cover 
+materials usually taught in two semesters in Elementary Ital
+ian 1 and 2. Students who successfully complete the course w
+ill be able to enroll in Italian 3 (Intermediate Italian). R
+egular and continued attendance of both classes is mandatory
+."
+ITALIAN W1,1,"Elementary Italian W1 is for beginners and focuses on develo
+ping basic language skills (reading, writing, speaking, and 
+listening) in Italian. Italian will be spoken in class at al
+l times; students will be exposed to authentic Italian mater
+ial from films, songs, websites, and will have the opportuni
+ty to practice their listening and speaking skills daily. Th
+is is a hybrid course, including both a face-to-face and a h
+ybrid component to be completed online: attendance"
+ITALIAN 2,1,Basic grammar for beginners: Part two.
+ITALIAN W2,1,"Elementary Italian W2 is for students who already have some 
+knowledge of basic structures and vocabulary of Italian. Stu
+dents will expand their knowledge and mastery of grammar, vo
+cabulary, pronunciation; improve speaking, listening, readin
+g and writing skills and learn about Italian culture and soc
+iety. Italian will be spoken in class at all times; students
+ will be exposed to authentic Italian material and will prac
+tice listening and speaking daily."
+ITALIAN 3,1,"Grammar review, reading, and written composition."
+ITALIAN 4,1,"Selected readings in modern Italian prose; a review of the e
+ssentials of grammar; written and oral compositions."
+ITALIAN R5A,1,"Reading and composition course based on works by Italians an
+d foreigners about Italy and its culture and by Italians abo
+ut their distinctive experiences of other cultures as touris
+ts and emigrants. Works studied will be primarily chosen fro
+m among fiction and non fiction narratives, both originally 
+in English and translated into it. R5A satisfies the first h
+alf of the Reading and Composition Requirement and R5B satis
+fies the second half."
+ITALIAN R5B,1,"Reading and composition course based on works by Italians an
+d foreigners about Italy and its culture and by Italians abo
+ut their distinctive experiences of other cultures as touris
+ts and emigrants. Works studied will be primarily chosen fro
+m among fiction and non fiction narratives, both originally 
+in English and translated into it. R5A satisfies the first h
+alf of the Reading and Composition Requirement"
+ITALIAN 11,1,"The aim of this course is to develop and enhance oral commun
+ication skills in students who have already learned the basi
+cs of Italian grammar in Italian 1 and Italian 2. Through th
+is course students will enrich their listening and speaking 
+skills through the acquisition of new vocabulary, conversati
+onal practice, oral reports, discussions, and collaborative 
+projects."
+ITALIAN 12,1,"The course is designed to develop and enhance oral communica
+tion skills at an advanced level, by means of conversational
+ practice, discussion of readings, student presentation or o
+riginal material, and use of audio-visual materials and real
+ia."
+ITALIAN N12,1,"This course is designed to develop and enhance oral communic
+ation skills at an advance level, by means of conversational
+ practice, discussion of readings, student presentation on o
+riginal material, and use of audio-visual materials and real
+ia."
+ITALIAN 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+ITALIAN 25,1,"This course serves as an introduction to Italian Studies in 
+a comparative and interdisciplinary context. In each iterati
+on of the course, students will learn about major intellectu
+al debates in Italian culture and society, viewed in relatio
+n to their global context. Topics will vary with instructor."
+ITALIAN 30,1,"An introduction to Dante's works in the cultural and histori
+cal context of the European Middle Ages."
+ITALIAN N30,1,"An introduction to Dante's works in the cultural and histori
+cal context of the European Middle Ages."
+ITALIAN 39C,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+ITALIAN 39F,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+ITALIAN 40,1,"Introduction to Italian studies through selected topics and 
+themes integral to the history, literature, and arts of Ital
+y from Dante to Fellini."
+ITALIAN 50,1,"Interdisciplinary introduction to the Italian Renaissance th
+rough selected topics integral to the history, literature, a
+nd arts of Italy in the fifteenth and sixteenth centuries."
+ITALIAN C62,1,
+ITALIAN 70,1,"This course is a brief introduction to the history of Italia
+n cinema. No prior knowledge of Italian cinema or film theor
+y is necessary. We will study major auteurs and genres of It
+alian cinema in the context of Italian culture and history f
+rom 1895 to the present. The course is structured chronologi
+cally: we will begin with silent cinema, work our way throug
+h the 20th century, and end with contemporary"
+ITALIAN N70,1,"This course is a brief introduction to the history of Italia
+n cinema. No prior knowledge of Italian cinema or film theor
+y is necessary. We will study major auteurs and genres of It
+alian cinema in the context of Italian culture and history f
+rom 1895 to the present. The course is structured chronologi
+cally: we will begin with silent cinema, work our way throug
+h the 20th century, and end with contemporary cinema. All st
+udents must attend weekly screenings. Films and"
+ITALIAN 97,1,"Supervised field programs involving experiences in schools a
+nd school-related activities. Weekly participation commitmen
+t, regular individual meetings with faculty supervisor and w
+ritten reports required."
+ITALIAN 98,1,"Group study of selected topics not covered by regularly sche
+duled courses."
+ITALIAN 101,1,"A writing-intensive course that aims to strengthen writing s
+kills though varied genres, including literary analysis, jou
+rnalism, and biography, and through multiple revisions. The 
+course is a prerequisite for all upper division courses."
+ITALIAN 101A,1,"Reading and grammatical analysis of representative texts; ad
+vanced written composition."
+ITALIAN 101B,1,"Reading and grammatical analysis of representative texts; ad
+vanced written composition."
+ITALIAN 102,1,"This course aims to develop advanced oral and aural skills t
+hrough discussion, debate, performance, and role-play about 
+the arts in Italy, including cinema, theater, the figurative
+ arts, and music."
+ITALIAN 103,1,"Introduction to the historical development of culture and li
+terature in Italian from the Middle Ages to the present day.
+ Lectures, critical analysis of texts, frequent writing exer
+cises. In Italian."
+ITALIAN 104,1,"Introduction to basic works of Italian literature (fiction, 
+poetry, drama) with an emphasis on techniques of reading."
+ITALIAN 105,1,"Introduction to the historical development of Italian cultur
+e from the Middle Ages to the present, with an emphasis on c
+ritical analysis of literary and visual texts in relation to
+ the politics and societies of the Italian peninsula, and an
+ ultimate goal of advancing student’s critical and linguisti
+c skills."
+ITALIAN 109,1,"A close introductory reading of Dante's Commedia. Taught in 
+Italian."
+ITALIAN 110,1,"Emphasis on the literature and culture of the 13th and 14th 
+centuries. Literature will emphasize the ""Stil Novo"" and Dan
+te's minor works as well as Boccaccio's and Petrarch's ."
+ITALIAN 112,1,"Studies in the literature and culture of the High Renaissanc
+e and the Late Renaissance."
+ITALIAN 114,1,"Emphasis on the works of Vico, Goldoni, Parini, Alfieri."
+ITALIAN 115,1,"Studies in the literature and culture of nineteenth-century 
+Italy."
+ITALIAN 117,1,"The main trends in the fiction, poetry, prose and theatre of
+ the twentieth and twenty-first centuries."
+ITALIAN 120,1,"Three hours of lectures, readings, and discussion per week o
+n major authors, themes, and movements in Italian literature
+."
+ITALIAN 130A,1,"An introduction to Dante's Inferno in the context of his oth
+er works. Taught in English."
+ITALIAN 130B,1,"A close introductory reading of Dante's Purgatorio and Parad
+iso. Prior completion of Italian 130A Inferno is recommended
+. Taught in English."
+ITALIAN 150AC,1,"This course will ask students to think critically about work
+ and labor in various U.S. contexts, while introducing them 
+to key concepts in late twentieth-century Italian social the
+ory."
+ITALIAN 160,1,"The course will study Italian culture from the perspective o
+f social and historical forces, as articulated by a broad va
+riety of cultural, ideological, and institutional discourses
+."
+ITALIAN 160S,1,"The course will study Italian culture from the perspective o
+f social and historical forces, as articulated by a broad va
+riety of cultural, ideological, and institutional discourses
+."
+ITALIAN N160,1,"The course will study Italian culture from the perspective o
+f social and historical forces, as articulated by a broad va
+riety of cultural, ideological, and institutional discourses
+. Taught in English or Italian."
+ITALIAN 163,1,"The course will study Italian culture from the perspective o
+f literary discourse in its responses to a broad spectrum of
+ cultural, ideological, and institutional forces. Taught in 
+English or Italian."
+ITALIAN 170,1,"An analysis of Italian cinema as seen in the development of 
+specific film genres such as neorealism, comedy, self-reflex
+ive cinema. Occasionally the course will concentrate on a sp
+ecific director and study his individuality through style, t
+heme, and personal development. This course fulfills film ma
+jor requirement in one of history, genre, auteur."
+ITALIAN 175,1,"The interaction of film style with literary and poetic struc
+ture studied through film theories, film novels, and the wor
+k of outstanding Italian film directors. Literature shaped b
+y film experience and films dealing with the essence of cine
+matic form will be analyzed. This course may fulfill the fil
+m major requirement in theory."
+ITALIAN H195,1,"Limited to senior honors candidates. Directed study relating
+ to the writing of an honors thesis."
+ITALIAN 197,1,"Supervised field programs involving experiences in schools a
+nd school-related activities. Weekly participation commitmen
+t, regular individual meetings with faculty supervisor and w
+ritten reports required."
+ITALIAN 198,1,"Supervised group study of selected topics not covered by reg
+ularly scheduled courses."
+ITALIAN 199,1,"Enrollment restrictions apply; see the Introduction to the C
+ourse and Curricula section of this catalog."
+ITALIAN 1,1,Basic grammar for beginners: Part one.
+ITALIAN 1R,1,"An intensive Italian language course designed for native or 
+advanced speakers of Romance languages (French, Spanish, Por
+tuguese, Romanian, Catalan). In one semester, we will cover 
+materials usually taught in two semesters in Elementary Ital
+ian 1 and 2. Students who successfully complete the course w
+ill be able to enroll in Italian 3 (Intermediate Italian). R
+egular attendance is mandatory."
+ITALIAN 1S,1,"An intensive Italian language course designed for native or 
+advanced speakers of Romance languages (French, Spanish, Por
+tuguese, Romanian, Catalan). In one semester, we will cover 
+materials usually taught in two semesters in Elementary Ital
+ian 1 and 2. Students who successfully complete the course w
+ill be able to enroll in Italian 3 (Intermediate Italian). R
+egular and continued attendance of both classes is mandatory
+."
+ITALIAN W1,1,"Elementary Italian W1 is for beginners and focuses on develo
+ping basic language skills (reading, writing, speaking, and 
+listening) in Italian. Italian will be spoken in class at al
+l times; students will be exposed to authentic Italian mater
+ial from films, songs, websites, and will have the opportuni
+ty to practice their listening and speaking skills daily. Th
+is is a hybrid course, including both a face-to-face and a h
+ybrid component to be completed online: attendance"
+ITALIAN 2,1,Basic grammar for beginners: Part two.
+ITALIAN W2,1,"Elementary Italian W2 is for students who already have some 
+knowledge of basic structures and vocabulary of Italian. Stu
+dents will expand their knowledge and mastery of grammar, vo
+cabulary, pronunciation; improve speaking, listening, readin
+g and writing skills and learn about Italian culture and soc
+iety. Italian will be spoken in class at all times; students
+ will be exposed to authentic Italian material and will prac
+tice listening and speaking daily."
+ITALIAN 3,1,"Grammar review, reading, and written composition."
+ITALIAN 4,1,"Selected readings in modern Italian prose; a review of the e
+ssentials of grammar; written and oral compositions."
+ITALIAN R5A,1,"Reading and composition course based on works by Italians an
+d foreigners about Italy and its culture and by Italians abo
+ut their distinctive experiences of other cultures as touris
+ts and emigrants. Works studied will be primarily chosen fro
+m among fiction and non fiction narratives, both originally 
+in English and translated into it. R5A satisfies the first h
+alf of the Reading and Composition Requirement and R5B satis
+fies the second half."
+ITALIAN R5B,1,"Reading and composition course based on works by Italians an
+d foreigners about Italy and its culture and by Italians abo
+ut their distinctive experiences of other cultures as touris
+ts and emigrants. Works studied will be primarily chosen fro
+m among fiction and non fiction narratives, both originally 
+in English and translated into it. R5A satisfies the first h
+alf of the Reading and Composition Requirement"
+ITALIAN 11,1,"The aim of this course is to develop and enhance oral commun
+ication skills in students who have already learned the basi
+cs of Italian grammar in Italian 1 and Italian 2. Through th
+is course students will enrich their listening and speaking 
+skills through the acquisition of new vocabulary, conversati
+onal practice, oral reports, discussions, and collaborative 
+projects."
+ITALIAN 12,1,"The course is designed to develop and enhance oral communica
+tion skills at an advanced level, by means of conversational
+ practice, discussion of readings, student presentation or o
+riginal material, and use of audio-visual materials and real
+ia."
+ITALIAN N12,1,"This course is designed to develop and enhance oral communic
+ation skills at an advance level, by means of conversational
+ practice, discussion of readings, student presentation on o
+riginal material, and use of audio-visual materials and real
+ia."
+ITALIAN 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+ITALIAN 25,1,"This course serves as an introduction to Italian Studies in 
+a comparative and interdisciplinary context. In each iterati
+on of the course, students will learn about major intellectu
+al debates in Italian culture and society, viewed in relatio
+n to their global context. Topics will vary with instructor."
+ITALIAN 30,1,"An introduction to Dante's works in the cultural and histori
+cal context of the European Middle Ages."
+ITALIAN N30,1,"An introduction to Dante's works in the cultural and histori
+cal context of the European Middle Ages."
+ITALIAN 39C,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+ITALIAN 39F,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+ITALIAN 40,1,"Introduction to Italian studies through selected topics and 
+themes integral to the history, literature, and arts of Ital
+y from Dante to Fellini."
+ITALIAN 50,1,"Interdisciplinary introduction to the Italian Renaissance th
+rough selected topics integral to the history, literature, a
+nd arts of Italy in the fifteenth and sixteenth centuries."
+ITALIAN C62,1,
+ITALIAN 70,1,"This course is a brief introduction to the history of Italia
+n cinema. No prior knowledge of Italian cinema or film theor
+y is necessary. We will study major auteurs and genres of It
+alian cinema in the context of Italian culture and history f
+rom 1895 to the present. The course is structured chronologi
+cally: we will begin with silent cinema, work our way throug
+h the 20th century, and end with contemporary"
+ITALIAN N70,1,"This course is a brief introduction to the history of Italia
+n cinema. No prior knowledge of Italian cinema or film theor
+y is necessary. We will study major auteurs and genres of It
+alian cinema in the context of Italian culture and history f
+rom 1895 to the present. The course is structured chronologi
+cally: we will begin with silent cinema, work our way throug
+h the 20th century, and end with contemporary cinema. All st
+udents must attend weekly screenings. Films and"
+ITALIAN 97,1,"Supervised field programs involving experiences in schools a
+nd school-related activities. Weekly participation commitmen
+t, regular individual meetings with faculty supervisor and w
+ritten reports required."
+ITALIAN 98,1,"Group study of selected topics not covered by regularly sche
+duled courses."
+ITALIAN 101,1,"A writing-intensive course that aims to strengthen writing s
+kills though varied genres, including literary analysis, jou
+rnalism, and biography, and through multiple revisions. The 
+course is a prerequisite for all upper division courses."
+ITALIAN 101A,1,"Reading and grammatical analysis of representative texts; ad
+vanced written composition."
+ITALIAN 101B,1,"Reading and grammatical analysis of representative texts; ad
+vanced written composition."
+ITALIAN 102,1,"This course aims to develop advanced oral and aural skills t
+hrough discussion, debate, performance, and role-play about 
+the arts in Italy, including cinema, theater, the figurative
+ arts, and music."
+ITALIAN 103,1,"Introduction to the historical development of culture and li
+terature in Italian from the Middle Ages to the present day.
+ Lectures, critical analysis of texts, frequent writing exer
+cises. In Italian."
+ITALIAN 104,1,"Introduction to basic works of Italian literature (fiction, 
+poetry, drama) with an emphasis on techniques of reading."
+ITALIAN 105,1,"Introduction to the historical development of Italian cultur
+e from the Middle Ages to the present, with an emphasis on c
+ritical analysis of literary and visual texts in relation to
+ the politics and societies of the Italian peninsula, and an
+ ultimate goal of advancing student’s critical and linguisti
+c skills."
+ITALIAN 109,1,"A close introductory reading of Dante's Commedia. Taught in 
+Italian."
+ITALIAN 110,1,"Emphasis on the literature and culture of the 13th and 14th 
+centuries. Literature will emphasize the ""Stil Novo"" and Dan
+te's minor works as well as Boccaccio's and Petrarch's ."
+ITALIAN 112,1,"Studies in the literature and culture of the High Renaissanc
+e and the Late Renaissance."
+ITALIAN 114,1,"Emphasis on the works of Vico, Goldoni, Parini, Alfieri."
+ITALIAN 115,1,"Studies in the literature and culture of nineteenth-century 
+Italy."
+ITALIAN 117,1,"The main trends in the fiction, poetry, prose and theatre of
+ the twentieth and twenty-first centuries."
+ITALIAN 120,1,"Three hours of lectures, readings, and discussion per week o
+n major authors, themes, and movements in Italian literature
+."
+ITALIAN 130A,1,"An introduction to Dante's Inferno in the context of his oth
+er works. Taught in English."
+ITALIAN 130B,1,"A close introductory reading of Dante's Purgatorio and Parad
+iso. Prior completion of Italian 130A Inferno is recommended
+. Taught in English."
+ITALIAN 150AC,1,"This course will ask students to think critically about work
+ and labor in various U.S. contexts, while introducing them 
+to key concepts in late twentieth-century Italian social the
+ory."
+ITALIAN 160,1,"The course will study Italian culture from the perspective o
+f social and historical forces, as articulated by a broad va
+riety of cultural, ideological, and institutional discourses
+."
+ITALIAN 160S,1,"The course will study Italian culture from the perspective o
+f social and historical forces, as articulated by a broad va
+riety of cultural, ideological, and institutional discourses
+."
+ITALIAN N160,1,"The course will study Italian culture from the perspective o
+f social and historical forces, as articulated by a broad va
+riety of cultural, ideological, and institutional discourses
+. Taught in English or Italian."
+ITALIAN 163,1,"The course will study Italian culture from the perspective o
+f literary discourse in its responses to a broad spectrum of
+ cultural, ideological, and institutional forces. Taught in 
+English or Italian."
+ITALIAN 170,1,"An analysis of Italian cinema as seen in the development of 
+specific film genres such as neorealism, comedy, self-reflex
+ive cinema. Occasionally the course will concentrate on a sp
+ecific director and study his individuality through style, t
+heme, and personal development. This course fulfills film ma
+jor requirement in one of history, genre, auteur."
+ITALIAN 175,1,"The interaction of film style with literary and poetic struc
+ture studied through film theories, film novels, and the wor
+k of outstanding Italian film directors. Literature shaped b
+y film experience and films dealing with the essence of cine
+matic form will be analyzed. This course may fulfill the fil
+m major requirement in theory."
+ITALIAN H195,1,"Limited to senior honors candidates. Directed study relating
+ to the writing of an honors thesis."
+ITALIAN 197,1,"Supervised field programs involving experiences in schools a
+nd school-related activities. Weekly participation commitmen
+t, regular individual meetings with faculty supervisor and w
+ritten reports required."
+ITALIAN 198,1,"Supervised group study of selected topics not covered by reg
+ularly scheduled courses."
+ITALIAN 199,1,"Enrollment restrictions apply; see the Introduction to the C
+ourse and Curricula section of this catalog."

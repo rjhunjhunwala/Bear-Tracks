@@ -1,48 +1,1191 @@
 name,size,about
-FILM R1A,1,Rhetorical approach to reading and writing argumentative discourse with a film focus. Close reading of selected texts; written themes developed from class discussion and analysis of rhetorical strategies. Satisfies the first half of the Reading and Composition requirement.
-FILM R1B,1,"Intensive argumentative writing stimulated through selected readings, films, and class discussion. Satisfies the second half of the Reading and Composition requirement."
-FILM 10,1,"This course will focus on the development of film art, technology, and industry in the late 19th and early 20th centuries."
-FILM 20,1,"This course is intended to introduce undergraduates to the study of a range of media, including photography, film, television, video, and print and digital media. The course will focus on questions of medium ""specificity"" or the key technological/material, formal and aesthetic features of different media and modes of address and representation that define them. Also considered is the relationship of individual"
-FILM 25,1,"The objective of this class is to provide a basic technical foundation for digital video film production while emphasizing the techniques and languages of creative moving image media from traditional story genres to more contemporary experimental forms. Training will move from pre-production-scripting and storyboarding, through production, including image capture, lighting and sound recording, to post-production with non-linear digital editing programs such as"
-FILM 25A,1,"From the beginnings through the conversion to sound up until World War II era. In addition to the development of the silent film, the course will conclude with an examination of the technology of sound conversion and examples of early sound experiments."
+FILM R1A,1,"Rhetorical approach to reading and writing argumentative dis
+course with a film focus. Close reading of selected texts; w
+ritten themes developed from class discussion and analysis o
+f rhetorical strategies. Satisfies the first half of the Rea
+ding and Composition requirement."
+FILM R1B,1,"Intensive argumentative writing stimulated through selected 
+readings, films, and class discussion. Satisfies the second 
+half of the Reading and Composition requirement."
+FILM 10,1,"This course will focus on the development of film art, techn
+ology, and industry in the late 19th and early 20th centurie
+s."
+FILM 20,1,"This course is intended to introduce undergraduates to the s
+tudy of a range of media, including photography, film, telev
+ision, video, and print and digital media. The course will f
+ocus on questions of medium ""specificity"" or the key technol
+ogical/material, formal and aesthetic features of different 
+media and modes of address and representation that define th
+em. Also considered is the relationship of individual"
+FILM 25,1,"The objective of this class is to provide a basic technical 
+foundation for digital video film production while emphasizi
+ng the techniques and languages of creative moving image med
+ia from traditional story genres to more contemporary experi
+mental forms. Training will move from pre-production-scripti
+ng and storyboarding, through production, including image ca
+pture, lighting and sound recording, to post-production with
+ non-linear digital editing programs such as"
+FILM 25A,1,"From the beginnings through the conversion to sound up until
+ World War II era. In addition to the development of the sil
+ent film, the course will conclude with an examination of th
+e technology of sound conversion and examples of early sound
+ experiments."
 FILM 25B,1,The sound era from World War II to present time.
-FILM 30,1,"This course will focus on topics in the history, theory and aesthetics of sound cinema."
-FILM 35,1,This course will focus on introductory topics related to the field of digital media studies.
-FILM 39,1,"Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25."
-FILM 45,1,"This course will focus on the industrial, technological, and aesthetic history of television."
-FILM 50,1,"An introduction to film art and film technique for students who are interested in exploring the history and aesthetics of cinema but do not intend to major in film. The course traces the development of world cinema from the first films of the 1890s to the 1970s, drawing on examples from American, European, Asian, and Third World cinema."
-FILM 75,1,"This course examines postmodernism as it manifests itself in film. We will begin with a general overview of the postmodern, and then look at how postmodernism reformulates certain theoretical issues: e.g., ideology, history, subjectivity and gender. Primary films will be juxtaposed not just with theoretical texts, but also with texts from architecture, photography, literature and classical Hollywood cinema. Requirements: take home mid-term, final exam."
-FILM 84,1,"Sophomore seminars are small interactive courses offered by faculty members in departments all across the campus. Sophomore seminars offer opportunity for close, regular intellectual contact between faculty members and students in the crucial second year. The topics vary from department to department and semester to semester. Enrollment limited to 15 sophomores."
+FILM 30,1,"This course will focus on topics in the history, theory and 
+aesthetics of sound cinema."
+FILM 35,1,"This course will focus on introductory topics related to the
+ field of digital media studies."
+FILM 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+FILM 45,1,"This course will focus on the industrial, technological, and
+ aesthetic history of television."
+FILM 50,1,"An introduction to film art and film technique for students 
+who are interested in exploring the history and aesthetics o
+f cinema but do not intend to major in film. The course trac
+es the development of world cinema from the first films of t
+he 1890s to the 1970s, drawing on examples from American, Eu
+ropean, Asian, and Third World cinema."
+FILM 75,1,"This course examines postmodernism as it manifests itself in
+ film. We will begin with a general overview of the postmode
+rn, and then look at how postmodernism reformulates certain 
+theoretical issues: e.g., ideology, history, subjectivity an
+d gender. Primary films will be juxtaposed not just with the
+oretical texts, but also with texts from architecture, photo
+graphy, literature and classical Hollywood cinema. Requireme
+nts: take home mid-term, final exam."
+FILM 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
 FILM 98,1,Supervised research by lower division students.
-FILM 100,1,"The study, from an historical perspective, of major theorists of film."
-FILM 108,1,"The study of films as categorized either by industry-identified genres (westerns, horror films, musicals, film noir, etc.) or broader interpretive modes (melodrama, realism, fantasy, etc.)."
-FILM C115,1,"This course considers how the American detective is represented in fiction, fil, and popular culture. We will examine how representations of the American detective are affected by diverse historican and socio-cultural factors, including the ideology of American individualism, paradigms of investigation and ordered knowledge, and competing discourses of race, class, gender, and sexual orientation. After a brief consideration of early American detectives and detectives"
-FILM 125,1,"This course will focus on topics in documentary cinema, television, video, photography, and/or new media."
-FILM 128,1,"A survey of the history, theory, and practice of the documentary film (including video). How have the forms and ethics of the documentary changed since the beginning of cinema? A range of practices and strategies will be covered: cinema verite, direct cinema, narrational documentary, autobiography, investigative documentary, and recent fictional styles that combine the essayistic with the observational. The course moves"
-FILM 129,1,"This course is a survey of the history and aesthetics of the international film Avant-Garde from the 1920s to the present. The course explores the development of a range of experimental film forms and practices, situating them in relation to the larger artistic, social, and intellectual contexts in which they arise. We look at the ways artists have not only created new film languages in order to express their unique ideas"
-FILM 135,1,"This course is a survey of the history and aesthetics of experimental and alternative media forms and practices situating them in relation to the larger art historical, social and intellectual contexts from which they arise."
-FILM 140AC,1,"This course examines contemporary scholarship and films about the migrant or immigrant experience in the US. The first half of the course investigates the complex geographies and temporalities of migrant transit and dwelling. Course texts describe the anthropology and cultural geography of border, city, and workplace; course films map them as sites of frustrated mobility, fractured identity, and fascinating connection. The second half of the course"
-FILM 145,1,"This course will focus on topics in national, transnational, and global cinema, television, photography, and/or new media."
-FILM 151,1,"The study of films from the perspective of directorial style, theme, or filmmaking career."
-FILM 155,1,"This course will focus on the history, theory, and experience of old and new media technologies."
-FILM 160,1,This course will focus on the cinema of a particular nation or region.
+FILM 100,1,"The study, from an historical perspective, of major theorist
+s of film."
+FILM 108,1,"The study of films as categorized either by industry-identif
+ied genres (westerns, horror films, musicals, film noir, etc
+.) or broader interpretive modes (melodrama, realism, fantas
+y, etc.)."
+FILM C115,1,"This course considers how the American detective is represen
+ted in fiction, fil, and popular culture. We will examine ho
+w representations of the American detective are affected by 
+diverse historican and socio-cultural factors, including the
+ ideology of American individualism, paradigms of investigat
+ion and ordered knowledge, and competing discourses of race,
+ class, gender, and sexual orientation. After a brief consid
+eration of early American detectives and detectives"
+FILM 125,1,"This course will focus on topics in documentary cinema, tele
+vision, video, photography, and/or new media."
+FILM 128,1,"A survey of the history, theory, and practice of the documen
+tary film (including video). How have the forms and ethics o
+f the documentary changed since the beginning of cinema? A r
+ange of practices and strategies will be covered: cinema ver
+ite, direct cinema, narrational documentary, autobiography, 
+investigative documentary, and recent fictional styles that 
+combine the essayistic with the observational. The course mo
+ves"
+FILM 129,1,"This course is a survey of the history and aesthetics of the
+ international film Avant-Garde from the 1920s to the presen
+t. The course explores the development of a range of experim
+ental film forms and practices, situating them in relation t
+o the larger artistic, social, and intellectual contexts in 
+which they arise. We look at the ways artists have not only 
+created new film languages in order to express their unique 
+ideas"
+FILM 135,1,"This course is a survey of the history and aesthetics of exp
+erimental and alternative media forms and practices situatin
+g them in relation to the larger art historical, social and 
+intellectual contexts from which they arise."
+FILM 140AC,1,"This course examines contemporary scholarship and films abou
+t the migrant or immigrant experience in the US. The first h
+alf of the course investigates the complex geographies and t
+emporalities of migrant transit and dwelling. Course texts d
+escribe the anthropology and cultural geography of border, c
+ity, and workplace; course films map them as sites of frustr
+ated mobility, fractured identity, and fascinating connectio
+n. The second half of the course"
+FILM 145,1,"This course will focus on topics in national, transnational,
+ and global cinema, television, photography, and/or new medi
+a."
+FILM 151,1,"The study of films from the perspective of directorial style
+, theme, or filmmaking career."
+FILM 155,1,"This course will focus on the history, theory, and experienc
+e of old and new media technologies."
+FILM 160,1,"This course will focus on the cinema of a particular nation 
+or region."
 FILM 170,1,Selected topics in the study of film.
-FILM 176,1,"Students are introduced to the basic concepts, terms and principles of producing so that they can effectively and efficiently develop their own project proposal and financial strategy. Unit topics include creating a “pitch” proposal/package, methods of fundraising/financing, legal and ethical issues, managing the production cycle, and securing distribution. This class will use"
-FILM 177,1,"The practice of entertainment law in the United States lies at the intersection of a number of legal disciplines, among them Constitutional law, tort law, copyright law, and trademark law, and applies those disciplines to the world of entertainment. This course will introduce you to basic principles of those disciplines and their use in entertainment law. The goal of the course"
-FILM 178,1,"This course is designed to acquaint film majors with a variety of professions in and around the Bay Area that are open to those wishing to pursue careers in film and media. A series of ten guest lecturers drawn from these professions will guide students through the opportunities and work experiences available in such fields as studio and independent film production, documentary"
-FILM 179,1,We explore the use and abuse of sound and its relation to image in cinema. With emphasis on how sound influences our emotional
-FILM 180,1,"The course explores the art and craft of writing a feature-length, narrative screenplay. Participants present three story ideas to the class, develop one concept into a detailed treatment, and write the first act of the script in professional screenplay form. The focus is on rewriting, with regular presentations of outlines and scripts to fellow writers. The emphasis is on story structure, character development, and screenplay form."
-FILM 181,1,"The course explores the art and craft of writing a feature-length narrative screenplay. Participants begin with a detailed outline of a narrative script and a portion of the script in proper form and develop it into a completed screenplay. The focus is on rewriting, with regular presentations of scenes to fellow writers. Participants also write short scripts and explore alternative story structure. The emphasis is on characterization, scene structure, visual"
-FILM 182,1,"This course explores the art and craft of creating, developing and writing both a spec script (a script written for an existing series) and a pilot script (a script based on original material). In addition, the class will study 21st century serial TV construction by analyzing anthologies, procedurals, long narratives and serial melodrama. We’ll also consider how various platforms of delivery enrich viewer engagement and can shape content."
-FILM 184,1,"This class focuses on practices and techniques of non-fiction digital filmmaking. The class examines important techniques of non-fiction film, such as research and writing for non-fiction, the observational camera, filming in public, the interview, voiceover, working with archival film and other documents, as well as editing techniques - working to find form and structure for non-fiction materials. This class also explores the different modes"
-FILM 185,1,"The essentials of film and video production--camera, sound, lighting, and editing. Drawing on previous study of narrative, documentary, avant-garde film and video, students gain a deeper understanding of the complex relationship between the visual and aural elements of moving-image through hands-on experimentation."
-FILM 186,1,"This advanced studio course is designed for students who have mastered basic skills and concepts involved in digital video production and are interested in further investigating critical, theoretical, and creative research topics in digital video production."
-FILM 187,1,"This course investigates special topics in, and special technologies of, media production: e.g., experimental film, documentary film, digital special effects, etc. This is a hands-on studio course designed for students who have mastered the basics of media production and are ready to pursue more specialized film or video production."
+FILM 176,1,"Students are introduced to the basic concepts, terms and pri
+nciples of producing so that they can effectively and effici
+ently develop their own project proposal and financial strat
+egy. Unit topics include creating a “pitch” proposal/package
+, methods of fundraising/financing, legal and ethical issues
+, managing the production cycle, and securing distribution. 
+This class will use"
+FILM 177,1,"The practice of entertainment law in the United States lies 
+at the intersection of a number of legal disciplines, among 
+them Constitutional law, tort law, copyright law, and tradem
+ark law, and applies those disciplines to the world of enter
+tainment. This course will introduce you to basic principles
+ of those disciplines and their use in entertainment law. Th
+e goal of the course"
+FILM 178,1,"This course is designed to acquaint film majors with a varie
+ty of professions in and around the Bay Area that are open t
+o those wishing to pursue careers in film and media. A serie
+s of ten guest lecturers drawn from these professions will g
+uide students through the opportunities and work experiences
+ available in such fields as studio and independent film pro
+duction, documentary"
+FILM 179,1,"We explore the use and abuse of sound and its relation to im
+age in cinema. With emphasis on how sound influences our emo
+tional"
+FILM 180,1,"The course explores the art and craft of writing a feature-l
+ength, narrative screenplay. Participants present three stor
+y ideas to the class, develop one concept into a detailed tr
+eatment, and write the first act of the script in profession
+al screenplay form. The focus is on rewriting, with regular 
+presentations of outlines and scripts to fellow writers. The
+ emphasis is on story structure, character development, and 
+screenplay form."
+FILM 181,1,"The course explores the art and craft of writing a feature-l
+ength narrative screenplay. Participants begin with a detail
+ed outline of a narrative script and a portion of the script
+ in proper form and develop it into a completed screenplay. 
+The focus is on rewriting, with regular presentations of sce
+nes to fellow writers. Participants also write short scripts
+ and explore alternative story structure. The emphasis is on
+ characterization, scene structure, visual"
+FILM 182,1,"This course explores the art and craft of creating, developi
+ng and writing both a spec script (a script written for an e
+xisting series) and a pilot script (a script based on origin
+al material). In addition, the class will study 21st century
+ serial TV construction by analyzing anthologies, procedural
+s, long narratives and serial melodrama. We’ll also consider
+ how various platforms of delivery enrich viewer engagement 
+and can shape content."
+FILM 184,1,"This class focuses on practices and techniques of non-fictio
+n digital filmmaking. The class examines important technique
+s of non-fiction film, such as research and writing for non-
+fiction, the observational camera, filming in public, the in
+terview, voiceover, working with archival film and other doc
+uments, as well as editing techniques - working to find form
+ and structure for non-fiction materials. This class also ex
+plores the different modes"
+FILM 185,1,"The essentials of film and video production--camera, sound, 
+lighting, and editing. Drawing on previous study of narrativ
+e, documentary, avant-garde film and video, students gain a 
+deeper understanding of the complex relationship between the
+ visual and aural elements of moving-image through hands-on 
+experimentation."
+FILM 186,1,"This advanced studio course is designed for students who hav
+e mastered basic skills and concepts involved in digital vid
+eo production and are interested in further investigating cr
+itical, theoretical, and creative research topics in digital
+ video production."
+FILM 187,1,"This course investigates special topics in, and special tech
+nologies of, media production: e.g., experimental film, docu
+mentary film, digital special effects, etc. This is a hands-
+on studio course designed for students who have mastered the
+ basics of media production and are ready to pursue more spe
+cialized film or video production."
 FILM 190,1,Intensive study of topics in film and moving-image media.
-FILM 194,1,"This course serves to instruct undergraduate Film majors in advanced film and media studies analysis, research, and writing. A variety of forms of writing will be undertaken, including film analysis, research scholarship, essay argumentation, film reviewing and criticism, and film festival programming notes. (F)"
-FILM H195,1,"Students in the honors program are to take H195 for a letter grade to complete a senior honors thesis. Although the production of a film may be part of the preparation of the thesis and the film submitted as a documentation or example, it is expected that the thesis will be a substantial piece of writing of film criticism or film history."
-FILM 197A,1,"Students will learn about film bibliography and research materials. Interns will get a thorough orientation to the Pacific Film Archive library through introductory lectures and training sessions. Then, for three hours per week, they will help organize materials for inclusion in the clippings files. Interns will gain experience in library organization and film bibliography, as well as a broad knowledge of the kinds of film reviews and criticism"
-FILM 197B,1,The supervised field program may include experience in a broad range of pre- and post-production film and video production related activities. The student will develop the field experience and its relationship to academic training with a member of the faculty on the Film Advisory Committee. Faculty sponsor and student will establish individual meeting times and academic requirements for acceptable completion of
-FILM 197C,1,"Experience ""behind-the-scenes"" at the Pacific Film Archive! Interns will learn about film curating through creating a program of works by UC Berkeley students to present at PFA the following spring semester. Students will solicit films and videos, preview them, and make a final selection as a group. Students will write short analyses of local film exhibition programs and will do projects related to PFA's ongoing exhibition progra"
-FILM 198,1,Group studies of selected topics which vary from year to year. Field shall not coincide with that of any regular course and shall be specific enough to allow students to write an essay based on the study.
-FILM 199,1,Reading and conference with the instructor in a field that shall not coincide with that of any regular course and shall be specific enough to enable the student to write an essay based upon his/her study.
+FILM 194,1,"This course serves to instruct undergraduate Film majors in 
+advanced film and media studies analysis, research, and writ
+ing. A variety of forms of writing will be undertaken, inclu
+ding film analysis, research scholarship, essay argumentatio
+n, film reviewing and criticism, and film festival programmi
+ng notes. (F)"
+FILM H195,1,"Students in the honors program are to take H195 for a letter
+ grade to complete a senior honors thesis. Although the prod
+uction of a film may be part of the preparation of the thesi
+s and the film submitted as a documentation or example, it i
+s expected that the thesis will be a substantial piece of wr
+iting of film criticism or film history."
+FILM 197A,1,"Students will learn about film bibliography and research mat
+erials. Interns will get a thorough orientation to the Pacif
+ic Film Archive library through introductory lectures and tr
+aining sessions. Then, for three hours per week, they will h
+elp organize materials for inclusion in the clippings files.
+ Interns will gain experience in library organization and fi
+lm bibliography, as well as a broad knowledge of the kinds o
+f film reviews and criticism"
+FILM 197B,1,"The supervised field program may include experience in a bro
+ad range of pre- and post-production film and video producti
+on related activities. The student will develop the field ex
+perience and its relationship to academic training with a me
+mber of the faculty on the Film Advisory Committee. Faculty 
+sponsor and student will establish individual meeting times 
+and academic requirements for acceptable completion of"
+FILM 197C,1,"Experience ""behind-the-scenes"" at the Pacific Film Archive! 
+Interns will learn about film curating through creating a pr
+ogram of works by UC Berkeley students to present at PFA the
+ following spring semester. Students will solicit films and 
+videos, preview them, and make a final selection as a group.
+ Students will write short analyses of local film exhibition
+ programs and will do projects related to PFA's ongoing exhi
+bition progra"
+FILM 198,1,"Group studies of selected topics which vary from year to yea
+r. Field shall not coincide with that of any regular course 
+and shall be specific enough to allow students to write an e
+ssay based on the study."
+FILM 199,1,"Reading and conference with the instructor in a field that s
+hall not coincide with that of any regular course and shall 
+be specific enough to enable the student to write an essay b
+ased upon his/her study."
+FILM R1A,1,"Rhetorical approach to reading and writing argumentative dis
+course with a film focus. Close reading of selected texts; w
+ritten themes developed from class discussion and analysis o
+f rhetorical strategies. Satisfies the first half of the Rea
+ding and Composition requirement."
+FILM R1B,1,"Intensive argumentative writing stimulated through selected 
+readings, films, and class discussion. Satisfies the second 
+half of the Reading and Composition requirement."
+FILM 10,1,"This course will focus on the development of film art, techn
+ology, and industry in the late 19th and early 20th centurie
+s."
+FILM 20,1,"This course is intended to introduce undergraduates to the s
+tudy of a range of media, including photography, film, telev
+ision, video, and print and digital media. The course will f
+ocus on questions of medium ""specificity"" or the key technol
+ogical/material, formal and aesthetic features of different 
+media and modes of address and representation that define th
+em. Also considered is the relationship of individual"
+FILM 25,1,"The objective of this class is to provide a basic technical 
+foundation for digital video film production while emphasizi
+ng the techniques and languages of creative moving image med
+ia from traditional story genres to more contemporary experi
+mental forms. Training will move from pre-production-scripti
+ng and storyboarding, through production, including image ca
+pture, lighting and sound recording, to post-production with
+ non-linear digital editing programs such as"
+FILM 25A,1,"From the beginnings through the conversion to sound up until
+ World War II era. In addition to the development of the sil
+ent film, the course will conclude with an examination of th
+e technology of sound conversion and examples of early sound
+ experiments."
+FILM 25B,1,The sound era from World War II to present time.
+FILM 30,1,"This course will focus on topics in the history, theory and 
+aesthetics of sound cinema."
+FILM 35,1,"This course will focus on introductory topics related to the
+ field of digital media studies."
+FILM 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+FILM 45,1,"This course will focus on the industrial, technological, and
+ aesthetic history of television."
+FILM 50,1,"An introduction to film art and film technique for students 
+who are interested in exploring the history and aesthetics o
+f cinema but do not intend to major in film. The course trac
+es the development of world cinema from the first films of t
+he 1890s to the 1970s, drawing on examples from American, Eu
+ropean, Asian, and Third World cinema."
+FILM 75,1,"This course examines postmodernism as it manifests itself in
+ film. We will begin with a general overview of the postmode
+rn, and then look at how postmodernism reformulates certain 
+theoretical issues: e.g., ideology, history, subjectivity an
+d gender. Primary films will be juxtaposed not just with the
+oretical texts, but also with texts from architecture, photo
+graphy, literature and classical Hollywood cinema. Requireme
+nts: take home mid-term, final exam."
+FILM 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+FILM 98,1,Supervised research by lower division students.
+FILM 100,1,"The study, from an historical perspective, of major theorist
+s of film."
+FILM 108,1,"The study of films as categorized either by industry-identif
+ied genres (westerns, horror films, musicals, film noir, etc
+.) or broader interpretive modes (melodrama, realism, fantas
+y, etc.)."
+FILM C115,1,"This course considers how the American detective is represen
+ted in fiction, fil, and popular culture. We will examine ho
+w representations of the American detective are affected by 
+diverse historican and socio-cultural factors, including the
+ ideology of American individualism, paradigms of investigat
+ion and ordered knowledge, and competing discourses of race,
+ class, gender, and sexual orientation. After a brief consid
+eration of early American detectives and detectives"
+FILM 125,1,"This course will focus on topics in documentary cinema, tele
+vision, video, photography, and/or new media."
+FILM 128,1,"A survey of the history, theory, and practice of the documen
+tary film (including video). How have the forms and ethics o
+f the documentary changed since the beginning of cinema? A r
+ange of practices and strategies will be covered: cinema ver
+ite, direct cinema, narrational documentary, autobiography, 
+investigative documentary, and recent fictional styles that 
+combine the essayistic with the observational. The course mo
+ves"
+FILM 129,1,"This course is a survey of the history and aesthetics of the
+ international film Avant-Garde from the 1920s to the presen
+t. The course explores the development of a range of experim
+ental film forms and practices, situating them in relation t
+o the larger artistic, social, and intellectual contexts in 
+which they arise. We look at the ways artists have not only 
+created new film languages in order to express their unique 
+ideas"
+FILM 135,1,"This course is a survey of the history and aesthetics of exp
+erimental and alternative media forms and practices situatin
+g them in relation to the larger art historical, social and 
+intellectual contexts from which they arise."
+FILM 140AC,1,"This course examines contemporary scholarship and films abou
+t the migrant or immigrant experience in the US. The first h
+alf of the course investigates the complex geographies and t
+emporalities of migrant transit and dwelling. Course texts d
+escribe the anthropology and cultural geography of border, c
+ity, and workplace; course films map them as sites of frustr
+ated mobility, fractured identity, and fascinating connectio
+n. The second half of the course"
+FILM 145,1,"This course will focus on topics in national, transnational,
+ and global cinema, television, photography, and/or new medi
+a."
+FILM 151,1,"The study of films from the perspective of directorial style
+, theme, or filmmaking career."
+FILM 155,1,"This course will focus on the history, theory, and experienc
+e of old and new media technologies."
+FILM 160,1,"This course will focus on the cinema of a particular nation 
+or region."
+FILM 170,1,Selected topics in the study of film.
+FILM 176,1,"Students are introduced to the basic concepts, terms and pri
+nciples of producing so that they can effectively and effici
+ently develop their own project proposal and financial strat
+egy. Unit topics include creating a “pitch” proposal/package
+, methods of fundraising/financing, legal and ethical issues
+, managing the production cycle, and securing distribution. 
+This class will use"
+FILM 177,1,"The practice of entertainment law in the United States lies 
+at the intersection of a number of legal disciplines, among 
+them Constitutional law, tort law, copyright law, and tradem
+ark law, and applies those disciplines to the world of enter
+tainment. This course will introduce you to basic principles
+ of those disciplines and their use in entertainment law. Th
+e goal of the course"
+FILM 178,1,"This course is designed to acquaint film majors with a varie
+ty of professions in and around the Bay Area that are open t
+o those wishing to pursue careers in film and media. A serie
+s of ten guest lecturers drawn from these professions will g
+uide students through the opportunities and work experiences
+ available in such fields as studio and independent film pro
+duction, documentary"
+FILM 179,1,"We explore the use and abuse of sound and its relation to im
+age in cinema. With emphasis on how sound influences our emo
+tional"
+FILM 180,1,"The course explores the art and craft of writing a feature-l
+ength, narrative screenplay. Participants present three stor
+y ideas to the class, develop one concept into a detailed tr
+eatment, and write the first act of the script in profession
+al screenplay form. The focus is on rewriting, with regular 
+presentations of outlines and scripts to fellow writers. The
+ emphasis is on story structure, character development, and 
+screenplay form."
+FILM 181,1,"The course explores the art and craft of writing a feature-l
+ength narrative screenplay. Participants begin with a detail
+ed outline of a narrative script and a portion of the script
+ in proper form and develop it into a completed screenplay. 
+The focus is on rewriting, with regular presentations of sce
+nes to fellow writers. Participants also write short scripts
+ and explore alternative story structure. The emphasis is on
+ characterization, scene structure, visual"
+FILM 182,1,"This course explores the art and craft of creating, developi
+ng and writing both a spec script (a script written for an e
+xisting series) and a pilot script (a script based on origin
+al material). In addition, the class will study 21st century
+ serial TV construction by analyzing anthologies, procedural
+s, long narratives and serial melodrama. We’ll also consider
+ how various platforms of delivery enrich viewer engagement 
+and can shape content."
+FILM 184,1,"This class focuses on practices and techniques of non-fictio
+n digital filmmaking. The class examines important technique
+s of non-fiction film, such as research and writing for non-
+fiction, the observational camera, filming in public, the in
+terview, voiceover, working with archival film and other doc
+uments, as well as editing techniques - working to find form
+ and structure for non-fiction materials. This class also ex
+plores the different modes"
+FILM 185,1,"The essentials of film and video production--camera, sound, 
+lighting, and editing. Drawing on previous study of narrativ
+e, documentary, avant-garde film and video, students gain a 
+deeper understanding of the complex relationship between the
+ visual and aural elements of moving-image through hands-on 
+experimentation."
+FILM 186,1,"This advanced studio course is designed for students who hav
+e mastered basic skills and concepts involved in digital vid
+eo production and are interested in further investigating cr
+itical, theoretical, and creative research topics in digital
+ video production."
+FILM 187,1,"This course investigates special topics in, and special tech
+nologies of, media production: e.g., experimental film, docu
+mentary film, digital special effects, etc. This is a hands-
+on studio course designed for students who have mastered the
+ basics of media production and are ready to pursue more spe
+cialized film or video production."
+FILM 190,1,Intensive study of topics in film and moving-image media.
+FILM 194,1,"This course serves to instruct undergraduate Film majors in 
+advanced film and media studies analysis, research, and writ
+ing. A variety of forms of writing will be undertaken, inclu
+ding film analysis, research scholarship, essay argumentatio
+n, film reviewing and criticism, and film festival programmi
+ng notes. (F)"
+FILM H195,1,"Students in the honors program are to take H195 for a letter
+ grade to complete a senior honors thesis. Although the prod
+uction of a film may be part of the preparation of the thesi
+s and the film submitted as a documentation or example, it i
+s expected that the thesis will be a substantial piece of wr
+iting of film criticism or film history."
+FILM 197A,1,"Students will learn about film bibliography and research mat
+erials. Interns will get a thorough orientation to the Pacif
+ic Film Archive library through introductory lectures and tr
+aining sessions. Then, for three hours per week, they will h
+elp organize materials for inclusion in the clippings files.
+ Interns will gain experience in library organization and fi
+lm bibliography, as well as a broad knowledge of the kinds o
+f film reviews and criticism"
+FILM 197B,1,"The supervised field program may include experience in a bro
+ad range of pre- and post-production film and video producti
+on related activities. The student will develop the field ex
+perience and its relationship to academic training with a me
+mber of the faculty on the Film Advisory Committee. Faculty 
+sponsor and student will establish individual meeting times 
+and academic requirements for acceptable completion of"
+FILM 197C,1,"Experience ""behind-the-scenes"" at the Pacific Film Archive! 
+Interns will learn about film curating through creating a pr
+ogram of works by UC Berkeley students to present at PFA the
+ following spring semester. Students will solicit films and 
+videos, preview them, and make a final selection as a group.
+ Students will write short analyses of local film exhibition
+ programs and will do projects related to PFA's ongoing exhi
+bition progra"
+FILM 198,1,"Group studies of selected topics which vary from year to yea
+r. Field shall not coincide with that of any regular course 
+and shall be specific enough to allow students to write an e
+ssay based on the study."
+FILM 199,1,"Reading and conference with the instructor in a field that s
+hall not coincide with that of any regular course and shall 
+be specific enough to enable the student to write an essay b
+ased upon his/her study."
+FILM R1A,1,"Rhetorical approach to reading and writing argumentative dis
+course with a film focus. Close reading of selected texts; w
+ritten themes developed from class discussion and analysis o
+f rhetorical strategies. Satisfies the first half of the Rea
+ding and Composition requirement."
+FILM R1B,1,"Intensive argumentative writing stimulated through selected 
+readings, films, and class discussion. Satisfies the second 
+half of the Reading and Composition requirement."
+FILM 10,1,"This course will focus on the development of film art, techn
+ology, and industry in the late 19th and early 20th centurie
+s."
+FILM 20,1,"This course is intended to introduce undergraduates to the s
+tudy of a range of media, including photography, film, telev
+ision, video, and print and digital media. The course will f
+ocus on questions of medium ""specificity"" or the key technol
+ogical/material, formal and aesthetic features of different 
+media and modes of address and representation that define th
+em. Also considered is the relationship of individual"
+FILM 25,1,"The objective of this class is to provide a basic technical 
+foundation for digital video film production while emphasizi
+ng the techniques and languages of creative moving image med
+ia from traditional story genres to more contemporary experi
+mental forms. Training will move from pre-production-scripti
+ng and storyboarding, through production, including image ca
+pture, lighting and sound recording, to post-production with
+ non-linear digital editing programs such as"
+FILM 25A,1,"From the beginnings through the conversion to sound up until
+ World War II era. In addition to the development of the sil
+ent film, the course will conclude with an examination of th
+e technology of sound conversion and examples of early sound
+ experiments."
+FILM 25B,1,The sound era from World War II to present time.
+FILM 30,1,"This course will focus on topics in the history, theory and 
+aesthetics of sound cinema."
+FILM 35,1,"This course will focus on introductory topics related to the
+ field of digital media studies."
+FILM 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+FILM 45,1,"This course will focus on the industrial, technological, and
+ aesthetic history of television."
+FILM 50,1,"An introduction to film art and film technique for students 
+who are interested in exploring the history and aesthetics o
+f cinema but do not intend to major in film. The course trac
+es the development of world cinema from the first films of t
+he 1890s to the 1970s, drawing on examples from American, Eu
+ropean, Asian, and Third World cinema."
+FILM 75,1,"This course examines postmodernism as it manifests itself in
+ film. We will begin with a general overview of the postmode
+rn, and then look at how postmodernism reformulates certain 
+theoretical issues: e.g., ideology, history, subjectivity an
+d gender. Primary films will be juxtaposed not just with the
+oretical texts, but also with texts from architecture, photo
+graphy, literature and classical Hollywood cinema. Requireme
+nts: take home mid-term, final exam."
+FILM 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+FILM 98,1,Supervised research by lower division students.
+FILM 100,1,"The study, from an historical perspective, of major theorist
+s of film."
+FILM 108,1,"The study of films as categorized either by industry-identif
+ied genres (westerns, horror films, musicals, film noir, etc
+.) or broader interpretive modes (melodrama, realism, fantas
+y, etc.)."
+FILM C115,1,"This course considers how the American detective is represen
+ted in fiction, fil, and popular culture. We will examine ho
+w representations of the American detective are affected by 
+diverse historican and socio-cultural factors, including the
+ ideology of American individualism, paradigms of investigat
+ion and ordered knowledge, and competing discourses of race,
+ class, gender, and sexual orientation. After a brief consid
+eration of early American detectives and detectives"
+FILM 125,1,"This course will focus on topics in documentary cinema, tele
+vision, video, photography, and/or new media."
+FILM 128,1,"A survey of the history, theory, and practice of the documen
+tary film (including video). How have the forms and ethics o
+f the documentary changed since the beginning of cinema? A r
+ange of practices and strategies will be covered: cinema ver
+ite, direct cinema, narrational documentary, autobiography, 
+investigative documentary, and recent fictional styles that 
+combine the essayistic with the observational. The course mo
+ves"
+FILM 129,1,"This course is a survey of the history and aesthetics of the
+ international film Avant-Garde from the 1920s to the presen
+t. The course explores the development of a range of experim
+ental film forms and practices, situating them in relation t
+o the larger artistic, social, and intellectual contexts in 
+which they arise. We look at the ways artists have not only 
+created new film languages in order to express their unique 
+ideas"
+FILM 135,1,"This course is a survey of the history and aesthetics of exp
+erimental and alternative media forms and practices situatin
+g them in relation to the larger art historical, social and 
+intellectual contexts from which they arise."
+FILM 140AC,1,"This course examines contemporary scholarship and films abou
+t the migrant or immigrant experience in the US. The first h
+alf of the course investigates the complex geographies and t
+emporalities of migrant transit and dwelling. Course texts d
+escribe the anthropology and cultural geography of border, c
+ity, and workplace; course films map them as sites of frustr
+ated mobility, fractured identity, and fascinating connectio
+n. The second half of the course"
+FILM 145,1,"This course will focus on topics in national, transnational,
+ and global cinema, television, photography, and/or new medi
+a."
+FILM 151,1,"The study of films from the perspective of directorial style
+, theme, or filmmaking career."
+FILM 155,1,"This course will focus on the history, theory, and experienc
+e of old and new media technologies."
+FILM 160,1,"This course will focus on the cinema of a particular nation 
+or region."
+FILM 170,1,Selected topics in the study of film.
+FILM 176,1,"Students are introduced to the basic concepts, terms and pri
+nciples of producing so that they can effectively and effici
+ently develop their own project proposal and financial strat
+egy. Unit topics include creating a “pitch” proposal/package
+, methods of fundraising/financing, legal and ethical issues
+, managing the production cycle, and securing distribution. 
+This class will use"
+FILM 177,1,"The practice of entertainment law in the United States lies 
+at the intersection of a number of legal disciplines, among 
+them Constitutional law, tort law, copyright law, and tradem
+ark law, and applies those disciplines to the world of enter
+tainment. This course will introduce you to basic principles
+ of those disciplines and their use in entertainment law. Th
+e goal of the course"
+FILM 178,1,"This course is designed to acquaint film majors with a varie
+ty of professions in and around the Bay Area that are open t
+o those wishing to pursue careers in film and media. A serie
+s of ten guest lecturers drawn from these professions will g
+uide students through the opportunities and work experiences
+ available in such fields as studio and independent film pro
+duction, documentary"
+FILM 179,1,"We explore the use and abuse of sound and its relation to im
+age in cinema. With emphasis on how sound influences our emo
+tional"
+FILM 180,1,"The course explores the art and craft of writing a feature-l
+ength, narrative screenplay. Participants present three stor
+y ideas to the class, develop one concept into a detailed tr
+eatment, and write the first act of the script in profession
+al screenplay form. The focus is on rewriting, with regular 
+presentations of outlines and scripts to fellow writers. The
+ emphasis is on story structure, character development, and 
+screenplay form."
+FILM 181,1,"The course explores the art and craft of writing a feature-l
+ength narrative screenplay. Participants begin with a detail
+ed outline of a narrative script and a portion of the script
+ in proper form and develop it into a completed screenplay. 
+The focus is on rewriting, with regular presentations of sce
+nes to fellow writers. Participants also write short scripts
+ and explore alternative story structure. The emphasis is on
+ characterization, scene structure, visual"
+FILM 182,1,"This course explores the art and craft of creating, developi
+ng and writing both a spec script (a script written for an e
+xisting series) and a pilot script (a script based on origin
+al material). In addition, the class will study 21st century
+ serial TV construction by analyzing anthologies, procedural
+s, long narratives and serial melodrama. We’ll also consider
+ how various platforms of delivery enrich viewer engagement 
+and can shape content."
+FILM 184,1,"This class focuses on practices and techniques of non-fictio
+n digital filmmaking. The class examines important technique
+s of non-fiction film, such as research and writing for non-
+fiction, the observational camera, filming in public, the in
+terview, voiceover, working with archival film and other doc
+uments, as well as editing techniques - working to find form
+ and structure for non-fiction materials. This class also ex
+plores the different modes"
+FILM 185,1,"The essentials of film and video production--camera, sound, 
+lighting, and editing. Drawing on previous study of narrativ
+e, documentary, avant-garde film and video, students gain a 
+deeper understanding of the complex relationship between the
+ visual and aural elements of moving-image through hands-on 
+experimentation."
+FILM 186,1,"This advanced studio course is designed for students who hav
+e mastered basic skills and concepts involved in digital vid
+eo production and are interested in further investigating cr
+itical, theoretical, and creative research topics in digital
+ video production."
+FILM 187,1,"This course investigates special topics in, and special tech
+nologies of, media production: e.g., experimental film, docu
+mentary film, digital special effects, etc. This is a hands-
+on studio course designed for students who have mastered the
+ basics of media production and are ready to pursue more spe
+cialized film or video production."
+FILM 190,1,Intensive study of topics in film and moving-image media.
+FILM 194,1,"This course serves to instruct undergraduate Film majors in 
+advanced film and media studies analysis, research, and writ
+ing. A variety of forms of writing will be undertaken, inclu
+ding film analysis, research scholarship, essay argumentatio
+n, film reviewing and criticism, and film festival programmi
+ng notes. (F)"
+FILM H195,1,"Students in the honors program are to take H195 for a letter
+ grade to complete a senior honors thesis. Although the prod
+uction of a film may be part of the preparation of the thesi
+s and the film submitted as a documentation or example, it i
+s expected that the thesis will be a substantial piece of wr
+iting of film criticism or film history."
+FILM 197A,1,"Students will learn about film bibliography and research mat
+erials. Interns will get a thorough orientation to the Pacif
+ic Film Archive library through introductory lectures and tr
+aining sessions. Then, for three hours per week, they will h
+elp organize materials for inclusion in the clippings files.
+ Interns will gain experience in library organization and fi
+lm bibliography, as well as a broad knowledge of the kinds o
+f film reviews and criticism"
+FILM 197B,1,"The supervised field program may include experience in a bro
+ad range of pre- and post-production film and video producti
+on related activities. The student will develop the field ex
+perience and its relationship to academic training with a me
+mber of the faculty on the Film Advisory Committee. Faculty 
+sponsor and student will establish individual meeting times 
+and academic requirements for acceptable completion of"
+FILM 197C,1,"Experience ""behind-the-scenes"" at the Pacific Film Archive! 
+Interns will learn about film curating through creating a pr
+ogram of works by UC Berkeley students to present at PFA the
+ following spring semester. Students will solicit films and 
+videos, preview them, and make a final selection as a group.
+ Students will write short analyses of local film exhibition
+ programs and will do projects related to PFA's ongoing exhi
+bition progra"
+FILM 198,1,"Group studies of selected topics which vary from year to yea
+r. Field shall not coincide with that of any regular course 
+and shall be specific enough to allow students to write an e
+ssay based on the study."
+FILM 199,1,"Reading and conference with the instructor in a field that s
+hall not coincide with that of any regular course and shall 
+be specific enough to enable the student to write an essay b
+ased upon his/her study."
+FILM R1A,1,"Rhetorical approach to reading and writing argumentative dis
+course with a film focus. Close reading of selected texts; w
+ritten themes developed from class discussion and analysis o
+f rhetorical strategies. Satisfies the first half of the Rea
+ding and Composition requirement."
+FILM R1B,1,"Intensive argumentative writing stimulated through selected 
+readings, films, and class discussion. Satisfies the second 
+half of the Reading and Composition requirement."
+FILM 10,1,"This course will focus on the development of film art, techn
+ology, and industry in the late 19th and early 20th centurie
+s."
+FILM 20,1,"This course is intended to introduce undergraduates to the s
+tudy of a range of media, including photography, film, telev
+ision, video, and print and digital media. The course will f
+ocus on questions of medium ""specificity"" or the key technol
+ogical/material, formal and aesthetic features of different 
+media and modes of address and representation that define th
+em. Also considered is the relationship of individual"
+FILM 25,1,"The objective of this class is to provide a basic technical 
+foundation for digital video film production while emphasizi
+ng the techniques and languages of creative moving image med
+ia from traditional story genres to more contemporary experi
+mental forms. Training will move from pre-production-scripti
+ng and storyboarding, through production, including image ca
+pture, lighting and sound recording, to post-production with
+ non-linear digital editing programs such as"
+FILM 25A,1,"From the beginnings through the conversion to sound up until
+ World War II era. In addition to the development of the sil
+ent film, the course will conclude with an examination of th
+e technology of sound conversion and examples of early sound
+ experiments."
+FILM 25B,1,The sound era from World War II to present time.
+FILM 30,1,"This course will focus on topics in the history, theory and 
+aesthetics of sound cinema."
+FILM 35,1,"This course will focus on introductory topics related to the
+ field of digital media studies."
+FILM 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+FILM 45,1,"This course will focus on the industrial, technological, and
+ aesthetic history of television."
+FILM 50,1,"An introduction to film art and film technique for students 
+who are interested in exploring the history and aesthetics o
+f cinema but do not intend to major in film. The course trac
+es the development of world cinema from the first films of t
+he 1890s to the 1970s, drawing on examples from American, Eu
+ropean, Asian, and Third World cinema."
+FILM 75,1,"This course examines postmodernism as it manifests itself in
+ film. We will begin with a general overview of the postmode
+rn, and then look at how postmodernism reformulates certain 
+theoretical issues: e.g., ideology, history, subjectivity an
+d gender. Primary films will be juxtaposed not just with the
+oretical texts, but also with texts from architecture, photo
+graphy, literature and classical Hollywood cinema. Requireme
+nts: take home mid-term, final exam."
+FILM 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+FILM 98,1,Supervised research by lower division students.
+FILM 100,1,"The study, from an historical perspective, of major theorist
+s of film."
+FILM 108,1,"The study of films as categorized either by industry-identif
+ied genres (westerns, horror films, musicals, film noir, etc
+.) or broader interpretive modes (melodrama, realism, fantas
+y, etc.)."
+FILM C115,1,"This course considers how the American detective is represen
+ted in fiction, fil, and popular culture. We will examine ho
+w representations of the American detective are affected by 
+diverse historican and socio-cultural factors, including the
+ ideology of American individualism, paradigms of investigat
+ion and ordered knowledge, and competing discourses of race,
+ class, gender, and sexual orientation. After a brief consid
+eration of early American detectives and detectives"
+FILM 125,1,"This course will focus on topics in documentary cinema, tele
+vision, video, photography, and/or new media."
+FILM 128,1,"A survey of the history, theory, and practice of the documen
+tary film (including video). How have the forms and ethics o
+f the documentary changed since the beginning of cinema? A r
+ange of practices and strategies will be covered: cinema ver
+ite, direct cinema, narrational documentary, autobiography, 
+investigative documentary, and recent fictional styles that 
+combine the essayistic with the observational. The course mo
+ves"
+FILM 129,1,"This course is a survey of the history and aesthetics of the
+ international film Avant-Garde from the 1920s to the presen
+t. The course explores the development of a range of experim
+ental film forms and practices, situating them in relation t
+o the larger artistic, social, and intellectual contexts in 
+which they arise. We look at the ways artists have not only 
+created new film languages in order to express their unique 
+ideas"
+FILM 135,1,"This course is a survey of the history and aesthetics of exp
+erimental and alternative media forms and practices situatin
+g them in relation to the larger art historical, social and 
+intellectual contexts from which they arise."
+FILM 140AC,1,"This course examines contemporary scholarship and films abou
+t the migrant or immigrant experience in the US. The first h
+alf of the course investigates the complex geographies and t
+emporalities of migrant transit and dwelling. Course texts d
+escribe the anthropology and cultural geography of border, c
+ity, and workplace; course films map them as sites of frustr
+ated mobility, fractured identity, and fascinating connectio
+n. The second half of the course"
+FILM 145,1,"This course will focus on topics in national, transnational,
+ and global cinema, television, photography, and/or new medi
+a."
+FILM 151,1,"The study of films from the perspective of directorial style
+, theme, or filmmaking career."
+FILM 155,1,"This course will focus on the history, theory, and experienc
+e of old and new media technologies."
+FILM 160,1,"This course will focus on the cinema of a particular nation 
+or region."
+FILM 170,1,Selected topics in the study of film.
+FILM 176,1,"Students are introduced to the basic concepts, terms and pri
+nciples of producing so that they can effectively and effici
+ently develop their own project proposal and financial strat
+egy. Unit topics include creating a “pitch” proposal/package
+, methods of fundraising/financing, legal and ethical issues
+, managing the production cycle, and securing distribution. 
+This class will use"
+FILM 177,1,"The practice of entertainment law in the United States lies 
+at the intersection of a number of legal disciplines, among 
+them Constitutional law, tort law, copyright law, and tradem
+ark law, and applies those disciplines to the world of enter
+tainment. This course will introduce you to basic principles
+ of those disciplines and their use in entertainment law. Th
+e goal of the course"
+FILM 178,1,"This course is designed to acquaint film majors with a varie
+ty of professions in and around the Bay Area that are open t
+o those wishing to pursue careers in film and media. A serie
+s of ten guest lecturers drawn from these professions will g
+uide students through the opportunities and work experiences
+ available in such fields as studio and independent film pro
+duction, documentary"
+FILM 179,1,"We explore the use and abuse of sound and its relation to im
+age in cinema. With emphasis on how sound influences our emo
+tional"
+FILM 180,1,"The course explores the art and craft of writing a feature-l
+ength, narrative screenplay. Participants present three stor
+y ideas to the class, develop one concept into a detailed tr
+eatment, and write the first act of the script in profession
+al screenplay form. The focus is on rewriting, with regular 
+presentations of outlines and scripts to fellow writers. The
+ emphasis is on story structure, character development, and 
+screenplay form."
+FILM 181,1,"The course explores the art and craft of writing a feature-l
+ength narrative screenplay. Participants begin with a detail
+ed outline of a narrative script and a portion of the script
+ in proper form and develop it into a completed screenplay. 
+The focus is on rewriting, with regular presentations of sce
+nes to fellow writers. Participants also write short scripts
+ and explore alternative story structure. The emphasis is on
+ characterization, scene structure, visual"
+FILM 182,1,"This course explores the art and craft of creating, developi
+ng and writing both a spec script (a script written for an e
+xisting series) and a pilot script (a script based on origin
+al material). In addition, the class will study 21st century
+ serial TV construction by analyzing anthologies, procedural
+s, long narratives and serial melodrama. We’ll also consider
+ how various platforms of delivery enrich viewer engagement 
+and can shape content."
+FILM 184,1,"This class focuses on practices and techniques of non-fictio
+n digital filmmaking. The class examines important technique
+s of non-fiction film, such as research and writing for non-
+fiction, the observational camera, filming in public, the in
+terview, voiceover, working with archival film and other doc
+uments, as well as editing techniques - working to find form
+ and structure for non-fiction materials. This class also ex
+plores the different modes"
+FILM 185,1,"The essentials of film and video production--camera, sound, 
+lighting, and editing. Drawing on previous study of narrativ
+e, documentary, avant-garde film and video, students gain a 
+deeper understanding of the complex relationship between the
+ visual and aural elements of moving-image through hands-on 
+experimentation."
+FILM 186,1,"This advanced studio course is designed for students who hav
+e mastered basic skills and concepts involved in digital vid
+eo production and are interested in further investigating cr
+itical, theoretical, and creative research topics in digital
+ video production."
+FILM 187,1,"This course investigates special topics in, and special tech
+nologies of, media production: e.g., experimental film, docu
+mentary film, digital special effects, etc. This is a hands-
+on studio course designed for students who have mastered the
+ basics of media production and are ready to pursue more spe
+cialized film or video production."
+FILM 190,1,Intensive study of topics in film and moving-image media.
+FILM 194,1,"This course serves to instruct undergraduate Film majors in 
+advanced film and media studies analysis, research, and writ
+ing. A variety of forms of writing will be undertaken, inclu
+ding film analysis, research scholarship, essay argumentatio
+n, film reviewing and criticism, and film festival programmi
+ng notes. (F)"
+FILM H195,1,"Students in the honors program are to take H195 for a letter
+ grade to complete a senior honors thesis. Although the prod
+uction of a film may be part of the preparation of the thesi
+s and the film submitted as a documentation or example, it i
+s expected that the thesis will be a substantial piece of wr
+iting of film criticism or film history."
+FILM 197A,1,"Students will learn about film bibliography and research mat
+erials. Interns will get a thorough orientation to the Pacif
+ic Film Archive library through introductory lectures and tr
+aining sessions. Then, for three hours per week, they will h
+elp organize materials for inclusion in the clippings files.
+ Interns will gain experience in library organization and fi
+lm bibliography, as well as a broad knowledge of the kinds o
+f film reviews and criticism"
+FILM 197B,1,"The supervised field program may include experience in a bro
+ad range of pre- and post-production film and video producti
+on related activities. The student will develop the field ex
+perience and its relationship to academic training with a me
+mber of the faculty on the Film Advisory Committee. Faculty 
+sponsor and student will establish individual meeting times 
+and academic requirements for acceptable completion of"
+FILM 197C,1,"Experience ""behind-the-scenes"" at the Pacific Film Archive! 
+Interns will learn about film curating through creating a pr
+ogram of works by UC Berkeley students to present at PFA the
+ following spring semester. Students will solicit films and 
+videos, preview them, and make a final selection as a group.
+ Students will write short analyses of local film exhibition
+ programs and will do projects related to PFA's ongoing exhi
+bition progra"
+FILM 198,1,"Group studies of selected topics which vary from year to yea
+r. Field shall not coincide with that of any regular course 
+and shall be specific enough to allow students to write an e
+ssay based on the study."
+FILM 199,1,"Reading and conference with the instructor in a field that s
+hall not coincide with that of any regular course and shall 
+be specific enough to enable the student to write an essay b
+ased upon his/her study."
+FILM R1A,1,"Rhetorical approach to reading and writing argumentative dis
+course with a film focus. Close reading of selected texts; w
+ritten themes developed from class discussion and analysis o
+f rhetorical strategies. Satisfies the first half of the Rea
+ding and Composition requirement."
+FILM R1B,1,"Intensive argumentative writing stimulated through selected 
+readings, films, and class discussion. Satisfies the second 
+half of the Reading and Composition requirement."
+FILM 10,1,"This course will focus on the development of film art, techn
+ology, and industry in the late 19th and early 20th centurie
+s."
+FILM 20,1,"This course is intended to introduce undergraduates to the s
+tudy of a range of media, including photography, film, telev
+ision, video, and print and digital media. The course will f
+ocus on questions of medium ""specificity"" or the key technol
+ogical/material, formal and aesthetic features of different 
+media and modes of address and representation that define th
+em. Also considered is the relationship of individual"
+FILM 25,1,"The objective of this class is to provide a basic technical 
+foundation for digital video film production while emphasizi
+ng the techniques and languages of creative moving image med
+ia from traditional story genres to more contemporary experi
+mental forms. Training will move from pre-production-scripti
+ng and storyboarding, through production, including image ca
+pture, lighting and sound recording, to post-production with
+ non-linear digital editing programs such as"
+FILM 25A,1,"From the beginnings through the conversion to sound up until
+ World War II era. In addition to the development of the sil
+ent film, the course will conclude with an examination of th
+e technology of sound conversion and examples of early sound
+ experiments."
+FILM 25B,1,The sound era from World War II to present time.
+FILM 30,1,"This course will focus on topics in the history, theory and 
+aesthetics of sound cinema."
+FILM 35,1,"This course will focus on introductory topics related to the
+ field of digital media studies."
+FILM 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+FILM 45,1,"This course will focus on the industrial, technological, and
+ aesthetic history of television."
+FILM 50,1,"An introduction to film art and film technique for students 
+who are interested in exploring the history and aesthetics o
+f cinema but do not intend to major in film. The course trac
+es the development of world cinema from the first films of t
+he 1890s to the 1970s, drawing on examples from American, Eu
+ropean, Asian, and Third World cinema."
+FILM 75,1,"This course examines postmodernism as it manifests itself in
+ film. We will begin with a general overview of the postmode
+rn, and then look at how postmodernism reformulates certain 
+theoretical issues: e.g., ideology, history, subjectivity an
+d gender. Primary films will be juxtaposed not just with the
+oretical texts, but also with texts from architecture, photo
+graphy, literature and classical Hollywood cinema. Requireme
+nts: take home mid-term, final exam."
+FILM 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+FILM 98,1,Supervised research by lower division students.
+FILM 100,1,"The study, from an historical perspective, of major theorist
+s of film."
+FILM 108,1,"The study of films as categorized either by industry-identif
+ied genres (westerns, horror films, musicals, film noir, etc
+.) or broader interpretive modes (melodrama, realism, fantas
+y, etc.)."
+FILM C115,1,"This course considers how the American detective is represen
+ted in fiction, fil, and popular culture. We will examine ho
+w representations of the American detective are affected by 
+diverse historican and socio-cultural factors, including the
+ ideology of American individualism, paradigms of investigat
+ion and ordered knowledge, and competing discourses of race,
+ class, gender, and sexual orientation. After a brief consid
+eration of early American detectives and detectives"
+FILM 125,1,"This course will focus on topics in documentary cinema, tele
+vision, video, photography, and/or new media."
+FILM 128,1,"A survey of the history, theory, and practice of the documen
+tary film (including video). How have the forms and ethics o
+f the documentary changed since the beginning of cinema? A r
+ange of practices and strategies will be covered: cinema ver
+ite, direct cinema, narrational documentary, autobiography, 
+investigative documentary, and recent fictional styles that 
+combine the essayistic with the observational. The course mo
+ves"
+FILM 129,1,"This course is a survey of the history and aesthetics of the
+ international film Avant-Garde from the 1920s to the presen
+t. The course explores the development of a range of experim
+ental film forms and practices, situating them in relation t
+o the larger artistic, social, and intellectual contexts in 
+which they arise. We look at the ways artists have not only 
+created new film languages in order to express their unique 
+ideas"
+FILM 135,1,"This course is a survey of the history and aesthetics of exp
+erimental and alternative media forms and practices situatin
+g them in relation to the larger art historical, social and 
+intellectual contexts from which they arise."
+FILM 140AC,1,"This course examines contemporary scholarship and films abou
+t the migrant or immigrant experience in the US. The first h
+alf of the course investigates the complex geographies and t
+emporalities of migrant transit and dwelling. Course texts d
+escribe the anthropology and cultural geography of border, c
+ity, and workplace; course films map them as sites of frustr
+ated mobility, fractured identity, and fascinating connectio
+n. The second half of the course"
+FILM 145,1,"This course will focus on topics in national, transnational,
+ and global cinema, television, photography, and/or new medi
+a."
+FILM 151,1,"The study of films from the perspective of directorial style
+, theme, or filmmaking career."
+FILM 155,1,"This course will focus on the history, theory, and experienc
+e of old and new media technologies."
+FILM 160,1,"This course will focus on the cinema of a particular nation 
+or region."
+FILM 170,1,Selected topics in the study of film.
+FILM 176,1,"Students are introduced to the basic concepts, terms and pri
+nciples of producing so that they can effectively and effici
+ently develop their own project proposal and financial strat
+egy. Unit topics include creating a “pitch” proposal/package
+, methods of fundraising/financing, legal and ethical issues
+, managing the production cycle, and securing distribution. 
+This class will use"
+FILM 177,1,"The practice of entertainment law in the United States lies 
+at the intersection of a number of legal disciplines, among 
+them Constitutional law, tort law, copyright law, and tradem
+ark law, and applies those disciplines to the world of enter
+tainment. This course will introduce you to basic principles
+ of those disciplines and their use in entertainment law. Th
+e goal of the course"
+FILM 178,1,"This course is designed to acquaint film majors with a varie
+ty of professions in and around the Bay Area that are open t
+o those wishing to pursue careers in film and media. A serie
+s of ten guest lecturers drawn from these professions will g
+uide students through the opportunities and work experiences
+ available in such fields as studio and independent film pro
+duction, documentary"
+FILM 179,1,"We explore the use and abuse of sound and its relation to im
+age in cinema. With emphasis on how sound influences our emo
+tional"
+FILM 180,1,"The course explores the art and craft of writing a feature-l
+ength, narrative screenplay. Participants present three stor
+y ideas to the class, develop one concept into a detailed tr
+eatment, and write the first act of the script in profession
+al screenplay form. The focus is on rewriting, with regular 
+presentations of outlines and scripts to fellow writers. The
+ emphasis is on story structure, character development, and 
+screenplay form."
+FILM 181,1,"The course explores the art and craft of writing a feature-l
+ength narrative screenplay. Participants begin with a detail
+ed outline of a narrative script and a portion of the script
+ in proper form and develop it into a completed screenplay. 
+The focus is on rewriting, with regular presentations of sce
+nes to fellow writers. Participants also write short scripts
+ and explore alternative story structure. The emphasis is on
+ characterization, scene structure, visual"
+FILM 182,1,"This course explores the art and craft of creating, developi
+ng and writing both a spec script (a script written for an e
+xisting series) and a pilot script (a script based on origin
+al material). In addition, the class will study 21st century
+ serial TV construction by analyzing anthologies, procedural
+s, long narratives and serial melodrama. We’ll also consider
+ how various platforms of delivery enrich viewer engagement 
+and can shape content."
+FILM 184,1,"This class focuses on practices and techniques of non-fictio
+n digital filmmaking. The class examines important technique
+s of non-fiction film, such as research and writing for non-
+fiction, the observational camera, filming in public, the in
+terview, voiceover, working with archival film and other doc
+uments, as well as editing techniques - working to find form
+ and structure for non-fiction materials. This class also ex
+plores the different modes"
+FILM 185,1,"The essentials of film and video production--camera, sound, 
+lighting, and editing. Drawing on previous study of narrativ
+e, documentary, avant-garde film and video, students gain a 
+deeper understanding of the complex relationship between the
+ visual and aural elements of moving-image through hands-on 
+experimentation."
+FILM 186,1,"This advanced studio course is designed for students who hav
+e mastered basic skills and concepts involved in digital vid
+eo production and are interested in further investigating cr
+itical, theoretical, and creative research topics in digital
+ video production."
+FILM 187,1,"This course investigates special topics in, and special tech
+nologies of, media production: e.g., experimental film, docu
+mentary film, digital special effects, etc. This is a hands-
+on studio course designed for students who have mastered the
+ basics of media production and are ready to pursue more spe
+cialized film or video production."
+FILM 190,1,Intensive study of topics in film and moving-image media.
+FILM 194,1,"This course serves to instruct undergraduate Film majors in 
+advanced film and media studies analysis, research, and writ
+ing. A variety of forms of writing will be undertaken, inclu
+ding film analysis, research scholarship, essay argumentatio
+n, film reviewing and criticism, and film festival programmi
+ng notes. (F)"
+FILM H195,1,"Students in the honors program are to take H195 for a letter
+ grade to complete a senior honors thesis. Although the prod
+uction of a film may be part of the preparation of the thesi
+s and the film submitted as a documentation or example, it i
+s expected that the thesis will be a substantial piece of wr
+iting of film criticism or film history."
+FILM 197A,1,"Students will learn about film bibliography and research mat
+erials. Interns will get a thorough orientation to the Pacif
+ic Film Archive library through introductory lectures and tr
+aining sessions. Then, for three hours per week, they will h
+elp organize materials for inclusion in the clippings files.
+ Interns will gain experience in library organization and fi
+lm bibliography, as well as a broad knowledge of the kinds o
+f film reviews and criticism"
+FILM 197B,1,"The supervised field program may include experience in a bro
+ad range of pre- and post-production film and video producti
+on related activities. The student will develop the field ex
+perience and its relationship to academic training with a me
+mber of the faculty on the Film Advisory Committee. Faculty 
+sponsor and student will establish individual meeting times 
+and academic requirements for acceptable completion of"
+FILM 197C,1,"Experience ""behind-the-scenes"" at the Pacific Film Archive! 
+Interns will learn about film curating through creating a pr
+ogram of works by UC Berkeley students to present at PFA the
+ following spring semester. Students will solicit films and 
+videos, preview them, and make a final selection as a group.
+ Students will write short analyses of local film exhibition
+ programs and will do projects related to PFA's ongoing exhi
+bition progra"
+FILM 198,1,"Group studies of selected topics which vary from year to yea
+r. Field shall not coincide with that of any regular course 
+and shall be specific enough to allow students to write an e
+ssay based on the study."
+FILM 199,1,"Reading and conference with the instructor in a field that s
+hall not coincide with that of any regular course and shall 
+be specific enough to enable the student to write an essay b
+ased upon his/her study."

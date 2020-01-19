@@ -1,21 +1,102 @@
 name,size,about
-COM LIT H1A,1,"Expository writing based on analysis of selected masterpieces of ancient and modern literature. Limited to 10 qualified freshmen and/or sophomores who meet for round-table discussions and attend weekly tutorial sessions. Individual assignments provide each student with the opportunity to exploit his or her linguistic and literary training. H1A satisfies the first half of the Reading and Composition requirement, and H1B satisfies the second hal"
-COM LIT H1B,1,"Expository writing based on analysis of selected masterpieces of ancient and modern literature. Limited to 10 qualified freshmen and/or sophomores who meet for round-table discussions and attend weekly tutorial sessions. Individual assignments provide each student with the opportunity to exploit his or her linguistic and literary training. H1A satisfies the first half of the Reading and Composition requirement, and H1B satisfies the second"
-COM LIT N1A,1,Expository writing based on analysis of selected masterpieces of ancient and modern literature. Satisfies the first half of the Reading and Composition requirement.
-COM LIT N1B,1,Expository writing based on analysis of selected masterpieces of ancient and modern literature. Satisfies the second half of the Reading and Composition requirement.
-COM LIT R1A,1,"Expository writing based on analysis of selected masterpieces of ancient and modern literature. R1A satisfies the first half of the Reading and Composition requirement, and R1B satisfies the second half."
-COM LIT R1B,1,"Expository writing based on analysis of selected masterpieces of ancient and modern literature. R1A satisfies the first half of the Reading and Composition requirement, and R1B satisfies the second half."
-COM LIT R2A,1,"Expository writing done in connection with the reading of selected masterpieces of ancient and modern literature and the study of selected French texts read in the original. Course will prepare students for more advanced work in French. R2A satisfies the first half of the Reading and Composition requirement, and R2B satisfies the second half."
-COM LIT R2B,1,"Expository writing done in connection with the reading of selected masterpieces of ancient and modern literature and the study of selected French texts read in the original. Course will prepare students for more advanced work in French. R2A satisfies the first half of the Reading and Composition requirement, and R2B satisfies the second half."
-COM LIT R3A,1,Expository writing done in connection with the reading of selected masterpieces of ancient and modern literature and the study of selected Spanish texts read in the original. Course will help prepare students for more advanced work in Spanish. Satisfies the second half of the Reading and Composition Requirement.
-COM LIT R3B,1,Expository writing done in connection with the reading of selected masterpieces of ancient and modern literature and the study of selected Spanish texts read in the original. Course will help prepare students for more advanced work in Spanish. Satisfies the second half of the Reading and Composition Requirement.
-COM LIT 20,1,"An introductory level exploration of a specific author, work, theme or literary movement in an international context. Emphasis on the ways in which literature has played (and continues to play) a crucial role in the relationship between different cultures, traditions, and languages. Readings and topics to vary from semester to semester."
-COM LIT 20A,1,"An introduction to problems of the comparative study of literature and philosophy. Emphasis on principles of comparative methods and literary and philosophical analysis with focus on selected literary, philosophical, critical, and theoretical texts from antiquity to the present. Readings in English."
-COM LIT 20B,1,"An introductory level exploration of the study of social and cultural issues in relation to literature. Examining some of the conceptual and thematic places where literature and social sciences topics (race, gender, social and class structure, law) cross over into each others' domains, we will ask what it means to read literary texts along with social sciences methodologies. The focus will be on reading of fiction and alongside methodological texts of the social sciences"
-COM LIT 20C,1,"An introductory level exploration of the study of literature and history. Examining the literature and historical events of a chosen period (ancient, medieval, renaissance and early modern, modern, contemporary), we will engage in readings of literature, art, and critical texts in order better to understand the imaginative and real worlds of other times and places. Readings and topics to vary from semester to semester."
-COM LIT 24,1,The Freshman Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments and topics vary from department to department and semester to semester. Enrollment limited to fifteen freshmen.
-COM LIT 39H,1,"Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25."
-COM LIT N40,1,"A study of women as portrayed in literature, and of women writers. Selected readings on a topic which varies from summer to summer, detailed consideration of both literary techniques and the problems of women."
+COM LIT H1A,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Limited to 10 qualified 
+freshmen and/or sophomores who meet for round-table discussi
+ons and attend weekly tutorial sessions. Individual assignme
+nts provide each student with the opportunity to exploit his
+ or her linguistic and literary training. H1A satisfies the 
+first half of the Reading and Composition requirement, and H
+1B satisfies the second hal"
+COM LIT H1B,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Limited to 10 qualified 
+freshmen and/or sophomores who meet for round-table discussi
+ons and attend weekly tutorial sessions. Individual assignme
+nts provide each student with the opportunity to exploit his
+ or her linguistic and literary training. H1A satisfies the 
+first half of the Reading and Composition requirement, and H
+1B satisfies the second"
+COM LIT N1A,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Satisfies the first half
+ of the Reading and Composition requirement."
+COM LIT N1B,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Satisfies the second hal
+f of the Reading and Composition requirement."
+COM LIT R1A,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. R1A satisfies the first 
+half of the Reading and Composition requirement, and R1B sat
+isfies the second half."
+COM LIT R1B,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. R1A satisfies the first 
+half of the Reading and Composition requirement, and R1B sat
+isfies the second half."
+COM LIT R2A,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected French texts read in the original. Course
+ will prepare students for more advanced work in French. R2A
+ satisfies the first half of the Reading and Composition req
+uirement, and R2B satisfies the second half."
+COM LIT R2B,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected French texts read in the original. Course
+ will prepare students for more advanced work in French. R2A
+ satisfies the first half of the Reading and Composition req
+uirement, and R2B satisfies the second half."
+COM LIT R3A,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected Spanish texts read in the original. Cours
+e will help prepare students for more advanced work in Spani
+sh. Satisfies the second half of the Reading and Composition
+ Requirement."
+COM LIT R3B,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected Spanish texts read in the original. Cours
+e will help prepare students for more advanced work in Spani
+sh. Satisfies the second half of the Reading and Composition
+ Requirement."
+COM LIT 20,1,"An introductory level exploration of a specific author, work
+, theme or literary movement in an international context. Em
+phasis on the ways in which literature has played (and conti
+nues to play) a crucial role in the relationship between dif
+ferent cultures, traditions, and languages. Readings and top
+ics to vary from semester to semester."
+COM LIT 20A,1,"An introduction to problems of the comparative study of lite
+rature and philosophy. Emphasis on principles of comparative
+ methods and literary and philosophical analysis with focus 
+on selected literary, philosophical, critical, and theoretic
+al texts from antiquity to the present. Readings in English."
+COM LIT 20B,1,"An introductory level exploration of the study of social and
+ cultural issues in relation to literature. Examining some o
+f the conceptual and thematic places where literature and so
+cial sciences topics (race, gender, social and class structu
+re, law) cross over into each others' domains, we will ask w
+hat it means to read literary texts along with social scienc
+es methodologies. The focus will be on reading of fiction an
+d alongside methodological texts of the social sciences"
+COM LIT 20C,1,"An introductory level exploration of the study of literature
+ and history. Examining the literature and historical events
+ of a chosen period (ancient, medieval, renaissance and earl
+y modern, modern, contemporary), we will engage in readings 
+of literature, art, and critical texts in order better to un
+derstand the imaginative and real worlds of other times and 
+places. Readings and topics to vary from semester to semeste
+r."
+COM LIT 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments and topic
+s vary from department to department and semester to semeste
+r. Enrollment limited to fifteen freshmen."
+COM LIT 39H,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+COM LIT N40,1,"A study of women as portrayed in literature, and of women wr
+iters. Selected readings on a topic which varies from summer
+ to summer, detailed consideration of both literary techniqu
+es and the problems of women."
 COM LIT 41A,1,Comparative study of masterpieces of world literature.
 COM LIT 41C,1,Comparative study of masterpieces of world literature.
 COM LIT 41D,1,Comparative study of masterpieces of world literature.
@@ -24,32 +105,1002 @@ COM LIT N41A,1,Comparative study of masterpieces of world literature.
 COM LIT N41B,1,Comparative study of masterpieces of world literature.
 COM LIT N41C,1,Comparative study of masterpieces of world literature.
 COM LIT N41D,1,Comparative study of masterpieces of world literature.
-COM LIT 50,1,A creative writing workshop for students who wish to study the theory and practice of writing as they work in a variety of forms and media.
-COM LIT 60AC,1,"Study of the ethnic diversity of American literature. Topics will vary from semester to semester, but may include such themes as Cultures of the City, Gender, Race, Ethnicity in U.S. Literature, Race and Identity. Students should consult the department's course bulletin well before the beginning of the semester for details."
-COM LIT N60AC,1,"Study of the ethnic diversity of American literature. Topics will vary from summer to summer but may include such themes as gender, race, ethnicity, marriage, sexuality, identity, and the supernatural. Students should check the department's bulletin boards for summer course listings and further details."
-COM LIT W60AC,1,"Study of the ethnic diversity of American literature. Topics will vary from semester to semester, but may include such themes as Cultures of the City, Gender, Race, Ethnicity in U.S. Literature, Race and Identity. Students should consult the department's course bulletin well before the beginning of the semester for details."
-COM LIT 98,1,Group study in a field that may not coincide with that of any regular course and must be specific enough to enable students to write essays based upon their studies.
-COM LIT 98BC,1,"Berkeley Connect is a mentoring program, offered through various academic departments, that helps students build intellectual community. Over the course of a semester, enrolled students participate in regular small-group discussions facilitated by a graduate student mentor (following a faculty-directed curriculum), meet with their graduate student mentor for one-on-one academic advising, attend lectures and panel discussions featuring department faculty"
-COM LIT 100,1,"An introduction to problems of the comparative study of literature and culture. Emphasis on principles of comparative methods and analysis with focus on selected literary, critical, and theoretical texts from antiquity to the present. Readings in English."
-COM LIT 100A,1,"An introduction to problems of the comparative study of literatures of the world in international and cross-cultural perspective along with philosophical texts and approaches. Emphasis on principles of comparative methods and analysis with focus on issues of philosophy and ethics along with selected literary, critical, and theoretical texts. Readings in English."
-COM LIT 100B,1,"An introduction to problems of the comparative study of literatures of the world in international and cross-cultural perspective. Emphasis on principles of comparative methods and analysis with focus on contemporary social and cultural issues in at least one foreign culture along with selected literary, critical, and theoretical texts. Readings in English."
-COM LIT 100C,1,"An introduction to problems of the comparative study of literature and historical study. Emphasis on principles of comparative methods and analysis with focus on selected literary, critical, and theoretical texts from antiquity to the present. Readings in English."
-COM LIT 100D,1,"An introduction to problems of the comparative study of literatures of the world in international and cross-cultural perspective . Emphasis on principles of comparative methods and analysis with focus on contemporary social and cultural issues in at least one foreign culture along with selected literary, critical, and theoretical texts."
-COM LIT 112A,1,"This is a course of beginning Modern Greek involving speaking, reading and writing. Modern Greek pronunciation, vocabulary, grammar and syntax is studied. In this course there is also an emphasis in practice of oral language skills."
-COM LIT 112B,1,"Modern Greek pronunciation, vocabulary, grammar and syntax studied. The forms of writing (prose, poetry, drama) are studied through literary texts as auxiliary to the acquisition of compositional skills."
-COM LIT 120,1,Examination of selected aspects of the Biblical tradition and their relevance to the study of later literature.
-COM LIT 151,1,"The literature of Greece, Rome, the Biblical lands, and other ancient civilizations of the Mediterranean basin."
+COM LIT 50,1,"A creative writing workshop for students who wish to study t
+he theory and practice of writing as they work in a variety 
+of forms and media."
+COM LIT 60AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from semester to semester, but may include such t
+hemes as Cultures of the City, Gender, Race, Ethnicity in U.
+S. Literature, Race and Identity. Students should consult th
+e department's course bulletin well before the beginning of 
+the semester for details."
+COM LIT N60AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from summer to summer but may include such themes
+ as gender, race, ethnicity, marriage, sexuality, identity, 
+and the supernatural. Students should check the department's
+ bulletin boards for summer course listings and further deta
+ils."
+COM LIT W60AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from semester to semester, but may include such t
+hemes as Cultures of the City, Gender, Race, Ethnicity in U.
+S. Literature, Race and Identity. Students should consult th
+e department's course bulletin well before the beginning of 
+the semester for details."
+COM LIT 98,1,"Group study in a field that may not coincide with that of an
+y regular course and must be specific enough to enable stude
+nts to write essays based upon their studies."
+COM LIT 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department faculty"
+COM LIT 100,1,"An introduction to problems of the comparative study of lite
+rature and culture. Emphasis on principles of comparative me
+thods and analysis with focus on selected literary, critical
+, and theoretical texts from antiquity to the present. Readi
+ngs in English."
+COM LIT 100A,1,"An introduction to problems of the comparative study of lite
+ratures of the world in international and cross-cultural per
+spective along with philosophical texts and approaches. Emph
+asis on principles of comparative methods and analysis with 
+focus on issues of philosophy and ethics along with selected
+ literary, critical, and theoretical texts. Readings in Engl
+ish."
+COM LIT 100B,1,"An introduction to problems of the comparative study of lite
+ratures of the world in international and cross-cultural per
+spective. Emphasis on principles of comparative methods and 
+analysis with focus on contemporary social and cultural issu
+es in at least one foreign culture along with selected liter
+ary, critical, and theoretical texts. Readings in English."
+COM LIT 100C,1,"An introduction to problems of the comparative study of lite
+rature and historical study. Emphasis on principles of compa
+rative methods and analysis with focus on selected literary,
+ critical, and theoretical texts from antiquity to the prese
+nt. Readings in English."
+COM LIT 100D,1,"An introduction to problems of the comparative study of lite
+ratures of the world in international and cross-cultural per
+spective . Emphasis on principles of comparative methods and
+ analysis with focus on contemporary social and cultural iss
+ues in at least one foreign culture along with selected lite
+rary, critical, and theoretical texts."
+COM LIT 112A,1,"This is a course of beginning Modern Greek involving speakin
+g, reading and writing. Modern Greek pronunciation, vocabula
+ry, grammar and syntax is studied. In this course there is a
+lso an emphasis in practice of oral language skills."
+COM LIT 112B,1,"Modern Greek pronunciation, vocabulary, grammar and syntax s
+tudied. The forms of writing (prose, poetry, drama) are stud
+ied through literary texts as auxiliary to the acquisition o
+f compositional skills."
+COM LIT 120,1,"Examination of selected aspects of the Biblical tradition an
+d their relevance to the study of later literature."
+COM LIT 151,1,"The literature of Greece, Rome, the Biblical lands, and othe
+r ancient civilizations of the Mediterranean basin."
 COM LIT 152,1,The literature of the Middle Ages.
 COM LIT 153,1,European literature of the Renaissance.
 COM LIT 154,1,Literature of the 18th and 19th centuries.
 COM LIT 155,1,Literature of the 19th and 20th centuries.
-COM LIT 156,1,"Comparative study of American, Native-American, Spanish-American, Caribbean, and Brazilian literature and culture. Readings chosen to illustrate diverse attitudes of Americans toward their culture, politics, and environment."
-COM LIT 156AC,1,"Study of the ethnic diversity of American literature. Topics will vary from semester to semester, but may include such themes as Cultures of the City, Gender, Race, Ethnicity in U.S. Literature, Race and Identity. Students should consult the department's course bulletin well before the beginning of the semester for details."
-COM LIT 165,1,Study of the earliest myth texts and of the progressive growth of literature out of myth to the present day. Myth and oral composition. Emphasis on the meanings of myth as reflected in varying idioms.
-COM LIT 170,1,An independent studies course designed to fulfill a need intrinsic to the undergraduate major's program which cannot otherwise be satisfied because it involves either a literature not covered in regularly scheduled course offerings or a special methodological framework or bias of selection.
-COM LIT 171,1,"This course frames methodologically selected topics in Modern Greek Literature and places them in their historical, social or cultural context."
-COM LIT 190,1,Seminar-style treatment of a major topic in Comparative Literature. Substantial paper required.
-COM LIT H195,1,Preparation and writing of an honors thesis under the supervision of a member of the faculty.
-COM LIT 198,1,Group study in a field that may not coincide with that of any regular course and must be specific enough to enable students to write essays based upon their studies.
-COM LIT 198BC,1,"Berkeley Connect is a mentoring program, offered through various academic departments, that helps students build intellectual community. Over the course of a semester, enrolled students participate in regular small-group discussions facilitated by a graduate student mentor (following a faculty-directed curriculum), meet with their graduate student mentor for one-on-one academic advising, attend lectures and panel discussions featuring department faculty"
+COM LIT 156,1,"Comparative study of American, Native-American, Spanish-Amer
+ican, Caribbean, and Brazilian literature and culture. Readi
+ngs chosen to illustrate diverse attitudes of Americans towa
+rd their culture, politics, and environment."
+COM LIT 156AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from semester to semester, but may include such t
+hemes as Cultures of the City, Gender, Race, Ethnicity in U.
+S. Literature, Race and Identity. Students should consult th
+e department's course bulletin well before the beginning of 
+the semester for details."
+COM LIT 165,1,"Study of the earliest myth texts and of the progressive grow
+th of literature out of myth to the present day. Myth and or
+al composition. Emphasis on the meanings of myth as reflecte
+d in varying idioms."
+COM LIT 170,1,"An independent studies course designed to fulfill a need int
+rinsic to the undergraduate major's program which cannot oth
+erwise be satisfied because it involves either a literature 
+not covered in regularly scheduled course offerings or a spe
+cial methodological framework or bias of selection."
+COM LIT 171,1,"This course frames methodologically selected topics in Moder
+n Greek Literature and places them in their historical, soci
+al or cultural context."
+COM LIT 190,1,"Seminar-style treatment of a major topic in Comparative Lite
+rature. Substantial paper required."
+COM LIT H195,1,"Preparation and writing of an honors thesis under the superv
+ision of a member of the faculty."
+COM LIT 198,1,"Group study in a field that may not coincide with that of an
+y regular course and must be specific enough to enable stude
+nts to write essays based upon their studies."
+COM LIT 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department faculty"
+COM LIT 199,1,Enrollment restrictions apply.
+COM LIT H1A,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Limited to 10 qualified 
+freshmen and/or sophomores who meet for round-table discussi
+ons and attend weekly tutorial sessions. Individual assignme
+nts provide each student with the opportunity to exploit his
+ or her linguistic and literary training. H1A satisfies the 
+first half of the Reading and Composition requirement, and H
+1B satisfies the second hal"
+COM LIT H1B,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Limited to 10 qualified 
+freshmen and/or sophomores who meet for round-table discussi
+ons and attend weekly tutorial sessions. Individual assignme
+nts provide each student with the opportunity to exploit his
+ or her linguistic and literary training. H1A satisfies the 
+first half of the Reading and Composition requirement, and H
+1B satisfies the second"
+COM LIT N1A,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Satisfies the first half
+ of the Reading and Composition requirement."
+COM LIT N1B,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Satisfies the second hal
+f of the Reading and Composition requirement."
+COM LIT R1A,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. R1A satisfies the first 
+half of the Reading and Composition requirement, and R1B sat
+isfies the second half."
+COM LIT R1B,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. R1A satisfies the first 
+half of the Reading and Composition requirement, and R1B sat
+isfies the second half."
+COM LIT R2A,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected French texts read in the original. Course
+ will prepare students for more advanced work in French. R2A
+ satisfies the first half of the Reading and Composition req
+uirement, and R2B satisfies the second half."
+COM LIT R2B,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected French texts read in the original. Course
+ will prepare students for more advanced work in French. R2A
+ satisfies the first half of the Reading and Composition req
+uirement, and R2B satisfies the second half."
+COM LIT R3A,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected Spanish texts read in the original. Cours
+e will help prepare students for more advanced work in Spani
+sh. Satisfies the second half of the Reading and Composition
+ Requirement."
+COM LIT R3B,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected Spanish texts read in the original. Cours
+e will help prepare students for more advanced work in Spani
+sh. Satisfies the second half of the Reading and Composition
+ Requirement."
+COM LIT 20,1,"An introductory level exploration of a specific author, work
+, theme or literary movement in an international context. Em
+phasis on the ways in which literature has played (and conti
+nues to play) a crucial role in the relationship between dif
+ferent cultures, traditions, and languages. Readings and top
+ics to vary from semester to semester."
+COM LIT 20A,1,"An introduction to problems of the comparative study of lite
+rature and philosophy. Emphasis on principles of comparative
+ methods and literary and philosophical analysis with focus 
+on selected literary, philosophical, critical, and theoretic
+al texts from antiquity to the present. Readings in English."
+COM LIT 20B,1,"An introductory level exploration of the study of social and
+ cultural issues in relation to literature. Examining some o
+f the conceptual and thematic places where literature and so
+cial sciences topics (race, gender, social and class structu
+re, law) cross over into each others' domains, we will ask w
+hat it means to read literary texts along with social scienc
+es methodologies. The focus will be on reading of fiction an
+d alongside methodological texts of the social sciences"
+COM LIT 20C,1,"An introductory level exploration of the study of literature
+ and history. Examining the literature and historical events
+ of a chosen period (ancient, medieval, renaissance and earl
+y modern, modern, contemporary), we will engage in readings 
+of literature, art, and critical texts in order better to un
+derstand the imaginative and real worlds of other times and 
+places. Readings and topics to vary from semester to semeste
+r."
+COM LIT 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments and topic
+s vary from department to department and semester to semeste
+r. Enrollment limited to fifteen freshmen."
+COM LIT 39H,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+COM LIT N40,1,"A study of women as portrayed in literature, and of women wr
+iters. Selected readings on a topic which varies from summer
+ to summer, detailed consideration of both literary techniqu
+es and the problems of women."
+COM LIT 41A,1,Comparative study of masterpieces of world literature.
+COM LIT 41C,1,Comparative study of masterpieces of world literature.
+COM LIT 41D,1,Comparative study of masterpieces of world literature.
+COM LIT 41E,1,Comparative study of masterpieces of world literature.
+COM LIT N41A,1,Comparative study of masterpieces of world literature.
+COM LIT N41B,1,Comparative study of masterpieces of world literature.
+COM LIT N41C,1,Comparative study of masterpieces of world literature.
+COM LIT N41D,1,Comparative study of masterpieces of world literature.
+COM LIT 50,1,"A creative writing workshop for students who wish to study t
+he theory and practice of writing as they work in a variety 
+of forms and media."
+COM LIT 60AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from semester to semester, but may include such t
+hemes as Cultures of the City, Gender, Race, Ethnicity in U.
+S. Literature, Race and Identity. Students should consult th
+e department's course bulletin well before the beginning of 
+the semester for details."
+COM LIT N60AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from summer to summer but may include such themes
+ as gender, race, ethnicity, marriage, sexuality, identity, 
+and the supernatural. Students should check the department's
+ bulletin boards for summer course listings and further deta
+ils."
+COM LIT W60AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from semester to semester, but may include such t
+hemes as Cultures of the City, Gender, Race, Ethnicity in U.
+S. Literature, Race and Identity. Students should consult th
+e department's course bulletin well before the beginning of 
+the semester for details."
+COM LIT 98,1,"Group study in a field that may not coincide with that of an
+y regular course and must be specific enough to enable stude
+nts to write essays based upon their studies."
+COM LIT 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department faculty"
+COM LIT 100,1,"An introduction to problems of the comparative study of lite
+rature and culture. Emphasis on principles of comparative me
+thods and analysis with focus on selected literary, critical
+, and theoretical texts from antiquity to the present. Readi
+ngs in English."
+COM LIT 100A,1,"An introduction to problems of the comparative study of lite
+ratures of the world in international and cross-cultural per
+spective along with philosophical texts and approaches. Emph
+asis on principles of comparative methods and analysis with 
+focus on issues of philosophy and ethics along with selected
+ literary, critical, and theoretical texts. Readings in Engl
+ish."
+COM LIT 100B,1,"An introduction to problems of the comparative study of lite
+ratures of the world in international and cross-cultural per
+spective. Emphasis on principles of comparative methods and 
+analysis with focus on contemporary social and cultural issu
+es in at least one foreign culture along with selected liter
+ary, critical, and theoretical texts. Readings in English."
+COM LIT 100C,1,"An introduction to problems of the comparative study of lite
+rature and historical study. Emphasis on principles of compa
+rative methods and analysis with focus on selected literary,
+ critical, and theoretical texts from antiquity to the prese
+nt. Readings in English."
+COM LIT 100D,1,"An introduction to problems of the comparative study of lite
+ratures of the world in international and cross-cultural per
+spective . Emphasis on principles of comparative methods and
+ analysis with focus on contemporary social and cultural iss
+ues in at least one foreign culture along with selected lite
+rary, critical, and theoretical texts."
+COM LIT 112A,1,"This is a course of beginning Modern Greek involving speakin
+g, reading and writing. Modern Greek pronunciation, vocabula
+ry, grammar and syntax is studied. In this course there is a
+lso an emphasis in practice of oral language skills."
+COM LIT 112B,1,"Modern Greek pronunciation, vocabulary, grammar and syntax s
+tudied. The forms of writing (prose, poetry, drama) are stud
+ied through literary texts as auxiliary to the acquisition o
+f compositional skills."
+COM LIT 120,1,"Examination of selected aspects of the Biblical tradition an
+d their relevance to the study of later literature."
+COM LIT 151,1,"The literature of Greece, Rome, the Biblical lands, and othe
+r ancient civilizations of the Mediterranean basin."
+COM LIT 152,1,The literature of the Middle Ages.
+COM LIT 153,1,European literature of the Renaissance.
+COM LIT 154,1,Literature of the 18th and 19th centuries.
+COM LIT 155,1,Literature of the 19th and 20th centuries.
+COM LIT 156,1,"Comparative study of American, Native-American, Spanish-Amer
+ican, Caribbean, and Brazilian literature and culture. Readi
+ngs chosen to illustrate diverse attitudes of Americans towa
+rd their culture, politics, and environment."
+COM LIT 156AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from semester to semester, but may include such t
+hemes as Cultures of the City, Gender, Race, Ethnicity in U.
+S. Literature, Race and Identity. Students should consult th
+e department's course bulletin well before the beginning of 
+the semester for details."
+COM LIT 165,1,"Study of the earliest myth texts and of the progressive grow
+th of literature out of myth to the present day. Myth and or
+al composition. Emphasis on the meanings of myth as reflecte
+d in varying idioms."
+COM LIT 170,1,"An independent studies course designed to fulfill a need int
+rinsic to the undergraduate major's program which cannot oth
+erwise be satisfied because it involves either a literature 
+not covered in regularly scheduled course offerings or a spe
+cial methodological framework or bias of selection."
+COM LIT 171,1,"This course frames methodologically selected topics in Moder
+n Greek Literature and places them in their historical, soci
+al or cultural context."
+COM LIT 190,1,"Seminar-style treatment of a major topic in Comparative Lite
+rature. Substantial paper required."
+COM LIT H195,1,"Preparation and writing of an honors thesis under the superv
+ision of a member of the faculty."
+COM LIT 198,1,"Group study in a field that may not coincide with that of an
+y regular course and must be specific enough to enable stude
+nts to write essays based upon their studies."
+COM LIT 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department faculty"
+COM LIT 199,1,Enrollment restrictions apply.
+COM LIT H1A,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Limited to 10 qualified 
+freshmen and/or sophomores who meet for round-table discussi
+ons and attend weekly tutorial sessions. Individual assignme
+nts provide each student with the opportunity to exploit his
+ or her linguistic and literary training. H1A satisfies the 
+first half of the Reading and Composition requirement, and H
+1B satisfies the second hal"
+COM LIT H1B,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Limited to 10 qualified 
+freshmen and/or sophomores who meet for round-table discussi
+ons and attend weekly tutorial sessions. Individual assignme
+nts provide each student with the opportunity to exploit his
+ or her linguistic and literary training. H1A satisfies the 
+first half of the Reading and Composition requirement, and H
+1B satisfies the second"
+COM LIT N1A,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Satisfies the first half
+ of the Reading and Composition requirement."
+COM LIT N1B,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Satisfies the second hal
+f of the Reading and Composition requirement."
+COM LIT R1A,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. R1A satisfies the first 
+half of the Reading and Composition requirement, and R1B sat
+isfies the second half."
+COM LIT R1B,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. R1A satisfies the first 
+half of the Reading and Composition requirement, and R1B sat
+isfies the second half."
+COM LIT R2A,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected French texts read in the original. Course
+ will prepare students for more advanced work in French. R2A
+ satisfies the first half of the Reading and Composition req
+uirement, and R2B satisfies the second half."
+COM LIT R2B,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected French texts read in the original. Course
+ will prepare students for more advanced work in French. R2A
+ satisfies the first half of the Reading and Composition req
+uirement, and R2B satisfies the second half."
+COM LIT R3A,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected Spanish texts read in the original. Cours
+e will help prepare students for more advanced work in Spani
+sh. Satisfies the second half of the Reading and Composition
+ Requirement."
+COM LIT R3B,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected Spanish texts read in the original. Cours
+e will help prepare students for more advanced work in Spani
+sh. Satisfies the second half of the Reading and Composition
+ Requirement."
+COM LIT 20,1,"An introductory level exploration of a specific author, work
+, theme or literary movement in an international context. Em
+phasis on the ways in which literature has played (and conti
+nues to play) a crucial role in the relationship between dif
+ferent cultures, traditions, and languages. Readings and top
+ics to vary from semester to semester."
+COM LIT 20A,1,"An introduction to problems of the comparative study of lite
+rature and philosophy. Emphasis on principles of comparative
+ methods and literary and philosophical analysis with focus 
+on selected literary, philosophical, critical, and theoretic
+al texts from antiquity to the present. Readings in English."
+COM LIT 20B,1,"An introductory level exploration of the study of social and
+ cultural issues in relation to literature. Examining some o
+f the conceptual and thematic places where literature and so
+cial sciences topics (race, gender, social and class structu
+re, law) cross over into each others' domains, we will ask w
+hat it means to read literary texts along with social scienc
+es methodologies. The focus will be on reading of fiction an
+d alongside methodological texts of the social sciences"
+COM LIT 20C,1,"An introductory level exploration of the study of literature
+ and history. Examining the literature and historical events
+ of a chosen period (ancient, medieval, renaissance and earl
+y modern, modern, contemporary), we will engage in readings 
+of literature, art, and critical texts in order better to un
+derstand the imaginative and real worlds of other times and 
+places. Readings and topics to vary from semester to semeste
+r."
+COM LIT 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments and topic
+s vary from department to department and semester to semeste
+r. Enrollment limited to fifteen freshmen."
+COM LIT 39H,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+COM LIT N40,1,"A study of women as portrayed in literature, and of women wr
+iters. Selected readings on a topic which varies from summer
+ to summer, detailed consideration of both literary techniqu
+es and the problems of women."
+COM LIT 41A,1,Comparative study of masterpieces of world literature.
+COM LIT 41C,1,Comparative study of masterpieces of world literature.
+COM LIT 41D,1,Comparative study of masterpieces of world literature.
+COM LIT 41E,1,Comparative study of masterpieces of world literature.
+COM LIT N41A,1,Comparative study of masterpieces of world literature.
+COM LIT N41B,1,Comparative study of masterpieces of world literature.
+COM LIT N41C,1,Comparative study of masterpieces of world literature.
+COM LIT N41D,1,Comparative study of masterpieces of world literature.
+COM LIT 50,1,"A creative writing workshop for students who wish to study t
+he theory and practice of writing as they work in a variety 
+of forms and media."
+COM LIT 60AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from semester to semester, but may include such t
+hemes as Cultures of the City, Gender, Race, Ethnicity in U.
+S. Literature, Race and Identity. Students should consult th
+e department's course bulletin well before the beginning of 
+the semester for details."
+COM LIT N60AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from summer to summer but may include such themes
+ as gender, race, ethnicity, marriage, sexuality, identity, 
+and the supernatural. Students should check the department's
+ bulletin boards for summer course listings and further deta
+ils."
+COM LIT W60AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from semester to semester, but may include such t
+hemes as Cultures of the City, Gender, Race, Ethnicity in U.
+S. Literature, Race and Identity. Students should consult th
+e department's course bulletin well before the beginning of 
+the semester for details."
+COM LIT 98,1,"Group study in a field that may not coincide with that of an
+y regular course and must be specific enough to enable stude
+nts to write essays based upon their studies."
+COM LIT 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department faculty"
+COM LIT 100,1,"An introduction to problems of the comparative study of lite
+rature and culture. Emphasis on principles of comparative me
+thods and analysis with focus on selected literary, critical
+, and theoretical texts from antiquity to the present. Readi
+ngs in English."
+COM LIT 100A,1,"An introduction to problems of the comparative study of lite
+ratures of the world in international and cross-cultural per
+spective along with philosophical texts and approaches. Emph
+asis on principles of comparative methods and analysis with 
+focus on issues of philosophy and ethics along with selected
+ literary, critical, and theoretical texts. Readings in Engl
+ish."
+COM LIT 100B,1,"An introduction to problems of the comparative study of lite
+ratures of the world in international and cross-cultural per
+spective. Emphasis on principles of comparative methods and 
+analysis with focus on contemporary social and cultural issu
+es in at least one foreign culture along with selected liter
+ary, critical, and theoretical texts. Readings in English."
+COM LIT 100C,1,"An introduction to problems of the comparative study of lite
+rature and historical study. Emphasis on principles of compa
+rative methods and analysis with focus on selected literary,
+ critical, and theoretical texts from antiquity to the prese
+nt. Readings in English."
+COM LIT 100D,1,"An introduction to problems of the comparative study of lite
+ratures of the world in international and cross-cultural per
+spective . Emphasis on principles of comparative methods and
+ analysis with focus on contemporary social and cultural iss
+ues in at least one foreign culture along with selected lite
+rary, critical, and theoretical texts."
+COM LIT 112A,1,"This is a course of beginning Modern Greek involving speakin
+g, reading and writing. Modern Greek pronunciation, vocabula
+ry, grammar and syntax is studied. In this course there is a
+lso an emphasis in practice of oral language skills."
+COM LIT 112B,1,"Modern Greek pronunciation, vocabulary, grammar and syntax s
+tudied. The forms of writing (prose, poetry, drama) are stud
+ied through literary texts as auxiliary to the acquisition o
+f compositional skills."
+COM LIT 120,1,"Examination of selected aspects of the Biblical tradition an
+d their relevance to the study of later literature."
+COM LIT 151,1,"The literature of Greece, Rome, the Biblical lands, and othe
+r ancient civilizations of the Mediterranean basin."
+COM LIT 152,1,The literature of the Middle Ages.
+COM LIT 153,1,European literature of the Renaissance.
+COM LIT 154,1,Literature of the 18th and 19th centuries.
+COM LIT 155,1,Literature of the 19th and 20th centuries.
+COM LIT 156,1,"Comparative study of American, Native-American, Spanish-Amer
+ican, Caribbean, and Brazilian literature and culture. Readi
+ngs chosen to illustrate diverse attitudes of Americans towa
+rd their culture, politics, and environment."
+COM LIT 156AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from semester to semester, but may include such t
+hemes as Cultures of the City, Gender, Race, Ethnicity in U.
+S. Literature, Race and Identity. Students should consult th
+e department's course bulletin well before the beginning of 
+the semester for details."
+COM LIT 165,1,"Study of the earliest myth texts and of the progressive grow
+th of literature out of myth to the present day. Myth and or
+al composition. Emphasis on the meanings of myth as reflecte
+d in varying idioms."
+COM LIT 170,1,"An independent studies course designed to fulfill a need int
+rinsic to the undergraduate major's program which cannot oth
+erwise be satisfied because it involves either a literature 
+not covered in regularly scheduled course offerings or a spe
+cial methodological framework or bias of selection."
+COM LIT 171,1,"This course frames methodologically selected topics in Moder
+n Greek Literature and places them in their historical, soci
+al or cultural context."
+COM LIT 190,1,"Seminar-style treatment of a major topic in Comparative Lite
+rature. Substantial paper required."
+COM LIT H195,1,"Preparation and writing of an honors thesis under the superv
+ision of a member of the faculty."
+COM LIT 198,1,"Group study in a field that may not coincide with that of an
+y regular course and must be specific enough to enable stude
+nts to write essays based upon their studies."
+COM LIT 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department faculty"
+COM LIT 199,1,Enrollment restrictions apply.
+COM LIT H1A,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Limited to 10 qualified 
+freshmen and/or sophomores who meet for round-table discussi
+ons and attend weekly tutorial sessions. Individual assignme
+nts provide each student with the opportunity to exploit his
+ or her linguistic and literary training. H1A satisfies the 
+first half of the Reading and Composition requirement, and H
+1B satisfies the second hal"
+COM LIT H1B,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Limited to 10 qualified 
+freshmen and/or sophomores who meet for round-table discussi
+ons and attend weekly tutorial sessions. Individual assignme
+nts provide each student with the opportunity to exploit his
+ or her linguistic and literary training. H1A satisfies the 
+first half of the Reading and Composition requirement, and H
+1B satisfies the second"
+COM LIT N1A,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Satisfies the first half
+ of the Reading and Composition requirement."
+COM LIT N1B,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Satisfies the second hal
+f of the Reading and Composition requirement."
+COM LIT R1A,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. R1A satisfies the first 
+half of the Reading and Composition requirement, and R1B sat
+isfies the second half."
+COM LIT R1B,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. R1A satisfies the first 
+half of the Reading and Composition requirement, and R1B sat
+isfies the second half."
+COM LIT R2A,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected French texts read in the original. Course
+ will prepare students for more advanced work in French. R2A
+ satisfies the first half of the Reading and Composition req
+uirement, and R2B satisfies the second half."
+COM LIT R2B,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected French texts read in the original. Course
+ will prepare students for more advanced work in French. R2A
+ satisfies the first half of the Reading and Composition req
+uirement, and R2B satisfies the second half."
+COM LIT R3A,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected Spanish texts read in the original. Cours
+e will help prepare students for more advanced work in Spani
+sh. Satisfies the second half of the Reading and Composition
+ Requirement."
+COM LIT R3B,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected Spanish texts read in the original. Cours
+e will help prepare students for more advanced work in Spani
+sh. Satisfies the second half of the Reading and Composition
+ Requirement."
+COM LIT 20,1,"An introductory level exploration of a specific author, work
+, theme or literary movement in an international context. Em
+phasis on the ways in which literature has played (and conti
+nues to play) a crucial role in the relationship between dif
+ferent cultures, traditions, and languages. Readings and top
+ics to vary from semester to semester."
+COM LIT 20A,1,"An introduction to problems of the comparative study of lite
+rature and philosophy. Emphasis on principles of comparative
+ methods and literary and philosophical analysis with focus 
+on selected literary, philosophical, critical, and theoretic
+al texts from antiquity to the present. Readings in English."
+COM LIT 20B,1,"An introductory level exploration of the study of social and
+ cultural issues in relation to literature. Examining some o
+f the conceptual and thematic places where literature and so
+cial sciences topics (race, gender, social and class structu
+re, law) cross over into each others' domains, we will ask w
+hat it means to read literary texts along with social scienc
+es methodologies. The focus will be on reading of fiction an
+d alongside methodological texts of the social sciences"
+COM LIT 20C,1,"An introductory level exploration of the study of literature
+ and history. Examining the literature and historical events
+ of a chosen period (ancient, medieval, renaissance and earl
+y modern, modern, contemporary), we will engage in readings 
+of literature, art, and critical texts in order better to un
+derstand the imaginative and real worlds of other times and 
+places. Readings and topics to vary from semester to semeste
+r."
+COM LIT 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments and topic
+s vary from department to department and semester to semeste
+r. Enrollment limited to fifteen freshmen."
+COM LIT 39H,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+COM LIT N40,1,"A study of women as portrayed in literature, and of women wr
+iters. Selected readings on a topic which varies from summer
+ to summer, detailed consideration of both literary techniqu
+es and the problems of women."
+COM LIT 41A,1,Comparative study of masterpieces of world literature.
+COM LIT 41C,1,Comparative study of masterpieces of world literature.
+COM LIT 41D,1,Comparative study of masterpieces of world literature.
+COM LIT 41E,1,Comparative study of masterpieces of world literature.
+COM LIT N41A,1,Comparative study of masterpieces of world literature.
+COM LIT N41B,1,Comparative study of masterpieces of world literature.
+COM LIT N41C,1,Comparative study of masterpieces of world literature.
+COM LIT N41D,1,Comparative study of masterpieces of world literature.
+COM LIT 50,1,"A creative writing workshop for students who wish to study t
+he theory and practice of writing as they work in a variety 
+of forms and media."
+COM LIT 60AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from semester to semester, but may include such t
+hemes as Cultures of the City, Gender, Race, Ethnicity in U.
+S. Literature, Race and Identity. Students should consult th
+e department's course bulletin well before the beginning of 
+the semester for details."
+COM LIT N60AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from summer to summer but may include such themes
+ as gender, race, ethnicity, marriage, sexuality, identity, 
+and the supernatural. Students should check the department's
+ bulletin boards for summer course listings and further deta
+ils."
+COM LIT W60AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from semester to semester, but may include such t
+hemes as Cultures of the City, Gender, Race, Ethnicity in U.
+S. Literature, Race and Identity. Students should consult th
+e department's course bulletin well before the beginning of 
+the semester for details."
+COM LIT 98,1,"Group study in a field that may not coincide with that of an
+y regular course and must be specific enough to enable stude
+nts to write essays based upon their studies."
+COM LIT 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department faculty"
+COM LIT 100,1,"An introduction to problems of the comparative study of lite
+rature and culture. Emphasis on principles of comparative me
+thods and analysis with focus on selected literary, critical
+, and theoretical texts from antiquity to the present. Readi
+ngs in English."
+COM LIT 100A,1,"An introduction to problems of the comparative study of lite
+ratures of the world in international and cross-cultural per
+spective along with philosophical texts and approaches. Emph
+asis on principles of comparative methods and analysis with 
+focus on issues of philosophy and ethics along with selected
+ literary, critical, and theoretical texts. Readings in Engl
+ish."
+COM LIT 100B,1,"An introduction to problems of the comparative study of lite
+ratures of the world in international and cross-cultural per
+spective. Emphasis on principles of comparative methods and 
+analysis with focus on contemporary social and cultural issu
+es in at least one foreign culture along with selected liter
+ary, critical, and theoretical texts. Readings in English."
+COM LIT 100C,1,"An introduction to problems of the comparative study of lite
+rature and historical study. Emphasis on principles of compa
+rative methods and analysis with focus on selected literary,
+ critical, and theoretical texts from antiquity to the prese
+nt. Readings in English."
+COM LIT 100D,1,"An introduction to problems of the comparative study of lite
+ratures of the world in international and cross-cultural per
+spective . Emphasis on principles of comparative methods and
+ analysis with focus on contemporary social and cultural iss
+ues in at least one foreign culture along with selected lite
+rary, critical, and theoretical texts."
+COM LIT 112A,1,"This is a course of beginning Modern Greek involving speakin
+g, reading and writing. Modern Greek pronunciation, vocabula
+ry, grammar and syntax is studied. In this course there is a
+lso an emphasis in practice of oral language skills."
+COM LIT 112B,1,"Modern Greek pronunciation, vocabulary, grammar and syntax s
+tudied. The forms of writing (prose, poetry, drama) are stud
+ied through literary texts as auxiliary to the acquisition o
+f compositional skills."
+COM LIT 120,1,"Examination of selected aspects of the Biblical tradition an
+d their relevance to the study of later literature."
+COM LIT 151,1,"The literature of Greece, Rome, the Biblical lands, and othe
+r ancient civilizations of the Mediterranean basin."
+COM LIT 152,1,The literature of the Middle Ages.
+COM LIT 153,1,European literature of the Renaissance.
+COM LIT 154,1,Literature of the 18th and 19th centuries.
+COM LIT 155,1,Literature of the 19th and 20th centuries.
+COM LIT 156,1,"Comparative study of American, Native-American, Spanish-Amer
+ican, Caribbean, and Brazilian literature and culture. Readi
+ngs chosen to illustrate diverse attitudes of Americans towa
+rd their culture, politics, and environment."
+COM LIT 156AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from semester to semester, but may include such t
+hemes as Cultures of the City, Gender, Race, Ethnicity in U.
+S. Literature, Race and Identity. Students should consult th
+e department's course bulletin well before the beginning of 
+the semester for details."
+COM LIT 165,1,"Study of the earliest myth texts and of the progressive grow
+th of literature out of myth to the present day. Myth and or
+al composition. Emphasis on the meanings of myth as reflecte
+d in varying idioms."
+COM LIT 170,1,"An independent studies course designed to fulfill a need int
+rinsic to the undergraduate major's program which cannot oth
+erwise be satisfied because it involves either a literature 
+not covered in regularly scheduled course offerings or a spe
+cial methodological framework or bias of selection."
+COM LIT 171,1,"This course frames methodologically selected topics in Moder
+n Greek Literature and places them in their historical, soci
+al or cultural context."
+COM LIT 190,1,"Seminar-style treatment of a major topic in Comparative Lite
+rature. Substantial paper required."
+COM LIT H195,1,"Preparation and writing of an honors thesis under the superv
+ision of a member of the faculty."
+COM LIT 198,1,"Group study in a field that may not coincide with that of an
+y regular course and must be specific enough to enable stude
+nts to write essays based upon their studies."
+COM LIT 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department faculty"
+COM LIT 199,1,Enrollment restrictions apply.
+COM LIT H1A,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Limited to 10 qualified 
+freshmen and/or sophomores who meet for round-table discussi
+ons and attend weekly tutorial sessions. Individual assignme
+nts provide each student with the opportunity to exploit his
+ or her linguistic and literary training. H1A satisfies the 
+first half of the Reading and Composition requirement, and H
+1B satisfies the second hal"
+COM LIT H1B,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Limited to 10 qualified 
+freshmen and/or sophomores who meet for round-table discussi
+ons and attend weekly tutorial sessions. Individual assignme
+nts provide each student with the opportunity to exploit his
+ or her linguistic and literary training. H1A satisfies the 
+first half of the Reading and Composition requirement, and H
+1B satisfies the second"
+COM LIT N1A,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Satisfies the first half
+ of the Reading and Composition requirement."
+COM LIT N1B,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. Satisfies the second hal
+f of the Reading and Composition requirement."
+COM LIT R1A,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. R1A satisfies the first 
+half of the Reading and Composition requirement, and R1B sat
+isfies the second half."
+COM LIT R1B,1,"Expository writing based on analysis of selected masterpiece
+s of ancient and modern literature. R1A satisfies the first 
+half of the Reading and Composition requirement, and R1B sat
+isfies the second half."
+COM LIT R2A,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected French texts read in the original. Course
+ will prepare students for more advanced work in French. R2A
+ satisfies the first half of the Reading and Composition req
+uirement, and R2B satisfies the second half."
+COM LIT R2B,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected French texts read in the original. Course
+ will prepare students for more advanced work in French. R2A
+ satisfies the first half of the Reading and Composition req
+uirement, and R2B satisfies the second half."
+COM LIT R3A,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected Spanish texts read in the original. Cours
+e will help prepare students for more advanced work in Spani
+sh. Satisfies the second half of the Reading and Composition
+ Requirement."
+COM LIT R3B,1,"Expository writing done in connection with the reading of se
+lected masterpieces of ancient and modern literature and the
+ study of selected Spanish texts read in the original. Cours
+e will help prepare students for more advanced work in Spani
+sh. Satisfies the second half of the Reading and Composition
+ Requirement."
+COM LIT 20,1,"An introductory level exploration of a specific author, work
+, theme or literary movement in an international context. Em
+phasis on the ways in which literature has played (and conti
+nues to play) a crucial role in the relationship between dif
+ferent cultures, traditions, and languages. Readings and top
+ics to vary from semester to semester."
+COM LIT 20A,1,"An introduction to problems of the comparative study of lite
+rature and philosophy. Emphasis on principles of comparative
+ methods and literary and philosophical analysis with focus 
+on selected literary, philosophical, critical, and theoretic
+al texts from antiquity to the present. Readings in English."
+COM LIT 20B,1,"An introductory level exploration of the study of social and
+ cultural issues in relation to literature. Examining some o
+f the conceptual and thematic places where literature and so
+cial sciences topics (race, gender, social and class structu
+re, law) cross over into each others' domains, we will ask w
+hat it means to read literary texts along with social scienc
+es methodologies. The focus will be on reading of fiction an
+d alongside methodological texts of the social sciences"
+COM LIT 20C,1,"An introductory level exploration of the study of literature
+ and history. Examining the literature and historical events
+ of a chosen period (ancient, medieval, renaissance and earl
+y modern, modern, contemporary), we will engage in readings 
+of literature, art, and critical texts in order better to un
+derstand the imaginative and real worlds of other times and 
+places. Readings and topics to vary from semester to semeste
+r."
+COM LIT 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments and topic
+s vary from department to department and semester to semeste
+r. Enrollment limited to fifteen freshmen."
+COM LIT 39H,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+COM LIT N40,1,"A study of women as portrayed in literature, and of women wr
+iters. Selected readings on a topic which varies from summer
+ to summer, detailed consideration of both literary techniqu
+es and the problems of women."
+COM LIT 41A,1,Comparative study of masterpieces of world literature.
+COM LIT 41C,1,Comparative study of masterpieces of world literature.
+COM LIT 41D,1,Comparative study of masterpieces of world literature.
+COM LIT 41E,1,Comparative study of masterpieces of world literature.
+COM LIT N41A,1,Comparative study of masterpieces of world literature.
+COM LIT N41B,1,Comparative study of masterpieces of world literature.
+COM LIT N41C,1,Comparative study of masterpieces of world literature.
+COM LIT N41D,1,Comparative study of masterpieces of world literature.
+COM LIT 50,1,"A creative writing workshop for students who wish to study t
+he theory and practice of writing as they work in a variety 
+of forms and media."
+COM LIT 60AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from semester to semester, but may include such t
+hemes as Cultures of the City, Gender, Race, Ethnicity in U.
+S. Literature, Race and Identity. Students should consult th
+e department's course bulletin well before the beginning of 
+the semester for details."
+COM LIT N60AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from summer to summer but may include such themes
+ as gender, race, ethnicity, marriage, sexuality, identity, 
+and the supernatural. Students should check the department's
+ bulletin boards for summer course listings and further deta
+ils."
+COM LIT W60AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from semester to semester, but may include such t
+hemes as Cultures of the City, Gender, Race, Ethnicity in U.
+S. Literature, Race and Identity. Students should consult th
+e department's course bulletin well before the beginning of 
+the semester for details."
+COM LIT 98,1,"Group study in a field that may not coincide with that of an
+y regular course and must be specific enough to enable stude
+nts to write essays based upon their studies."
+COM LIT 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department faculty"
+COM LIT 100,1,"An introduction to problems of the comparative study of lite
+rature and culture. Emphasis on principles of comparative me
+thods and analysis with focus on selected literary, critical
+, and theoretical texts from antiquity to the present. Readi
+ngs in English."
+COM LIT 100A,1,"An introduction to problems of the comparative study of lite
+ratures of the world in international and cross-cultural per
+spective along with philosophical texts and approaches. Emph
+asis on principles of comparative methods and analysis with 
+focus on issues of philosophy and ethics along with selected
+ literary, critical, and theoretical texts. Readings in Engl
+ish."
+COM LIT 100B,1,"An introduction to problems of the comparative study of lite
+ratures of the world in international and cross-cultural per
+spective. Emphasis on principles of comparative methods and 
+analysis with focus on contemporary social and cultural issu
+es in at least one foreign culture along with selected liter
+ary, critical, and theoretical texts. Readings in English."
+COM LIT 100C,1,"An introduction to problems of the comparative study of lite
+rature and historical study. Emphasis on principles of compa
+rative methods and analysis with focus on selected literary,
+ critical, and theoretical texts from antiquity to the prese
+nt. Readings in English."
+COM LIT 100D,1,"An introduction to problems of the comparative study of lite
+ratures of the world in international and cross-cultural per
+spective . Emphasis on principles of comparative methods and
+ analysis with focus on contemporary social and cultural iss
+ues in at least one foreign culture along with selected lite
+rary, critical, and theoretical texts."
+COM LIT 112A,1,"This is a course of beginning Modern Greek involving speakin
+g, reading and writing. Modern Greek pronunciation, vocabula
+ry, grammar and syntax is studied. In this course there is a
+lso an emphasis in practice of oral language skills."
+COM LIT 112B,1,"Modern Greek pronunciation, vocabulary, grammar and syntax s
+tudied. The forms of writing (prose, poetry, drama) are stud
+ied through literary texts as auxiliary to the acquisition o
+f compositional skills."
+COM LIT 120,1,"Examination of selected aspects of the Biblical tradition an
+d their relevance to the study of later literature."
+COM LIT 151,1,"The literature of Greece, Rome, the Biblical lands, and othe
+r ancient civilizations of the Mediterranean basin."
+COM LIT 152,1,The literature of the Middle Ages.
+COM LIT 153,1,European literature of the Renaissance.
+COM LIT 154,1,Literature of the 18th and 19th centuries.
+COM LIT 155,1,Literature of the 19th and 20th centuries.
+COM LIT 156,1,"Comparative study of American, Native-American, Spanish-Amer
+ican, Caribbean, and Brazilian literature and culture. Readi
+ngs chosen to illustrate diverse attitudes of Americans towa
+rd their culture, politics, and environment."
+COM LIT 156AC,1,"Study of the ethnic diversity of American literature. Topics
+ will vary from semester to semester, but may include such t
+hemes as Cultures of the City, Gender, Race, Ethnicity in U.
+S. Literature, Race and Identity. Students should consult th
+e department's course bulletin well before the beginning of 
+the semester for details."
+COM LIT 165,1,"Study of the earliest myth texts and of the progressive grow
+th of literature out of myth to the present day. Myth and or
+al composition. Emphasis on the meanings of myth as reflecte
+d in varying idioms."
+COM LIT 170,1,"An independent studies course designed to fulfill a need int
+rinsic to the undergraduate major's program which cannot oth
+erwise be satisfied because it involves either a literature 
+not covered in regularly scheduled course offerings or a spe
+cial methodological framework or bias of selection."
+COM LIT 171,1,"This course frames methodologically selected topics in Moder
+n Greek Literature and places them in their historical, soci
+al or cultural context."
+COM LIT 190,1,"Seminar-style treatment of a major topic in Comparative Lite
+rature. Substantial paper required."
+COM LIT H195,1,"Preparation and writing of an honors thesis under the superv
+ision of a member of the faculty."
+COM LIT 198,1,"Group study in a field that may not coincide with that of an
+y regular course and must be specific enough to enable stude
+nts to write essays based upon their studies."
+COM LIT 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department faculty"
 COM LIT 199,1,Enrollment restrictions apply.

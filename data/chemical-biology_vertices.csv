@@ -1,57 +1,1603 @@
 name,size,about
-CHEM 1A,1,"Stoichiometry of chemical reactions, quantum mechanical description of atoms, the elements and periodic table, chemical bonding, real and ideal gases, thermochemistry, introduction to thermodynamics and equilibrium, acid-base and solubility equilibria, introduction to oxidation-reduction reactions, introduction to chemical kinetics."
-CHEM 1AD,1,"An interactive general chemistry course that uses modern digital technology, offered in a smaller classroom setting to facilitate student participation and foster an engaging learning environment. Topics cover the Chemistry 1A curriculum, ranging from quantum mechanics and interactions of atoms and molecules to properties and equilibria of bulk materials. The course involves a blend of classroom lectures and peer learning with substantial web-based assignments and"
-CHEM 1AL,1,"An experimental approach to chemical sciences with emphasis on developing fundamental, reproducible laboratory technique and a goal of understanding and achieving precision and accuracy in laboratory experiments. Proper use of laboratory equipment and standard wet chemical methods are practiced. Areas of investigations include chemical equilibria, spectroscopy, nanotechnology, green chemistry, and thermochemistry. Completion"
-CHEM 1B,1,"Introduction to chemical kinetics, electrochemistry, properties of the states of matter, binary mixtures, thermodynamic efficiency and the direction of chemical change, quantum mechanical description of bonding introduction to spectroscopy. Special topics: Research topics in modern chemistry and biochemistry, chemical engineering."
-CHEM W1A,1,"Stoichiometry of chemical reactions, quantum mechanical description of atoms, the elements and periodic table, chemical bonding, real and ideal gases, thermochemistry, introduction to thermodynamics and equilibrium, acid-base and solubility equilibria, introduction to oxidation-reduction reactions, introduction to chemical kinetics. This course is web-based."
-CHEM 3A,1,"Introduction to organic chemical structures, bonding, and chemical reactivity. The organic chemistry of alkanes, alkyl halides, alcohols, alkenes, alkynes, and organometallics."
-CHEM 3AL,1,"Introduction to the theory and practice of methods used in the organic chemistry laboratory. An emphasis is placed on the separation and purification of organic compounds. Techniques covered will include extraction, distillation, sublimation, recrystalization, and chromatography. Detailed discussions and applications of infrared and nuclear magnetic resonance spectroscopy will be included."
-CHEM 3B,1,"Conjugation, aromatic chemistry, carbonyl compounds, carbohydrates, amines, carboxylic acids, amino acids, peptides, proteins, and nucleic acid chemistry. Ultraviolet spectroscopy and mass spectrometry will be introduced."
-CHEM 3BL,1,"The synthesis and purification of organic compounds will be explored. Natural product chemistry will be introduced. Advanced spectroscopic methods including infrared, ultraviolet, and nuclear magnetic resonance spectroscopy and mass spectrometry will be used to analyze products prepared and/or isolated. Qualitative analysis of organic compounds will be covered."
-CHEM N3AL,1,"Introduction to the theory and practice of methods used in the organic chemistry laboratory. An emphasis is placed on the separation and purification of organic compounds. Techniques covered will include extraction, distillation, sublimation, recrystalization, and chromatography. Detailed discussions and applications of infrared and nuclear magnetic resonance spectroscopy will be included."
-CHEM 4A,1,"Series is intended for majors in physical, biological sciences, and engineering. It presents the foundation principles of chemistry, including stoichiometry, ideal and real gases, acid-base and solubility equilibria, oxidation-reduction reactions, thermochemistry, entropy, nuclear chemistry and radioactivity, the atoms and elements, the periodic table, quantum theory, chemical bonding, molecular structure, chemical kinetics, and descriptive chemistry."
-CHEM 4B,1,"Series is intended for majors in physical, biological sciences, and engineering. It presents the foundation principles of chemistry, including stoichiometry, ideal and real gases, acid-base and solubility equilibria, oxidation-reduction reactions, thermochemistry, entropy, nuclear chemistry and radioactivity, the atoms and elements, the periodic table, quantum theory, chemical bonding, molecular structure, chemical kinetics, and descriptive"
-CHEM 12A,1,"A study of all aspects of fundamental organic chemistry, including nomenclature, chemical and physical properties, reactions and syntheses of the major classes of organic compounds. The study includes theoretical aspects, reaction mechanisms, multistep syntheses, and the chemistry of polycyclic and heterocyclic compounds. This course is more extensive and intensive than 3A-3B and includes a greater emphasis on reaction mechanisms and multistep"
-CHEM 12B,1,"A study of all aspects of fundamental organic chemistry, including nomenclature, chemical and physical properties, reactions and syntheses of the major classes of organic compounds. The study includes theoretical aspects, reaction mechanisms, multistep syntheses, and the chemistry of polycyclic and heterocyclic compounds. This course is more extensive and intensive than 3A-3B and includes a greater emphasis on reaction mechanisms and multistep"
-CHEM 15,1,"An introduction to analytical and bioanalytical chemistry including background in statistical analysis of data, acid-base equilibria, electrochemical, spectrometric, and chromatographic methods of analysis and some advanced topics in bioanalytical chemistry such as micro-fluidics, bioassay techniques, and enzymatic biosensors."
-CHEM 24,1,"The Freshman Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments, and topics may vary from department to department and semester to semester. Enrollment limited to 15 freshmen."
-CHEM 32,1,"Foundation and preparation for General Chemistry. Topics and concepts include elements, atoms, molecules, chemical reactions, chemical calculations, properties of gases and gas laws; thermodynamics, acid/base chemical equilibrium, and periodic trends. In addition, by practicing learning as a process, students will cultivate the habits, strategies, and mindset necessary to succeed in the sciences. Through rigorous practice and guided reflection, students will"
-CHEM 49,1,"Students with partial credit in lower division chemistry courses may, with consent of instructor, complete the credit under this heading."
-CHEM 96,1,"Introduces sophomores and new transfer students to research activities and programs of study in the College of Chemistry. Includes lectures by faculty, an introduction to college library and computer facilities, the opportunity to meet alumni and advanced undergraduates in an informal atmosphere, and discussion of college and campus resources."
+CHEM 1A,1,"Stoichiometry of chemical reactions, quantum mechanical desc
+ription of atoms, the elements and periodic table, chemical 
+bonding, real and ideal gases, thermochemistry, introduction
+ to thermodynamics and equilibrium, acid-base and solubility
+ equilibria, introduction to oxidation-reduction reactions, 
+introduction to chemical kinetics."
+CHEM 1AD,1,"An interactive general chemistry course that uses modern dig
+ital technology, offered in a smaller classroom setting to f
+acilitate student participation and foster an engaging learn
+ing environment. Topics cover the Chemistry 1A curriculum, r
+anging from quantum mechanics and interactions of atoms and 
+molecules to properties and equilibria of bulk materials. Th
+e course involves a blend of classroom lectures and peer lea
+rning with substantial web-based assignments and"
+CHEM 1AL,1,"An experimental approach to chemical sciences with emphasis 
+on developing fundamental, reproducible laboratory technique
+ and a goal of understanding and achieving precision and acc
+uracy in laboratory experiments. Proper use of laboratory eq
+uipment and standard wet chemical methods are practiced. Are
+as of investigations include chemical equilibria, spectrosco
+py, nanotechnology, green chemistry, and thermochemistry. Co
+mpletion"
+CHEM 1B,1,"Introduction to chemical kinetics, electrochemistry, propert
+ies of the states of matter, binary mixtures, thermodynamic 
+efficiency and the direction of chemical change, quantum mec
+hanical description of bonding introduction to spectroscopy.
+ Special topics: Research topics in modern chemistry and bio
+chemistry, chemical engineering."
+CHEM W1A,1,"Stoichiometry of chemical reactions, quantum mechanical desc
+ription of atoms, the elements and periodic table, chemical 
+bonding, real and ideal gases, thermochemistry, introduction
+ to thermodynamics and equilibrium, acid-base and solubility
+ equilibria, introduction to oxidation-reduction reactions, 
+introduction to chemical kinetics. This course is web-based."
+CHEM 3A,1,"Introduction to organic chemical structures, bonding, and ch
+emical reactivity. The organic chemistry of alkanes, alkyl h
+alides, alcohols, alkenes, alkynes, and organometallics."
+CHEM 3AL,1,"Introduction to the theory and practice of methods used in t
+he organic chemistry laboratory. An emphasis is placed on th
+e separation and purification of organic compounds. Techniqu
+es covered will include extraction, distillation, sublimatio
+n, recrystalization, and chromatography. Detailed discussion
+s and applications of infrared and nuclear magnetic resonanc
+e spectroscopy will be included."
+CHEM 3B,1,"Conjugation, aromatic chemistry, carbonyl compounds, carbohy
+drates, amines, carboxylic acids, amino acids, peptides, pro
+teins, and nucleic acid chemistry. Ultraviolet spectroscopy 
+and mass spectrometry will be introduced."
+CHEM 3BL,1,"The synthesis and purification of organic compounds will be 
+explored. Natural product chemistry will be introduced. Adva
+nced spectroscopic methods including infrared, ultraviolet, 
+and nuclear magnetic resonance spectroscopy and mass spectro
+metry will be used to analyze products prepared and/or isola
+ted. Qualitative analysis of organic compounds will be cover
+ed."
+CHEM N3AL,1,"Introduction to the theory and practice of methods used in t
+he organic chemistry laboratory. An emphasis is placed on th
+e separation and purification of organic compounds. Techniqu
+es covered will include extraction, distillation, sublimatio
+n, recrystalization, and chromatography. Detailed discussion
+s and applications of infrared and nuclear magnetic resonanc
+e spectroscopy will be included."
+CHEM 4A,1,"Series is intended for majors in physical, biological scienc
+es, and engineering. It presents the foundation principles o
+f chemistry, including stoichiometry, ideal and real gases, 
+acid-base and solubility equilibria, oxidation-reduction rea
+ctions, thermochemistry, entropy, nuclear chemistry and radi
+oactivity, the atoms and elements, the periodic table, quant
+um theory, chemical bonding, molecular structure, chemical k
+inetics, and descriptive chemistry."
+CHEM 4B,1,"Series is intended for majors in physical, biological scienc
+es, and engineering. It presents the foundation principles o
+f chemistry, including stoichiometry, ideal and real gases, 
+acid-base and solubility equilibria, oxidation-reduction rea
+ctions, thermochemistry, entropy, nuclear chemistry and radi
+oactivity, the atoms and elements, the periodic table, quant
+um theory, chemical bonding, molecular structure, chemical k
+inetics, and descriptive"
+CHEM 12A,1,"A study of all aspects of fundamental organic chemistry, inc
+luding nomenclature, chemical and physical properties, react
+ions and syntheses of the major classes of organic compounds
+. The study includes theoretical aspects, reaction mechanism
+s, multistep syntheses, and the chemistry of polycyclic and 
+heterocyclic compounds. This course is more extensive and in
+tensive than 3A-3B and includes a greater emphasis on reacti
+on mechanisms and multistep"
+CHEM 12B,1,"A study of all aspects of fundamental organic chemistry, inc
+luding nomenclature, chemical and physical properties, react
+ions and syntheses of the major classes of organic compounds
+. The study includes theoretical aspects, reaction mechanism
+s, multistep syntheses, and the chemistry of polycyclic and 
+heterocyclic compounds. This course is more extensive and in
+tensive than 3A-3B and includes a greater emphasis on reacti
+on mechanisms and multistep"
+CHEM 15,1,"An introduction to analytical and bioanalytical chemistry in
+cluding background in statistical analysis of data, acid-bas
+e equilibria, electrochemical, spectrometric, and chromatogr
+aphic methods of analysis and some advanced topics in bioana
+lytical chemistry such as micro-fluidics, bioassay technique
+s, and enzymatic biosensors."
+CHEM 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs may vary from department to department and semester to se
+mester. Enrollment limited to 15 freshmen."
+CHEM 32,1,"Foundation and preparation for General Chemistry. Topics and
+ concepts include elements, atoms, molecules, chemical react
+ions, chemical calculations, properties of gases and gas law
+s; thermodynamics, acid/base chemical equilibrium, and perio
+dic trends. In addition, by practicing learning as a process
+, students will cultivate the habits, strategies, and mindse
+t necessary to succeed in the sciences. Through rigorous pra
+ctice and guided reflection, students will"
+CHEM 49,1,"Students with partial credit in lower division chemistry cou
+rses may, with consent of instructor, complete the credit un
+der this heading."
+CHEM 96,1,"Introduces sophomores and new transfer students to research 
+activities and programs of study in the College of Chemistry
+. Includes lectures by faculty, an introduction to college l
+ibrary and computer facilities, the opportunity to meet alum
+ni and advanced undergraduates in an informal atmosphere, an
+d discussion of college and campus resources."
 CHEM 98,1,Group study of selected topics.
 CHEM 98W,1,Topics vary with instructor. Enrollment restrictions apply.
-CHEM 100,1,"For undergraduate and graduate students interested in improving their ability to communicate their scientific knowledge by teaching chemistry in elementary schools. The course will combine instruction in inquiry-based chemistry teaching methods and learning pedagogy with 10 weeks of supervised teaching experience in a local school classroom. Thus, students will practice communicating scientific knowledge and receive mentoring on how to improve"
-CHEM 103,1,The basic principles of metal ions and coordination chemistry applied to the study of biological systems.
-CHEM 104A,1,The chemistry of metals and nonmetals including the application of physical chemical principles.
-CHEM 104B,1,The chemistry of metals and nonmetals including the application of physical chemical principles.
-CHEM 105,1,"Principles, instrumentation and analytical applications of atomic spectroscopies, mass spectrometry, separations, electrochemistry and micro-characterization. Discussion of instrument design and capabilities as well as real-world problem solving with an emphasis on bioanalytical, environmental, and forensic applications. Hands-on laboratory work using modern instrumentation, emphasizing independent projects involving real-life samples and problem"
-CHEM 108,1,"The preparation of inorganic compounds using vacuum line, air-and moisture-exclusion, electrochemical, high-pressure, and other synthetic techniques. Kinetic and mechanistic studies of inorganic compounds."
-CHEM C110L,1,"Experimental techniques of biochemistry and molecular biology, designed to accompany the lectures in Molecular and Cell Biology 100B and 110."
-CHEM 113,1,"Advanced topics in mechanistic and physical organic chemistry typically including kinetics, reactive intermediates, substitution reactions, linear free energy relationships, orbital interactions and orbital symmetry control of reactions, isotope effects, and photochemistry."
-CHEM 114,1,"Advanced topics in synthetic organic chemistry with a focus on selectivity. Topics include reductions, oxidations, enolate chemistry and the aldol reaction, reactions of non-stablized anions, olefination reactions, pericyclic reactions and application to the synthesis of complex structures."
-CHEM 115,1,"Advanced synthetic methods, chemical and spectroscopic structural methods, designed as a preparation for experimental research."
-CHEM 120A,1,"Kinetic, potential, and total energy of particles and forces between them; principles of quantum theory, including one-electron and many-electron atoms and its applications to chemical bonding, intermolecular interactions, and elementary spectroscopy."
-CHEM 120B,1,"Statistical mechanics, thermodynamics, equilibrium and applications to chemical systems: states of matter, solutions and solvation, chemical kinetics, molecular dynamics, and molecular transport."
-CHEM 121,1,"This course demonstrates how computers are used to solve modern problems in physical chemistry. It focuses first on methods of electronic structure theory that reveal details of molecular structure and energetics, and secondly on simulation methods that explore fluctuations and dynamics of complex systems comprising many molecules. Students will use MATLAB to implement these numerical approaches for illustrative problems. No prior programming experience is requ"
-CHEM 122,1,Postulates and methods of quantum mechanics and group theory applied to molecular structure and spectra.
-CHEM 125,1,"Experiments in thermodynamics, kinetics, molecular structure, and general physical chemistry."
-CHEM 130B,1,"The weekly one-hour discussion is for problem solving and the application of calculus in physical chemistry. Molecular structure, intermolecular forces and interactions, biomolecular spectroscopy, high-resolution structure determinations."
-CHEM C130,1,"Thermodynamic and kinetic concepts applied to understanding the chemistry and structure of biomolecules (proteins, DNA, and RNA). Molecular distributions, reaction kinetics, enzyme kinetics. Bioenergetics, energy transduction, and motor proteins. Electrochemical potential, membranes, and ion channels."
-CHEM 135,1,"One-semester introduction to biochemistry, aimed toward chemistry and chemical biology majors."
-CHEM C138,1,"After an introduction to the different aspects of our global energy consumption, the course will focus on the role of biomass. The course will illustrate how the global scale of energy guides the biomass research. Emphasis will be placed on the integration of the biological aspects (crop selection, harvesting, storage and distribution, and chemical composition of biomass) with the chemical aspects to convert biomass to energy. The course aims to"
-CHEM 143,1,"Radioactivity, fission, nuclear models and reactions, nuclear processes in nature. Computer methods will be introduced."
-CHEM 146,1,"Experimental illustrations of the interrelation between chemical and nuclear science and technology and nuclear forensics; radioactive decay and counting techniques; nuclear spectroscopy; fundamental radiochemical techniques; radiochemical separations techniques; tracers; activation analysis; forensic applications of radiochemistry; fusion, fission and nuclear reactors."
-CHEM 149,1,"Students with partial credit in upper division chemistry courses may, with consent of instructor, complete the credit under this heading."
-CHEM C150,1,"The application of basic chemical principles to problems in materials discovery, design, and characterization will be discussed. Topics covered will include inorganic solids, nanoscale materials, polymers, and biological materials, with specific focus on the ways in which atomic-level interactions dictate the bulk properties of matter."
-CHEM C170L,1,Laboratory techniques for the cultivation of microorganisms in batch and continuous reactions. Enzymatic conversion processes. Recovery of biological products.
-CHEM C178,1,"An interdisciplinary course on the synthesis, characterization, and properties of polymer materials. Emphasis on the molecular origin of properties of polymeric materials and technological applications. Topics include single molecule properties, polymer mixtures and solutions, melts, glasses, elastomers, and crystals. Experiments in polymer synthesis, characterization, and physical properties."
-CHEM C182,1,"Fluid dynamics, radiative transfer, and the kinetics, spectroscopy, and measurement of atmospherically relevant species are explored through laboratory experiments, numerical simulations, and field observations."
-CHEM C191,1,"This multidisciplinary course provides an introduction to fundamental conceptual aspects of quantum mechanics from a computational and informational theoretic perspective, as well as physical implementations and technological applications of quantum information science. Basic sections of quantum algorithms, complexity, and cryptography, will be touched upon, as well as pertinent physical realizations from nanoscale science and engineerin"
-CHEM 192,1,"All properly qualified students who wish to pursue a problem of their own choice, through reading or nonlaboratory study, may do so if their proposed project is acceptable to the member of the staff with whom they wish to work."
-CHEM H193,1,A senior honors thesis is written in consultation with the student’s faculty research advisor. This is a required course for students wishing to graduate with honors in Chemistry or Chemical Biology.
-CHEM H194,1,Students may pursue original research under the direction of one of the members of the staff.
-CHEM 195,1,"Special topics will be offered from time to time. Examples are: photochemical air pollution, computers in chemistry."
+CHEM 100,1,"For undergraduate and graduate students interested in improv
+ing their ability to communicate their scientific knowledge 
+by teaching chemistry in elementary schools. The course will
+ combine instruction in inquiry-based chemistry teaching met
+hods and learning pedagogy with 10 weeks of supervised teach
+ing experience in a local school classroom. Thus, students w
+ill practice communicating scientific knowledge and receive 
+mentoring on how to improve"
+CHEM 103,1,"The basic principles of metal ions and coordination chemistr
+y applied to the study of biological systems."
+CHEM 104A,1,"The chemistry of metals and nonmetals including the applicat
+ion of physical chemical principles."
+CHEM 104B,1,"The chemistry of metals and nonmetals including the applicat
+ion of physical chemical principles."
+CHEM 105,1,"Principles, instrumentation and analytical applications of a
+tomic spectroscopies, mass spectrometry, separations, electr
+ochemistry and micro-characterization. Discussion of instrum
+ent design and capabilities as well as real-world problem so
+lving with an emphasis on bioanalytical, environmental, and 
+forensic applications. Hands-on laboratory work using modern
+ instrumentation, emphasizing independent projects involving
+ real-life samples and problem"
+CHEM 108,1,"The preparation of inorganic compounds using vacuum line, ai
+r-and moisture-exclusion, electrochemical, high-pressure, an
+d other synthetic techniques. Kinetic and mechanistic studie
+s of inorganic compounds."
+CHEM C110L,1,"Experimental techniques of biochemistry and molecular biolog
+y, designed to accompany the lectures in Molecular and Cell 
+Biology 100B and 110."
+CHEM 113,1,"Advanced topics in mechanistic and physical organic chemistr
+y typically including kinetics, reactive intermediates, subs
+titution reactions, linear free energy relationships, orbita
+l interactions and orbital symmetry control of reactions, is
+otope effects, and photochemistry."
+CHEM 114,1,"Advanced topics in synthetic organic chemistry with a focus 
+on selectivity. Topics include reductions, oxidations, enola
+te chemistry and the aldol reaction, reactions of non-stabli
+zed anions, olefination reactions, pericyclic reactions and 
+application to the synthesis of complex structures."
+CHEM 115,1,"Advanced synthetic methods, chemical and spectroscopic struc
+tural methods, designed as a preparation for experimental re
+search."
+CHEM 120A,1,"Kinetic, potential, and total energy of particles and forces
+ between them; principles of quantum theory, including one-e
+lectron and many-electron atoms and its applications to chem
+ical bonding, intermolecular interactions, and elementary sp
+ectroscopy."
+CHEM 120B,1,"Statistical mechanics, thermodynamics, equilibrium and appli
+cations to chemical systems: states of matter, solutions and
+ solvation, chemical kinetics, molecular dynamics, and molec
+ular transport."
+CHEM 121,1,"This course demonstrates how computers are used to solve mod
+ern problems in physical chemistry. It focuses first on meth
+ods of electronic structure theory that reveal details of mo
+lecular structure and energetics, and secondly on simulation
+ methods that explore fluctuations and dynamics of complex s
+ystems comprising many molecules. Students will use MATLAB t
+o implement these numerical approaches for illustrative prob
+lems. No prior programming experience is requ"
+CHEM 122,1,"Postulates and methods of quantum mechanics and group theory
+ applied to molecular structure and spectra."
+CHEM 125,1,"Experiments in thermodynamics, kinetics, molecular structure
+, and general physical chemistry."
+CHEM 130B,1,"The weekly one-hour discussion is for problem solving and th
+e application of calculus in physical chemistry. Molecular s
+tructure, intermolecular forces and interactions, biomolecul
+ar spectroscopy, high-resolution structure determinations."
+CHEM C130,1,"Thermodynamic and kinetic concepts applied to understanding 
+the chemistry and structure of biomolecules (proteins, DNA, 
+and RNA). Molecular distributions, reaction kinetics, enzyme
+ kinetics. Bioenergetics, energy transduction, and motor pro
+teins. Electrochemical potential, membranes, and ion channel
+s."
+CHEM 135,1,"One-semester introduction to biochemistry, aimed toward chem
+istry and chemical biology majors."
+CHEM C138,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHEM 143,1,"Radioactivity, fission, nuclear models and reactions, nuclea
+r processes in nature. Computer methods will be introduced."
+CHEM 146,1,"Experimental illustrations of the interrelation between chem
+ical and nuclear science and technology and nuclear forensic
+s; radioactive decay and counting techniques; nuclear spectr
+oscopy; fundamental radiochemical techniques; radiochemical 
+separations techniques; tracers; activation analysis; forens
+ic applications of radiochemistry; fusion, fission and nucle
+ar reactors."
+CHEM 149,1,"Students with partial credit in upper division chemistry cou
+rses may, with consent of instructor, complete the credit un
+der this heading."
+CHEM C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+CHEM C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHEM C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHEM C182,1,"Fluid dynamics, radiative transfer, and the kinetics, spectr
+oscopy, and measurement of atmospherically relevant species 
+are explored through laboratory experiments, numerical simul
+ations, and field observations."
+CHEM C191,1,"This multidisciplinary course provides an introduction to fu
+ndamental conceptual aspects of quantum mechanics from a com
+putational and informational theoretic perspective, as well 
+as physical implementations and technological applications o
+f quantum information science. Basic sections of quantum alg
+orithms, complexity, and cryptography, will be touched upon,
+ as well as pertinent physical realizations from nanoscale s
+cience and engineerin"
+CHEM 192,1,"All properly qualified students who wish to pursue a problem
+ of their own choice, through reading or nonlaboratory study
+, may do so if their proposed project is acceptable to the m
+ember of the staff with whom they wish to work."
+CHEM H193,1,"A senior honors thesis is written in consultation with the s
+tudent’s faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemistry o
+r Chemical Biology."
+CHEM H194,1,"Students may pursue original research under the direction of
+ one of the members of the staff."
+CHEM 195,1,"Special topics will be offered from time to time. Examples a
+re: photochemical air pollution, computers in chemistry."
 CHEM 196,1,Special laboratory work for advanced undergraduates.
-CHEM 197,1,Supervised experience in off-campus organizations relevant to specific aspects and applications of chemistry. Written report required at the end of the term. Course does not satisfy unit or residence requirements for the bachelor's degree.
+CHEM 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemistry. Written re
+port required at the end of the term. Course does not satisf
+y unit or residence requirements for the bachelor's degree."
+CHEM 198,1,Group study of selected topics.
+CHEM 199,1,Enrollment is restricted by regulations listed in the .
+CHEM 1A,1,"Stoichiometry of chemical reactions, quantum mechanical desc
+ription of atoms, the elements and periodic table, chemical 
+bonding, real and ideal gases, thermochemistry, introduction
+ to thermodynamics and equilibrium, acid-base and solubility
+ equilibria, introduction to oxidation-reduction reactions, 
+introduction to chemical kinetics."
+CHEM 1AD,1,"An interactive general chemistry course that uses modern dig
+ital technology, offered in a smaller classroom setting to f
+acilitate student participation and foster an engaging learn
+ing environment. Topics cover the Chemistry 1A curriculum, r
+anging from quantum mechanics and interactions of atoms and 
+molecules to properties and equilibria of bulk materials. Th
+e course involves a blend of classroom lectures and peer lea
+rning with substantial web-based assignments and"
+CHEM 1AL,1,"An experimental approach to chemical sciences with emphasis 
+on developing fundamental, reproducible laboratory technique
+ and a goal of understanding and achieving precision and acc
+uracy in laboratory experiments. Proper use of laboratory eq
+uipment and standard wet chemical methods are practiced. Are
+as of investigations include chemical equilibria, spectrosco
+py, nanotechnology, green chemistry, and thermochemistry. Co
+mpletion"
+CHEM 1B,1,"Introduction to chemical kinetics, electrochemistry, propert
+ies of the states of matter, binary mixtures, thermodynamic 
+efficiency and the direction of chemical change, quantum mec
+hanical description of bonding introduction to spectroscopy.
+ Special topics: Research topics in modern chemistry and bio
+chemistry, chemical engineering."
+CHEM W1A,1,"Stoichiometry of chemical reactions, quantum mechanical desc
+ription of atoms, the elements and periodic table, chemical 
+bonding, real and ideal gases, thermochemistry, introduction
+ to thermodynamics and equilibrium, acid-base and solubility
+ equilibria, introduction to oxidation-reduction reactions, 
+introduction to chemical kinetics. This course is web-based."
+CHEM 3A,1,"Introduction to organic chemical structures, bonding, and ch
+emical reactivity. The organic chemistry of alkanes, alkyl h
+alides, alcohols, alkenes, alkynes, and organometallics."
+CHEM 3AL,1,"Introduction to the theory and practice of methods used in t
+he organic chemistry laboratory. An emphasis is placed on th
+e separation and purification of organic compounds. Techniqu
+es covered will include extraction, distillation, sublimatio
+n, recrystalization, and chromatography. Detailed discussion
+s and applications of infrared and nuclear magnetic resonanc
+e spectroscopy will be included."
+CHEM 3B,1,"Conjugation, aromatic chemistry, carbonyl compounds, carbohy
+drates, amines, carboxylic acids, amino acids, peptides, pro
+teins, and nucleic acid chemistry. Ultraviolet spectroscopy 
+and mass spectrometry will be introduced."
+CHEM 3BL,1,"The synthesis and purification of organic compounds will be 
+explored. Natural product chemistry will be introduced. Adva
+nced spectroscopic methods including infrared, ultraviolet, 
+and nuclear magnetic resonance spectroscopy and mass spectro
+metry will be used to analyze products prepared and/or isola
+ted. Qualitative analysis of organic compounds will be cover
+ed."
+CHEM N3AL,1,"Introduction to the theory and practice of methods used in t
+he organic chemistry laboratory. An emphasis is placed on th
+e separation and purification of organic compounds. Techniqu
+es covered will include extraction, distillation, sublimatio
+n, recrystalization, and chromatography. Detailed discussion
+s and applications of infrared and nuclear magnetic resonanc
+e spectroscopy will be included."
+CHEM 4A,1,"Series is intended for majors in physical, biological scienc
+es, and engineering. It presents the foundation principles o
+f chemistry, including stoichiometry, ideal and real gases, 
+acid-base and solubility equilibria, oxidation-reduction rea
+ctions, thermochemistry, entropy, nuclear chemistry and radi
+oactivity, the atoms and elements, the periodic table, quant
+um theory, chemical bonding, molecular structure, chemical k
+inetics, and descriptive chemistry."
+CHEM 4B,1,"Series is intended for majors in physical, biological scienc
+es, and engineering. It presents the foundation principles o
+f chemistry, including stoichiometry, ideal and real gases, 
+acid-base and solubility equilibria, oxidation-reduction rea
+ctions, thermochemistry, entropy, nuclear chemistry and radi
+oactivity, the atoms and elements, the periodic table, quant
+um theory, chemical bonding, molecular structure, chemical k
+inetics, and descriptive"
+CHEM 12A,1,"A study of all aspects of fundamental organic chemistry, inc
+luding nomenclature, chemical and physical properties, react
+ions and syntheses of the major classes of organic compounds
+. The study includes theoretical aspects, reaction mechanism
+s, multistep syntheses, and the chemistry of polycyclic and 
+heterocyclic compounds. This course is more extensive and in
+tensive than 3A-3B and includes a greater emphasis on reacti
+on mechanisms and multistep"
+CHEM 12B,1,"A study of all aspects of fundamental organic chemistry, inc
+luding nomenclature, chemical and physical properties, react
+ions and syntheses of the major classes of organic compounds
+. The study includes theoretical aspects, reaction mechanism
+s, multistep syntheses, and the chemistry of polycyclic and 
+heterocyclic compounds. This course is more extensive and in
+tensive than 3A-3B and includes a greater emphasis on reacti
+on mechanisms and multistep"
+CHEM 15,1,"An introduction to analytical and bioanalytical chemistry in
+cluding background in statistical analysis of data, acid-bas
+e equilibria, electrochemical, spectrometric, and chromatogr
+aphic methods of analysis and some advanced topics in bioana
+lytical chemistry such as micro-fluidics, bioassay technique
+s, and enzymatic biosensors."
+CHEM 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs may vary from department to department and semester to se
+mester. Enrollment limited to 15 freshmen."
+CHEM 32,1,"Foundation and preparation for General Chemistry. Topics and
+ concepts include elements, atoms, molecules, chemical react
+ions, chemical calculations, properties of gases and gas law
+s; thermodynamics, acid/base chemical equilibrium, and perio
+dic trends. In addition, by practicing learning as a process
+, students will cultivate the habits, strategies, and mindse
+t necessary to succeed in the sciences. Through rigorous pra
+ctice and guided reflection, students will"
+CHEM 49,1,"Students with partial credit in lower division chemistry cou
+rses may, with consent of instructor, complete the credit un
+der this heading."
+CHEM 96,1,"Introduces sophomores and new transfer students to research 
+activities and programs of study in the College of Chemistry
+. Includes lectures by faculty, an introduction to college l
+ibrary and computer facilities, the opportunity to meet alum
+ni and advanced undergraduates in an informal atmosphere, an
+d discussion of college and campus resources."
+CHEM 98,1,Group study of selected topics.
+CHEM 98W,1,Topics vary with instructor. Enrollment restrictions apply.
+CHEM 100,1,"For undergraduate and graduate students interested in improv
+ing their ability to communicate their scientific knowledge 
+by teaching chemistry in elementary schools. The course will
+ combine instruction in inquiry-based chemistry teaching met
+hods and learning pedagogy with 10 weeks of supervised teach
+ing experience in a local school classroom. Thus, students w
+ill practice communicating scientific knowledge and receive 
+mentoring on how to improve"
+CHEM 103,1,"The basic principles of metal ions and coordination chemistr
+y applied to the study of biological systems."
+CHEM 104A,1,"The chemistry of metals and nonmetals including the applicat
+ion of physical chemical principles."
+CHEM 104B,1,"The chemistry of metals and nonmetals including the applicat
+ion of physical chemical principles."
+CHEM 105,1,"Principles, instrumentation and analytical applications of a
+tomic spectroscopies, mass spectrometry, separations, electr
+ochemistry and micro-characterization. Discussion of instrum
+ent design and capabilities as well as real-world problem so
+lving with an emphasis on bioanalytical, environmental, and 
+forensic applications. Hands-on laboratory work using modern
+ instrumentation, emphasizing independent projects involving
+ real-life samples and problem"
+CHEM 108,1,"The preparation of inorganic compounds using vacuum line, ai
+r-and moisture-exclusion, electrochemical, high-pressure, an
+d other synthetic techniques. Kinetic and mechanistic studie
+s of inorganic compounds."
+CHEM C110L,1,"Experimental techniques of biochemistry and molecular biolog
+y, designed to accompany the lectures in Molecular and Cell 
+Biology 100B and 110."
+CHEM 113,1,"Advanced topics in mechanistic and physical organic chemistr
+y typically including kinetics, reactive intermediates, subs
+titution reactions, linear free energy relationships, orbita
+l interactions and orbital symmetry control of reactions, is
+otope effects, and photochemistry."
+CHEM 114,1,"Advanced topics in synthetic organic chemistry with a focus 
+on selectivity. Topics include reductions, oxidations, enola
+te chemistry and the aldol reaction, reactions of non-stabli
+zed anions, olefination reactions, pericyclic reactions and 
+application to the synthesis of complex structures."
+CHEM 115,1,"Advanced synthetic methods, chemical and spectroscopic struc
+tural methods, designed as a preparation for experimental re
+search."
+CHEM 120A,1,"Kinetic, potential, and total energy of particles and forces
+ between them; principles of quantum theory, including one-e
+lectron and many-electron atoms and its applications to chem
+ical bonding, intermolecular interactions, and elementary sp
+ectroscopy."
+CHEM 120B,1,"Statistical mechanics, thermodynamics, equilibrium and appli
+cations to chemical systems: states of matter, solutions and
+ solvation, chemical kinetics, molecular dynamics, and molec
+ular transport."
+CHEM 121,1,"This course demonstrates how computers are used to solve mod
+ern problems in physical chemistry. It focuses first on meth
+ods of electronic structure theory that reveal details of mo
+lecular structure and energetics, and secondly on simulation
+ methods that explore fluctuations and dynamics of complex s
+ystems comprising many molecules. Students will use MATLAB t
+o implement these numerical approaches for illustrative prob
+lems. No prior programming experience is requ"
+CHEM 122,1,"Postulates and methods of quantum mechanics and group theory
+ applied to molecular structure and spectra."
+CHEM 125,1,"Experiments in thermodynamics, kinetics, molecular structure
+, and general physical chemistry."
+CHEM 130B,1,"The weekly one-hour discussion is for problem solving and th
+e application of calculus in physical chemistry. Molecular s
+tructure, intermolecular forces and interactions, biomolecul
+ar spectroscopy, high-resolution structure determinations."
+CHEM C130,1,"Thermodynamic and kinetic concepts applied to understanding 
+the chemistry and structure of biomolecules (proteins, DNA, 
+and RNA). Molecular distributions, reaction kinetics, enzyme
+ kinetics. Bioenergetics, energy transduction, and motor pro
+teins. Electrochemical potential, membranes, and ion channel
+s."
+CHEM 135,1,"One-semester introduction to biochemistry, aimed toward chem
+istry and chemical biology majors."
+CHEM C138,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHEM 143,1,"Radioactivity, fission, nuclear models and reactions, nuclea
+r processes in nature. Computer methods will be introduced."
+CHEM 146,1,"Experimental illustrations of the interrelation between chem
+ical and nuclear science and technology and nuclear forensic
+s; radioactive decay and counting techniques; nuclear spectr
+oscopy; fundamental radiochemical techniques; radiochemical 
+separations techniques; tracers; activation analysis; forens
+ic applications of radiochemistry; fusion, fission and nucle
+ar reactors."
+CHEM 149,1,"Students with partial credit in upper division chemistry cou
+rses may, with consent of instructor, complete the credit un
+der this heading."
+CHEM C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+CHEM C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHEM C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHEM C182,1,"Fluid dynamics, radiative transfer, and the kinetics, spectr
+oscopy, and measurement of atmospherically relevant species 
+are explored through laboratory experiments, numerical simul
+ations, and field observations."
+CHEM C191,1,"This multidisciplinary course provides an introduction to fu
+ndamental conceptual aspects of quantum mechanics from a com
+putational and informational theoretic perspective, as well 
+as physical implementations and technological applications o
+f quantum information science. Basic sections of quantum alg
+orithms, complexity, and cryptography, will be touched upon,
+ as well as pertinent physical realizations from nanoscale s
+cience and engineerin"
+CHEM 192,1,"All properly qualified students who wish to pursue a problem
+ of their own choice, through reading or nonlaboratory study
+, may do so if their proposed project is acceptable to the m
+ember of the staff with whom they wish to work."
+CHEM H193,1,"A senior honors thesis is written in consultation with the s
+tudent’s faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemistry o
+r Chemical Biology."
+CHEM H194,1,"Students may pursue original research under the direction of
+ one of the members of the staff."
+CHEM 195,1,"Special topics will be offered from time to time. Examples a
+re: photochemical air pollution, computers in chemistry."
+CHEM 196,1,Special laboratory work for advanced undergraduates.
+CHEM 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemistry. Written re
+port required at the end of the term. Course does not satisf
+y unit or residence requirements for the bachelor's degree."
+CHEM 198,1,Group study of selected topics.
+CHEM 199,1,Enrollment is restricted by regulations listed in the .
+CHEM 1A,1,"Stoichiometry of chemical reactions, quantum mechanical desc
+ription of atoms, the elements and periodic table, chemical 
+bonding, real and ideal gases, thermochemistry, introduction
+ to thermodynamics and equilibrium, acid-base and solubility
+ equilibria, introduction to oxidation-reduction reactions, 
+introduction to chemical kinetics."
+CHEM 1AD,1,"An interactive general chemistry course that uses modern dig
+ital technology, offered in a smaller classroom setting to f
+acilitate student participation and foster an engaging learn
+ing environment. Topics cover the Chemistry 1A curriculum, r
+anging from quantum mechanics and interactions of atoms and 
+molecules to properties and equilibria of bulk materials. Th
+e course involves a blend of classroom lectures and peer lea
+rning with substantial web-based assignments and"
+CHEM 1AL,1,"An experimental approach to chemical sciences with emphasis 
+on developing fundamental, reproducible laboratory technique
+ and a goal of understanding and achieving precision and acc
+uracy in laboratory experiments. Proper use of laboratory eq
+uipment and standard wet chemical methods are practiced. Are
+as of investigations include chemical equilibria, spectrosco
+py, nanotechnology, green chemistry, and thermochemistry. Co
+mpletion"
+CHEM 1B,1,"Introduction to chemical kinetics, electrochemistry, propert
+ies of the states of matter, binary mixtures, thermodynamic 
+efficiency and the direction of chemical change, quantum mec
+hanical description of bonding introduction to spectroscopy.
+ Special topics: Research topics in modern chemistry and bio
+chemistry, chemical engineering."
+CHEM W1A,1,"Stoichiometry of chemical reactions, quantum mechanical desc
+ription of atoms, the elements and periodic table, chemical 
+bonding, real and ideal gases, thermochemistry, introduction
+ to thermodynamics and equilibrium, acid-base and solubility
+ equilibria, introduction to oxidation-reduction reactions, 
+introduction to chemical kinetics. This course is web-based."
+CHEM 3A,1,"Introduction to organic chemical structures, bonding, and ch
+emical reactivity. The organic chemistry of alkanes, alkyl h
+alides, alcohols, alkenes, alkynes, and organometallics."
+CHEM 3AL,1,"Introduction to the theory and practice of methods used in t
+he organic chemistry laboratory. An emphasis is placed on th
+e separation and purification of organic compounds. Techniqu
+es covered will include extraction, distillation, sublimatio
+n, recrystalization, and chromatography. Detailed discussion
+s and applications of infrared and nuclear magnetic resonanc
+e spectroscopy will be included."
+CHEM 3B,1,"Conjugation, aromatic chemistry, carbonyl compounds, carbohy
+drates, amines, carboxylic acids, amino acids, peptides, pro
+teins, and nucleic acid chemistry. Ultraviolet spectroscopy 
+and mass spectrometry will be introduced."
+CHEM 3BL,1,"The synthesis and purification of organic compounds will be 
+explored. Natural product chemistry will be introduced. Adva
+nced spectroscopic methods including infrared, ultraviolet, 
+and nuclear magnetic resonance spectroscopy and mass spectro
+metry will be used to analyze products prepared and/or isola
+ted. Qualitative analysis of organic compounds will be cover
+ed."
+CHEM N3AL,1,"Introduction to the theory and practice of methods used in t
+he organic chemistry laboratory. An emphasis is placed on th
+e separation and purification of organic compounds. Techniqu
+es covered will include extraction, distillation, sublimatio
+n, recrystalization, and chromatography. Detailed discussion
+s and applications of infrared and nuclear magnetic resonanc
+e spectroscopy will be included."
+CHEM 4A,1,"Series is intended for majors in physical, biological scienc
+es, and engineering. It presents the foundation principles o
+f chemistry, including stoichiometry, ideal and real gases, 
+acid-base and solubility equilibria, oxidation-reduction rea
+ctions, thermochemistry, entropy, nuclear chemistry and radi
+oactivity, the atoms and elements, the periodic table, quant
+um theory, chemical bonding, molecular structure, chemical k
+inetics, and descriptive chemistry."
+CHEM 4B,1,"Series is intended for majors in physical, biological scienc
+es, and engineering. It presents the foundation principles o
+f chemistry, including stoichiometry, ideal and real gases, 
+acid-base and solubility equilibria, oxidation-reduction rea
+ctions, thermochemistry, entropy, nuclear chemistry and radi
+oactivity, the atoms and elements, the periodic table, quant
+um theory, chemical bonding, molecular structure, chemical k
+inetics, and descriptive"
+CHEM 12A,1,"A study of all aspects of fundamental organic chemistry, inc
+luding nomenclature, chemical and physical properties, react
+ions and syntheses of the major classes of organic compounds
+. The study includes theoretical aspects, reaction mechanism
+s, multistep syntheses, and the chemistry of polycyclic and 
+heterocyclic compounds. This course is more extensive and in
+tensive than 3A-3B and includes a greater emphasis on reacti
+on mechanisms and multistep"
+CHEM 12B,1,"A study of all aspects of fundamental organic chemistry, inc
+luding nomenclature, chemical and physical properties, react
+ions and syntheses of the major classes of organic compounds
+. The study includes theoretical aspects, reaction mechanism
+s, multistep syntheses, and the chemistry of polycyclic and 
+heterocyclic compounds. This course is more extensive and in
+tensive than 3A-3B and includes a greater emphasis on reacti
+on mechanisms and multistep"
+CHEM 15,1,"An introduction to analytical and bioanalytical chemistry in
+cluding background in statistical analysis of data, acid-bas
+e equilibria, electrochemical, spectrometric, and chromatogr
+aphic methods of analysis and some advanced topics in bioana
+lytical chemistry such as micro-fluidics, bioassay technique
+s, and enzymatic biosensors."
+CHEM 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs may vary from department to department and semester to se
+mester. Enrollment limited to 15 freshmen."
+CHEM 32,1,"Foundation and preparation for General Chemistry. Topics and
+ concepts include elements, atoms, molecules, chemical react
+ions, chemical calculations, properties of gases and gas law
+s; thermodynamics, acid/base chemical equilibrium, and perio
+dic trends. In addition, by practicing learning as a process
+, students will cultivate the habits, strategies, and mindse
+t necessary to succeed in the sciences. Through rigorous pra
+ctice and guided reflection, students will"
+CHEM 49,1,"Students with partial credit in lower division chemistry cou
+rses may, with consent of instructor, complete the credit un
+der this heading."
+CHEM 96,1,"Introduces sophomores and new transfer students to research 
+activities and programs of study in the College of Chemistry
+. Includes lectures by faculty, an introduction to college l
+ibrary and computer facilities, the opportunity to meet alum
+ni and advanced undergraduates in an informal atmosphere, an
+d discussion of college and campus resources."
+CHEM 98,1,Group study of selected topics.
+CHEM 98W,1,Topics vary with instructor. Enrollment restrictions apply.
+CHEM 100,1,"For undergraduate and graduate students interested in improv
+ing their ability to communicate their scientific knowledge 
+by teaching chemistry in elementary schools. The course will
+ combine instruction in inquiry-based chemistry teaching met
+hods and learning pedagogy with 10 weeks of supervised teach
+ing experience in a local school classroom. Thus, students w
+ill practice communicating scientific knowledge and receive 
+mentoring on how to improve"
+CHEM 103,1,"The basic principles of metal ions and coordination chemistr
+y applied to the study of biological systems."
+CHEM 104A,1,"The chemistry of metals and nonmetals including the applicat
+ion of physical chemical principles."
+CHEM 104B,1,"The chemistry of metals and nonmetals including the applicat
+ion of physical chemical principles."
+CHEM 105,1,"Principles, instrumentation and analytical applications of a
+tomic spectroscopies, mass spectrometry, separations, electr
+ochemistry and micro-characterization. Discussion of instrum
+ent design and capabilities as well as real-world problem so
+lving with an emphasis on bioanalytical, environmental, and 
+forensic applications. Hands-on laboratory work using modern
+ instrumentation, emphasizing independent projects involving
+ real-life samples and problem"
+CHEM 108,1,"The preparation of inorganic compounds using vacuum line, ai
+r-and moisture-exclusion, electrochemical, high-pressure, an
+d other synthetic techniques. Kinetic and mechanistic studie
+s of inorganic compounds."
+CHEM C110L,1,"Experimental techniques of biochemistry and molecular biolog
+y, designed to accompany the lectures in Molecular and Cell 
+Biology 100B and 110."
+CHEM 113,1,"Advanced topics in mechanistic and physical organic chemistr
+y typically including kinetics, reactive intermediates, subs
+titution reactions, linear free energy relationships, orbita
+l interactions and orbital symmetry control of reactions, is
+otope effects, and photochemistry."
+CHEM 114,1,"Advanced topics in synthetic organic chemistry with a focus 
+on selectivity. Topics include reductions, oxidations, enola
+te chemistry and the aldol reaction, reactions of non-stabli
+zed anions, olefination reactions, pericyclic reactions and 
+application to the synthesis of complex structures."
+CHEM 115,1,"Advanced synthetic methods, chemical and spectroscopic struc
+tural methods, designed as a preparation for experimental re
+search."
+CHEM 120A,1,"Kinetic, potential, and total energy of particles and forces
+ between them; principles of quantum theory, including one-e
+lectron and many-electron atoms and its applications to chem
+ical bonding, intermolecular interactions, and elementary sp
+ectroscopy."
+CHEM 120B,1,"Statistical mechanics, thermodynamics, equilibrium and appli
+cations to chemical systems: states of matter, solutions and
+ solvation, chemical kinetics, molecular dynamics, and molec
+ular transport."
+CHEM 121,1,"This course demonstrates how computers are used to solve mod
+ern problems in physical chemistry. It focuses first on meth
+ods of electronic structure theory that reveal details of mo
+lecular structure and energetics, and secondly on simulation
+ methods that explore fluctuations and dynamics of complex s
+ystems comprising many molecules. Students will use MATLAB t
+o implement these numerical approaches for illustrative prob
+lems. No prior programming experience is requ"
+CHEM 122,1,"Postulates and methods of quantum mechanics and group theory
+ applied to molecular structure and spectra."
+CHEM 125,1,"Experiments in thermodynamics, kinetics, molecular structure
+, and general physical chemistry."
+CHEM 130B,1,"The weekly one-hour discussion is for problem solving and th
+e application of calculus in physical chemistry. Molecular s
+tructure, intermolecular forces and interactions, biomolecul
+ar spectroscopy, high-resolution structure determinations."
+CHEM C130,1,"Thermodynamic and kinetic concepts applied to understanding 
+the chemistry and structure of biomolecules (proteins, DNA, 
+and RNA). Molecular distributions, reaction kinetics, enzyme
+ kinetics. Bioenergetics, energy transduction, and motor pro
+teins. Electrochemical potential, membranes, and ion channel
+s."
+CHEM 135,1,"One-semester introduction to biochemistry, aimed toward chem
+istry and chemical biology majors."
+CHEM C138,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHEM 143,1,"Radioactivity, fission, nuclear models and reactions, nuclea
+r processes in nature. Computer methods will be introduced."
+CHEM 146,1,"Experimental illustrations of the interrelation between chem
+ical and nuclear science and technology and nuclear forensic
+s; radioactive decay and counting techniques; nuclear spectr
+oscopy; fundamental radiochemical techniques; radiochemical 
+separations techniques; tracers; activation analysis; forens
+ic applications of radiochemistry; fusion, fission and nucle
+ar reactors."
+CHEM 149,1,"Students with partial credit in upper division chemistry cou
+rses may, with consent of instructor, complete the credit un
+der this heading."
+CHEM C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+CHEM C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHEM C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHEM C182,1,"Fluid dynamics, radiative transfer, and the kinetics, spectr
+oscopy, and measurement of atmospherically relevant species 
+are explored through laboratory experiments, numerical simul
+ations, and field observations."
+CHEM C191,1,"This multidisciplinary course provides an introduction to fu
+ndamental conceptual aspects of quantum mechanics from a com
+putational and informational theoretic perspective, as well 
+as physical implementations and technological applications o
+f quantum information science. Basic sections of quantum alg
+orithms, complexity, and cryptography, will be touched upon,
+ as well as pertinent physical realizations from nanoscale s
+cience and engineerin"
+CHEM 192,1,"All properly qualified students who wish to pursue a problem
+ of their own choice, through reading or nonlaboratory study
+, may do so if their proposed project is acceptable to the m
+ember of the staff with whom they wish to work."
+CHEM H193,1,"A senior honors thesis is written in consultation with the s
+tudent’s faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemistry o
+r Chemical Biology."
+CHEM H194,1,"Students may pursue original research under the direction of
+ one of the members of the staff."
+CHEM 195,1,"Special topics will be offered from time to time. Examples a
+re: photochemical air pollution, computers in chemistry."
+CHEM 196,1,Special laboratory work for advanced undergraduates.
+CHEM 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemistry. Written re
+port required at the end of the term. Course does not satisf
+y unit or residence requirements for the bachelor's degree."
+CHEM 198,1,Group study of selected topics.
+CHEM 199,1,Enrollment is restricted by regulations listed in the .
+CHEM 1A,1,"Stoichiometry of chemical reactions, quantum mechanical desc
+ription of atoms, the elements and periodic table, chemical 
+bonding, real and ideal gases, thermochemistry, introduction
+ to thermodynamics and equilibrium, acid-base and solubility
+ equilibria, introduction to oxidation-reduction reactions, 
+introduction to chemical kinetics."
+CHEM 1AD,1,"An interactive general chemistry course that uses modern dig
+ital technology, offered in a smaller classroom setting to f
+acilitate student participation and foster an engaging learn
+ing environment. Topics cover the Chemistry 1A curriculum, r
+anging from quantum mechanics and interactions of atoms and 
+molecules to properties and equilibria of bulk materials. Th
+e course involves a blend of classroom lectures and peer lea
+rning with substantial web-based assignments and"
+CHEM 1AL,1,"An experimental approach to chemical sciences with emphasis 
+on developing fundamental, reproducible laboratory technique
+ and a goal of understanding and achieving precision and acc
+uracy in laboratory experiments. Proper use of laboratory eq
+uipment and standard wet chemical methods are practiced. Are
+as of investigations include chemical equilibria, spectrosco
+py, nanotechnology, green chemistry, and thermochemistry. Co
+mpletion"
+CHEM 1B,1,"Introduction to chemical kinetics, electrochemistry, propert
+ies of the states of matter, binary mixtures, thermodynamic 
+efficiency and the direction of chemical change, quantum mec
+hanical description of bonding introduction to spectroscopy.
+ Special topics: Research topics in modern chemistry and bio
+chemistry, chemical engineering."
+CHEM W1A,1,"Stoichiometry of chemical reactions, quantum mechanical desc
+ription of atoms, the elements and periodic table, chemical 
+bonding, real and ideal gases, thermochemistry, introduction
+ to thermodynamics and equilibrium, acid-base and solubility
+ equilibria, introduction to oxidation-reduction reactions, 
+introduction to chemical kinetics. This course is web-based."
+CHEM 3A,1,"Introduction to organic chemical structures, bonding, and ch
+emical reactivity. The organic chemistry of alkanes, alkyl h
+alides, alcohols, alkenes, alkynes, and organometallics."
+CHEM 3AL,1,"Introduction to the theory and practice of methods used in t
+he organic chemistry laboratory. An emphasis is placed on th
+e separation and purification of organic compounds. Techniqu
+es covered will include extraction, distillation, sublimatio
+n, recrystalization, and chromatography. Detailed discussion
+s and applications of infrared and nuclear magnetic resonanc
+e spectroscopy will be included."
+CHEM 3B,1,"Conjugation, aromatic chemistry, carbonyl compounds, carbohy
+drates, amines, carboxylic acids, amino acids, peptides, pro
+teins, and nucleic acid chemistry. Ultraviolet spectroscopy 
+and mass spectrometry will be introduced."
+CHEM 3BL,1,"The synthesis and purification of organic compounds will be 
+explored. Natural product chemistry will be introduced. Adva
+nced spectroscopic methods including infrared, ultraviolet, 
+and nuclear magnetic resonance spectroscopy and mass spectro
+metry will be used to analyze products prepared and/or isola
+ted. Qualitative analysis of organic compounds will be cover
+ed."
+CHEM N3AL,1,"Introduction to the theory and practice of methods used in t
+he organic chemistry laboratory. An emphasis is placed on th
+e separation and purification of organic compounds. Techniqu
+es covered will include extraction, distillation, sublimatio
+n, recrystalization, and chromatography. Detailed discussion
+s and applications of infrared and nuclear magnetic resonanc
+e spectroscopy will be included."
+CHEM 4A,1,"Series is intended for majors in physical, biological scienc
+es, and engineering. It presents the foundation principles o
+f chemistry, including stoichiometry, ideal and real gases, 
+acid-base and solubility equilibria, oxidation-reduction rea
+ctions, thermochemistry, entropy, nuclear chemistry and radi
+oactivity, the atoms and elements, the periodic table, quant
+um theory, chemical bonding, molecular structure, chemical k
+inetics, and descriptive chemistry."
+CHEM 4B,1,"Series is intended for majors in physical, biological scienc
+es, and engineering. It presents the foundation principles o
+f chemistry, including stoichiometry, ideal and real gases, 
+acid-base and solubility equilibria, oxidation-reduction rea
+ctions, thermochemistry, entropy, nuclear chemistry and radi
+oactivity, the atoms and elements, the periodic table, quant
+um theory, chemical bonding, molecular structure, chemical k
+inetics, and descriptive"
+CHEM 12A,1,"A study of all aspects of fundamental organic chemistry, inc
+luding nomenclature, chemical and physical properties, react
+ions and syntheses of the major classes of organic compounds
+. The study includes theoretical aspects, reaction mechanism
+s, multistep syntheses, and the chemistry of polycyclic and 
+heterocyclic compounds. This course is more extensive and in
+tensive than 3A-3B and includes a greater emphasis on reacti
+on mechanisms and multistep"
+CHEM 12B,1,"A study of all aspects of fundamental organic chemistry, inc
+luding nomenclature, chemical and physical properties, react
+ions and syntheses of the major classes of organic compounds
+. The study includes theoretical aspects, reaction mechanism
+s, multistep syntheses, and the chemistry of polycyclic and 
+heterocyclic compounds. This course is more extensive and in
+tensive than 3A-3B and includes a greater emphasis on reacti
+on mechanisms and multistep"
+CHEM 15,1,"An introduction to analytical and bioanalytical chemistry in
+cluding background in statistical analysis of data, acid-bas
+e equilibria, electrochemical, spectrometric, and chromatogr
+aphic methods of analysis and some advanced topics in bioana
+lytical chemistry such as micro-fluidics, bioassay technique
+s, and enzymatic biosensors."
+CHEM 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs may vary from department to department and semester to se
+mester. Enrollment limited to 15 freshmen."
+CHEM 32,1,"Foundation and preparation for General Chemistry. Topics and
+ concepts include elements, atoms, molecules, chemical react
+ions, chemical calculations, properties of gases and gas law
+s; thermodynamics, acid/base chemical equilibrium, and perio
+dic trends. In addition, by practicing learning as a process
+, students will cultivate the habits, strategies, and mindse
+t necessary to succeed in the sciences. Through rigorous pra
+ctice and guided reflection, students will"
+CHEM 49,1,"Students with partial credit in lower division chemistry cou
+rses may, with consent of instructor, complete the credit un
+der this heading."
+CHEM 96,1,"Introduces sophomores and new transfer students to research 
+activities and programs of study in the College of Chemistry
+. Includes lectures by faculty, an introduction to college l
+ibrary and computer facilities, the opportunity to meet alum
+ni and advanced undergraduates in an informal atmosphere, an
+d discussion of college and campus resources."
+CHEM 98,1,Group study of selected topics.
+CHEM 98W,1,Topics vary with instructor. Enrollment restrictions apply.
+CHEM 100,1,"For undergraduate and graduate students interested in improv
+ing their ability to communicate their scientific knowledge 
+by teaching chemistry in elementary schools. The course will
+ combine instruction in inquiry-based chemistry teaching met
+hods and learning pedagogy with 10 weeks of supervised teach
+ing experience in a local school classroom. Thus, students w
+ill practice communicating scientific knowledge and receive 
+mentoring on how to improve"
+CHEM 103,1,"The basic principles of metal ions and coordination chemistr
+y applied to the study of biological systems."
+CHEM 104A,1,"The chemistry of metals and nonmetals including the applicat
+ion of physical chemical principles."
+CHEM 104B,1,"The chemistry of metals and nonmetals including the applicat
+ion of physical chemical principles."
+CHEM 105,1,"Principles, instrumentation and analytical applications of a
+tomic spectroscopies, mass spectrometry, separations, electr
+ochemistry and micro-characterization. Discussion of instrum
+ent design and capabilities as well as real-world problem so
+lving with an emphasis on bioanalytical, environmental, and 
+forensic applications. Hands-on laboratory work using modern
+ instrumentation, emphasizing independent projects involving
+ real-life samples and problem"
+CHEM 108,1,"The preparation of inorganic compounds using vacuum line, ai
+r-and moisture-exclusion, electrochemical, high-pressure, an
+d other synthetic techniques. Kinetic and mechanistic studie
+s of inorganic compounds."
+CHEM C110L,1,"Experimental techniques of biochemistry and molecular biolog
+y, designed to accompany the lectures in Molecular and Cell 
+Biology 100B and 110."
+CHEM 113,1,"Advanced topics in mechanistic and physical organic chemistr
+y typically including kinetics, reactive intermediates, subs
+titution reactions, linear free energy relationships, orbita
+l interactions and orbital symmetry control of reactions, is
+otope effects, and photochemistry."
+CHEM 114,1,"Advanced topics in synthetic organic chemistry with a focus 
+on selectivity. Topics include reductions, oxidations, enola
+te chemistry and the aldol reaction, reactions of non-stabli
+zed anions, olefination reactions, pericyclic reactions and 
+application to the synthesis of complex structures."
+CHEM 115,1,"Advanced synthetic methods, chemical and spectroscopic struc
+tural methods, designed as a preparation for experimental re
+search."
+CHEM 120A,1,"Kinetic, potential, and total energy of particles and forces
+ between them; principles of quantum theory, including one-e
+lectron and many-electron atoms and its applications to chem
+ical bonding, intermolecular interactions, and elementary sp
+ectroscopy."
+CHEM 120B,1,"Statistical mechanics, thermodynamics, equilibrium and appli
+cations to chemical systems: states of matter, solutions and
+ solvation, chemical kinetics, molecular dynamics, and molec
+ular transport."
+CHEM 121,1,"This course demonstrates how computers are used to solve mod
+ern problems in physical chemistry. It focuses first on meth
+ods of electronic structure theory that reveal details of mo
+lecular structure and energetics, and secondly on simulation
+ methods that explore fluctuations and dynamics of complex s
+ystems comprising many molecules. Students will use MATLAB t
+o implement these numerical approaches for illustrative prob
+lems. No prior programming experience is requ"
+CHEM 122,1,"Postulates and methods of quantum mechanics and group theory
+ applied to molecular structure and spectra."
+CHEM 125,1,"Experiments in thermodynamics, kinetics, molecular structure
+, and general physical chemistry."
+CHEM 130B,1,"The weekly one-hour discussion is for problem solving and th
+e application of calculus in physical chemistry. Molecular s
+tructure, intermolecular forces and interactions, biomolecul
+ar spectroscopy, high-resolution structure determinations."
+CHEM C130,1,"Thermodynamic and kinetic concepts applied to understanding 
+the chemistry and structure of biomolecules (proteins, DNA, 
+and RNA). Molecular distributions, reaction kinetics, enzyme
+ kinetics. Bioenergetics, energy transduction, and motor pro
+teins. Electrochemical potential, membranes, and ion channel
+s."
+CHEM 135,1,"One-semester introduction to biochemistry, aimed toward chem
+istry and chemical biology majors."
+CHEM C138,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHEM 143,1,"Radioactivity, fission, nuclear models and reactions, nuclea
+r processes in nature. Computer methods will be introduced."
+CHEM 146,1,"Experimental illustrations of the interrelation between chem
+ical and nuclear science and technology and nuclear forensic
+s; radioactive decay and counting techniques; nuclear spectr
+oscopy; fundamental radiochemical techniques; radiochemical 
+separations techniques; tracers; activation analysis; forens
+ic applications of radiochemistry; fusion, fission and nucle
+ar reactors."
+CHEM 149,1,"Students with partial credit in upper division chemistry cou
+rses may, with consent of instructor, complete the credit un
+der this heading."
+CHEM C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+CHEM C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHEM C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHEM C182,1,"Fluid dynamics, radiative transfer, and the kinetics, spectr
+oscopy, and measurement of atmospherically relevant species 
+are explored through laboratory experiments, numerical simul
+ations, and field observations."
+CHEM C191,1,"This multidisciplinary course provides an introduction to fu
+ndamental conceptual aspects of quantum mechanics from a com
+putational and informational theoretic perspective, as well 
+as physical implementations and technological applications o
+f quantum information science. Basic sections of quantum alg
+orithms, complexity, and cryptography, will be touched upon,
+ as well as pertinent physical realizations from nanoscale s
+cience and engineerin"
+CHEM 192,1,"All properly qualified students who wish to pursue a problem
+ of their own choice, through reading or nonlaboratory study
+, may do so if their proposed project is acceptable to the m
+ember of the staff with whom they wish to work."
+CHEM H193,1,"A senior honors thesis is written in consultation with the s
+tudent’s faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemistry o
+r Chemical Biology."
+CHEM H194,1,"Students may pursue original research under the direction of
+ one of the members of the staff."
+CHEM 195,1,"Special topics will be offered from time to time. Examples a
+re: photochemical air pollution, computers in chemistry."
+CHEM 196,1,Special laboratory work for advanced undergraduates.
+CHEM 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemistry. Written re
+port required at the end of the term. Course does not satisf
+y unit or residence requirements for the bachelor's degree."
+CHEM 198,1,Group study of selected topics.
+CHEM 199,1,Enrollment is restricted by regulations listed in the .
+CHEM 1A,1,"Stoichiometry of chemical reactions, quantum mechanical desc
+ription of atoms, the elements and periodic table, chemical 
+bonding, real and ideal gases, thermochemistry, introduction
+ to thermodynamics and equilibrium, acid-base and solubility
+ equilibria, introduction to oxidation-reduction reactions, 
+introduction to chemical kinetics."
+CHEM 1AD,1,"An interactive general chemistry course that uses modern dig
+ital technology, offered in a smaller classroom setting to f
+acilitate student participation and foster an engaging learn
+ing environment. Topics cover the Chemistry 1A curriculum, r
+anging from quantum mechanics and interactions of atoms and 
+molecules to properties and equilibria of bulk materials. Th
+e course involves a blend of classroom lectures and peer lea
+rning with substantial web-based assignments and"
+CHEM 1AL,1,"An experimental approach to chemical sciences with emphasis 
+on developing fundamental, reproducible laboratory technique
+ and a goal of understanding and achieving precision and acc
+uracy in laboratory experiments. Proper use of laboratory eq
+uipment and standard wet chemical methods are practiced. Are
+as of investigations include chemical equilibria, spectrosco
+py, nanotechnology, green chemistry, and thermochemistry. Co
+mpletion"
+CHEM 1B,1,"Introduction to chemical kinetics, electrochemistry, propert
+ies of the states of matter, binary mixtures, thermodynamic 
+efficiency and the direction of chemical change, quantum mec
+hanical description of bonding introduction to spectroscopy.
+ Special topics: Research topics in modern chemistry and bio
+chemistry, chemical engineering."
+CHEM W1A,1,"Stoichiometry of chemical reactions, quantum mechanical desc
+ription of atoms, the elements and periodic table, chemical 
+bonding, real and ideal gases, thermochemistry, introduction
+ to thermodynamics and equilibrium, acid-base and solubility
+ equilibria, introduction to oxidation-reduction reactions, 
+introduction to chemical kinetics. This course is web-based."
+CHEM 3A,1,"Introduction to organic chemical structures, bonding, and ch
+emical reactivity. The organic chemistry of alkanes, alkyl h
+alides, alcohols, alkenes, alkynes, and organometallics."
+CHEM 3AL,1,"Introduction to the theory and practice of methods used in t
+he organic chemistry laboratory. An emphasis is placed on th
+e separation and purification of organic compounds. Techniqu
+es covered will include extraction, distillation, sublimatio
+n, recrystalization, and chromatography. Detailed discussion
+s and applications of infrared and nuclear magnetic resonanc
+e spectroscopy will be included."
+CHEM 3B,1,"Conjugation, aromatic chemistry, carbonyl compounds, carbohy
+drates, amines, carboxylic acids, amino acids, peptides, pro
+teins, and nucleic acid chemistry. Ultraviolet spectroscopy 
+and mass spectrometry will be introduced."
+CHEM 3BL,1,"The synthesis and purification of organic compounds will be 
+explored. Natural product chemistry will be introduced. Adva
+nced spectroscopic methods including infrared, ultraviolet, 
+and nuclear magnetic resonance spectroscopy and mass spectro
+metry will be used to analyze products prepared and/or isola
+ted. Qualitative analysis of organic compounds will be cover
+ed."
+CHEM N3AL,1,"Introduction to the theory and practice of methods used in t
+he organic chemistry laboratory. An emphasis is placed on th
+e separation and purification of organic compounds. Techniqu
+es covered will include extraction, distillation, sublimatio
+n, recrystalization, and chromatography. Detailed discussion
+s and applications of infrared and nuclear magnetic resonanc
+e spectroscopy will be included."
+CHEM 4A,1,"Series is intended for majors in physical, biological scienc
+es, and engineering. It presents the foundation principles o
+f chemistry, including stoichiometry, ideal and real gases, 
+acid-base and solubility equilibria, oxidation-reduction rea
+ctions, thermochemistry, entropy, nuclear chemistry and radi
+oactivity, the atoms and elements, the periodic table, quant
+um theory, chemical bonding, molecular structure, chemical k
+inetics, and descriptive chemistry."
+CHEM 4B,1,"Series is intended for majors in physical, biological scienc
+es, and engineering. It presents the foundation principles o
+f chemistry, including stoichiometry, ideal and real gases, 
+acid-base and solubility equilibria, oxidation-reduction rea
+ctions, thermochemistry, entropy, nuclear chemistry and radi
+oactivity, the atoms and elements, the periodic table, quant
+um theory, chemical bonding, molecular structure, chemical k
+inetics, and descriptive"
+CHEM 12A,1,"A study of all aspects of fundamental organic chemistry, inc
+luding nomenclature, chemical and physical properties, react
+ions and syntheses of the major classes of organic compounds
+. The study includes theoretical aspects, reaction mechanism
+s, multistep syntheses, and the chemistry of polycyclic and 
+heterocyclic compounds. This course is more extensive and in
+tensive than 3A-3B and includes a greater emphasis on reacti
+on mechanisms and multistep"
+CHEM 12B,1,"A study of all aspects of fundamental organic chemistry, inc
+luding nomenclature, chemical and physical properties, react
+ions and syntheses of the major classes of organic compounds
+. The study includes theoretical aspects, reaction mechanism
+s, multistep syntheses, and the chemistry of polycyclic and 
+heterocyclic compounds. This course is more extensive and in
+tensive than 3A-3B and includes a greater emphasis on reacti
+on mechanisms and multistep"
+CHEM 15,1,"An introduction to analytical and bioanalytical chemistry in
+cluding background in statistical analysis of data, acid-bas
+e equilibria, electrochemical, spectrometric, and chromatogr
+aphic methods of analysis and some advanced topics in bioana
+lytical chemistry such as micro-fluidics, bioassay technique
+s, and enzymatic biosensors."
+CHEM 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs may vary from department to department and semester to se
+mester. Enrollment limited to 15 freshmen."
+CHEM 32,1,"Foundation and preparation for General Chemistry. Topics and
+ concepts include elements, atoms, molecules, chemical react
+ions, chemical calculations, properties of gases and gas law
+s; thermodynamics, acid/base chemical equilibrium, and perio
+dic trends. In addition, by practicing learning as a process
+, students will cultivate the habits, strategies, and mindse
+t necessary to succeed in the sciences. Through rigorous pra
+ctice and guided reflection, students will"
+CHEM 49,1,"Students with partial credit in lower division chemistry cou
+rses may, with consent of instructor, complete the credit un
+der this heading."
+CHEM 96,1,"Introduces sophomores and new transfer students to research 
+activities and programs of study in the College of Chemistry
+. Includes lectures by faculty, an introduction to college l
+ibrary and computer facilities, the opportunity to meet alum
+ni and advanced undergraduates in an informal atmosphere, an
+d discussion of college and campus resources."
+CHEM 98,1,Group study of selected topics.
+CHEM 98W,1,Topics vary with instructor. Enrollment restrictions apply.
+CHEM 100,1,"For undergraduate and graduate students interested in improv
+ing their ability to communicate their scientific knowledge 
+by teaching chemistry in elementary schools. The course will
+ combine instruction in inquiry-based chemistry teaching met
+hods and learning pedagogy with 10 weeks of supervised teach
+ing experience in a local school classroom. Thus, students w
+ill practice communicating scientific knowledge and receive 
+mentoring on how to improve"
+CHEM 103,1,"The basic principles of metal ions and coordination chemistr
+y applied to the study of biological systems."
+CHEM 104A,1,"The chemistry of metals and nonmetals including the applicat
+ion of physical chemical principles."
+CHEM 104B,1,"The chemistry of metals and nonmetals including the applicat
+ion of physical chemical principles."
+CHEM 105,1,"Principles, instrumentation and analytical applications of a
+tomic spectroscopies, mass spectrometry, separations, electr
+ochemistry and micro-characterization. Discussion of instrum
+ent design and capabilities as well as real-world problem so
+lving with an emphasis on bioanalytical, environmental, and 
+forensic applications. Hands-on laboratory work using modern
+ instrumentation, emphasizing independent projects involving
+ real-life samples and problem"
+CHEM 108,1,"The preparation of inorganic compounds using vacuum line, ai
+r-and moisture-exclusion, electrochemical, high-pressure, an
+d other synthetic techniques. Kinetic and mechanistic studie
+s of inorganic compounds."
+CHEM C110L,1,"Experimental techniques of biochemistry and molecular biolog
+y, designed to accompany the lectures in Molecular and Cell 
+Biology 100B and 110."
+CHEM 113,1,"Advanced topics in mechanistic and physical organic chemistr
+y typically including kinetics, reactive intermediates, subs
+titution reactions, linear free energy relationships, orbita
+l interactions and orbital symmetry control of reactions, is
+otope effects, and photochemistry."
+CHEM 114,1,"Advanced topics in synthetic organic chemistry with a focus 
+on selectivity. Topics include reductions, oxidations, enola
+te chemistry and the aldol reaction, reactions of non-stabli
+zed anions, olefination reactions, pericyclic reactions and 
+application to the synthesis of complex structures."
+CHEM 115,1,"Advanced synthetic methods, chemical and spectroscopic struc
+tural methods, designed as a preparation for experimental re
+search."
+CHEM 120A,1,"Kinetic, potential, and total energy of particles and forces
+ between them; principles of quantum theory, including one-e
+lectron and many-electron atoms and its applications to chem
+ical bonding, intermolecular interactions, and elementary sp
+ectroscopy."
+CHEM 120B,1,"Statistical mechanics, thermodynamics, equilibrium and appli
+cations to chemical systems: states of matter, solutions and
+ solvation, chemical kinetics, molecular dynamics, and molec
+ular transport."
+CHEM 121,1,"This course demonstrates how computers are used to solve mod
+ern problems in physical chemistry. It focuses first on meth
+ods of electronic structure theory that reveal details of mo
+lecular structure and energetics, and secondly on simulation
+ methods that explore fluctuations and dynamics of complex s
+ystems comprising many molecules. Students will use MATLAB t
+o implement these numerical approaches for illustrative prob
+lems. No prior programming experience is requ"
+CHEM 122,1,"Postulates and methods of quantum mechanics and group theory
+ applied to molecular structure and spectra."
+CHEM 125,1,"Experiments in thermodynamics, kinetics, molecular structure
+, and general physical chemistry."
+CHEM 130B,1,"The weekly one-hour discussion is for problem solving and th
+e application of calculus in physical chemistry. Molecular s
+tructure, intermolecular forces and interactions, biomolecul
+ar spectroscopy, high-resolution structure determinations."
+CHEM C130,1,"Thermodynamic and kinetic concepts applied to understanding 
+the chemistry and structure of biomolecules (proteins, DNA, 
+and RNA). Molecular distributions, reaction kinetics, enzyme
+ kinetics. Bioenergetics, energy transduction, and motor pro
+teins. Electrochemical potential, membranes, and ion channel
+s."
+CHEM 135,1,"One-semester introduction to biochemistry, aimed toward chem
+istry and chemical biology majors."
+CHEM C138,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHEM 143,1,"Radioactivity, fission, nuclear models and reactions, nuclea
+r processes in nature. Computer methods will be introduced."
+CHEM 146,1,"Experimental illustrations of the interrelation between chem
+ical and nuclear science and technology and nuclear forensic
+s; radioactive decay and counting techniques; nuclear spectr
+oscopy; fundamental radiochemical techniques; radiochemical 
+separations techniques; tracers; activation analysis; forens
+ic applications of radiochemistry; fusion, fission and nucle
+ar reactors."
+CHEM 149,1,"Students with partial credit in upper division chemistry cou
+rses may, with consent of instructor, complete the credit un
+der this heading."
+CHEM C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+CHEM C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHEM C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHEM C182,1,"Fluid dynamics, radiative transfer, and the kinetics, spectr
+oscopy, and measurement of atmospherically relevant species 
+are explored through laboratory experiments, numerical simul
+ations, and field observations."
+CHEM C191,1,"This multidisciplinary course provides an introduction to fu
+ndamental conceptual aspects of quantum mechanics from a com
+putational and informational theoretic perspective, as well 
+as physical implementations and technological applications o
+f quantum information science. Basic sections of quantum alg
+orithms, complexity, and cryptography, will be touched upon,
+ as well as pertinent physical realizations from nanoscale s
+cience and engineerin"
+CHEM 192,1,"All properly qualified students who wish to pursue a problem
+ of their own choice, through reading or nonlaboratory study
+, may do so if their proposed project is acceptable to the m
+ember of the staff with whom they wish to work."
+CHEM H193,1,"A senior honors thesis is written in consultation with the s
+tudent’s faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemistry o
+r Chemical Biology."
+CHEM H194,1,"Students may pursue original research under the direction of
+ one of the members of the staff."
+CHEM 195,1,"Special topics will be offered from time to time. Examples a
+re: photochemical air pollution, computers in chemistry."
+CHEM 196,1,Special laboratory work for advanced undergraduates.
+CHEM 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemistry. Written re
+port required at the end of the term. Course does not satisf
+y unit or residence requirements for the bachelor's degree."
+CHEM 198,1,Group study of selected topics.
+CHEM 199,1,Enrollment is restricted by regulations listed in the .
+CHEM 1A,1,"Stoichiometry of chemical reactions, quantum mechanical desc
+ription of atoms, the elements and periodic table, chemical 
+bonding, real and ideal gases, thermochemistry, introduction
+ to thermodynamics and equilibrium, acid-base and solubility
+ equilibria, introduction to oxidation-reduction reactions, 
+introduction to chemical kinetics."
+CHEM 1AD,1,"An interactive general chemistry course that uses modern dig
+ital technology, offered in a smaller classroom setting to f
+acilitate student participation and foster an engaging learn
+ing environment. Topics cover the Chemistry 1A curriculum, r
+anging from quantum mechanics and interactions of atoms and 
+molecules to properties and equilibria of bulk materials. Th
+e course involves a blend of classroom lectures and peer lea
+rning with substantial web-based assignments and"
+CHEM 1AL,1,"An experimental approach to chemical sciences with emphasis 
+on developing fundamental, reproducible laboratory technique
+ and a goal of understanding and achieving precision and acc
+uracy in laboratory experiments. Proper use of laboratory eq
+uipment and standard wet chemical methods are practiced. Are
+as of investigations include chemical equilibria, spectrosco
+py, nanotechnology, green chemistry, and thermochemistry. Co
+mpletion"
+CHEM 1B,1,"Introduction to chemical kinetics, electrochemistry, propert
+ies of the states of matter, binary mixtures, thermodynamic 
+efficiency and the direction of chemical change, quantum mec
+hanical description of bonding introduction to spectroscopy.
+ Special topics: Research topics in modern chemistry and bio
+chemistry, chemical engineering."
+CHEM W1A,1,"Stoichiometry of chemical reactions, quantum mechanical desc
+ription of atoms, the elements and periodic table, chemical 
+bonding, real and ideal gases, thermochemistry, introduction
+ to thermodynamics and equilibrium, acid-base and solubility
+ equilibria, introduction to oxidation-reduction reactions, 
+introduction to chemical kinetics. This course is web-based."
+CHEM 3A,1,"Introduction to organic chemical structures, bonding, and ch
+emical reactivity. The organic chemistry of alkanes, alkyl h
+alides, alcohols, alkenes, alkynes, and organometallics."
+CHEM 3AL,1,"Introduction to the theory and practice of methods used in t
+he organic chemistry laboratory. An emphasis is placed on th
+e separation and purification of organic compounds. Techniqu
+es covered will include extraction, distillation, sublimatio
+n, recrystalization, and chromatography. Detailed discussion
+s and applications of infrared and nuclear magnetic resonanc
+e spectroscopy will be included."
+CHEM 3B,1,"Conjugation, aromatic chemistry, carbonyl compounds, carbohy
+drates, amines, carboxylic acids, amino acids, peptides, pro
+teins, and nucleic acid chemistry. Ultraviolet spectroscopy 
+and mass spectrometry will be introduced."
+CHEM 3BL,1,"The synthesis and purification of organic compounds will be 
+explored. Natural product chemistry will be introduced. Adva
+nced spectroscopic methods including infrared, ultraviolet, 
+and nuclear magnetic resonance spectroscopy and mass spectro
+metry will be used to analyze products prepared and/or isola
+ted. Qualitative analysis of organic compounds will be cover
+ed."
+CHEM N3AL,1,"Introduction to the theory and practice of methods used in t
+he organic chemistry laboratory. An emphasis is placed on th
+e separation and purification of organic compounds. Techniqu
+es covered will include extraction, distillation, sublimatio
+n, recrystalization, and chromatography. Detailed discussion
+s and applications of infrared and nuclear magnetic resonanc
+e spectroscopy will be included."
+CHEM 4A,1,"Series is intended for majors in physical, biological scienc
+es, and engineering. It presents the foundation principles o
+f chemistry, including stoichiometry, ideal and real gases, 
+acid-base and solubility equilibria, oxidation-reduction rea
+ctions, thermochemistry, entropy, nuclear chemistry and radi
+oactivity, the atoms and elements, the periodic table, quant
+um theory, chemical bonding, molecular structure, chemical k
+inetics, and descriptive chemistry."
+CHEM 4B,1,"Series is intended for majors in physical, biological scienc
+es, and engineering. It presents the foundation principles o
+f chemistry, including stoichiometry, ideal and real gases, 
+acid-base and solubility equilibria, oxidation-reduction rea
+ctions, thermochemistry, entropy, nuclear chemistry and radi
+oactivity, the atoms and elements, the periodic table, quant
+um theory, chemical bonding, molecular structure, chemical k
+inetics, and descriptive"
+CHEM 12A,1,"A study of all aspects of fundamental organic chemistry, inc
+luding nomenclature, chemical and physical properties, react
+ions and syntheses of the major classes of organic compounds
+. The study includes theoretical aspects, reaction mechanism
+s, multistep syntheses, and the chemistry of polycyclic and 
+heterocyclic compounds. This course is more extensive and in
+tensive than 3A-3B and includes a greater emphasis on reacti
+on mechanisms and multistep"
+CHEM 12B,1,"A study of all aspects of fundamental organic chemistry, inc
+luding nomenclature, chemical and physical properties, react
+ions and syntheses of the major classes of organic compounds
+. The study includes theoretical aspects, reaction mechanism
+s, multistep syntheses, and the chemistry of polycyclic and 
+heterocyclic compounds. This course is more extensive and in
+tensive than 3A-3B and includes a greater emphasis on reacti
+on mechanisms and multistep"
+CHEM 15,1,"An introduction to analytical and bioanalytical chemistry in
+cluding background in statistical analysis of data, acid-bas
+e equilibria, electrochemical, spectrometric, and chromatogr
+aphic methods of analysis and some advanced topics in bioana
+lytical chemistry such as micro-fluidics, bioassay technique
+s, and enzymatic biosensors."
+CHEM 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs may vary from department to department and semester to se
+mester. Enrollment limited to 15 freshmen."
+CHEM 32,1,"Foundation and preparation for General Chemistry. Topics and
+ concepts include elements, atoms, molecules, chemical react
+ions, chemical calculations, properties of gases and gas law
+s; thermodynamics, acid/base chemical equilibrium, and perio
+dic trends. In addition, by practicing learning as a process
+, students will cultivate the habits, strategies, and mindse
+t necessary to succeed in the sciences. Through rigorous pra
+ctice and guided reflection, students will"
+CHEM 49,1,"Students with partial credit in lower division chemistry cou
+rses may, with consent of instructor, complete the credit un
+der this heading."
+CHEM 96,1,"Introduces sophomores and new transfer students to research 
+activities and programs of study in the College of Chemistry
+. Includes lectures by faculty, an introduction to college l
+ibrary and computer facilities, the opportunity to meet alum
+ni and advanced undergraduates in an informal atmosphere, an
+d discussion of college and campus resources."
+CHEM 98,1,Group study of selected topics.
+CHEM 98W,1,Topics vary with instructor. Enrollment restrictions apply.
+CHEM 100,1,"For undergraduate and graduate students interested in improv
+ing their ability to communicate their scientific knowledge 
+by teaching chemistry in elementary schools. The course will
+ combine instruction in inquiry-based chemistry teaching met
+hods and learning pedagogy with 10 weeks of supervised teach
+ing experience in a local school classroom. Thus, students w
+ill practice communicating scientific knowledge and receive 
+mentoring on how to improve"
+CHEM 103,1,"The basic principles of metal ions and coordination chemistr
+y applied to the study of biological systems."
+CHEM 104A,1,"The chemistry of metals and nonmetals including the applicat
+ion of physical chemical principles."
+CHEM 104B,1,"The chemistry of metals and nonmetals including the applicat
+ion of physical chemical principles."
+CHEM 105,1,"Principles, instrumentation and analytical applications of a
+tomic spectroscopies, mass spectrometry, separations, electr
+ochemistry and micro-characterization. Discussion of instrum
+ent design and capabilities as well as real-world problem so
+lving with an emphasis on bioanalytical, environmental, and 
+forensic applications. Hands-on laboratory work using modern
+ instrumentation, emphasizing independent projects involving
+ real-life samples and problem"
+CHEM 108,1,"The preparation of inorganic compounds using vacuum line, ai
+r-and moisture-exclusion, electrochemical, high-pressure, an
+d other synthetic techniques. Kinetic and mechanistic studie
+s of inorganic compounds."
+CHEM C110L,1,"Experimental techniques of biochemistry and molecular biolog
+y, designed to accompany the lectures in Molecular and Cell 
+Biology 100B and 110."
+CHEM 113,1,"Advanced topics in mechanistic and physical organic chemistr
+y typically including kinetics, reactive intermediates, subs
+titution reactions, linear free energy relationships, orbita
+l interactions and orbital symmetry control of reactions, is
+otope effects, and photochemistry."
+CHEM 114,1,"Advanced topics in synthetic organic chemistry with a focus 
+on selectivity. Topics include reductions, oxidations, enola
+te chemistry and the aldol reaction, reactions of non-stabli
+zed anions, olefination reactions, pericyclic reactions and 
+application to the synthesis of complex structures."
+CHEM 115,1,"Advanced synthetic methods, chemical and spectroscopic struc
+tural methods, designed as a preparation for experimental re
+search."
+CHEM 120A,1,"Kinetic, potential, and total energy of particles and forces
+ between them; principles of quantum theory, including one-e
+lectron and many-electron atoms and its applications to chem
+ical bonding, intermolecular interactions, and elementary sp
+ectroscopy."
+CHEM 120B,1,"Statistical mechanics, thermodynamics, equilibrium and appli
+cations to chemical systems: states of matter, solutions and
+ solvation, chemical kinetics, molecular dynamics, and molec
+ular transport."
+CHEM 121,1,"This course demonstrates how computers are used to solve mod
+ern problems in physical chemistry. It focuses first on meth
+ods of electronic structure theory that reveal details of mo
+lecular structure and energetics, and secondly on simulation
+ methods that explore fluctuations and dynamics of complex s
+ystems comprising many molecules. Students will use MATLAB t
+o implement these numerical approaches for illustrative prob
+lems. No prior programming experience is requ"
+CHEM 122,1,"Postulates and methods of quantum mechanics and group theory
+ applied to molecular structure and spectra."
+CHEM 125,1,"Experiments in thermodynamics, kinetics, molecular structure
+, and general physical chemistry."
+CHEM 130B,1,"The weekly one-hour discussion is for problem solving and th
+e application of calculus in physical chemistry. Molecular s
+tructure, intermolecular forces and interactions, biomolecul
+ar spectroscopy, high-resolution structure determinations."
+CHEM C130,1,"Thermodynamic and kinetic concepts applied to understanding 
+the chemistry and structure of biomolecules (proteins, DNA, 
+and RNA). Molecular distributions, reaction kinetics, enzyme
+ kinetics. Bioenergetics, energy transduction, and motor pro
+teins. Electrochemical potential, membranes, and ion channel
+s."
+CHEM 135,1,"One-semester introduction to biochemistry, aimed toward chem
+istry and chemical biology majors."
+CHEM C138,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHEM 143,1,"Radioactivity, fission, nuclear models and reactions, nuclea
+r processes in nature. Computer methods will be introduced."
+CHEM 146,1,"Experimental illustrations of the interrelation between chem
+ical and nuclear science and technology and nuclear forensic
+s; radioactive decay and counting techniques; nuclear spectr
+oscopy; fundamental radiochemical techniques; radiochemical 
+separations techniques; tracers; activation analysis; forens
+ic applications of radiochemistry; fusion, fission and nucle
+ar reactors."
+CHEM 149,1,"Students with partial credit in upper division chemistry cou
+rses may, with consent of instructor, complete the credit un
+der this heading."
+CHEM C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+CHEM C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHEM C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHEM C182,1,"Fluid dynamics, radiative transfer, and the kinetics, spectr
+oscopy, and measurement of atmospherically relevant species 
+are explored through laboratory experiments, numerical simul
+ations, and field observations."
+CHEM C191,1,"This multidisciplinary course provides an introduction to fu
+ndamental conceptual aspects of quantum mechanics from a com
+putational and informational theoretic perspective, as well 
+as physical implementations and technological applications o
+f quantum information science. Basic sections of quantum alg
+orithms, complexity, and cryptography, will be touched upon,
+ as well as pertinent physical realizations from nanoscale s
+cience and engineerin"
+CHEM 192,1,"All properly qualified students who wish to pursue a problem
+ of their own choice, through reading or nonlaboratory study
+, may do so if their proposed project is acceptable to the m
+ember of the staff with whom they wish to work."
+CHEM H193,1,"A senior honors thesis is written in consultation with the s
+tudent’s faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemistry o
+r Chemical Biology."
+CHEM H194,1,"Students may pursue original research under the direction of
+ one of the members of the staff."
+CHEM 195,1,"Special topics will be offered from time to time. Examples a
+re: photochemical air pollution, computers in chemistry."
+CHEM 196,1,Special laboratory work for advanced undergraduates.
+CHEM 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemistry. Written re
+port required at the end of the term. Course does not satisf
+y unit or residence requirements for the bachelor's degree."
 CHEM 198,1,Group study of selected topics.
 CHEM 199,1,Enrollment is restricted by regulations listed in the .

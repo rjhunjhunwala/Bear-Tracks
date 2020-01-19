@@ -1,96 +1,2761 @@
 name,size,about
-MEC ENG 24,1,"The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley Seminars are offered in all campus departments, and topics vary from department to department and semester to semester."
-MEC ENG 40,1,"This course introduces the scientific principles that deal with energy conversion among different forms, such as heat, work, internal, electrical, and chemical energy. The physical science of heat and temperature, and their relations to energy and work, are analyzed on the basis of the four fundamental thermodynamic laws (zeroth, first, second, and third). These principles are applied to various practical systems, including"
-MEC ENG C85,1,"A review of equilibrium for particles and rigid bodies. Application to truss structures. The concepts of deformation, strain, and stress. Equilibrium equations for a continuum. Elements of the theory of linear elasticity. The states of plane stress and plane strain. Solution of elementary elasticity problems (beam bending, torsion of circular bars). Euler buckling in elastic beams."
-MEC ENG W85,1,"A review of equilibrium for particles and rigid bodies. Application to truss structures. The concepts of deformation, strain, and stress. Equilibrium equations for a continuum. Elements of the theory of linear elasticity. The states of plane stress and plane strain. Solution of elementary elasticity problems (beam bending, torsion of circular bars). Euler buckling in elastic beams."
-MEC ENG 98,1,Organized group study on various topics under the sponsorship and direction of a member of the Mechanical Engineering faculty.
-MEC ENG 100,1,"Electronics and Electrical Engineering has become pervasive in our lives as a powerful technology with applications in a wide range of fields including healthcare, environmental monitoring, robotics, or entertainment. This course offers a broad survey of Electrical Engineering ideas to non-majors. In the laboratory students will learn in-depth how to design and build systems that exchange information with or are controlled from the cloud. Examples include"
-MEC ENG 101,1,"Fundamentals of lean manufacturing systems including manufacturing fundamentals, unit operations and manufacturing line considerations for work in process (WIP), manufacturing lead time (MLT), economics, quality monitoring; high mix/low volume (HMLV) systems fundamentals including just in time (JIT), kanban, buffers and line balancing; class project/case studies for design and analysis of competitive manufacturing systems."
-MEC ENG 102B,1,"Introduction to design and realization of mechatronics systems. Micro computer architectures. Basic computer IO devices. Embedded microprocessor systems and control, IO programming such as analogue to digital converters, PWM, serial and parallel outputs. Electrical components such as power supplies, operational amplifiers, transformers and filters. Shielding and grounding. Design of electric, hydraulic and pneumatic actuators. Design of sensors."
-MEC ENG 103,1,"This course introduces students to modern experimental techniques for mechanical engineering, and improves students’ teamwork and communication skills. Students will work in a laboratory setting on systems ranging in complexity from desktop experiments with only a few instruments up to systems such as an internal combustion engine with a wide variety of sensors. State-of-the-art software for data acquisition and analysis will be introduced"
-MEC ENG 104,1,"This course is an introduction to the dynamics of particles and rigid bodies. The material, based on a Newtonian formulation of the governing equations, is illustrated with numerous examples ranging from one-dimensional motion of a single particle to planar motions of rigid bodies and systems of rigid bodies."
-MEC ENG 106,1,This course introduces the fundamentals and techniques of fluid mechanics with the aim of describing and controlling engineering flows.
-MEC ENG 108,1,"This course covers elastic and plastic deformation under static and dynamic loads. Failure by yielding, fracture, fatigue, wear, and environmental factors are also examined. Topics include engineering materials, heat treatment, structure-property relationships, elastic deformation and multiaxial loading, plastic deformation and yield criteria, dislocation plasticity and strengthening mechanisms, creep, stress concentration effects, fracture"
-MEC ENG 109,1,"This course covers transport processes of mass, momentum, and energy from a macroscopic view with emphasis both on understanding why matter behaves as it does and on developing practical problem solving skills. The course is divided into four parts: introduction, conduction, convection, and radiation."
-MEC ENG 110,1,"The course provides project-based learning experience in innovative new product development, with a focus on mechanical engineering systems. Design concepts and techniques are introduced, and the student's design ability is developed in a design or feasibility study chosen to emphasize ingenuity and provide wide coverage of engineering topics. Relevant software will be integrated into studio sessions, including"
-MEC ENG C115,1,"This course applies methods of statistical continuum mechanics to subcellar biomechanical phenomena ranging from nanoscale (molecular) to microscale (whole cell and cell population) biological processes at the interface of mechanics, biology, and chemistry."
-MEC ENG C117,1,This course covers the structure and mechanical functions of load bearing tissues and their replacements. Natural and synthetic load-bearing biomaterials for clinical applications are reviewed. Biocompatibility of biomaterials and host response to structural implants are examined. Quantitative treatment of biomechanical issues and constitutive relationships of tissues are covered in order to design biomaterial replacements for structural
-MEC ENG 118,1,"This course introduces engineering students (juniors and seniors) to the field of nanotechnology and nanoscience. The course has two components: (1) Formal lectures. Students receive a set of formal lectures introducing them to the field of nanotechnology and nanoscience. The material covered includes nanofabrication technology (how one achieves the nanometer length scale, from ""bottom up"" to ""top down"" technologies),"
-MEC ENG 119,1,"Fundamentals of microelectromechanical systems including design, fabrication of microstructures; surface-micromachining, bulk-micromachining, LIGA, and other micro machining processes; fabrication principles of integrated circuit device and their applications for making MEMS devices; high-aspect-ratio microstructures; scaling issues in the micro scale (heat transfer, fluid mechanics and solid mechanics); device design, analysis, and mask layou"
-MEC ENG 120,1,This course applies the methods of computational modeling and continuum mechanics to biomedical phenomena spanning various length scales ranging from molecular to cellular to tissue and organ levels. The course is intended for upper level undergraduate students who have been exposed to undergraduate continuum mechanics (statics and strength of materials.)
-MEC ENG 122,1,"Fundamentals of manufacturing processes (metal forming, forging, metal cutting, welding, joining, and casting); selection of metals, plastics, and other materials relative to the design and choice of manufacturing processes; geometric dimensioning and tolerancing of all processes."
-MEC ENG 125,1,"iACME provide opportunities for Mechanical Engineering undergraduates to tackle real-world engineering problems. Student teams, consisting of no more than four students, will apply to work on specific industry- initiated projects. Teams will be selected based on prior experience in research/internships, scholastic achievements in ME courses, and most importantly, proposed initial approaches toward tackling the specific project. ME faculty, alumni of the Mechanical"
-MEC ENG 130,1,"Synthesis, analysis, and design of planar machines. Kinematic structure, graphical, analytical, and numerical analysis and synthesis. Linkages, cams, reciprocating engines, gear trains, and flywheels."
-MEC ENG 131,1,"Physical understanding of automotive vehicle dynamics including simple lateral, longitudinal and ride quality models. An overview of active safety systems will be introduced including the basic concepts and terminology, the state-of-the-art development, and basic principles of systems such as ABS, traction control, dynamic stability control, and roll stability control. Passive, semi-active and active suspension systems will be analyzed. Concepts"
-MEC ENG 132,1,"Physical understanding of dynamics and feedback. Linear feedback control of dynamic systems. Mathematical tools for analysis and design. Stability. Modeling systems with differential equations. Linearization. Solution to linear, time-invariant differential equations."
-MEC ENG 133,1,"An introduction to the theory of mechanical vibrations including topics of harmonic motion, resonance, transient and random excitation, applications of Fourier analysis and convolution methods. Multidegree of freedom discrete systems including principal mode, principal coordinates and Rayleigh's principle."
-MEC ENG C134,1,"Analysis and synthesis of linear feedback control systems in transform and time domains. Control system design by root locus, frequency response, and state space methods. Applications to electro-mechanical and mechatronics systems."
-MEC ENG 135,1,"This course provides preparation for the conceptual design and prototyping of mechanical systems that use microprocessors to control machine activities, acquire and analyze data, and interact with operators. The architecture of microprocessors is related to problems in mechanical systems through study of systems, including electro-mechanical components, thermal components and a variety of instruments. Laboratory exercises lead through studies"
-MEC ENG 136,1,"This course introduces students to the control of unmanned aerial vehicles (UAVs). The course will cover modeling and dynamics of aerial vehicles, and common control strategies. Laboratory exercises allow students to apply knowledge on a real system, by programming a microcontroller to control a UAV."
-MEC ENG 138,1,"This hands-on laboratory course focuses on the mechanical engineering principles that underlie the design, fabricaton, and operation of micro/nanoscale mechanical systems, including devices made by nanowire/nanotube syntheses; photolithography/soft lithography; and molding processes. Each laboratory will have different focuses for basic understanding of MEMS/NEMS systems from prototype constructions to experimental testings using mechanical"
-MEC ENG 140,1,"Fundamentals of combustion, flame structure, flame speed, flammability, ignition, stirred reaction, kinetics and nonequilibrium processes, pollutant formation. Application to engines, energy production and fire safety."
-MEC ENG 146,1,"This course covers the fundamental principles of energy conversion processes, followed by development of theoretical and computational tools that can be used to analyze energy conversion processes. The course also introduces the use of modern computational methods to model energy conversion performance characteristics of devices and systems. Performance features, sources of inefficiencies, and optimal design strategies are explored for a variety"
-MEC ENG 150A,1,"This course addresses all aspects of design, analysis, construction and economics of solar-powered vehicles. It begins with an examination of the fundamentals of photovoltaic solar power generation, and the capabilities and limitations that exist when using this form of renewable energy. The efficiency of energy conversion and storage will be evaluated across an entire system, from the solar energy that is"
-MEC ENG 151,1,"Basic principles of heat transfer and their application. Subject areas include steady-state and transient system analyses for conduction, free and forced convection, boiling, condensation and thermal radiation."
-MEC ENG 151A,1,"Fundamentals of conductive heat transfer. Analytical and numerical methods for heat conduction in rigid media. Fundamentals of radiative transfer. Radiative properties of solids, liquids and gas media. Radiative transport modeling in enclosures and participating media."
-MEC ENG 151B,1,The transport of heat and mass in fluids in motion; free and forced convection in laminar and turbulent flow over surfaces and within ducts. Fundamentals of computational methods used for solving the governing transport equations will also be covered.
-MEC ENG 153,1,"Fundamentals of electromagnetic theory, principles of optics, waves, diffraction theory, interference, geometrical optics, scattering, theory of molecular spectra, optical and spectroscopic instrumentation. Lasers and laser materials processing, laser spectroscopy. Modern optics, plasmonics."
-MEC ENG 154,1,Development of classical thermodynamics from statistical treatment of microscale molecular behavior; Boltzmann distribution; partition functions; statistical-mechanical evaluation of thermodynamic properties; equilibrium; chemical equilibrium; phase transitions; molecular collisions; Maxwell-Boltzmann distribution; collision theory; elementary kinetic theory; molecular dynamics simulation of molecular collisions; kinetic Monte Carlo simulations of gas-phase
-MEC ENG 160,1,"Lectures on new developments in ocean, offshore, and arctic engineering."
-MEC ENG 163,1,"Introduction to the lift, drag, and moment of two-dimensional airfoils, three-dimensional wings, and the complete airplane. Calculations of the performance and stability of airplanes in subsonic flight."
-MEC ENG 164,1,"Terminology and definition of hull forms, conditions of static equilibrium and stability of floating submerged bodies. Effects of damage on stability. Structural loads and response. Box girder theory. Isotropic and orthotropic plate bending and bucking."
-MEC ENG 165,1,"Ocean environment. Physical properties and characteristics of the oceans. Global conservation laws. Surface-waves generation. Gravity-wave mechanics, kinematics, and dynamics. Design consideration of ocean vehicles and systems. Model-testing techniques. Prediction of resistance and response in waves--physical modeling and computer models."
-MEC ENG 167,1,"Phenomena of physical, technological, and biological significance in flows of gases and liquids at the microscale. The course begins with familiar equations of Newtonian fluid mechanics, then proceeds to the study of essentially 1-D flows in confined geometries with the lubrication equations. Next is a study of the flow of thin films spreading under gravity or surface tension gradients. Lubrication theory of compressible gases leads to consideration"
-MEC ENG 168,1,"This course covers major aspects of offshore engineering including ocean environment, loads on offshore structures, cables and mooring, underwater acoustics and arctic operations."
-MEC ENG 170,1,"This course builds upon material learned in 104, examining the dynamics of particles and rigid bodies moving in three dimensions. Topics include non-fixed axis rotations of rigid bodies, Euler angles and parameters, kinematics of rigid bodies, and the Newton-Euler equations of motion for rigid bodies. The course material will be illustrated with real-world examples such as gyroscopes, spinning tops, vehicles, and satellites. Applications"
-MEC ENG 173,1,Plane and spherical sound waves. Sound intensity. Propagation in tubes and horns. Resonators. Standing waves. Radiation from oscillating surface. Reciprocity. Reverberation and diffusion. Electro-acoustic loud speaker and microphone problems. Environmental and architectural acoustics. Noise measurement and control. Effects on man.
-MEC ENG 174,1,"Oscillations in nonlinear systems having one or two degrees of freedom. Graphical, iteration, perturbation, and asymptotic methods. Self-excited oscillations and limit cycles. Random variables and random processes. Analysis of linear and nonlinear, discrete and continuous, mechanical systems under stationary and non-stationary excitations."
-MEC ENG 175,1,This course introduces and investigates Lagrange's equations of motion for particles and rigid bodies. The subject matter is particularly relevant to applications comprised of interconnected and constrained discrete mechanical components. The material is illustrated with numerous examples. These range from one-dimensional motion of a single particle to three-dimensional motions of rigid bodies and systems of rigid bodies.
-MEC ENG C176,1,"Statics, dynamics, optimization theory, composite beam theory, beam-on-elastic foundation theory, Hertz contact theory, and materials behavior. Forces and moments acting on human joints; composition and mechanical behavior of orthopedic biomaterials; design/analysis of artificial joint, spine, and fracture fixation prostheses; musculoskeletal tissues including bone, cartilage, tendon, ligament, and muscle; osteoporosis and fracture-risk predication"
-MEC ENG C178,1,"The course provides project-based learning experience in understanding product design, with a focus on the human body as a mechanical machine. Students will learn the design of external devices used to aid or protect the body. Topics will include forces acting on internal materials (e.g., muscles and total replacement devices), forces acting on external materials (e.g., prothetics and crash pads), design/analysis of devices aimed to improve or"
-MEC ENG 179,1,"This course provides hands-on experience in designing prostheses and assistive technologies using user-centered design. Students will develop a fundamental understanding of the state-of-the-art, design processes and product realization. Teams will prototype a novel solution to a disabilities-related challenge, focusing on upper-limb mobility or dexterity. Lessons will cover biomechanics of human manipulation, tactile sensing and haptics, actuation and mechanism robustness"
-MEC ENG C180,1,"This is an introductory course on the finite element method and is intended for seniors in engineering and applied science disciplines. The course covers the basic topics of finite element technology, including domain discretization, polynomial interpolation, application of boundary conditions, assembly of global arrays, and solution of the resulting algebraic systems. Finite element formulations for several important field equations are introduced"
-MEC ENG 185,1,"This course is a general introduction to the fundamental concepts of the mechanics of continuous media. Topics covered include the kinematics of deformation, the concept of stress, and the conservation laws for mass, momentum and energy. This is followed by an introduction to constitutive theory with applications to well-established models for viscous fluids and elastic solids. The concepts are illustrated through the solution of tractable initial-boundary-value"
-MEC ENG 190L,1,"After a review of basic loopshaping, we introduce the loopshaping design methodology of McFarlane and Glover, and learn how to use it effectively. The remainder of the course studies the mathematics underlying the new method (one of the most prevalent advanced techniques used in industry) justifying its validity."
-MEC ENG 190M,1,Basics on optimization and polyhedra manipulation. Analysis and design of constrained predictive controllers for linear and nonlinear systems.
-MEC ENG 190Y,1,"The Youla-parametrization of all stabilizing controllers allows certain time-domain and frequency-domain closed-loop design objectives to be cast as convex optimizations, and solved reliably using off-the-shelf numerical optimization codes. This course covers the Youla parametrization, basic elements of convex optimization, and finally control design using these techniques."
-MEC ENG 191K,1,"This course is designed to enhance students' written and oral communication skills. Written work consists of informal documents--correspondence, internal reports, and reviews--and formal work--proposals, conference papers, journal articles, and websites. Presentations consist of informal and formal reports, including job and media interviews, phone interviews, conference calls, video conferences"
-MEC ENG 193A,1,This 193 series covers current topics of research interest in biomechanical engineering. The course content may vary semester to semester. Check with the department for current term topics.
-MEC ENG 193B,1,This 193 series covers current topics of research interest in controls. The course content may vary semester to semester. Check with the department for current term topics.
-MEC ENG 193C,1,This 193 series covers current topics of research interest in design. The course content may vary semester to semester. Check with the department for current term topics.
-MEC ENG 193D,1,This 193 series covers current topics of research interest in dynamics. The course content may vary semester to semester. Check with the department for current term topics.
-MEC ENG 193E,1,This 193 series covers current topics of research interest in energy science and technology. The course content may vary semester to semester. Check with the department for current term topics.
-MEC ENG 193F,1,This 193 series covers current topics of research interest in fluids. The course content may vary semester to semester. Check with the department for current term topics.
-MEC ENG 193G,1,This 193 series covers current topics of research interest in manufacturing. The course content may vary semester to semester. Check with the department for current term topics.
-MEC ENG 193H,1,This 193 series covers current topics of research interest in materials. The course content may vary semester to semester. Check with the department for current term topics.
-MEC ENG 193I,1,This 193 series covers current topics of research interest in mechanics. The course content may vary semester to semester. Check with the department for current term topics.
-MEC ENG 193J,1,This 193 series covers current topics of research interest in MEMS/nano. The course content may vary semester to semester. Check with the department for current term topics.
-MEC ENG 193K,1,This 193 series covers current topics of research interest in ocean engineering. The course content may vary semester to semester. Check with the department for current term topics.
-MEC ENG H194,1,"Final report required. Students who have completed a satisfactory number of advanced courses may pursue original research under the direction of one of the members of the faculty. A maximum of three units of H194 may be used to fulfill technical elective requirements in the Mechanical Engineering program (unlike 198 or 199, which do not satisfy technical elective requirements). Students can use a maximum of three units of graded"
-MEC ENG 196,1,"Students who have completed a satisfactory number of advanced courses may pursue original research under the direction of one of the members of the staff. A maximum of three units of 196 may be used to fulfill technical elective requirements in the Mechanical Engineering program (unlike 198 or 199, which do not satisfy technical elective requirements). Students can use a maximum of three units of graded research units (H194 or 196) towards"
-MEC ENG 197,1,"Supervised experience relative to specific aspects of practice in engineering. Under guidance of a faculty member, the student will work in industry, primarily in an internship setting or another type of short-time status. Emphasis is to attain practical experience in the field."
-MEC ENG 198,1,Group study of a selected topic or topics in Mechanical Engineering. Credit for 198 or 199 courses combined may not exceed 4 units in any single term. See College for other restrictions.
-MEC ENG 199,1,Supervised independent study. Enrollment restrictions apply; see the introduction to Courses and Curricula section of this catalog.
-NUC ENG 24,1,"The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley Seminars are offered in all campus departments, and topics vary from department to department and semester to semester."
-NUC ENG 100,1,"The class provides students with an overview of the contemporary nuclear energy technology with emphasis on nuclear fission as an energy source. Starting with the basic physics of the nuclear fission process, the class includes discussions on reactor control, thermal hydraulics, fuel production, and spent fuel management for various types of reactors in use around the world as well as analysis of safety and other nuclear-related issues. This"
-NUC ENG 101,1,"Energetics and kinetics of nuclear reactions and radioactive decay, fission, fusion, and reactions of low-energy neutrons; properties of the fission products and the actinides; nuclear models and transition probabilities; interaction of radiation with matter."
-NUC ENG 102,1,"Laboratory course in nuclear physics. Experiments will allow students to directly observe phenomena discussed in Nuclear Engineering 101. These experiments will give students exposure to (1) electronics, (2) alpha, beta, gamma radiation detectors, (3) radioactive sources, and (4) experimental methods relevant for all aspects of nuclear science. Experiments include: Rutherford scattering, x-ray fluorescence, muon lifetime, gamma-gamma angular"
-NUC ENG 104,1,"Basic science of radiation measurement, nuclear instrumentation, neutronics, radiation dosimetry. The lectures emphasize the principles of radiation detection. The weekly laboratory applies a variety of radiation detection systems to the practical measurements of interest for nuclear power, nuclear and non-nuclear science, and environmental applications. Students present goals and approaches of the experiements being performed."
-NUC ENG 107,1,"Introduction to medical imaging physics and systems, including x-ray computed tomography (CT), nuclear magnetic resonance (NMR), positron emission tomography (PET), and SPECT; basic principles of tomography and an introduction to unfolding methods; resolution effects of counting statistics, inherent system resolution and human factors."
-NUC ENG 120,1,Effects of irradiation on the atomic and mechanical properties of materials in nuclear reactors. Fission product swelling and release; neutron damage to structural alloys; fabrication and properties of uranium dioxide fuel.
-NUC ENG 124,1,"Components and material flowsheets for nuclear fuel cycle, waste characteristics, sources of radioactive wastes, compositions, radioactivity and heat generation; waste treatment technologies; waste disposal technologies; safety assessment of waste disposal."
-NUC ENG 130,1,"Use of nuclear measurement techniques to detect clandestine movement and/or possession of nuclear materials by third parties. Nuclear detection, forensics, signatures, and active and passive interrogation methodologies will be explored. Techniques currently deployed for arms control and treaty verification will be discussed. Emphasis will be placed on common elements of detection technology from the viewpoint of resolution of threat signatures"
-NUC ENG 150,1,"Neutron interactions, nuclear fission, and chain reacting systematics in thermal and fast nuclear reactors. Diffusion and slowing down of neutrons. Criticality calculations. Nuclear reactor dynamics and reactivity feedback. Production of radionuclides in nuclear reactors."
-NUC ENG 155,1,"Computational methods used to analyze radiation transport described by various differential, integral, and integro-differential equations. Numerical methods include finite difference, finite elements, discrete ordinates, and Monte Carlo. Examples from neutron and photon transport; numerical solutions of neutron/photon diffusion and transport equations. Monte Carlo simulations of photon and neutron transport. An overview of optimization techniques"
-NUC ENG 156,1,"This course provides an introduction to the field of nuclear criticality safety. Topics include: a review of basic concepts related to criticality (fission, cross sections, multiplication factor, etc.); criticality safety accidents; standards applicable to criticality safety; hand calculations and Monte Carlo methods used in criticality safety analysis; criticality safety evaluation documents."
-NUC ENG 161,1,Energy conversion in nuclear power systems; design of fission reactors; thermal and structural analysis of reactor core and plant components; thermal-hydraulic analysis of accidents in nuclear power plants; safety evaluation and engineered safety systems.
-NUC ENG 162,1,"Interaction of radiation with matter; physical, chemical, and biological effects of radiation on human tissues; dosimetry units and measurements; internal and external radiation fields and dosimetry; radiation exposure regulations; sources of radiation and radioactivity; basic shielding concepts; elements of radiation protection and control; theories and models for cell survival, radiation sensitivity, carcinogenesis, and dose calculatio"
-NUC ENG 167,1,"Project-based class for design and licensing of nuclear facilities, including advanced reactors. Elements of a project proposal. Regulatory framework and use of deterministic and probabilistic licensing criteria. Siting criteria. External and internal events. Identification and analysis of design basis and beyond design basis events. Communication with regulators and stakeholders. Ability to work in and contribute to a design team."
-NUC ENG 170A,1,"Design of various fission and fusion power systems and other physically based applications. Each semester a topic will be chosen by the class as a whole. In addition to technology, the design should address issues relating to economics, the environment, and risk assessment."
-NUC ENG 170B,1,"A systems approach to the development of procedures for nuclear medicine and radiation therapy. Each semester a specific procedure will be studied and will entail the development of the biological and physiological basis for a procedure, the chemical and biochemical characteristics of appropriate drugs, dosimetric requirements and limitations, the production and distribution of radionuclides and/or radiation fields to be applied, and the"
-NUC ENG 175,1,"Methodological approaches for the quantification of technological risk and risk based decision making. Probabilistic safety assessment, human health risks, environmental and ecological risk analysis."
-NUC ENG 180,1,"Introduction to energy production by controlled thermonuclear reactions. Nuclear fusion reactions, energy balances for fusion systems, survey of plasma physics; neutral beam injection; RF heating methods; vacuum systems; tritium handling."
-NUC ENG H194,1,Supervised research. Students who have completed three or more upper division courses may pursue original research under the direction of one of the members of the staff. A final report or presentation is required. A maximum of three units of H194 may be used to fulfill a technical elective requirement in the Nuclear Engineering general program or joint major programs.
+MEC ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+MEC ENG 40,1,"This course introduces the scientific principles that deal w
+ith energy conversion among different forms, such as heat, w
+ork, internal, electrical, and chemical energy. The physical
+ science of heat and temperature, and their relations to ene
+rgy and work, are analyzed on the basis of the four fundamen
+tal thermodynamic laws (zeroth, first, second, and third). T
+hese principles are applied to various practical systems, in
+cluding"
+MEC ENG C85,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+MEC ENG W85,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+MEC ENG 98,1,"Organized group study on various topics under the sponsorshi
+p and direction of a member of the Mechanical Engineering fa
+culty."
+MEC ENG 100,1,"Electronics and Electrical Engineering has become pervasive 
+in our lives as a powerful technology with applications in a
+ wide range of fields including healthcare, environmental mo
+nitoring, robotics, or entertainment. This course offers a b
+road survey of Electrical Engineering ideas to non-majors. I
+n the laboratory students will learn in-depth how to design 
+and build systems that exchange information with or are cont
+rolled from the cloud. Examples include"
+MEC ENG 101,1,"Fundamentals of lean manufacturing systems including manufac
+turing fundamentals, unit operations and manufacturing line 
+considerations for work in process (WIP), manufacturing lead
+ time (MLT), economics, quality monitoring; high mix/low vol
+ume (HMLV) systems fundamentals including just in time (JIT)
+, kanban, buffers and line balancing; class project/case stu
+dies for design and analysis of competitive manufacturing sy
+stems."
+MEC ENG 102B,1,"Introduction to design and realization of mechatronics syste
+ms. Micro computer architectures. Basic computer IO devices.
+ Embedded microprocessor systems and control, IO programming
+ such as analogue to digital converters, PWM, serial and par
+allel outputs. Electrical components such as power supplies,
+ operational amplifiers, transformers and filters. Shielding
+ and grounding. Design of electric, hydraulic and pneumatic 
+actuators. Design of sensors."
+MEC ENG 103,1,"This course introduces students to modern experimental techn
+iques for mechanical engineering, and improves students’ tea
+mwork and communication skills. Students will work in a labo
+ratory setting on systems ranging in complexity from desktop
+ experiments with only a few instruments up to systems such 
+as an internal combustion engine with a wide variety of sens
+ors. State-of-the-art software for data acquisition and anal
+ysis will be introduced"
+MEC ENG 104,1,"This course is an introduction to the dynamics of particles 
+and rigid bodies. The material, based on a Newtonian formula
+tion of the governing equations, is illustrated with numerou
+s examples ranging from one-dimensional motion of a single p
+article to planar motions of rigid bodies and systems of rig
+id bodies."
+MEC ENG 106,1,"This course introduces the fundamentals and techniques of fl
+uid mechanics with the aim of describing and controlling eng
+ineering flows."
+MEC ENG 108,1,"This course covers elastic and plastic deformation under sta
+tic and dynamic loads. Failure by yielding, fracture, fatigu
+e, wear, and environmental factors are also examined. Topics
+ include engineering materials, heat treatment, structure-pr
+operty relationships, elastic deformation and multiaxial loa
+ding, plastic deformation and yield criteria, dislocation pl
+asticity and strengthening mechanisms, creep, stress concent
+ration effects, fracture"
+MEC ENG 109,1,"This course covers transport processes of mass, momentum, an
+d energy from a macroscopic view with emphasis both on under
+standing why matter behaves as it does and on developing pra
+ctical problem solving skills. The course is divided into fo
+ur parts: introduction, conduction, convection, and radiatio
+n."
+MEC ENG 110,1,"The course provides project-based learning experience in inn
+ovative new product development, with a focus on mechanical 
+engineering systems. Design concepts and techniques are intr
+oduced, and the student's design ability is developed in a d
+esign or feasibility study chosen to emphasize ingenuity and
+ provide wide coverage of engineering topics. Relevant softw
+are will be integrated into studio sessions, including"
+MEC ENG C115,1,"This course applies methods of statistical continuum mechani
+cs to subcellar biomechanical phenomena ranging from nanosca
+le (molecular) to microscale (whole cell and cell population
+) biological processes at the interface of mechanics, biolog
+y, and chemistry."
+MEC ENG C117,1,"This course covers the structure and mechanical functions of
+ load bearing tissues and their replacements. Natural and sy
+nthetic load-bearing biomaterials for clinical applications 
+are reviewed. Biocompatibility of biomaterials and host resp
+onse to structural implants are examined. Quantitative treat
+ment of biomechanical issues and constitutive relationships 
+of tissues are covered in order to design biomaterial replac
+ements for structural"
+MEC ENG 118,1,"This course introduces engineering students (juniors and sen
+iors) to the field of nanotechnology and nanoscience. The co
+urse has two components: (1) Formal lectures. Students recei
+ve a set of formal lectures introducing them to the field of
+ nanotechnology and nanoscience. The material covered includ
+es nanofabrication technology (how one achieves the nanomete
+r length scale, from ""bottom up"" to ""top down"" technologies)
+,"
+MEC ENG 119,1,"Fundamentals of microelectromechanical systems including des
+ign, fabrication of microstructures; surface-micromachining,
+ bulk-micromachining, LIGA, and other micro machining proces
+ses; fabrication principles of integrated circuit device and
+ their applications for making MEMS devices; high-aspect-rat
+io microstructures; scaling issues in the micro scale (heat 
+transfer, fluid mechanics and solid mechanics); device desig
+n, analysis, and mask layou"
+MEC ENG 120,1,"This course applies the methods of computational modeling an
+d continuum mechanics to biomedical phenomena spanning vario
+us length scales ranging from molecular to cellular to tissu
+e and organ levels. The course is intended for upper level u
+ndergraduate students who have been exposed to undergraduate
+ continuum mechanics (statics and strength of materials.)"
+MEC ENG 122,1,"Fundamentals of manufacturing processes (metal forming, forg
+ing, metal cutting, welding, joining, and casting); selectio
+n of metals, plastics, and other materials relative to the d
+esign and choice of manufacturing processes; geometric dimen
+sioning and tolerancing of all processes."
+MEC ENG 125,1,"iACME provide opportunities for Mechanical Engineering under
+graduates to tackle real-world engineering problems. Student
+ teams, consisting of no more than four students, will apply
+ to work on specific industry- initiated projects. Teams wil
+l be selected based on prior experience in research/internsh
+ips, scholastic achievements in ME courses, and most importa
+ntly, proposed initial approaches toward tackling the specif
+ic project. ME faculty, alumni of the Mechanical"
+MEC ENG 130,1,"Synthesis, analysis, and design of planar machines. Kinemati
+c structure, graphical, analytical, and numerical analysis a
+nd synthesis. Linkages, cams, reciprocating engines, gear tr
+ains, and flywheels."
+MEC ENG 131,1,"Physical understanding of automotive vehicle dynamics includ
+ing simple lateral, longitudinal and ride quality models. An
+ overview of active safety systems will be introduced includ
+ing the basic concepts and terminology, the state-of-the-art
+ development, and basic principles of systems such as ABS, t
+raction control, dynamic stability control, and roll stabili
+ty control. Passive, semi-active and active suspension syste
+ms will be analyzed. Concepts"
+MEC ENG 132,1,"Physical understanding of dynamics and feedback. Linear feed
+back control of dynamic systems. Mathematical tools for anal
+ysis and design. Stability. Modeling systems with differenti
+al equations. Linearization. Solution to linear, time-invari
+ant differential equations."
+MEC ENG 133,1,"An introduction to the theory of mechanical vibrations inclu
+ding topics of harmonic motion, resonance, transient and ran
+dom excitation, applications of Fourier analysis and convolu
+tion methods. Multidegree of freedom discrete systems includ
+ing principal mode, principal coordinates and Rayleigh's pri
+nciple."
+MEC ENG C134,1,"Analysis and synthesis of linear feedback control systems in
+ transform and time domains. Control system design by root l
+ocus, frequency response, and state space methods. Applicati
+ons to electro-mechanical and mechatronics systems."
+MEC ENG 135,1,"This course provides preparation for the conceptual design a
+nd prototyping of mechanical systems that use microprocessor
+s to control machine activities, acquire and analyze data, a
+nd interact with operators. The architecture of microprocess
+ors is related to problems in mechanical systems through stu
+dy of systems, including electro-mechanical components, ther
+mal components and a variety of instruments. Laboratory exer
+cises lead through studies"
+MEC ENG 136,1,"This course introduces students to the control of unmanned a
+erial vehicles (UAVs). The course will cover modeling and dy
+namics of aerial vehicles, and common control strategies. La
+boratory exercises allow students to apply knowledge on a re
+al system, by programming a microcontroller to control a UAV
+."
+MEC ENG 138,1,"This hands-on laboratory course focuses on the mechanical en
+gineering principles that underlie the design, fabricaton, a
+nd operation of micro/nanoscale mechanical systems, includin
+g devices made by nanowire/nanotube syntheses; photolithogra
+phy/soft lithography; and molding processes. Each laboratory
+ will have different focuses for basic understanding of MEMS
+/NEMS systems from prototype constructions to experimental t
+estings using mechanical"
+MEC ENG 140,1,"Fundamentals of combustion, flame structure, flame speed, fl
+ammability, ignition, stirred reaction, kinetics and nonequi
+librium processes, pollutant formation. Application to engin
+es, energy production and fire safety."
+MEC ENG 146,1,"This course covers the fundamental principles of energy conv
+ersion processes, followed by development of theoretical and
+ computational tools that can be used to analyze energy conv
+ersion processes. The course also introduces the use of mode
+rn computational methods to model energy conversion performa
+nce characteristics of devices and systems. Performance feat
+ures, sources of inefficiencies, and optimal design strategi
+es are explored for a variety"
+MEC ENG 150A,1,"This course addresses all aspects of design, analysis, const
+ruction and economics of solar-powered vehicles. It begins w
+ith an examination of the fundamentals of photovoltaic solar
+ power generation, and the capabilities and limitations that
+ exist when using this form of renewable energy. The efficie
+ncy of energy conversion and storage will be evaluated acros
+s an entire system, from the solar energy that is"
+MEC ENG 151,1,"Basic principles of heat transfer and their application. Sub
+ject areas include steady-state and transient system analyse
+s for conduction, free and forced convection, boiling, conde
+nsation and thermal radiation."
+MEC ENG 151A,1,"Fundamentals of conductive heat transfer. Analytical and num
+erical methods for heat conduction in rigid media. Fundament
+als of radiative transfer. Radiative properties of solids, l
+iquids and gas media. Radiative transport modeling in enclos
+ures and participating media."
+MEC ENG 151B,1,"The transport of heat and mass in fluids in motion; free and
+ forced convection in laminar and turbulent flow over surfac
+es and within ducts. Fundamentals of computational methods u
+sed for solving the governing transport equations will also 
+be covered."
+MEC ENG 153,1,"Fundamentals of electromagnetic theory, principles of optics
+, waves, diffraction theory, interference, geometrical optic
+s, scattering, theory of molecular spectra, optical and spec
+troscopic instrumentation. Lasers and laser materials proces
+sing, laser spectroscopy. Modern optics, plasmonics."
+MEC ENG 154,1,"Development of classical thermodynamics from statistical tre
+atment of microscale molecular behavior; Boltzmann distribut
+ion; partition functions; statistical-mechanical evaluation 
+of thermodynamic properties; equilibrium; chemical equilibri
+um; phase transitions; molecular collisions; Maxwell-Boltzma
+nn distribution; collision theory; elementary kinetic theory
+; molecular dynamics simulation of molecular collisions; kin
+etic Monte Carlo simulations of gas-phase"
+MEC ENG 160,1,"Lectures on new developments in ocean, offshore, and arctic 
+engineering."
+MEC ENG 163,1,"Introduction to the lift, drag, and moment of two-dimensiona
+l airfoils, three-dimensional wings, and the complete airpla
+ne. Calculations of the performance and stability of airplan
+es in subsonic flight."
+MEC ENG 164,1,"Terminology and definition of hull forms, conditions of stat
+ic equilibrium and stability of floating submerged bodies. E
+ffects of damage on stability. Structural loads and response
+. Box girder theory. Isotropic and orthotropic plate bending
+ and bucking."
+MEC ENG 165,1,"Ocean environment. Physical properties and characteristics o
+f the oceans. Global conservation laws. Surface-waves genera
+tion. Gravity-wave mechanics, kinematics, and dynamics. Desi
+gn consideration of ocean vehicles and systems. Model-testin
+g techniques. Prediction of resistance and response in waves
+--physical modeling and computer models."
+MEC ENG 167,1,"Phenomena of physical, technological, and biological signifi
+cance in flows of gases and liquids at the microscale. The c
+ourse begins with familiar equations of Newtonian fluid mech
+anics, then proceeds to the study of essentially 1-D flows i
+n confined geometries with the lubrication equations. Next i
+s a study of the flow of thin films spreading under gravity 
+or surface tension gradients. Lubrication theory of compress
+ible gases leads to consideration"
+MEC ENG 168,1,"This course covers major aspects of offshore engineering inc
+luding ocean environment, loads on offshore structures, cabl
+es and mooring, underwater acoustics and arctic operations."
+MEC ENG 170,1,"This course builds upon material learned in 104, examining t
+he dynamics of particles and rigid bodies moving in three di
+mensions. Topics include non-fixed axis rotations of rigid b
+odies, Euler angles and parameters, kinematics of rigid bodi
+es, and the Newton-Euler equations of motion for rigid bodie
+s. The course material will be illustrated with real-world e
+xamples such as gyroscopes, spinning tops, vehicles, and sat
+ellites. Applications"
+MEC ENG 173,1,"Plane and spherical sound waves. Sound intensity. Propagatio
+n in tubes and horns. Resonators. Standing waves. Radiation 
+from oscillating surface. Reciprocity. Reverberation and dif
+fusion. Electro-acoustic loud speaker and microphone problem
+s. Environmental and architectural acoustics. Noise measurem
+ent and control. Effects on man."
+MEC ENG 174,1,"Oscillations in nonlinear systems having one or two degrees 
+of freedom. Graphical, iteration, perturbation, and asymptot
+ic methods. Self-excited oscillations and limit cycles. Rand
+om variables and random processes. Analysis of linear and no
+nlinear, discrete and continuous, mechanical systems under s
+tationary and non-stationary excitations."
+MEC ENG 175,1,"This course introduces and investigates Lagrange's equations
+ of motion for particles and rigid bodies. The subject matte
+r is particularly relevant to applications comprised of inte
+rconnected and constrained discrete mechanical components. T
+he material is illustrated with numerous examples. These ran
+ge from one-dimensional motion of a single particle to three
+-dimensional motions of rigid bodies and systems of rigid bo
+dies."
+MEC ENG C176,1,"Statics, dynamics, optimization theory, composite beam theor
+y, beam-on-elastic foundation theory, Hertz contact theory, 
+and materials behavior. Forces and moments acting on human j
+oints; composition and mechanical behavior of orthopedic bio
+materials; design/analysis of artificial joint, spine, and f
+racture fixation prostheses; musculoskeletal tissues includi
+ng bone, cartilage, tendon, ligament, and muscle; osteoporos
+is and fracture-risk predication"
+MEC ENG C178,1,"The course provides project-based learning experience in und
+erstanding product design, with a focus on the human body as
+ a mechanical machine. Students will learn the design of ext
+ernal devices used to aid or protect the body. Topics will i
+nclude forces acting on internal materials (e.g., muscles an
+d total replacement devices), forces acting on external mate
+rials (e.g., prothetics and crash pads), design/analysis of 
+devices aimed to improve or"
+MEC ENG 179,1,"This course provides hands-on experience in designing prosth
+eses and assistive technologies using user-centered design. 
+Students will develop a fundamental understanding of the sta
+te-of-the-art, design processes and product realization. Tea
+ms will prototype a novel solution to a disabilities-related
+ challenge, focusing on upper-limb mobility or dexterity. Le
+ssons will cover biomechanics of human manipulation, tactile
+ sensing and haptics, actuation and mechanism robustness"
+MEC ENG C180,1,"This is an introductory course on the finite element method 
+and is intended for seniors in engineering and applied scien
+ce disciplines. The course covers the basic topics of finite
+ element technology, including domain discretization, polyno
+mial interpolation, application of boundary conditions, asse
+mbly of global arrays, and solution of the resulting algebra
+ic systems. Finite element formulations for several importan
+t field equations are introduced"
+MEC ENG 185,1,"This course is a general introduction to the fundamental con
+cepts of the mechanics of continuous media. Topics covered i
+nclude the kinematics of deformation, the concept of stress,
+ and the conservation laws for mass, momentum and energy. Th
+is is followed by an introduction to constitutive theory wit
+h applications to well-established models for viscous fluids
+ and elastic solids. The concepts are illustrated through th
+e solution of tractable initial-boundary-value"
+MEC ENG 190L,1,"After a review of basic loopshaping, we introduce the loopsh
+aping design methodology of McFarlane and Glover, and learn 
+how to use it effectively. The remainder of the course studi
+es the mathematics underlying the new method (one of the mos
+t prevalent advanced techniques used in industry) justifying
+ its validity."
+MEC ENG 190M,1,"Basics on optimization and polyhedra manipulation. Analysis 
+and design of constrained predictive controllers for linear 
+and nonlinear systems."
+MEC ENG 190Y,1,"The Youla-parametrization of all stabilizing controllers all
+ows certain time-domain and frequency-domain closed-loop des
+ign objectives to be cast as convex optimizations, and solve
+d reliably using off-the-shelf numerical optimization codes.
+ This course covers the Youla parametrization, basic element
+s of convex optimization, and finally control design using t
+hese techniques."
+MEC ENG 191K,1,"This course is designed to enhance students' written and ora
+l communication skills. Written work consists of informal do
+cuments--correspondence, internal reports, and reviews--and 
+formal work--proposals, conference papers, journal articles,
+ and websites. Presentations consist of informal and formal 
+reports, including job and media interviews, phone interview
+s, conference calls, video conferences"
+MEC ENG 193A,1,"This 193 series covers current topics of research interest i
+n biomechanical engineering. The course content may vary sem
+ester to semester. Check with the department for current ter
+m topics."
+MEC ENG 193B,1,"This 193 series covers current topics of research interest i
+n controls. The course content may vary semester to semester
+. Check with the department for current term topics."
+MEC ENG 193C,1,"This 193 series covers current topics of research interest i
+n design. The course content may vary semester to semester. 
+Check with the department for current term topics."
+MEC ENG 193D,1,"This 193 series covers current topics of research interest i
+n dynamics. The course content may vary semester to semester
+. Check with the department for current term topics."
+MEC ENG 193E,1,"This 193 series covers current topics of research interest i
+n energy science and technology. The course content may vary
+ semester to semester. Check with the department for current
+ term topics."
+MEC ENG 193F,1,"This 193 series covers current topics of research interest i
+n fluids. The course content may vary semester to semester. 
+Check with the department for current term topics."
+MEC ENG 193G,1,"This 193 series covers current topics of research interest i
+n manufacturing. The course content may vary semester to sem
+ester. Check with the department for current term topics."
+MEC ENG 193H,1,"This 193 series covers current topics of research interest i
+n materials. The course content may vary semester to semeste
+r. Check with the department for current term topics."
+MEC ENG 193I,1,"This 193 series covers current topics of research interest i
+n mechanics. The course content may vary semester to semeste
+r. Check with the department for current term topics."
+MEC ENG 193J,1,"This 193 series covers current topics of research interest i
+n MEMS/nano. The course content may vary semester to semeste
+r. Check with the department for current term topics."
+MEC ENG 193K,1,"This 193 series covers current topics of research interest i
+n ocean engineering. The course content may vary semester to
+ semester. Check with the department for current term topics
+."
+MEC ENG H194,1,"Final report required. Students who have completed a satisfa
+ctory number of advanced courses may pursue original researc
+h under the direction of one of the members of the faculty. 
+A maximum of three units of H194 may be used to fulfill tech
+nical elective requirements in the Mechanical Engineering pr
+ogram (unlike 198 or 199, which do not satisfy technical ele
+ctive requirements). Students can use a maximum of three uni
+ts of graded"
+MEC ENG 196,1,"Students who have completed a satisfactory number of advance
+d courses may pursue original research under the direction o
+f one of the members of the staff. A maximum of three units 
+of 196 may be used to fulfill technical elective requirement
+s in the Mechanical Engineering program (unlike 198 or 199, 
+which do not satisfy technical elective requirements). Stude
+nts can use a maximum of three units of graded research unit
+s (H194 or 196) towards"
+MEC ENG 197,1,"Supervised experience relative to specific aspects of practi
+ce in engineering. Under guidance of a faculty member, the s
+tudent will work in industry, primarily in an internship set
+ting or another type of short-time status. Emphasis is to at
+tain practical experience in the field."
+MEC ENG 198,1,"Group study of a selected topic or topics in Mechanical Engi
+neering. Credit for 198 or 199 courses combined may not exce
+ed 4 units in any single term. See College for other restric
+tions."
+MEC ENG 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the introduction to Courses and Curricula section of th
+is catalog."
+NUC ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+NUC ENG 100,1,"The class provides students with an overview of the contempo
+rary nuclear energy technology with emphasis on nuclear fiss
+ion as an energy source. Starting with the basic physics of 
+the nuclear fission process, the class includes discussions 
+on reactor control, thermal hydraulics, fuel production, and
+ spent fuel management for various types of reactors in use 
+around the world as well as analysis of safety and other nuc
+lear-related issues. This"
+NUC ENG 101,1,"Energetics and kinetics of nuclear reactions and radioactive
+ decay, fission, fusion, and reactions of low-energy neutron
+s; properties of the fission products and the actinides; nuc
+lear models and transition probabilities; interaction of rad
+iation with matter."
+NUC ENG 102,1,"Laboratory course in nuclear physics. Experiments will allow
+ students to directly observe phenomena discussed in Nuclear
+ Engineering 101. These experiments will give students expos
+ure to (1) electronics, (2) alpha, beta, gamma radiation det
+ectors, (3) radioactive sources, and (4) experimental method
+s relevant for all aspects of nuclear science. Experiments i
+nclude: Rutherford scattering, x-ray fluorescence, muon life
+time, gamma-gamma angular"
+NUC ENG 104,1,"Basic science of radiation measurement, nuclear instrumentat
+ion, neutronics, radiation dosimetry. The lectures emphasize
+ the principles of radiation detection. The weekly laborator
+y applies a variety of radiation detection systems to the pr
+actical measurements of interest for nuclear power, nuclear 
+and non-nuclear science, and environmental applications. Stu
+dents present goals and approaches of the experiements being
+ performed."
+NUC ENG 107,1,"Introduction to medical imaging physics and systems, includi
+ng x-ray computed tomography (CT), nuclear magnetic resonanc
+e (NMR), positron emission tomography (PET), and SPECT; basi
+c principles of tomography and an introduction to unfolding 
+methods; resolution effects of counting statistics, inherent
+ system resolution and human factors."
+NUC ENG 120,1,"Effects of irradiation on the atomic and mechanical properti
+es of materials in nuclear reactors. Fission product swellin
+g and release; neutron damage to structural alloys; fabricat
+ion and properties of uranium dioxide fuel."
+NUC ENG 124,1,"Components and material flowsheets for nuclear fuel cycle, w
+aste characteristics, sources of radioactive wastes, composi
+tions, radioactivity and heat generation; waste treatment te
+chnologies; waste disposal technologies; safety assessment o
+f waste disposal."
+NUC ENG 130,1,"Use of nuclear measurement techniques to detect clandestine 
+movement and/or possession of nuclear materials by third par
+ties. Nuclear detection, forensics, signatures, and active a
+nd passive interrogation methodologies will be explored. Tec
+hniques currently deployed for arms control and treaty verif
+ication will be discussed. Emphasis will be placed on common
+ elements of detection technology from the viewpoint of reso
+lution of threat signatures"
+NUC ENG 150,1,"Neutron interactions, nuclear fission, and chain reacting sy
+stematics in thermal and fast nuclear reactors. Diffusion an
+d slowing down of neutrons. Criticality calculations. Nuclea
+r reactor dynamics and reactivity feedback. Production of ra
+dionuclides in nuclear reactors."
+NUC ENG 155,1,"Computational methods used to analyze radiation transport de
+scribed by various differential, integral, and integro-diffe
+rential equations. Numerical methods include finite differen
+ce, finite elements, discrete ordinates, and Monte Carlo. Ex
+amples from neutron and photon transport; numerical solution
+s of neutron/photon diffusion and transport equations. Monte
+ Carlo simulations of photon and neutron transport. An overv
+iew of optimization techniques"
+NUC ENG 156,1,"This course provides an introduction to the field of nuclear
+ criticality safety. Topics include: a review of basic conce
+pts related to criticality (fission, cross sections, multipl
+ication factor, etc.); criticality safety accidents; standar
+ds applicable to criticality safety; hand calculations and M
+onte Carlo methods used in criticality safety analysis; crit
+icality safety evaluation documents."
+NUC ENG 161,1,"Energy conversion in nuclear power systems; design of fissio
+n reactors; thermal and structural analysis of reactor core 
+and plant components; thermal-hydraulic analysis of accident
+s in nuclear power plants; safety evaluation and engineered 
+safety systems."
+NUC ENG 162,1,"Interaction of radiation with matter; physical, chemical, an
+d biological effects of radiation on human tissues; dosimetr
+y units and measurements; internal and external radiation fi
+elds and dosimetry; radiation exposure regulations; sources 
+of radiation and radioactivity; basic shielding concepts; el
+ements of radiation protection and control; theories and mod
+els for cell survival, radiation sensitivity, carcinogenesis
+, and dose calculatio"
+NUC ENG 167,1,"Project-based class for design and licensing of nuclear faci
+lities, including advanced reactors. Elements of a project p
+roposal. Regulatory framework and use of deterministic and p
+robabilistic licensing criteria. Siting criteria. External a
+nd internal events. Identification and analysis of design ba
+sis and beyond design basis events. Communication with regul
+ators and stakeholders. Ability to work in and contribute to
+ a design team."
+NUC ENG 170A,1,"Design of various fission and fusion power systems and other
+ physically based applications. Each semester a topic will b
+e chosen by the class as a whole. In addition to technology,
+ the design should address issues relating to economics, the
+ environment, and risk assessment."
+NUC ENG 170B,1,"A systems approach to the development of procedures for nucl
+ear medicine and radiation therapy. Each semester a specific
+ procedure will be studied and will entail the development o
+f the biological and physiological basis for a procedure, th
+e chemical and biochemical characteristics of appropriate dr
+ugs, dosimetric requirements and limitations, the production
+ and distribution of radionuclides and/or radiation fields t
+o be applied, and the"
+NUC ENG 175,1,"Methodological approaches for the quantification of technolo
+gical risk and risk based decision making. Probabilistic saf
+ety assessment, human health risks, environmental and ecolog
+ical risk analysis."
+NUC ENG 180,1,"Introduction to energy production by controlled thermonuclea
+r reactions. Nuclear fusion reactions, energy balances for f
+usion systems, survey of plasma physics; neutral beam inject
+ion; RF heating methods; vacuum systems; tritium handling."
+NUC ENG H194,1,"Supervised research. Students who have completed three or mo
+re upper division courses may pursue original research under
+ the direction of one of the members of the staff. A final r
+eport or presentation is required. A maximum of three units 
+of H194 may be used to fulfill a technical elective requirem
+ent in the Nuclear Engineering general program or joint majo
+r programs."
 NUC ENG 198,1,Group studies of selected topics.
-NUC ENG 199,1,Supervised independent study. Enrollment restrictions apply; see the Introduction to Courses and Curricula section of this catalog.
-NUC ENG S199,1,Supervised independent study. Please see section of the for description and prerequisites.
+NUC ENG 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the Introduction to Courses and Curricula section of th
+is catalog."
+NUC ENG S199,1,"Supervised independent study. Please see section of the for 
+description and prerequisites."
+MEC ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+MEC ENG 40,1,"This course introduces the scientific principles that deal w
+ith energy conversion among different forms, such as heat, w
+ork, internal, electrical, and chemical energy. The physical
+ science of heat and temperature, and their relations to ene
+rgy and work, are analyzed on the basis of the four fundamen
+tal thermodynamic laws (zeroth, first, second, and third). T
+hese principles are applied to various practical systems, in
+cluding"
+MEC ENG C85,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+MEC ENG W85,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+MEC ENG 98,1,"Organized group study on various topics under the sponsorshi
+p and direction of a member of the Mechanical Engineering fa
+culty."
+MEC ENG 100,1,"Electronics and Electrical Engineering has become pervasive 
+in our lives as a powerful technology with applications in a
+ wide range of fields including healthcare, environmental mo
+nitoring, robotics, or entertainment. This course offers a b
+road survey of Electrical Engineering ideas to non-majors. I
+n the laboratory students will learn in-depth how to design 
+and build systems that exchange information with or are cont
+rolled from the cloud. Examples include"
+MEC ENG 101,1,"Fundamentals of lean manufacturing systems including manufac
+turing fundamentals, unit operations and manufacturing line 
+considerations for work in process (WIP), manufacturing lead
+ time (MLT), economics, quality monitoring; high mix/low vol
+ume (HMLV) systems fundamentals including just in time (JIT)
+, kanban, buffers and line balancing; class project/case stu
+dies for design and analysis of competitive manufacturing sy
+stems."
+MEC ENG 102B,1,"Introduction to design and realization of mechatronics syste
+ms. Micro computer architectures. Basic computer IO devices.
+ Embedded microprocessor systems and control, IO programming
+ such as analogue to digital converters, PWM, serial and par
+allel outputs. Electrical components such as power supplies,
+ operational amplifiers, transformers and filters. Shielding
+ and grounding. Design of electric, hydraulic and pneumatic 
+actuators. Design of sensors."
+MEC ENG 103,1,"This course introduces students to modern experimental techn
+iques for mechanical engineering, and improves students’ tea
+mwork and communication skills. Students will work in a labo
+ratory setting on systems ranging in complexity from desktop
+ experiments with only a few instruments up to systems such 
+as an internal combustion engine with a wide variety of sens
+ors. State-of-the-art software for data acquisition and anal
+ysis will be introduced"
+MEC ENG 104,1,"This course is an introduction to the dynamics of particles 
+and rigid bodies. The material, based on a Newtonian formula
+tion of the governing equations, is illustrated with numerou
+s examples ranging from one-dimensional motion of a single p
+article to planar motions of rigid bodies and systems of rig
+id bodies."
+MEC ENG 106,1,"This course introduces the fundamentals and techniques of fl
+uid mechanics with the aim of describing and controlling eng
+ineering flows."
+MEC ENG 108,1,"This course covers elastic and plastic deformation under sta
+tic and dynamic loads. Failure by yielding, fracture, fatigu
+e, wear, and environmental factors are also examined. Topics
+ include engineering materials, heat treatment, structure-pr
+operty relationships, elastic deformation and multiaxial loa
+ding, plastic deformation and yield criteria, dislocation pl
+asticity and strengthening mechanisms, creep, stress concent
+ration effects, fracture"
+MEC ENG 109,1,"This course covers transport processes of mass, momentum, an
+d energy from a macroscopic view with emphasis both on under
+standing why matter behaves as it does and on developing pra
+ctical problem solving skills. The course is divided into fo
+ur parts: introduction, conduction, convection, and radiatio
+n."
+MEC ENG 110,1,"The course provides project-based learning experience in inn
+ovative new product development, with a focus on mechanical 
+engineering systems. Design concepts and techniques are intr
+oduced, and the student's design ability is developed in a d
+esign or feasibility study chosen to emphasize ingenuity and
+ provide wide coverage of engineering topics. Relevant softw
+are will be integrated into studio sessions, including"
+MEC ENG C115,1,"This course applies methods of statistical continuum mechani
+cs to subcellar biomechanical phenomena ranging from nanosca
+le (molecular) to microscale (whole cell and cell population
+) biological processes at the interface of mechanics, biolog
+y, and chemistry."
+MEC ENG C117,1,"This course covers the structure and mechanical functions of
+ load bearing tissues and their replacements. Natural and sy
+nthetic load-bearing biomaterials for clinical applications 
+are reviewed. Biocompatibility of biomaterials and host resp
+onse to structural implants are examined. Quantitative treat
+ment of biomechanical issues and constitutive relationships 
+of tissues are covered in order to design biomaterial replac
+ements for structural"
+MEC ENG 118,1,"This course introduces engineering students (juniors and sen
+iors) to the field of nanotechnology and nanoscience. The co
+urse has two components: (1) Formal lectures. Students recei
+ve a set of formal lectures introducing them to the field of
+ nanotechnology and nanoscience. The material covered includ
+es nanofabrication technology (how one achieves the nanomete
+r length scale, from ""bottom up"" to ""top down"" technologies)
+,"
+MEC ENG 119,1,"Fundamentals of microelectromechanical systems including des
+ign, fabrication of microstructures; surface-micromachining,
+ bulk-micromachining, LIGA, and other micro machining proces
+ses; fabrication principles of integrated circuit device and
+ their applications for making MEMS devices; high-aspect-rat
+io microstructures; scaling issues in the micro scale (heat 
+transfer, fluid mechanics and solid mechanics); device desig
+n, analysis, and mask layou"
+MEC ENG 120,1,"This course applies the methods of computational modeling an
+d continuum mechanics to biomedical phenomena spanning vario
+us length scales ranging from molecular to cellular to tissu
+e and organ levels. The course is intended for upper level u
+ndergraduate students who have been exposed to undergraduate
+ continuum mechanics (statics and strength of materials.)"
+MEC ENG 122,1,"Fundamentals of manufacturing processes (metal forming, forg
+ing, metal cutting, welding, joining, and casting); selectio
+n of metals, plastics, and other materials relative to the d
+esign and choice of manufacturing processes; geometric dimen
+sioning and tolerancing of all processes."
+MEC ENG 125,1,"iACME provide opportunities for Mechanical Engineering under
+graduates to tackle real-world engineering problems. Student
+ teams, consisting of no more than four students, will apply
+ to work on specific industry- initiated projects. Teams wil
+l be selected based on prior experience in research/internsh
+ips, scholastic achievements in ME courses, and most importa
+ntly, proposed initial approaches toward tackling the specif
+ic project. ME faculty, alumni of the Mechanical"
+MEC ENG 130,1,"Synthesis, analysis, and design of planar machines. Kinemati
+c structure, graphical, analytical, and numerical analysis a
+nd synthesis. Linkages, cams, reciprocating engines, gear tr
+ains, and flywheels."
+MEC ENG 131,1,"Physical understanding of automotive vehicle dynamics includ
+ing simple lateral, longitudinal and ride quality models. An
+ overview of active safety systems will be introduced includ
+ing the basic concepts and terminology, the state-of-the-art
+ development, and basic principles of systems such as ABS, t
+raction control, dynamic stability control, and roll stabili
+ty control. Passive, semi-active and active suspension syste
+ms will be analyzed. Concepts"
+MEC ENG 132,1,"Physical understanding of dynamics and feedback. Linear feed
+back control of dynamic systems. Mathematical tools for anal
+ysis and design. Stability. Modeling systems with differenti
+al equations. Linearization. Solution to linear, time-invari
+ant differential equations."
+MEC ENG 133,1,"An introduction to the theory of mechanical vibrations inclu
+ding topics of harmonic motion, resonance, transient and ran
+dom excitation, applications of Fourier analysis and convolu
+tion methods. Multidegree of freedom discrete systems includ
+ing principal mode, principal coordinates and Rayleigh's pri
+nciple."
+MEC ENG C134,1,"Analysis and synthesis of linear feedback control systems in
+ transform and time domains. Control system design by root l
+ocus, frequency response, and state space methods. Applicati
+ons to electro-mechanical and mechatronics systems."
+MEC ENG 135,1,"This course provides preparation for the conceptual design a
+nd prototyping of mechanical systems that use microprocessor
+s to control machine activities, acquire and analyze data, a
+nd interact with operators. The architecture of microprocess
+ors is related to problems in mechanical systems through stu
+dy of systems, including electro-mechanical components, ther
+mal components and a variety of instruments. Laboratory exer
+cises lead through studies"
+MEC ENG 136,1,"This course introduces students to the control of unmanned a
+erial vehicles (UAVs). The course will cover modeling and dy
+namics of aerial vehicles, and common control strategies. La
+boratory exercises allow students to apply knowledge on a re
+al system, by programming a microcontroller to control a UAV
+."
+MEC ENG 138,1,"This hands-on laboratory course focuses on the mechanical en
+gineering principles that underlie the design, fabricaton, a
+nd operation of micro/nanoscale mechanical systems, includin
+g devices made by nanowire/nanotube syntheses; photolithogra
+phy/soft lithography; and molding processes. Each laboratory
+ will have different focuses for basic understanding of MEMS
+/NEMS systems from prototype constructions to experimental t
+estings using mechanical"
+MEC ENG 140,1,"Fundamentals of combustion, flame structure, flame speed, fl
+ammability, ignition, stirred reaction, kinetics and nonequi
+librium processes, pollutant formation. Application to engin
+es, energy production and fire safety."
+MEC ENG 146,1,"This course covers the fundamental principles of energy conv
+ersion processes, followed by development of theoretical and
+ computational tools that can be used to analyze energy conv
+ersion processes. The course also introduces the use of mode
+rn computational methods to model energy conversion performa
+nce characteristics of devices and systems. Performance feat
+ures, sources of inefficiencies, and optimal design strategi
+es are explored for a variety"
+MEC ENG 150A,1,"This course addresses all aspects of design, analysis, const
+ruction and economics of solar-powered vehicles. It begins w
+ith an examination of the fundamentals of photovoltaic solar
+ power generation, and the capabilities and limitations that
+ exist when using this form of renewable energy. The efficie
+ncy of energy conversion and storage will be evaluated acros
+s an entire system, from the solar energy that is"
+MEC ENG 151,1,"Basic principles of heat transfer and their application. Sub
+ject areas include steady-state and transient system analyse
+s for conduction, free and forced convection, boiling, conde
+nsation and thermal radiation."
+MEC ENG 151A,1,"Fundamentals of conductive heat transfer. Analytical and num
+erical methods for heat conduction in rigid media. Fundament
+als of radiative transfer. Radiative properties of solids, l
+iquids and gas media. Radiative transport modeling in enclos
+ures and participating media."
+MEC ENG 151B,1,"The transport of heat and mass in fluids in motion; free and
+ forced convection in laminar and turbulent flow over surfac
+es and within ducts. Fundamentals of computational methods u
+sed for solving the governing transport equations will also 
+be covered."
+MEC ENG 153,1,"Fundamentals of electromagnetic theory, principles of optics
+, waves, diffraction theory, interference, geometrical optic
+s, scattering, theory of molecular spectra, optical and spec
+troscopic instrumentation. Lasers and laser materials proces
+sing, laser spectroscopy. Modern optics, plasmonics."
+MEC ENG 154,1,"Development of classical thermodynamics from statistical tre
+atment of microscale molecular behavior; Boltzmann distribut
+ion; partition functions; statistical-mechanical evaluation 
+of thermodynamic properties; equilibrium; chemical equilibri
+um; phase transitions; molecular collisions; Maxwell-Boltzma
+nn distribution; collision theory; elementary kinetic theory
+; molecular dynamics simulation of molecular collisions; kin
+etic Monte Carlo simulations of gas-phase"
+MEC ENG 160,1,"Lectures on new developments in ocean, offshore, and arctic 
+engineering."
+MEC ENG 163,1,"Introduction to the lift, drag, and moment of two-dimensiona
+l airfoils, three-dimensional wings, and the complete airpla
+ne. Calculations of the performance and stability of airplan
+es in subsonic flight."
+MEC ENG 164,1,"Terminology and definition of hull forms, conditions of stat
+ic equilibrium and stability of floating submerged bodies. E
+ffects of damage on stability. Structural loads and response
+. Box girder theory. Isotropic and orthotropic plate bending
+ and bucking."
+MEC ENG 165,1,"Ocean environment. Physical properties and characteristics o
+f the oceans. Global conservation laws. Surface-waves genera
+tion. Gravity-wave mechanics, kinematics, and dynamics. Desi
+gn consideration of ocean vehicles and systems. Model-testin
+g techniques. Prediction of resistance and response in waves
+--physical modeling and computer models."
+MEC ENG 167,1,"Phenomena of physical, technological, and biological signifi
+cance in flows of gases and liquids at the microscale. The c
+ourse begins with familiar equations of Newtonian fluid mech
+anics, then proceeds to the study of essentially 1-D flows i
+n confined geometries with the lubrication equations. Next i
+s a study of the flow of thin films spreading under gravity 
+or surface tension gradients. Lubrication theory of compress
+ible gases leads to consideration"
+MEC ENG 168,1,"This course covers major aspects of offshore engineering inc
+luding ocean environment, loads on offshore structures, cabl
+es and mooring, underwater acoustics and arctic operations."
+MEC ENG 170,1,"This course builds upon material learned in 104, examining t
+he dynamics of particles and rigid bodies moving in three di
+mensions. Topics include non-fixed axis rotations of rigid b
+odies, Euler angles and parameters, kinematics of rigid bodi
+es, and the Newton-Euler equations of motion for rigid bodie
+s. The course material will be illustrated with real-world e
+xamples such as gyroscopes, spinning tops, vehicles, and sat
+ellites. Applications"
+MEC ENG 173,1,"Plane and spherical sound waves. Sound intensity. Propagatio
+n in tubes and horns. Resonators. Standing waves. Radiation 
+from oscillating surface. Reciprocity. Reverberation and dif
+fusion. Electro-acoustic loud speaker and microphone problem
+s. Environmental and architectural acoustics. Noise measurem
+ent and control. Effects on man."
+MEC ENG 174,1,"Oscillations in nonlinear systems having one or two degrees 
+of freedom. Graphical, iteration, perturbation, and asymptot
+ic methods. Self-excited oscillations and limit cycles. Rand
+om variables and random processes. Analysis of linear and no
+nlinear, discrete and continuous, mechanical systems under s
+tationary and non-stationary excitations."
+MEC ENG 175,1,"This course introduces and investigates Lagrange's equations
+ of motion for particles and rigid bodies. The subject matte
+r is particularly relevant to applications comprised of inte
+rconnected and constrained discrete mechanical components. T
+he material is illustrated with numerous examples. These ran
+ge from one-dimensional motion of a single particle to three
+-dimensional motions of rigid bodies and systems of rigid bo
+dies."
+MEC ENG C176,1,"Statics, dynamics, optimization theory, composite beam theor
+y, beam-on-elastic foundation theory, Hertz contact theory, 
+and materials behavior. Forces and moments acting on human j
+oints; composition and mechanical behavior of orthopedic bio
+materials; design/analysis of artificial joint, spine, and f
+racture fixation prostheses; musculoskeletal tissues includi
+ng bone, cartilage, tendon, ligament, and muscle; osteoporos
+is and fracture-risk predication"
+MEC ENG C178,1,"The course provides project-based learning experience in und
+erstanding product design, with a focus on the human body as
+ a mechanical machine. Students will learn the design of ext
+ernal devices used to aid or protect the body. Topics will i
+nclude forces acting on internal materials (e.g., muscles an
+d total replacement devices), forces acting on external mate
+rials (e.g., prothetics and crash pads), design/analysis of 
+devices aimed to improve or"
+MEC ENG 179,1,"This course provides hands-on experience in designing prosth
+eses and assistive technologies using user-centered design. 
+Students will develop a fundamental understanding of the sta
+te-of-the-art, design processes and product realization. Tea
+ms will prototype a novel solution to a disabilities-related
+ challenge, focusing on upper-limb mobility or dexterity. Le
+ssons will cover biomechanics of human manipulation, tactile
+ sensing and haptics, actuation and mechanism robustness"
+MEC ENG C180,1,"This is an introductory course on the finite element method 
+and is intended for seniors in engineering and applied scien
+ce disciplines. The course covers the basic topics of finite
+ element technology, including domain discretization, polyno
+mial interpolation, application of boundary conditions, asse
+mbly of global arrays, and solution of the resulting algebra
+ic systems. Finite element formulations for several importan
+t field equations are introduced"
+MEC ENG 185,1,"This course is a general introduction to the fundamental con
+cepts of the mechanics of continuous media. Topics covered i
+nclude the kinematics of deformation, the concept of stress,
+ and the conservation laws for mass, momentum and energy. Th
+is is followed by an introduction to constitutive theory wit
+h applications to well-established models for viscous fluids
+ and elastic solids. The concepts are illustrated through th
+e solution of tractable initial-boundary-value"
+MEC ENG 190L,1,"After a review of basic loopshaping, we introduce the loopsh
+aping design methodology of McFarlane and Glover, and learn 
+how to use it effectively. The remainder of the course studi
+es the mathematics underlying the new method (one of the mos
+t prevalent advanced techniques used in industry) justifying
+ its validity."
+MEC ENG 190M,1,"Basics on optimization and polyhedra manipulation. Analysis 
+and design of constrained predictive controllers for linear 
+and nonlinear systems."
+MEC ENG 190Y,1,"The Youla-parametrization of all stabilizing controllers all
+ows certain time-domain and frequency-domain closed-loop des
+ign objectives to be cast as convex optimizations, and solve
+d reliably using off-the-shelf numerical optimization codes.
+ This course covers the Youla parametrization, basic element
+s of convex optimization, and finally control design using t
+hese techniques."
+MEC ENG 191K,1,"This course is designed to enhance students' written and ora
+l communication skills. Written work consists of informal do
+cuments--correspondence, internal reports, and reviews--and 
+formal work--proposals, conference papers, journal articles,
+ and websites. Presentations consist of informal and formal 
+reports, including job and media interviews, phone interview
+s, conference calls, video conferences"
+MEC ENG 193A,1,"This 193 series covers current topics of research interest i
+n biomechanical engineering. The course content may vary sem
+ester to semester. Check with the department for current ter
+m topics."
+MEC ENG 193B,1,"This 193 series covers current topics of research interest i
+n controls. The course content may vary semester to semester
+. Check with the department for current term topics."
+MEC ENG 193C,1,"This 193 series covers current topics of research interest i
+n design. The course content may vary semester to semester. 
+Check with the department for current term topics."
+MEC ENG 193D,1,"This 193 series covers current topics of research interest i
+n dynamics. The course content may vary semester to semester
+. Check with the department for current term topics."
+MEC ENG 193E,1,"This 193 series covers current topics of research interest i
+n energy science and technology. The course content may vary
+ semester to semester. Check with the department for current
+ term topics."
+MEC ENG 193F,1,"This 193 series covers current topics of research interest i
+n fluids. The course content may vary semester to semester. 
+Check with the department for current term topics."
+MEC ENG 193G,1,"This 193 series covers current topics of research interest i
+n manufacturing. The course content may vary semester to sem
+ester. Check with the department for current term topics."
+MEC ENG 193H,1,"This 193 series covers current topics of research interest i
+n materials. The course content may vary semester to semeste
+r. Check with the department for current term topics."
+MEC ENG 193I,1,"This 193 series covers current topics of research interest i
+n mechanics. The course content may vary semester to semeste
+r. Check with the department for current term topics."
+MEC ENG 193J,1,"This 193 series covers current topics of research interest i
+n MEMS/nano. The course content may vary semester to semeste
+r. Check with the department for current term topics."
+MEC ENG 193K,1,"This 193 series covers current topics of research interest i
+n ocean engineering. The course content may vary semester to
+ semester. Check with the department for current term topics
+."
+MEC ENG H194,1,"Final report required. Students who have completed a satisfa
+ctory number of advanced courses may pursue original researc
+h under the direction of one of the members of the faculty. 
+A maximum of three units of H194 may be used to fulfill tech
+nical elective requirements in the Mechanical Engineering pr
+ogram (unlike 198 or 199, which do not satisfy technical ele
+ctive requirements). Students can use a maximum of three uni
+ts of graded"
+MEC ENG 196,1,"Students who have completed a satisfactory number of advance
+d courses may pursue original research under the direction o
+f one of the members of the staff. A maximum of three units 
+of 196 may be used to fulfill technical elective requirement
+s in the Mechanical Engineering program (unlike 198 or 199, 
+which do not satisfy technical elective requirements). Stude
+nts can use a maximum of three units of graded research unit
+s (H194 or 196) towards"
+MEC ENG 197,1,"Supervised experience relative to specific aspects of practi
+ce in engineering. Under guidance of a faculty member, the s
+tudent will work in industry, primarily in an internship set
+ting or another type of short-time status. Emphasis is to at
+tain practical experience in the field."
+MEC ENG 198,1,"Group study of a selected topic or topics in Mechanical Engi
+neering. Credit for 198 or 199 courses combined may not exce
+ed 4 units in any single term. See College for other restric
+tions."
+MEC ENG 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the introduction to Courses and Curricula section of th
+is catalog."
+NUC ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+NUC ENG 100,1,"The class provides students with an overview of the contempo
+rary nuclear energy technology with emphasis on nuclear fiss
+ion as an energy source. Starting with the basic physics of 
+the nuclear fission process, the class includes discussions 
+on reactor control, thermal hydraulics, fuel production, and
+ spent fuel management for various types of reactors in use 
+around the world as well as analysis of safety and other nuc
+lear-related issues. This"
+NUC ENG 101,1,"Energetics and kinetics of nuclear reactions and radioactive
+ decay, fission, fusion, and reactions of low-energy neutron
+s; properties of the fission products and the actinides; nuc
+lear models and transition probabilities; interaction of rad
+iation with matter."
+NUC ENG 102,1,"Laboratory course in nuclear physics. Experiments will allow
+ students to directly observe phenomena discussed in Nuclear
+ Engineering 101. These experiments will give students expos
+ure to (1) electronics, (2) alpha, beta, gamma radiation det
+ectors, (3) radioactive sources, and (4) experimental method
+s relevant for all aspects of nuclear science. Experiments i
+nclude: Rutherford scattering, x-ray fluorescence, muon life
+time, gamma-gamma angular"
+NUC ENG 104,1,"Basic science of radiation measurement, nuclear instrumentat
+ion, neutronics, radiation dosimetry. The lectures emphasize
+ the principles of radiation detection. The weekly laborator
+y applies a variety of radiation detection systems to the pr
+actical measurements of interest for nuclear power, nuclear 
+and non-nuclear science, and environmental applications. Stu
+dents present goals and approaches of the experiements being
+ performed."
+NUC ENG 107,1,"Introduction to medical imaging physics and systems, includi
+ng x-ray computed tomography (CT), nuclear magnetic resonanc
+e (NMR), positron emission tomography (PET), and SPECT; basi
+c principles of tomography and an introduction to unfolding 
+methods; resolution effects of counting statistics, inherent
+ system resolution and human factors."
+NUC ENG 120,1,"Effects of irradiation on the atomic and mechanical properti
+es of materials in nuclear reactors. Fission product swellin
+g and release; neutron damage to structural alloys; fabricat
+ion and properties of uranium dioxide fuel."
+NUC ENG 124,1,"Components and material flowsheets for nuclear fuel cycle, w
+aste characteristics, sources of radioactive wastes, composi
+tions, radioactivity and heat generation; waste treatment te
+chnologies; waste disposal technologies; safety assessment o
+f waste disposal."
+NUC ENG 130,1,"Use of nuclear measurement techniques to detect clandestine 
+movement and/or possession of nuclear materials by third par
+ties. Nuclear detection, forensics, signatures, and active a
+nd passive interrogation methodologies will be explored. Tec
+hniques currently deployed for arms control and treaty verif
+ication will be discussed. Emphasis will be placed on common
+ elements of detection technology from the viewpoint of reso
+lution of threat signatures"
+NUC ENG 150,1,"Neutron interactions, nuclear fission, and chain reacting sy
+stematics in thermal and fast nuclear reactors. Diffusion an
+d slowing down of neutrons. Criticality calculations. Nuclea
+r reactor dynamics and reactivity feedback. Production of ra
+dionuclides in nuclear reactors."
+NUC ENG 155,1,"Computational methods used to analyze radiation transport de
+scribed by various differential, integral, and integro-diffe
+rential equations. Numerical methods include finite differen
+ce, finite elements, discrete ordinates, and Monte Carlo. Ex
+amples from neutron and photon transport; numerical solution
+s of neutron/photon diffusion and transport equations. Monte
+ Carlo simulations of photon and neutron transport. An overv
+iew of optimization techniques"
+NUC ENG 156,1,"This course provides an introduction to the field of nuclear
+ criticality safety. Topics include: a review of basic conce
+pts related to criticality (fission, cross sections, multipl
+ication factor, etc.); criticality safety accidents; standar
+ds applicable to criticality safety; hand calculations and M
+onte Carlo methods used in criticality safety analysis; crit
+icality safety evaluation documents."
+NUC ENG 161,1,"Energy conversion in nuclear power systems; design of fissio
+n reactors; thermal and structural analysis of reactor core 
+and plant components; thermal-hydraulic analysis of accident
+s in nuclear power plants; safety evaluation and engineered 
+safety systems."
+NUC ENG 162,1,"Interaction of radiation with matter; physical, chemical, an
+d biological effects of radiation on human tissues; dosimetr
+y units and measurements; internal and external radiation fi
+elds and dosimetry; radiation exposure regulations; sources 
+of radiation and radioactivity; basic shielding concepts; el
+ements of radiation protection and control; theories and mod
+els for cell survival, radiation sensitivity, carcinogenesis
+, and dose calculatio"
+NUC ENG 167,1,"Project-based class for design and licensing of nuclear faci
+lities, including advanced reactors. Elements of a project p
+roposal. Regulatory framework and use of deterministic and p
+robabilistic licensing criteria. Siting criteria. External a
+nd internal events. Identification and analysis of design ba
+sis and beyond design basis events. Communication with regul
+ators and stakeholders. Ability to work in and contribute to
+ a design team."
+NUC ENG 170A,1,"Design of various fission and fusion power systems and other
+ physically based applications. Each semester a topic will b
+e chosen by the class as a whole. In addition to technology,
+ the design should address issues relating to economics, the
+ environment, and risk assessment."
+NUC ENG 170B,1,"A systems approach to the development of procedures for nucl
+ear medicine and radiation therapy. Each semester a specific
+ procedure will be studied and will entail the development o
+f the biological and physiological basis for a procedure, th
+e chemical and biochemical characteristics of appropriate dr
+ugs, dosimetric requirements and limitations, the production
+ and distribution of radionuclides and/or radiation fields t
+o be applied, and the"
+NUC ENG 175,1,"Methodological approaches for the quantification of technolo
+gical risk and risk based decision making. Probabilistic saf
+ety assessment, human health risks, environmental and ecolog
+ical risk analysis."
+NUC ENG 180,1,"Introduction to energy production by controlled thermonuclea
+r reactions. Nuclear fusion reactions, energy balances for f
+usion systems, survey of plasma physics; neutral beam inject
+ion; RF heating methods; vacuum systems; tritium handling."
+NUC ENG H194,1,"Supervised research. Students who have completed three or mo
+re upper division courses may pursue original research under
+ the direction of one of the members of the staff. A final r
+eport or presentation is required. A maximum of three units 
+of H194 may be used to fulfill a technical elective requirem
+ent in the Nuclear Engineering general program or joint majo
+r programs."
+NUC ENG 198,1,Group studies of selected topics.
+NUC ENG 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the Introduction to Courses and Curricula section of th
+is catalog."
+NUC ENG S199,1,"Supervised independent study. Please see section of the for 
+description and prerequisites."
+MEC ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+MEC ENG 40,1,"This course introduces the scientific principles that deal w
+ith energy conversion among different forms, such as heat, w
+ork, internal, electrical, and chemical energy. The physical
+ science of heat and temperature, and their relations to ene
+rgy and work, are analyzed on the basis of the four fundamen
+tal thermodynamic laws (zeroth, first, second, and third). T
+hese principles are applied to various practical systems, in
+cluding"
+MEC ENG C85,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+MEC ENG W85,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+MEC ENG 98,1,"Organized group study on various topics under the sponsorshi
+p and direction of a member of the Mechanical Engineering fa
+culty."
+MEC ENG 100,1,"Electronics and Electrical Engineering has become pervasive 
+in our lives as a powerful technology with applications in a
+ wide range of fields including healthcare, environmental mo
+nitoring, robotics, or entertainment. This course offers a b
+road survey of Electrical Engineering ideas to non-majors. I
+n the laboratory students will learn in-depth how to design 
+and build systems that exchange information with or are cont
+rolled from the cloud. Examples include"
+MEC ENG 101,1,"Fundamentals of lean manufacturing systems including manufac
+turing fundamentals, unit operations and manufacturing line 
+considerations for work in process (WIP), manufacturing lead
+ time (MLT), economics, quality monitoring; high mix/low vol
+ume (HMLV) systems fundamentals including just in time (JIT)
+, kanban, buffers and line balancing; class project/case stu
+dies for design and analysis of competitive manufacturing sy
+stems."
+MEC ENG 102B,1,"Introduction to design and realization of mechatronics syste
+ms. Micro computer architectures. Basic computer IO devices.
+ Embedded microprocessor systems and control, IO programming
+ such as analogue to digital converters, PWM, serial and par
+allel outputs. Electrical components such as power supplies,
+ operational amplifiers, transformers and filters. Shielding
+ and grounding. Design of electric, hydraulic and pneumatic 
+actuators. Design of sensors."
+MEC ENG 103,1,"This course introduces students to modern experimental techn
+iques for mechanical engineering, and improves students’ tea
+mwork and communication skills. Students will work in a labo
+ratory setting on systems ranging in complexity from desktop
+ experiments with only a few instruments up to systems such 
+as an internal combustion engine with a wide variety of sens
+ors. State-of-the-art software for data acquisition and anal
+ysis will be introduced"
+MEC ENG 104,1,"This course is an introduction to the dynamics of particles 
+and rigid bodies. The material, based on a Newtonian formula
+tion of the governing equations, is illustrated with numerou
+s examples ranging from one-dimensional motion of a single p
+article to planar motions of rigid bodies and systems of rig
+id bodies."
+MEC ENG 106,1,"This course introduces the fundamentals and techniques of fl
+uid mechanics with the aim of describing and controlling eng
+ineering flows."
+MEC ENG 108,1,"This course covers elastic and plastic deformation under sta
+tic and dynamic loads. Failure by yielding, fracture, fatigu
+e, wear, and environmental factors are also examined. Topics
+ include engineering materials, heat treatment, structure-pr
+operty relationships, elastic deformation and multiaxial loa
+ding, plastic deformation and yield criteria, dislocation pl
+asticity and strengthening mechanisms, creep, stress concent
+ration effects, fracture"
+MEC ENG 109,1,"This course covers transport processes of mass, momentum, an
+d energy from a macroscopic view with emphasis both on under
+standing why matter behaves as it does and on developing pra
+ctical problem solving skills. The course is divided into fo
+ur parts: introduction, conduction, convection, and radiatio
+n."
+MEC ENG 110,1,"The course provides project-based learning experience in inn
+ovative new product development, with a focus on mechanical 
+engineering systems. Design concepts and techniques are intr
+oduced, and the student's design ability is developed in a d
+esign or feasibility study chosen to emphasize ingenuity and
+ provide wide coverage of engineering topics. Relevant softw
+are will be integrated into studio sessions, including"
+MEC ENG C115,1,"This course applies methods of statistical continuum mechani
+cs to subcellar biomechanical phenomena ranging from nanosca
+le (molecular) to microscale (whole cell and cell population
+) biological processes at the interface of mechanics, biolog
+y, and chemistry."
+MEC ENG C117,1,"This course covers the structure and mechanical functions of
+ load bearing tissues and their replacements. Natural and sy
+nthetic load-bearing biomaterials for clinical applications 
+are reviewed. Biocompatibility of biomaterials and host resp
+onse to structural implants are examined. Quantitative treat
+ment of biomechanical issues and constitutive relationships 
+of tissues are covered in order to design biomaterial replac
+ements for structural"
+MEC ENG 118,1,"This course introduces engineering students (juniors and sen
+iors) to the field of nanotechnology and nanoscience. The co
+urse has two components: (1) Formal lectures. Students recei
+ve a set of formal lectures introducing them to the field of
+ nanotechnology and nanoscience. The material covered includ
+es nanofabrication technology (how one achieves the nanomete
+r length scale, from ""bottom up"" to ""top down"" technologies)
+,"
+MEC ENG 119,1,"Fundamentals of microelectromechanical systems including des
+ign, fabrication of microstructures; surface-micromachining,
+ bulk-micromachining, LIGA, and other micro machining proces
+ses; fabrication principles of integrated circuit device and
+ their applications for making MEMS devices; high-aspect-rat
+io microstructures; scaling issues in the micro scale (heat 
+transfer, fluid mechanics and solid mechanics); device desig
+n, analysis, and mask layou"
+MEC ENG 120,1,"This course applies the methods of computational modeling an
+d continuum mechanics to biomedical phenomena spanning vario
+us length scales ranging from molecular to cellular to tissu
+e and organ levels. The course is intended for upper level u
+ndergraduate students who have been exposed to undergraduate
+ continuum mechanics (statics and strength of materials.)"
+MEC ENG 122,1,"Fundamentals of manufacturing processes (metal forming, forg
+ing, metal cutting, welding, joining, and casting); selectio
+n of metals, plastics, and other materials relative to the d
+esign and choice of manufacturing processes; geometric dimen
+sioning and tolerancing of all processes."
+MEC ENG 125,1,"iACME provide opportunities for Mechanical Engineering under
+graduates to tackle real-world engineering problems. Student
+ teams, consisting of no more than four students, will apply
+ to work on specific industry- initiated projects. Teams wil
+l be selected based on prior experience in research/internsh
+ips, scholastic achievements in ME courses, and most importa
+ntly, proposed initial approaches toward tackling the specif
+ic project. ME faculty, alumni of the Mechanical"
+MEC ENG 130,1,"Synthesis, analysis, and design of planar machines. Kinemati
+c structure, graphical, analytical, and numerical analysis a
+nd synthesis. Linkages, cams, reciprocating engines, gear tr
+ains, and flywheels."
+MEC ENG 131,1,"Physical understanding of automotive vehicle dynamics includ
+ing simple lateral, longitudinal and ride quality models. An
+ overview of active safety systems will be introduced includ
+ing the basic concepts and terminology, the state-of-the-art
+ development, and basic principles of systems such as ABS, t
+raction control, dynamic stability control, and roll stabili
+ty control. Passive, semi-active and active suspension syste
+ms will be analyzed. Concepts"
+MEC ENG 132,1,"Physical understanding of dynamics and feedback. Linear feed
+back control of dynamic systems. Mathematical tools for anal
+ysis and design. Stability. Modeling systems with differenti
+al equations. Linearization. Solution to linear, time-invari
+ant differential equations."
+MEC ENG 133,1,"An introduction to the theory of mechanical vibrations inclu
+ding topics of harmonic motion, resonance, transient and ran
+dom excitation, applications of Fourier analysis and convolu
+tion methods. Multidegree of freedom discrete systems includ
+ing principal mode, principal coordinates and Rayleigh's pri
+nciple."
+MEC ENG C134,1,"Analysis and synthesis of linear feedback control systems in
+ transform and time domains. Control system design by root l
+ocus, frequency response, and state space methods. Applicati
+ons to electro-mechanical and mechatronics systems."
+MEC ENG 135,1,"This course provides preparation for the conceptual design a
+nd prototyping of mechanical systems that use microprocessor
+s to control machine activities, acquire and analyze data, a
+nd interact with operators. The architecture of microprocess
+ors is related to problems in mechanical systems through stu
+dy of systems, including electro-mechanical components, ther
+mal components and a variety of instruments. Laboratory exer
+cises lead through studies"
+MEC ENG 136,1,"This course introduces students to the control of unmanned a
+erial vehicles (UAVs). The course will cover modeling and dy
+namics of aerial vehicles, and common control strategies. La
+boratory exercises allow students to apply knowledge on a re
+al system, by programming a microcontroller to control a UAV
+."
+MEC ENG 138,1,"This hands-on laboratory course focuses on the mechanical en
+gineering principles that underlie the design, fabricaton, a
+nd operation of micro/nanoscale mechanical systems, includin
+g devices made by nanowire/nanotube syntheses; photolithogra
+phy/soft lithography; and molding processes. Each laboratory
+ will have different focuses for basic understanding of MEMS
+/NEMS systems from prototype constructions to experimental t
+estings using mechanical"
+MEC ENG 140,1,"Fundamentals of combustion, flame structure, flame speed, fl
+ammability, ignition, stirred reaction, kinetics and nonequi
+librium processes, pollutant formation. Application to engin
+es, energy production and fire safety."
+MEC ENG 146,1,"This course covers the fundamental principles of energy conv
+ersion processes, followed by development of theoretical and
+ computational tools that can be used to analyze energy conv
+ersion processes. The course also introduces the use of mode
+rn computational methods to model energy conversion performa
+nce characteristics of devices and systems. Performance feat
+ures, sources of inefficiencies, and optimal design strategi
+es are explored for a variety"
+MEC ENG 150A,1,"This course addresses all aspects of design, analysis, const
+ruction and economics of solar-powered vehicles. It begins w
+ith an examination of the fundamentals of photovoltaic solar
+ power generation, and the capabilities and limitations that
+ exist when using this form of renewable energy. The efficie
+ncy of energy conversion and storage will be evaluated acros
+s an entire system, from the solar energy that is"
+MEC ENG 151,1,"Basic principles of heat transfer and their application. Sub
+ject areas include steady-state and transient system analyse
+s for conduction, free and forced convection, boiling, conde
+nsation and thermal radiation."
+MEC ENG 151A,1,"Fundamentals of conductive heat transfer. Analytical and num
+erical methods for heat conduction in rigid media. Fundament
+als of radiative transfer. Radiative properties of solids, l
+iquids and gas media. Radiative transport modeling in enclos
+ures and participating media."
+MEC ENG 151B,1,"The transport of heat and mass in fluids in motion; free and
+ forced convection in laminar and turbulent flow over surfac
+es and within ducts. Fundamentals of computational methods u
+sed for solving the governing transport equations will also 
+be covered."
+MEC ENG 153,1,"Fundamentals of electromagnetic theory, principles of optics
+, waves, diffraction theory, interference, geometrical optic
+s, scattering, theory of molecular spectra, optical and spec
+troscopic instrumentation. Lasers and laser materials proces
+sing, laser spectroscopy. Modern optics, plasmonics."
+MEC ENG 154,1,"Development of classical thermodynamics from statistical tre
+atment of microscale molecular behavior; Boltzmann distribut
+ion; partition functions; statistical-mechanical evaluation 
+of thermodynamic properties; equilibrium; chemical equilibri
+um; phase transitions; molecular collisions; Maxwell-Boltzma
+nn distribution; collision theory; elementary kinetic theory
+; molecular dynamics simulation of molecular collisions; kin
+etic Monte Carlo simulations of gas-phase"
+MEC ENG 160,1,"Lectures on new developments in ocean, offshore, and arctic 
+engineering."
+MEC ENG 163,1,"Introduction to the lift, drag, and moment of two-dimensiona
+l airfoils, three-dimensional wings, and the complete airpla
+ne. Calculations of the performance and stability of airplan
+es in subsonic flight."
+MEC ENG 164,1,"Terminology and definition of hull forms, conditions of stat
+ic equilibrium and stability of floating submerged bodies. E
+ffects of damage on stability. Structural loads and response
+. Box girder theory. Isotropic and orthotropic plate bending
+ and bucking."
+MEC ENG 165,1,"Ocean environment. Physical properties and characteristics o
+f the oceans. Global conservation laws. Surface-waves genera
+tion. Gravity-wave mechanics, kinematics, and dynamics. Desi
+gn consideration of ocean vehicles and systems. Model-testin
+g techniques. Prediction of resistance and response in waves
+--physical modeling and computer models."
+MEC ENG 167,1,"Phenomena of physical, technological, and biological signifi
+cance in flows of gases and liquids at the microscale. The c
+ourse begins with familiar equations of Newtonian fluid mech
+anics, then proceeds to the study of essentially 1-D flows i
+n confined geometries with the lubrication equations. Next i
+s a study of the flow of thin films spreading under gravity 
+or surface tension gradients. Lubrication theory of compress
+ible gases leads to consideration"
+MEC ENG 168,1,"This course covers major aspects of offshore engineering inc
+luding ocean environment, loads on offshore structures, cabl
+es and mooring, underwater acoustics and arctic operations."
+MEC ENG 170,1,"This course builds upon material learned in 104, examining t
+he dynamics of particles and rigid bodies moving in three di
+mensions. Topics include non-fixed axis rotations of rigid b
+odies, Euler angles and parameters, kinematics of rigid bodi
+es, and the Newton-Euler equations of motion for rigid bodie
+s. The course material will be illustrated with real-world e
+xamples such as gyroscopes, spinning tops, vehicles, and sat
+ellites. Applications"
+MEC ENG 173,1,"Plane and spherical sound waves. Sound intensity. Propagatio
+n in tubes and horns. Resonators. Standing waves. Radiation 
+from oscillating surface. Reciprocity. Reverberation and dif
+fusion. Electro-acoustic loud speaker and microphone problem
+s. Environmental and architectural acoustics. Noise measurem
+ent and control. Effects on man."
+MEC ENG 174,1,"Oscillations in nonlinear systems having one or two degrees 
+of freedom. Graphical, iteration, perturbation, and asymptot
+ic methods. Self-excited oscillations and limit cycles. Rand
+om variables and random processes. Analysis of linear and no
+nlinear, discrete and continuous, mechanical systems under s
+tationary and non-stationary excitations."
+MEC ENG 175,1,"This course introduces and investigates Lagrange's equations
+ of motion for particles and rigid bodies. The subject matte
+r is particularly relevant to applications comprised of inte
+rconnected and constrained discrete mechanical components. T
+he material is illustrated with numerous examples. These ran
+ge from one-dimensional motion of a single particle to three
+-dimensional motions of rigid bodies and systems of rigid bo
+dies."
+MEC ENG C176,1,"Statics, dynamics, optimization theory, composite beam theor
+y, beam-on-elastic foundation theory, Hertz contact theory, 
+and materials behavior. Forces and moments acting on human j
+oints; composition and mechanical behavior of orthopedic bio
+materials; design/analysis of artificial joint, spine, and f
+racture fixation prostheses; musculoskeletal tissues includi
+ng bone, cartilage, tendon, ligament, and muscle; osteoporos
+is and fracture-risk predication"
+MEC ENG C178,1,"The course provides project-based learning experience in und
+erstanding product design, with a focus on the human body as
+ a mechanical machine. Students will learn the design of ext
+ernal devices used to aid or protect the body. Topics will i
+nclude forces acting on internal materials (e.g., muscles an
+d total replacement devices), forces acting on external mate
+rials (e.g., prothetics and crash pads), design/analysis of 
+devices aimed to improve or"
+MEC ENG 179,1,"This course provides hands-on experience in designing prosth
+eses and assistive technologies using user-centered design. 
+Students will develop a fundamental understanding of the sta
+te-of-the-art, design processes and product realization. Tea
+ms will prototype a novel solution to a disabilities-related
+ challenge, focusing on upper-limb mobility or dexterity. Le
+ssons will cover biomechanics of human manipulation, tactile
+ sensing and haptics, actuation and mechanism robustness"
+MEC ENG C180,1,"This is an introductory course on the finite element method 
+and is intended for seniors in engineering and applied scien
+ce disciplines. The course covers the basic topics of finite
+ element technology, including domain discretization, polyno
+mial interpolation, application of boundary conditions, asse
+mbly of global arrays, and solution of the resulting algebra
+ic systems. Finite element formulations for several importan
+t field equations are introduced"
+MEC ENG 185,1,"This course is a general introduction to the fundamental con
+cepts of the mechanics of continuous media. Topics covered i
+nclude the kinematics of deformation, the concept of stress,
+ and the conservation laws for mass, momentum and energy. Th
+is is followed by an introduction to constitutive theory wit
+h applications to well-established models for viscous fluids
+ and elastic solids. The concepts are illustrated through th
+e solution of tractable initial-boundary-value"
+MEC ENG 190L,1,"After a review of basic loopshaping, we introduce the loopsh
+aping design methodology of McFarlane and Glover, and learn 
+how to use it effectively. The remainder of the course studi
+es the mathematics underlying the new method (one of the mos
+t prevalent advanced techniques used in industry) justifying
+ its validity."
+MEC ENG 190M,1,"Basics on optimization and polyhedra manipulation. Analysis 
+and design of constrained predictive controllers for linear 
+and nonlinear systems."
+MEC ENG 190Y,1,"The Youla-parametrization of all stabilizing controllers all
+ows certain time-domain and frequency-domain closed-loop des
+ign objectives to be cast as convex optimizations, and solve
+d reliably using off-the-shelf numerical optimization codes.
+ This course covers the Youla parametrization, basic element
+s of convex optimization, and finally control design using t
+hese techniques."
+MEC ENG 191K,1,"This course is designed to enhance students' written and ora
+l communication skills. Written work consists of informal do
+cuments--correspondence, internal reports, and reviews--and 
+formal work--proposals, conference papers, journal articles,
+ and websites. Presentations consist of informal and formal 
+reports, including job and media interviews, phone interview
+s, conference calls, video conferences"
+MEC ENG 193A,1,"This 193 series covers current topics of research interest i
+n biomechanical engineering. The course content may vary sem
+ester to semester. Check with the department for current ter
+m topics."
+MEC ENG 193B,1,"This 193 series covers current topics of research interest i
+n controls. The course content may vary semester to semester
+. Check with the department for current term topics."
+MEC ENG 193C,1,"This 193 series covers current topics of research interest i
+n design. The course content may vary semester to semester. 
+Check with the department for current term topics."
+MEC ENG 193D,1,"This 193 series covers current topics of research interest i
+n dynamics. The course content may vary semester to semester
+. Check with the department for current term topics."
+MEC ENG 193E,1,"This 193 series covers current topics of research interest i
+n energy science and technology. The course content may vary
+ semester to semester. Check with the department for current
+ term topics."
+MEC ENG 193F,1,"This 193 series covers current topics of research interest i
+n fluids. The course content may vary semester to semester. 
+Check with the department for current term topics."
+MEC ENG 193G,1,"This 193 series covers current topics of research interest i
+n manufacturing. The course content may vary semester to sem
+ester. Check with the department for current term topics."
+MEC ENG 193H,1,"This 193 series covers current topics of research interest i
+n materials. The course content may vary semester to semeste
+r. Check with the department for current term topics."
+MEC ENG 193I,1,"This 193 series covers current topics of research interest i
+n mechanics. The course content may vary semester to semeste
+r. Check with the department for current term topics."
+MEC ENG 193J,1,"This 193 series covers current topics of research interest i
+n MEMS/nano. The course content may vary semester to semeste
+r. Check with the department for current term topics."
+MEC ENG 193K,1,"This 193 series covers current topics of research interest i
+n ocean engineering. The course content may vary semester to
+ semester. Check with the department for current term topics
+."
+MEC ENG H194,1,"Final report required. Students who have completed a satisfa
+ctory number of advanced courses may pursue original researc
+h under the direction of one of the members of the faculty. 
+A maximum of three units of H194 may be used to fulfill tech
+nical elective requirements in the Mechanical Engineering pr
+ogram (unlike 198 or 199, which do not satisfy technical ele
+ctive requirements). Students can use a maximum of three uni
+ts of graded"
+MEC ENG 196,1,"Students who have completed a satisfactory number of advance
+d courses may pursue original research under the direction o
+f one of the members of the staff. A maximum of three units 
+of 196 may be used to fulfill technical elective requirement
+s in the Mechanical Engineering program (unlike 198 or 199, 
+which do not satisfy technical elective requirements). Stude
+nts can use a maximum of three units of graded research unit
+s (H194 or 196) towards"
+MEC ENG 197,1,"Supervised experience relative to specific aspects of practi
+ce in engineering. Under guidance of a faculty member, the s
+tudent will work in industry, primarily in an internship set
+ting or another type of short-time status. Emphasis is to at
+tain practical experience in the field."
+MEC ENG 198,1,"Group study of a selected topic or topics in Mechanical Engi
+neering. Credit for 198 or 199 courses combined may not exce
+ed 4 units in any single term. See College for other restric
+tions."
+MEC ENG 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the introduction to Courses and Curricula section of th
+is catalog."
+NUC ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+NUC ENG 100,1,"The class provides students with an overview of the contempo
+rary nuclear energy technology with emphasis on nuclear fiss
+ion as an energy source. Starting with the basic physics of 
+the nuclear fission process, the class includes discussions 
+on reactor control, thermal hydraulics, fuel production, and
+ spent fuel management for various types of reactors in use 
+around the world as well as analysis of safety and other nuc
+lear-related issues. This"
+NUC ENG 101,1,"Energetics and kinetics of nuclear reactions and radioactive
+ decay, fission, fusion, and reactions of low-energy neutron
+s; properties of the fission products and the actinides; nuc
+lear models and transition probabilities; interaction of rad
+iation with matter."
+NUC ENG 102,1,"Laboratory course in nuclear physics. Experiments will allow
+ students to directly observe phenomena discussed in Nuclear
+ Engineering 101. These experiments will give students expos
+ure to (1) electronics, (2) alpha, beta, gamma radiation det
+ectors, (3) radioactive sources, and (4) experimental method
+s relevant for all aspects of nuclear science. Experiments i
+nclude: Rutherford scattering, x-ray fluorescence, muon life
+time, gamma-gamma angular"
+NUC ENG 104,1,"Basic science of radiation measurement, nuclear instrumentat
+ion, neutronics, radiation dosimetry. The lectures emphasize
+ the principles of radiation detection. The weekly laborator
+y applies a variety of radiation detection systems to the pr
+actical measurements of interest for nuclear power, nuclear 
+and non-nuclear science, and environmental applications. Stu
+dents present goals and approaches of the experiements being
+ performed."
+NUC ENG 107,1,"Introduction to medical imaging physics and systems, includi
+ng x-ray computed tomography (CT), nuclear magnetic resonanc
+e (NMR), positron emission tomography (PET), and SPECT; basi
+c principles of tomography and an introduction to unfolding 
+methods; resolution effects of counting statistics, inherent
+ system resolution and human factors."
+NUC ENG 120,1,"Effects of irradiation on the atomic and mechanical properti
+es of materials in nuclear reactors. Fission product swellin
+g and release; neutron damage to structural alloys; fabricat
+ion and properties of uranium dioxide fuel."
+NUC ENG 124,1,"Components and material flowsheets for nuclear fuel cycle, w
+aste characteristics, sources of radioactive wastes, composi
+tions, radioactivity and heat generation; waste treatment te
+chnologies; waste disposal technologies; safety assessment o
+f waste disposal."
+NUC ENG 130,1,"Use of nuclear measurement techniques to detect clandestine 
+movement and/or possession of nuclear materials by third par
+ties. Nuclear detection, forensics, signatures, and active a
+nd passive interrogation methodologies will be explored. Tec
+hniques currently deployed for arms control and treaty verif
+ication will be discussed. Emphasis will be placed on common
+ elements of detection technology from the viewpoint of reso
+lution of threat signatures"
+NUC ENG 150,1,"Neutron interactions, nuclear fission, and chain reacting sy
+stematics in thermal and fast nuclear reactors. Diffusion an
+d slowing down of neutrons. Criticality calculations. Nuclea
+r reactor dynamics and reactivity feedback. Production of ra
+dionuclides in nuclear reactors."
+NUC ENG 155,1,"Computational methods used to analyze radiation transport de
+scribed by various differential, integral, and integro-diffe
+rential equations. Numerical methods include finite differen
+ce, finite elements, discrete ordinates, and Monte Carlo. Ex
+amples from neutron and photon transport; numerical solution
+s of neutron/photon diffusion and transport equations. Monte
+ Carlo simulations of photon and neutron transport. An overv
+iew of optimization techniques"
+NUC ENG 156,1,"This course provides an introduction to the field of nuclear
+ criticality safety. Topics include: a review of basic conce
+pts related to criticality (fission, cross sections, multipl
+ication factor, etc.); criticality safety accidents; standar
+ds applicable to criticality safety; hand calculations and M
+onte Carlo methods used in criticality safety analysis; crit
+icality safety evaluation documents."
+NUC ENG 161,1,"Energy conversion in nuclear power systems; design of fissio
+n reactors; thermal and structural analysis of reactor core 
+and plant components; thermal-hydraulic analysis of accident
+s in nuclear power plants; safety evaluation and engineered 
+safety systems."
+NUC ENG 162,1,"Interaction of radiation with matter; physical, chemical, an
+d biological effects of radiation on human tissues; dosimetr
+y units and measurements; internal and external radiation fi
+elds and dosimetry; radiation exposure regulations; sources 
+of radiation and radioactivity; basic shielding concepts; el
+ements of radiation protection and control; theories and mod
+els for cell survival, radiation sensitivity, carcinogenesis
+, and dose calculatio"
+NUC ENG 167,1,"Project-based class for design and licensing of nuclear faci
+lities, including advanced reactors. Elements of a project p
+roposal. Regulatory framework and use of deterministic and p
+robabilistic licensing criteria. Siting criteria. External a
+nd internal events. Identification and analysis of design ba
+sis and beyond design basis events. Communication with regul
+ators and stakeholders. Ability to work in and contribute to
+ a design team."
+NUC ENG 170A,1,"Design of various fission and fusion power systems and other
+ physically based applications. Each semester a topic will b
+e chosen by the class as a whole. In addition to technology,
+ the design should address issues relating to economics, the
+ environment, and risk assessment."
+NUC ENG 170B,1,"A systems approach to the development of procedures for nucl
+ear medicine and radiation therapy. Each semester a specific
+ procedure will be studied and will entail the development o
+f the biological and physiological basis for a procedure, th
+e chemical and biochemical characteristics of appropriate dr
+ugs, dosimetric requirements and limitations, the production
+ and distribution of radionuclides and/or radiation fields t
+o be applied, and the"
+NUC ENG 175,1,"Methodological approaches for the quantification of technolo
+gical risk and risk based decision making. Probabilistic saf
+ety assessment, human health risks, environmental and ecolog
+ical risk analysis."
+NUC ENG 180,1,"Introduction to energy production by controlled thermonuclea
+r reactions. Nuclear fusion reactions, energy balances for f
+usion systems, survey of plasma physics; neutral beam inject
+ion; RF heating methods; vacuum systems; tritium handling."
+NUC ENG H194,1,"Supervised research. Students who have completed three or mo
+re upper division courses may pursue original research under
+ the direction of one of the members of the staff. A final r
+eport or presentation is required. A maximum of three units 
+of H194 may be used to fulfill a technical elective requirem
+ent in the Nuclear Engineering general program or joint majo
+r programs."
+NUC ENG 198,1,Group studies of selected topics.
+NUC ENG 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the Introduction to Courses and Curricula section of th
+is catalog."
+NUC ENG S199,1,"Supervised independent study. Please see section of the for 
+description and prerequisites."
+MEC ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+MEC ENG 40,1,"This course introduces the scientific principles that deal w
+ith energy conversion among different forms, such as heat, w
+ork, internal, electrical, and chemical energy. The physical
+ science of heat and temperature, and their relations to ene
+rgy and work, are analyzed on the basis of the four fundamen
+tal thermodynamic laws (zeroth, first, second, and third). T
+hese principles are applied to various practical systems, in
+cluding"
+MEC ENG C85,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+MEC ENG W85,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+MEC ENG 98,1,"Organized group study on various topics under the sponsorshi
+p and direction of a member of the Mechanical Engineering fa
+culty."
+MEC ENG 100,1,"Electronics and Electrical Engineering has become pervasive 
+in our lives as a powerful technology with applications in a
+ wide range of fields including healthcare, environmental mo
+nitoring, robotics, or entertainment. This course offers a b
+road survey of Electrical Engineering ideas to non-majors. I
+n the laboratory students will learn in-depth how to design 
+and build systems that exchange information with or are cont
+rolled from the cloud. Examples include"
+MEC ENG 101,1,"Fundamentals of lean manufacturing systems including manufac
+turing fundamentals, unit operations and manufacturing line 
+considerations for work in process (WIP), manufacturing lead
+ time (MLT), economics, quality monitoring; high mix/low vol
+ume (HMLV) systems fundamentals including just in time (JIT)
+, kanban, buffers and line balancing; class project/case stu
+dies for design and analysis of competitive manufacturing sy
+stems."
+MEC ENG 102B,1,"Introduction to design and realization of mechatronics syste
+ms. Micro computer architectures. Basic computer IO devices.
+ Embedded microprocessor systems and control, IO programming
+ such as analogue to digital converters, PWM, serial and par
+allel outputs. Electrical components such as power supplies,
+ operational amplifiers, transformers and filters. Shielding
+ and grounding. Design of electric, hydraulic and pneumatic 
+actuators. Design of sensors."
+MEC ENG 103,1,"This course introduces students to modern experimental techn
+iques for mechanical engineering, and improves students’ tea
+mwork and communication skills. Students will work in a labo
+ratory setting on systems ranging in complexity from desktop
+ experiments with only a few instruments up to systems such 
+as an internal combustion engine with a wide variety of sens
+ors. State-of-the-art software for data acquisition and anal
+ysis will be introduced"
+MEC ENG 104,1,"This course is an introduction to the dynamics of particles 
+and rigid bodies. The material, based on a Newtonian formula
+tion of the governing equations, is illustrated with numerou
+s examples ranging from one-dimensional motion of a single p
+article to planar motions of rigid bodies and systems of rig
+id bodies."
+MEC ENG 106,1,"This course introduces the fundamentals and techniques of fl
+uid mechanics with the aim of describing and controlling eng
+ineering flows."
+MEC ENG 108,1,"This course covers elastic and plastic deformation under sta
+tic and dynamic loads. Failure by yielding, fracture, fatigu
+e, wear, and environmental factors are also examined. Topics
+ include engineering materials, heat treatment, structure-pr
+operty relationships, elastic deformation and multiaxial loa
+ding, plastic deformation and yield criteria, dislocation pl
+asticity and strengthening mechanisms, creep, stress concent
+ration effects, fracture"
+MEC ENG 109,1,"This course covers transport processes of mass, momentum, an
+d energy from a macroscopic view with emphasis both on under
+standing why matter behaves as it does and on developing pra
+ctical problem solving skills. The course is divided into fo
+ur parts: introduction, conduction, convection, and radiatio
+n."
+MEC ENG 110,1,"The course provides project-based learning experience in inn
+ovative new product development, with a focus on mechanical 
+engineering systems. Design concepts and techniques are intr
+oduced, and the student's design ability is developed in a d
+esign or feasibility study chosen to emphasize ingenuity and
+ provide wide coverage of engineering topics. Relevant softw
+are will be integrated into studio sessions, including"
+MEC ENG C115,1,"This course applies methods of statistical continuum mechani
+cs to subcellar biomechanical phenomena ranging from nanosca
+le (molecular) to microscale (whole cell and cell population
+) biological processes at the interface of mechanics, biolog
+y, and chemistry."
+MEC ENG C117,1,"This course covers the structure and mechanical functions of
+ load bearing tissues and their replacements. Natural and sy
+nthetic load-bearing biomaterials for clinical applications 
+are reviewed. Biocompatibility of biomaterials and host resp
+onse to structural implants are examined. Quantitative treat
+ment of biomechanical issues and constitutive relationships 
+of tissues are covered in order to design biomaterial replac
+ements for structural"
+MEC ENG 118,1,"This course introduces engineering students (juniors and sen
+iors) to the field of nanotechnology and nanoscience. The co
+urse has two components: (1) Formal lectures. Students recei
+ve a set of formal lectures introducing them to the field of
+ nanotechnology and nanoscience. The material covered includ
+es nanofabrication technology (how one achieves the nanomete
+r length scale, from ""bottom up"" to ""top down"" technologies)
+,"
+MEC ENG 119,1,"Fundamentals of microelectromechanical systems including des
+ign, fabrication of microstructures; surface-micromachining,
+ bulk-micromachining, LIGA, and other micro machining proces
+ses; fabrication principles of integrated circuit device and
+ their applications for making MEMS devices; high-aspect-rat
+io microstructures; scaling issues in the micro scale (heat 
+transfer, fluid mechanics and solid mechanics); device desig
+n, analysis, and mask layou"
+MEC ENG 120,1,"This course applies the methods of computational modeling an
+d continuum mechanics to biomedical phenomena spanning vario
+us length scales ranging from molecular to cellular to tissu
+e and organ levels. The course is intended for upper level u
+ndergraduate students who have been exposed to undergraduate
+ continuum mechanics (statics and strength of materials.)"
+MEC ENG 122,1,"Fundamentals of manufacturing processes (metal forming, forg
+ing, metal cutting, welding, joining, and casting); selectio
+n of metals, plastics, and other materials relative to the d
+esign and choice of manufacturing processes; geometric dimen
+sioning and tolerancing of all processes."
+MEC ENG 125,1,"iACME provide opportunities for Mechanical Engineering under
+graduates to tackle real-world engineering problems. Student
+ teams, consisting of no more than four students, will apply
+ to work on specific industry- initiated projects. Teams wil
+l be selected based on prior experience in research/internsh
+ips, scholastic achievements in ME courses, and most importa
+ntly, proposed initial approaches toward tackling the specif
+ic project. ME faculty, alumni of the Mechanical"
+MEC ENG 130,1,"Synthesis, analysis, and design of planar machines. Kinemati
+c structure, graphical, analytical, and numerical analysis a
+nd synthesis. Linkages, cams, reciprocating engines, gear tr
+ains, and flywheels."
+MEC ENG 131,1,"Physical understanding of automotive vehicle dynamics includ
+ing simple lateral, longitudinal and ride quality models. An
+ overview of active safety systems will be introduced includ
+ing the basic concepts and terminology, the state-of-the-art
+ development, and basic principles of systems such as ABS, t
+raction control, dynamic stability control, and roll stabili
+ty control. Passive, semi-active and active suspension syste
+ms will be analyzed. Concepts"
+MEC ENG 132,1,"Physical understanding of dynamics and feedback. Linear feed
+back control of dynamic systems. Mathematical tools for anal
+ysis and design. Stability. Modeling systems with differenti
+al equations. Linearization. Solution to linear, time-invari
+ant differential equations."
+MEC ENG 133,1,"An introduction to the theory of mechanical vibrations inclu
+ding topics of harmonic motion, resonance, transient and ran
+dom excitation, applications of Fourier analysis and convolu
+tion methods. Multidegree of freedom discrete systems includ
+ing principal mode, principal coordinates and Rayleigh's pri
+nciple."
+MEC ENG C134,1,"Analysis and synthesis of linear feedback control systems in
+ transform and time domains. Control system design by root l
+ocus, frequency response, and state space methods. Applicati
+ons to electro-mechanical and mechatronics systems."
+MEC ENG 135,1,"This course provides preparation for the conceptual design a
+nd prototyping of mechanical systems that use microprocessor
+s to control machine activities, acquire and analyze data, a
+nd interact with operators. The architecture of microprocess
+ors is related to problems in mechanical systems through stu
+dy of systems, including electro-mechanical components, ther
+mal components and a variety of instruments. Laboratory exer
+cises lead through studies"
+MEC ENG 136,1,"This course introduces students to the control of unmanned a
+erial vehicles (UAVs). The course will cover modeling and dy
+namics of aerial vehicles, and common control strategies. La
+boratory exercises allow students to apply knowledge on a re
+al system, by programming a microcontroller to control a UAV
+."
+MEC ENG 138,1,"This hands-on laboratory course focuses on the mechanical en
+gineering principles that underlie the design, fabricaton, a
+nd operation of micro/nanoscale mechanical systems, includin
+g devices made by nanowire/nanotube syntheses; photolithogra
+phy/soft lithography; and molding processes. Each laboratory
+ will have different focuses for basic understanding of MEMS
+/NEMS systems from prototype constructions to experimental t
+estings using mechanical"
+MEC ENG 140,1,"Fundamentals of combustion, flame structure, flame speed, fl
+ammability, ignition, stirred reaction, kinetics and nonequi
+librium processes, pollutant formation. Application to engin
+es, energy production and fire safety."
+MEC ENG 146,1,"This course covers the fundamental principles of energy conv
+ersion processes, followed by development of theoretical and
+ computational tools that can be used to analyze energy conv
+ersion processes. The course also introduces the use of mode
+rn computational methods to model energy conversion performa
+nce characteristics of devices and systems. Performance feat
+ures, sources of inefficiencies, and optimal design strategi
+es are explored for a variety"
+MEC ENG 150A,1,"This course addresses all aspects of design, analysis, const
+ruction and economics of solar-powered vehicles. It begins w
+ith an examination of the fundamentals of photovoltaic solar
+ power generation, and the capabilities and limitations that
+ exist when using this form of renewable energy. The efficie
+ncy of energy conversion and storage will be evaluated acros
+s an entire system, from the solar energy that is"
+MEC ENG 151,1,"Basic principles of heat transfer and their application. Sub
+ject areas include steady-state and transient system analyse
+s for conduction, free and forced convection, boiling, conde
+nsation and thermal radiation."
+MEC ENG 151A,1,"Fundamentals of conductive heat transfer. Analytical and num
+erical methods for heat conduction in rigid media. Fundament
+als of radiative transfer. Radiative properties of solids, l
+iquids and gas media. Radiative transport modeling in enclos
+ures and participating media."
+MEC ENG 151B,1,"The transport of heat and mass in fluids in motion; free and
+ forced convection in laminar and turbulent flow over surfac
+es and within ducts. Fundamentals of computational methods u
+sed for solving the governing transport equations will also 
+be covered."
+MEC ENG 153,1,"Fundamentals of electromagnetic theory, principles of optics
+, waves, diffraction theory, interference, geometrical optic
+s, scattering, theory of molecular spectra, optical and spec
+troscopic instrumentation. Lasers and laser materials proces
+sing, laser spectroscopy. Modern optics, plasmonics."
+MEC ENG 154,1,"Development of classical thermodynamics from statistical tre
+atment of microscale molecular behavior; Boltzmann distribut
+ion; partition functions; statistical-mechanical evaluation 
+of thermodynamic properties; equilibrium; chemical equilibri
+um; phase transitions; molecular collisions; Maxwell-Boltzma
+nn distribution; collision theory; elementary kinetic theory
+; molecular dynamics simulation of molecular collisions; kin
+etic Monte Carlo simulations of gas-phase"
+MEC ENG 160,1,"Lectures on new developments in ocean, offshore, and arctic 
+engineering."
+MEC ENG 163,1,"Introduction to the lift, drag, and moment of two-dimensiona
+l airfoils, three-dimensional wings, and the complete airpla
+ne. Calculations of the performance and stability of airplan
+es in subsonic flight."
+MEC ENG 164,1,"Terminology and definition of hull forms, conditions of stat
+ic equilibrium and stability of floating submerged bodies. E
+ffects of damage on stability. Structural loads and response
+. Box girder theory. Isotropic and orthotropic plate bending
+ and bucking."
+MEC ENG 165,1,"Ocean environment. Physical properties and characteristics o
+f the oceans. Global conservation laws. Surface-waves genera
+tion. Gravity-wave mechanics, kinematics, and dynamics. Desi
+gn consideration of ocean vehicles and systems. Model-testin
+g techniques. Prediction of resistance and response in waves
+--physical modeling and computer models."
+MEC ENG 167,1,"Phenomena of physical, technological, and biological signifi
+cance in flows of gases and liquids at the microscale. The c
+ourse begins with familiar equations of Newtonian fluid mech
+anics, then proceeds to the study of essentially 1-D flows i
+n confined geometries with the lubrication equations. Next i
+s a study of the flow of thin films spreading under gravity 
+or surface tension gradients. Lubrication theory of compress
+ible gases leads to consideration"
+MEC ENG 168,1,"This course covers major aspects of offshore engineering inc
+luding ocean environment, loads on offshore structures, cabl
+es and mooring, underwater acoustics and arctic operations."
+MEC ENG 170,1,"This course builds upon material learned in 104, examining t
+he dynamics of particles and rigid bodies moving in three di
+mensions. Topics include non-fixed axis rotations of rigid b
+odies, Euler angles and parameters, kinematics of rigid bodi
+es, and the Newton-Euler equations of motion for rigid bodie
+s. The course material will be illustrated with real-world e
+xamples such as gyroscopes, spinning tops, vehicles, and sat
+ellites. Applications"
+MEC ENG 173,1,"Plane and spherical sound waves. Sound intensity. Propagatio
+n in tubes and horns. Resonators. Standing waves. Radiation 
+from oscillating surface. Reciprocity. Reverberation and dif
+fusion. Electro-acoustic loud speaker and microphone problem
+s. Environmental and architectural acoustics. Noise measurem
+ent and control. Effects on man."
+MEC ENG 174,1,"Oscillations in nonlinear systems having one or two degrees 
+of freedom. Graphical, iteration, perturbation, and asymptot
+ic methods. Self-excited oscillations and limit cycles. Rand
+om variables and random processes. Analysis of linear and no
+nlinear, discrete and continuous, mechanical systems under s
+tationary and non-stationary excitations."
+MEC ENG 175,1,"This course introduces and investigates Lagrange's equations
+ of motion for particles and rigid bodies. The subject matte
+r is particularly relevant to applications comprised of inte
+rconnected and constrained discrete mechanical components. T
+he material is illustrated with numerous examples. These ran
+ge from one-dimensional motion of a single particle to three
+-dimensional motions of rigid bodies and systems of rigid bo
+dies."
+MEC ENG C176,1,"Statics, dynamics, optimization theory, composite beam theor
+y, beam-on-elastic foundation theory, Hertz contact theory, 
+and materials behavior. Forces and moments acting on human j
+oints; composition and mechanical behavior of orthopedic bio
+materials; design/analysis of artificial joint, spine, and f
+racture fixation prostheses; musculoskeletal tissues includi
+ng bone, cartilage, tendon, ligament, and muscle; osteoporos
+is and fracture-risk predication"
+MEC ENG C178,1,"The course provides project-based learning experience in und
+erstanding product design, with a focus on the human body as
+ a mechanical machine. Students will learn the design of ext
+ernal devices used to aid or protect the body. Topics will i
+nclude forces acting on internal materials (e.g., muscles an
+d total replacement devices), forces acting on external mate
+rials (e.g., prothetics and crash pads), design/analysis of 
+devices aimed to improve or"
+MEC ENG 179,1,"This course provides hands-on experience in designing prosth
+eses and assistive technologies using user-centered design. 
+Students will develop a fundamental understanding of the sta
+te-of-the-art, design processes and product realization. Tea
+ms will prototype a novel solution to a disabilities-related
+ challenge, focusing on upper-limb mobility or dexterity. Le
+ssons will cover biomechanics of human manipulation, tactile
+ sensing and haptics, actuation and mechanism robustness"
+MEC ENG C180,1,"This is an introductory course on the finite element method 
+and is intended for seniors in engineering and applied scien
+ce disciplines. The course covers the basic topics of finite
+ element technology, including domain discretization, polyno
+mial interpolation, application of boundary conditions, asse
+mbly of global arrays, and solution of the resulting algebra
+ic systems. Finite element formulations for several importan
+t field equations are introduced"
+MEC ENG 185,1,"This course is a general introduction to the fundamental con
+cepts of the mechanics of continuous media. Topics covered i
+nclude the kinematics of deformation, the concept of stress,
+ and the conservation laws for mass, momentum and energy. Th
+is is followed by an introduction to constitutive theory wit
+h applications to well-established models for viscous fluids
+ and elastic solids. The concepts are illustrated through th
+e solution of tractable initial-boundary-value"
+MEC ENG 190L,1,"After a review of basic loopshaping, we introduce the loopsh
+aping design methodology of McFarlane and Glover, and learn 
+how to use it effectively. The remainder of the course studi
+es the mathematics underlying the new method (one of the mos
+t prevalent advanced techniques used in industry) justifying
+ its validity."
+MEC ENG 190M,1,"Basics on optimization and polyhedra manipulation. Analysis 
+and design of constrained predictive controllers for linear 
+and nonlinear systems."
+MEC ENG 190Y,1,"The Youla-parametrization of all stabilizing controllers all
+ows certain time-domain and frequency-domain closed-loop des
+ign objectives to be cast as convex optimizations, and solve
+d reliably using off-the-shelf numerical optimization codes.
+ This course covers the Youla parametrization, basic element
+s of convex optimization, and finally control design using t
+hese techniques."
+MEC ENG 191K,1,"This course is designed to enhance students' written and ora
+l communication skills. Written work consists of informal do
+cuments--correspondence, internal reports, and reviews--and 
+formal work--proposals, conference papers, journal articles,
+ and websites. Presentations consist of informal and formal 
+reports, including job and media interviews, phone interview
+s, conference calls, video conferences"
+MEC ENG 193A,1,"This 193 series covers current topics of research interest i
+n biomechanical engineering. The course content may vary sem
+ester to semester. Check with the department for current ter
+m topics."
+MEC ENG 193B,1,"This 193 series covers current topics of research interest i
+n controls. The course content may vary semester to semester
+. Check with the department for current term topics."
+MEC ENG 193C,1,"This 193 series covers current topics of research interest i
+n design. The course content may vary semester to semester. 
+Check with the department for current term topics."
+MEC ENG 193D,1,"This 193 series covers current topics of research interest i
+n dynamics. The course content may vary semester to semester
+. Check with the department for current term topics."
+MEC ENG 193E,1,"This 193 series covers current topics of research interest i
+n energy science and technology. The course content may vary
+ semester to semester. Check with the department for current
+ term topics."
+MEC ENG 193F,1,"This 193 series covers current topics of research interest i
+n fluids. The course content may vary semester to semester. 
+Check with the department for current term topics."
+MEC ENG 193G,1,"This 193 series covers current topics of research interest i
+n manufacturing. The course content may vary semester to sem
+ester. Check with the department for current term topics."
+MEC ENG 193H,1,"This 193 series covers current topics of research interest i
+n materials. The course content may vary semester to semeste
+r. Check with the department for current term topics."
+MEC ENG 193I,1,"This 193 series covers current topics of research interest i
+n mechanics. The course content may vary semester to semeste
+r. Check with the department for current term topics."
+MEC ENG 193J,1,"This 193 series covers current topics of research interest i
+n MEMS/nano. The course content may vary semester to semeste
+r. Check with the department for current term topics."
+MEC ENG 193K,1,"This 193 series covers current topics of research interest i
+n ocean engineering. The course content may vary semester to
+ semester. Check with the department for current term topics
+."
+MEC ENG H194,1,"Final report required. Students who have completed a satisfa
+ctory number of advanced courses may pursue original researc
+h under the direction of one of the members of the faculty. 
+A maximum of three units of H194 may be used to fulfill tech
+nical elective requirements in the Mechanical Engineering pr
+ogram (unlike 198 or 199, which do not satisfy technical ele
+ctive requirements). Students can use a maximum of three uni
+ts of graded"
+MEC ENG 196,1,"Students who have completed a satisfactory number of advance
+d courses may pursue original research under the direction o
+f one of the members of the staff. A maximum of three units 
+of 196 may be used to fulfill technical elective requirement
+s in the Mechanical Engineering program (unlike 198 or 199, 
+which do not satisfy technical elective requirements). Stude
+nts can use a maximum of three units of graded research unit
+s (H194 or 196) towards"
+MEC ENG 197,1,"Supervised experience relative to specific aspects of practi
+ce in engineering. Under guidance of a faculty member, the s
+tudent will work in industry, primarily in an internship set
+ting or another type of short-time status. Emphasis is to at
+tain practical experience in the field."
+MEC ENG 198,1,"Group study of a selected topic or topics in Mechanical Engi
+neering. Credit for 198 or 199 courses combined may not exce
+ed 4 units in any single term. See College for other restric
+tions."
+MEC ENG 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the introduction to Courses and Curricula section of th
+is catalog."
+NUC ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+NUC ENG 100,1,"The class provides students with an overview of the contempo
+rary nuclear energy technology with emphasis on nuclear fiss
+ion as an energy source. Starting with the basic physics of 
+the nuclear fission process, the class includes discussions 
+on reactor control, thermal hydraulics, fuel production, and
+ spent fuel management for various types of reactors in use 
+around the world as well as analysis of safety and other nuc
+lear-related issues. This"
+NUC ENG 101,1,"Energetics and kinetics of nuclear reactions and radioactive
+ decay, fission, fusion, and reactions of low-energy neutron
+s; properties of the fission products and the actinides; nuc
+lear models and transition probabilities; interaction of rad
+iation with matter."
+NUC ENG 102,1,"Laboratory course in nuclear physics. Experiments will allow
+ students to directly observe phenomena discussed in Nuclear
+ Engineering 101. These experiments will give students expos
+ure to (1) electronics, (2) alpha, beta, gamma radiation det
+ectors, (3) radioactive sources, and (4) experimental method
+s relevant for all aspects of nuclear science. Experiments i
+nclude: Rutherford scattering, x-ray fluorescence, muon life
+time, gamma-gamma angular"
+NUC ENG 104,1,"Basic science of radiation measurement, nuclear instrumentat
+ion, neutronics, radiation dosimetry. The lectures emphasize
+ the principles of radiation detection. The weekly laborator
+y applies a variety of radiation detection systems to the pr
+actical measurements of interest for nuclear power, nuclear 
+and non-nuclear science, and environmental applications. Stu
+dents present goals and approaches of the experiements being
+ performed."
+NUC ENG 107,1,"Introduction to medical imaging physics and systems, includi
+ng x-ray computed tomography (CT), nuclear magnetic resonanc
+e (NMR), positron emission tomography (PET), and SPECT; basi
+c principles of tomography and an introduction to unfolding 
+methods; resolution effects of counting statistics, inherent
+ system resolution and human factors."
+NUC ENG 120,1,"Effects of irradiation on the atomic and mechanical properti
+es of materials in nuclear reactors. Fission product swellin
+g and release; neutron damage to structural alloys; fabricat
+ion and properties of uranium dioxide fuel."
+NUC ENG 124,1,"Components and material flowsheets for nuclear fuel cycle, w
+aste characteristics, sources of radioactive wastes, composi
+tions, radioactivity and heat generation; waste treatment te
+chnologies; waste disposal technologies; safety assessment o
+f waste disposal."
+NUC ENG 130,1,"Use of nuclear measurement techniques to detect clandestine 
+movement and/or possession of nuclear materials by third par
+ties. Nuclear detection, forensics, signatures, and active a
+nd passive interrogation methodologies will be explored. Tec
+hniques currently deployed for arms control and treaty verif
+ication will be discussed. Emphasis will be placed on common
+ elements of detection technology from the viewpoint of reso
+lution of threat signatures"
+NUC ENG 150,1,"Neutron interactions, nuclear fission, and chain reacting sy
+stematics in thermal and fast nuclear reactors. Diffusion an
+d slowing down of neutrons. Criticality calculations. Nuclea
+r reactor dynamics and reactivity feedback. Production of ra
+dionuclides in nuclear reactors."
+NUC ENG 155,1,"Computational methods used to analyze radiation transport de
+scribed by various differential, integral, and integro-diffe
+rential equations. Numerical methods include finite differen
+ce, finite elements, discrete ordinates, and Monte Carlo. Ex
+amples from neutron and photon transport; numerical solution
+s of neutron/photon diffusion and transport equations. Monte
+ Carlo simulations of photon and neutron transport. An overv
+iew of optimization techniques"
+NUC ENG 156,1,"This course provides an introduction to the field of nuclear
+ criticality safety. Topics include: a review of basic conce
+pts related to criticality (fission, cross sections, multipl
+ication factor, etc.); criticality safety accidents; standar
+ds applicable to criticality safety; hand calculations and M
+onte Carlo methods used in criticality safety analysis; crit
+icality safety evaluation documents."
+NUC ENG 161,1,"Energy conversion in nuclear power systems; design of fissio
+n reactors; thermal and structural analysis of reactor core 
+and plant components; thermal-hydraulic analysis of accident
+s in nuclear power plants; safety evaluation and engineered 
+safety systems."
+NUC ENG 162,1,"Interaction of radiation with matter; physical, chemical, an
+d biological effects of radiation on human tissues; dosimetr
+y units and measurements; internal and external radiation fi
+elds and dosimetry; radiation exposure regulations; sources 
+of radiation and radioactivity; basic shielding concepts; el
+ements of radiation protection and control; theories and mod
+els for cell survival, radiation sensitivity, carcinogenesis
+, and dose calculatio"
+NUC ENG 167,1,"Project-based class for design and licensing of nuclear faci
+lities, including advanced reactors. Elements of a project p
+roposal. Regulatory framework and use of deterministic and p
+robabilistic licensing criteria. Siting criteria. External a
+nd internal events. Identification and analysis of design ba
+sis and beyond design basis events. Communication with regul
+ators and stakeholders. Ability to work in and contribute to
+ a design team."
+NUC ENG 170A,1,"Design of various fission and fusion power systems and other
+ physically based applications. Each semester a topic will b
+e chosen by the class as a whole. In addition to technology,
+ the design should address issues relating to economics, the
+ environment, and risk assessment."
+NUC ENG 170B,1,"A systems approach to the development of procedures for nucl
+ear medicine and radiation therapy. Each semester a specific
+ procedure will be studied and will entail the development o
+f the biological and physiological basis for a procedure, th
+e chemical and biochemical characteristics of appropriate dr
+ugs, dosimetric requirements and limitations, the production
+ and distribution of radionuclides and/or radiation fields t
+o be applied, and the"
+NUC ENG 175,1,"Methodological approaches for the quantification of technolo
+gical risk and risk based decision making. Probabilistic saf
+ety assessment, human health risks, environmental and ecolog
+ical risk analysis."
+NUC ENG 180,1,"Introduction to energy production by controlled thermonuclea
+r reactions. Nuclear fusion reactions, energy balances for f
+usion systems, survey of plasma physics; neutral beam inject
+ion; RF heating methods; vacuum systems; tritium handling."
+NUC ENG H194,1,"Supervised research. Students who have completed three or mo
+re upper division courses may pursue original research under
+ the direction of one of the members of the staff. A final r
+eport or presentation is required. A maximum of three units 
+of H194 may be used to fulfill a technical elective requirem
+ent in the Nuclear Engineering general program or joint majo
+r programs."
+NUC ENG 198,1,Group studies of selected topics.
+NUC ENG 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the Introduction to Courses and Curricula section of th
+is catalog."
+NUC ENG S199,1,"Supervised independent study. Please see section of the for 
+description and prerequisites."
+MEC ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+MEC ENG 40,1,"This course introduces the scientific principles that deal w
+ith energy conversion among different forms, such as heat, w
+ork, internal, electrical, and chemical energy. The physical
+ science of heat and temperature, and their relations to ene
+rgy and work, are analyzed on the basis of the four fundamen
+tal thermodynamic laws (zeroth, first, second, and third). T
+hese principles are applied to various practical systems, in
+cluding"
+MEC ENG C85,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+MEC ENG W85,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+MEC ENG 98,1,"Organized group study on various topics under the sponsorshi
+p and direction of a member of the Mechanical Engineering fa
+culty."
+MEC ENG 100,1,"Electronics and Electrical Engineering has become pervasive 
+in our lives as a powerful technology with applications in a
+ wide range of fields including healthcare, environmental mo
+nitoring, robotics, or entertainment. This course offers a b
+road survey of Electrical Engineering ideas to non-majors. I
+n the laboratory students will learn in-depth how to design 
+and build systems that exchange information with or are cont
+rolled from the cloud. Examples include"
+MEC ENG 101,1,"Fundamentals of lean manufacturing systems including manufac
+turing fundamentals, unit operations and manufacturing line 
+considerations for work in process (WIP), manufacturing lead
+ time (MLT), economics, quality monitoring; high mix/low vol
+ume (HMLV) systems fundamentals including just in time (JIT)
+, kanban, buffers and line balancing; class project/case stu
+dies for design and analysis of competitive manufacturing sy
+stems."
+MEC ENG 102B,1,"Introduction to design and realization of mechatronics syste
+ms. Micro computer architectures. Basic computer IO devices.
+ Embedded microprocessor systems and control, IO programming
+ such as analogue to digital converters, PWM, serial and par
+allel outputs. Electrical components such as power supplies,
+ operational amplifiers, transformers and filters. Shielding
+ and grounding. Design of electric, hydraulic and pneumatic 
+actuators. Design of sensors."
+MEC ENG 103,1,"This course introduces students to modern experimental techn
+iques for mechanical engineering, and improves students’ tea
+mwork and communication skills. Students will work in a labo
+ratory setting on systems ranging in complexity from desktop
+ experiments with only a few instruments up to systems such 
+as an internal combustion engine with a wide variety of sens
+ors. State-of-the-art software for data acquisition and anal
+ysis will be introduced"
+MEC ENG 104,1,"This course is an introduction to the dynamics of particles 
+and rigid bodies. The material, based on a Newtonian formula
+tion of the governing equations, is illustrated with numerou
+s examples ranging from one-dimensional motion of a single p
+article to planar motions of rigid bodies and systems of rig
+id bodies."
+MEC ENG 106,1,"This course introduces the fundamentals and techniques of fl
+uid mechanics with the aim of describing and controlling eng
+ineering flows."
+MEC ENG 108,1,"This course covers elastic and plastic deformation under sta
+tic and dynamic loads. Failure by yielding, fracture, fatigu
+e, wear, and environmental factors are also examined. Topics
+ include engineering materials, heat treatment, structure-pr
+operty relationships, elastic deformation and multiaxial loa
+ding, plastic deformation and yield criteria, dislocation pl
+asticity and strengthening mechanisms, creep, stress concent
+ration effects, fracture"
+MEC ENG 109,1,"This course covers transport processes of mass, momentum, an
+d energy from a macroscopic view with emphasis both on under
+standing why matter behaves as it does and on developing pra
+ctical problem solving skills. The course is divided into fo
+ur parts: introduction, conduction, convection, and radiatio
+n."
+MEC ENG 110,1,"The course provides project-based learning experience in inn
+ovative new product development, with a focus on mechanical 
+engineering systems. Design concepts and techniques are intr
+oduced, and the student's design ability is developed in a d
+esign or feasibility study chosen to emphasize ingenuity and
+ provide wide coverage of engineering topics. Relevant softw
+are will be integrated into studio sessions, including"
+MEC ENG C115,1,"This course applies methods of statistical continuum mechani
+cs to subcellar biomechanical phenomena ranging from nanosca
+le (molecular) to microscale (whole cell and cell population
+) biological processes at the interface of mechanics, biolog
+y, and chemistry."
+MEC ENG C117,1,"This course covers the structure and mechanical functions of
+ load bearing tissues and their replacements. Natural and sy
+nthetic load-bearing biomaterials for clinical applications 
+are reviewed. Biocompatibility of biomaterials and host resp
+onse to structural implants are examined. Quantitative treat
+ment of biomechanical issues and constitutive relationships 
+of tissues are covered in order to design biomaterial replac
+ements for structural"
+MEC ENG 118,1,"This course introduces engineering students (juniors and sen
+iors) to the field of nanotechnology and nanoscience. The co
+urse has two components: (1) Formal lectures. Students recei
+ve a set of formal lectures introducing them to the field of
+ nanotechnology and nanoscience. The material covered includ
+es nanofabrication technology (how one achieves the nanomete
+r length scale, from ""bottom up"" to ""top down"" technologies)
+,"
+MEC ENG 119,1,"Fundamentals of microelectromechanical systems including des
+ign, fabrication of microstructures; surface-micromachining,
+ bulk-micromachining, LIGA, and other micro machining proces
+ses; fabrication principles of integrated circuit device and
+ their applications for making MEMS devices; high-aspect-rat
+io microstructures; scaling issues in the micro scale (heat 
+transfer, fluid mechanics and solid mechanics); device desig
+n, analysis, and mask layou"
+MEC ENG 120,1,"This course applies the methods of computational modeling an
+d continuum mechanics to biomedical phenomena spanning vario
+us length scales ranging from molecular to cellular to tissu
+e and organ levels. The course is intended for upper level u
+ndergraduate students who have been exposed to undergraduate
+ continuum mechanics (statics and strength of materials.)"
+MEC ENG 122,1,"Fundamentals of manufacturing processes (metal forming, forg
+ing, metal cutting, welding, joining, and casting); selectio
+n of metals, plastics, and other materials relative to the d
+esign and choice of manufacturing processes; geometric dimen
+sioning and tolerancing of all processes."
+MEC ENG 125,1,"iACME provide opportunities for Mechanical Engineering under
+graduates to tackle real-world engineering problems. Student
+ teams, consisting of no more than four students, will apply
+ to work on specific industry- initiated projects. Teams wil
+l be selected based on prior experience in research/internsh
+ips, scholastic achievements in ME courses, and most importa
+ntly, proposed initial approaches toward tackling the specif
+ic project. ME faculty, alumni of the Mechanical"
+MEC ENG 130,1,"Synthesis, analysis, and design of planar machines. Kinemati
+c structure, graphical, analytical, and numerical analysis a
+nd synthesis. Linkages, cams, reciprocating engines, gear tr
+ains, and flywheels."
+MEC ENG 131,1,"Physical understanding of automotive vehicle dynamics includ
+ing simple lateral, longitudinal and ride quality models. An
+ overview of active safety systems will be introduced includ
+ing the basic concepts and terminology, the state-of-the-art
+ development, and basic principles of systems such as ABS, t
+raction control, dynamic stability control, and roll stabili
+ty control. Passive, semi-active and active suspension syste
+ms will be analyzed. Concepts"
+MEC ENG 132,1,"Physical understanding of dynamics and feedback. Linear feed
+back control of dynamic systems. Mathematical tools for anal
+ysis and design. Stability. Modeling systems with differenti
+al equations. Linearization. Solution to linear, time-invari
+ant differential equations."
+MEC ENG 133,1,"An introduction to the theory of mechanical vibrations inclu
+ding topics of harmonic motion, resonance, transient and ran
+dom excitation, applications of Fourier analysis and convolu
+tion methods. Multidegree of freedom discrete systems includ
+ing principal mode, principal coordinates and Rayleigh's pri
+nciple."
+MEC ENG C134,1,"Analysis and synthesis of linear feedback control systems in
+ transform and time domains. Control system design by root l
+ocus, frequency response, and state space methods. Applicati
+ons to electro-mechanical and mechatronics systems."
+MEC ENG 135,1,"This course provides preparation for the conceptual design a
+nd prototyping of mechanical systems that use microprocessor
+s to control machine activities, acquire and analyze data, a
+nd interact with operators. The architecture of microprocess
+ors is related to problems in mechanical systems through stu
+dy of systems, including electro-mechanical components, ther
+mal components and a variety of instruments. Laboratory exer
+cises lead through studies"
+MEC ENG 136,1,"This course introduces students to the control of unmanned a
+erial vehicles (UAVs). The course will cover modeling and dy
+namics of aerial vehicles, and common control strategies. La
+boratory exercises allow students to apply knowledge on a re
+al system, by programming a microcontroller to control a UAV
+."
+MEC ENG 138,1,"This hands-on laboratory course focuses on the mechanical en
+gineering principles that underlie the design, fabricaton, a
+nd operation of micro/nanoscale mechanical systems, includin
+g devices made by nanowire/nanotube syntheses; photolithogra
+phy/soft lithography; and molding processes. Each laboratory
+ will have different focuses for basic understanding of MEMS
+/NEMS systems from prototype constructions to experimental t
+estings using mechanical"
+MEC ENG 140,1,"Fundamentals of combustion, flame structure, flame speed, fl
+ammability, ignition, stirred reaction, kinetics and nonequi
+librium processes, pollutant formation. Application to engin
+es, energy production and fire safety."
+MEC ENG 146,1,"This course covers the fundamental principles of energy conv
+ersion processes, followed by development of theoretical and
+ computational tools that can be used to analyze energy conv
+ersion processes. The course also introduces the use of mode
+rn computational methods to model energy conversion performa
+nce characteristics of devices and systems. Performance feat
+ures, sources of inefficiencies, and optimal design strategi
+es are explored for a variety"
+MEC ENG 150A,1,"This course addresses all aspects of design, analysis, const
+ruction and economics of solar-powered vehicles. It begins w
+ith an examination of the fundamentals of photovoltaic solar
+ power generation, and the capabilities and limitations that
+ exist when using this form of renewable energy. The efficie
+ncy of energy conversion and storage will be evaluated acros
+s an entire system, from the solar energy that is"
+MEC ENG 151,1,"Basic principles of heat transfer and their application. Sub
+ject areas include steady-state and transient system analyse
+s for conduction, free and forced convection, boiling, conde
+nsation and thermal radiation."
+MEC ENG 151A,1,"Fundamentals of conductive heat transfer. Analytical and num
+erical methods for heat conduction in rigid media. Fundament
+als of radiative transfer. Radiative properties of solids, l
+iquids and gas media. Radiative transport modeling in enclos
+ures and participating media."
+MEC ENG 151B,1,"The transport of heat and mass in fluids in motion; free and
+ forced convection in laminar and turbulent flow over surfac
+es and within ducts. Fundamentals of computational methods u
+sed for solving the governing transport equations will also 
+be covered."
+MEC ENG 153,1,"Fundamentals of electromagnetic theory, principles of optics
+, waves, diffraction theory, interference, geometrical optic
+s, scattering, theory of molecular spectra, optical and spec
+troscopic instrumentation. Lasers and laser materials proces
+sing, laser spectroscopy. Modern optics, plasmonics."
+MEC ENG 154,1,"Development of classical thermodynamics from statistical tre
+atment of microscale molecular behavior; Boltzmann distribut
+ion; partition functions; statistical-mechanical evaluation 
+of thermodynamic properties; equilibrium; chemical equilibri
+um; phase transitions; molecular collisions; Maxwell-Boltzma
+nn distribution; collision theory; elementary kinetic theory
+; molecular dynamics simulation of molecular collisions; kin
+etic Monte Carlo simulations of gas-phase"
+MEC ENG 160,1,"Lectures on new developments in ocean, offshore, and arctic 
+engineering."
+MEC ENG 163,1,"Introduction to the lift, drag, and moment of two-dimensiona
+l airfoils, three-dimensional wings, and the complete airpla
+ne. Calculations of the performance and stability of airplan
+es in subsonic flight."
+MEC ENG 164,1,"Terminology and definition of hull forms, conditions of stat
+ic equilibrium and stability of floating submerged bodies. E
+ffects of damage on stability. Structural loads and response
+. Box girder theory. Isotropic and orthotropic plate bending
+ and bucking."
+MEC ENG 165,1,"Ocean environment. Physical properties and characteristics o
+f the oceans. Global conservation laws. Surface-waves genera
+tion. Gravity-wave mechanics, kinematics, and dynamics. Desi
+gn consideration of ocean vehicles and systems. Model-testin
+g techniques. Prediction of resistance and response in waves
+--physical modeling and computer models."
+MEC ENG 167,1,"Phenomena of physical, technological, and biological signifi
+cance in flows of gases and liquids at the microscale. The c
+ourse begins with familiar equations of Newtonian fluid mech
+anics, then proceeds to the study of essentially 1-D flows i
+n confined geometries with the lubrication equations. Next i
+s a study of the flow of thin films spreading under gravity 
+or surface tension gradients. Lubrication theory of compress
+ible gases leads to consideration"
+MEC ENG 168,1,"This course covers major aspects of offshore engineering inc
+luding ocean environment, loads on offshore structures, cabl
+es and mooring, underwater acoustics and arctic operations."
+MEC ENG 170,1,"This course builds upon material learned in 104, examining t
+he dynamics of particles and rigid bodies moving in three di
+mensions. Topics include non-fixed axis rotations of rigid b
+odies, Euler angles and parameters, kinematics of rigid bodi
+es, and the Newton-Euler equations of motion for rigid bodie
+s. The course material will be illustrated with real-world e
+xamples such as gyroscopes, spinning tops, vehicles, and sat
+ellites. Applications"
+MEC ENG 173,1,"Plane and spherical sound waves. Sound intensity. Propagatio
+n in tubes and horns. Resonators. Standing waves. Radiation 
+from oscillating surface. Reciprocity. Reverberation and dif
+fusion. Electro-acoustic loud speaker and microphone problem
+s. Environmental and architectural acoustics. Noise measurem
+ent and control. Effects on man."
+MEC ENG 174,1,"Oscillations in nonlinear systems having one or two degrees 
+of freedom. Graphical, iteration, perturbation, and asymptot
+ic methods. Self-excited oscillations and limit cycles. Rand
+om variables and random processes. Analysis of linear and no
+nlinear, discrete and continuous, mechanical systems under s
+tationary and non-stationary excitations."
+MEC ENG 175,1,"This course introduces and investigates Lagrange's equations
+ of motion for particles and rigid bodies. The subject matte
+r is particularly relevant to applications comprised of inte
+rconnected and constrained discrete mechanical components. T
+he material is illustrated with numerous examples. These ran
+ge from one-dimensional motion of a single particle to three
+-dimensional motions of rigid bodies and systems of rigid bo
+dies."
+MEC ENG C176,1,"Statics, dynamics, optimization theory, composite beam theor
+y, beam-on-elastic foundation theory, Hertz contact theory, 
+and materials behavior. Forces and moments acting on human j
+oints; composition and mechanical behavior of orthopedic bio
+materials; design/analysis of artificial joint, spine, and f
+racture fixation prostheses; musculoskeletal tissues includi
+ng bone, cartilage, tendon, ligament, and muscle; osteoporos
+is and fracture-risk predication"
+MEC ENG C178,1,"The course provides project-based learning experience in und
+erstanding product design, with a focus on the human body as
+ a mechanical machine. Students will learn the design of ext
+ernal devices used to aid or protect the body. Topics will i
+nclude forces acting on internal materials (e.g., muscles an
+d total replacement devices), forces acting on external mate
+rials (e.g., prothetics and crash pads), design/analysis of 
+devices aimed to improve or"
+MEC ENG 179,1,"This course provides hands-on experience in designing prosth
+eses and assistive technologies using user-centered design. 
+Students will develop a fundamental understanding of the sta
+te-of-the-art, design processes and product realization. Tea
+ms will prototype a novel solution to a disabilities-related
+ challenge, focusing on upper-limb mobility or dexterity. Le
+ssons will cover biomechanics of human manipulation, tactile
+ sensing and haptics, actuation and mechanism robustness"
+MEC ENG C180,1,"This is an introductory course on the finite element method 
+and is intended for seniors in engineering and applied scien
+ce disciplines. The course covers the basic topics of finite
+ element technology, including domain discretization, polyno
+mial interpolation, application of boundary conditions, asse
+mbly of global arrays, and solution of the resulting algebra
+ic systems. Finite element formulations for several importan
+t field equations are introduced"
+MEC ENG 185,1,"This course is a general introduction to the fundamental con
+cepts of the mechanics of continuous media. Topics covered i
+nclude the kinematics of deformation, the concept of stress,
+ and the conservation laws for mass, momentum and energy. Th
+is is followed by an introduction to constitutive theory wit
+h applications to well-established models for viscous fluids
+ and elastic solids. The concepts are illustrated through th
+e solution of tractable initial-boundary-value"
+MEC ENG 190L,1,"After a review of basic loopshaping, we introduce the loopsh
+aping design methodology of McFarlane and Glover, and learn 
+how to use it effectively. The remainder of the course studi
+es the mathematics underlying the new method (one of the mos
+t prevalent advanced techniques used in industry) justifying
+ its validity."
+MEC ENG 190M,1,"Basics on optimization and polyhedra manipulation. Analysis 
+and design of constrained predictive controllers for linear 
+and nonlinear systems."
+MEC ENG 190Y,1,"The Youla-parametrization of all stabilizing controllers all
+ows certain time-domain and frequency-domain closed-loop des
+ign objectives to be cast as convex optimizations, and solve
+d reliably using off-the-shelf numerical optimization codes.
+ This course covers the Youla parametrization, basic element
+s of convex optimization, and finally control design using t
+hese techniques."
+MEC ENG 191K,1,"This course is designed to enhance students' written and ora
+l communication skills. Written work consists of informal do
+cuments--correspondence, internal reports, and reviews--and 
+formal work--proposals, conference papers, journal articles,
+ and websites. Presentations consist of informal and formal 
+reports, including job and media interviews, phone interview
+s, conference calls, video conferences"
+MEC ENG 193A,1,"This 193 series covers current topics of research interest i
+n biomechanical engineering. The course content may vary sem
+ester to semester. Check with the department for current ter
+m topics."
+MEC ENG 193B,1,"This 193 series covers current topics of research interest i
+n controls. The course content may vary semester to semester
+. Check with the department for current term topics."
+MEC ENG 193C,1,"This 193 series covers current topics of research interest i
+n design. The course content may vary semester to semester. 
+Check with the department for current term topics."
+MEC ENG 193D,1,"This 193 series covers current topics of research interest i
+n dynamics. The course content may vary semester to semester
+. Check with the department for current term topics."
+MEC ENG 193E,1,"This 193 series covers current topics of research interest i
+n energy science and technology. The course content may vary
+ semester to semester. Check with the department for current
+ term topics."
+MEC ENG 193F,1,"This 193 series covers current topics of research interest i
+n fluids. The course content may vary semester to semester. 
+Check with the department for current term topics."
+MEC ENG 193G,1,"This 193 series covers current topics of research interest i
+n manufacturing. The course content may vary semester to sem
+ester. Check with the department for current term topics."
+MEC ENG 193H,1,"This 193 series covers current topics of research interest i
+n materials. The course content may vary semester to semeste
+r. Check with the department for current term topics."
+MEC ENG 193I,1,"This 193 series covers current topics of research interest i
+n mechanics. The course content may vary semester to semeste
+r. Check with the department for current term topics."
+MEC ENG 193J,1,"This 193 series covers current topics of research interest i
+n MEMS/nano. The course content may vary semester to semeste
+r. Check with the department for current term topics."
+MEC ENG 193K,1,"This 193 series covers current topics of research interest i
+n ocean engineering. The course content may vary semester to
+ semester. Check with the department for current term topics
+."
+MEC ENG H194,1,"Final report required. Students who have completed a satisfa
+ctory number of advanced courses may pursue original researc
+h under the direction of one of the members of the faculty. 
+A maximum of three units of H194 may be used to fulfill tech
+nical elective requirements in the Mechanical Engineering pr
+ogram (unlike 198 or 199, which do not satisfy technical ele
+ctive requirements). Students can use a maximum of three uni
+ts of graded"
+MEC ENG 196,1,"Students who have completed a satisfactory number of advance
+d courses may pursue original research under the direction o
+f one of the members of the staff. A maximum of three units 
+of 196 may be used to fulfill technical elective requirement
+s in the Mechanical Engineering program (unlike 198 or 199, 
+which do not satisfy technical elective requirements). Stude
+nts can use a maximum of three units of graded research unit
+s (H194 or 196) towards"
+MEC ENG 197,1,"Supervised experience relative to specific aspects of practi
+ce in engineering. Under guidance of a faculty member, the s
+tudent will work in industry, primarily in an internship set
+ting or another type of short-time status. Emphasis is to at
+tain practical experience in the field."
+MEC ENG 198,1,"Group study of a selected topic or topics in Mechanical Engi
+neering. Credit for 198 or 199 courses combined may not exce
+ed 4 units in any single term. See College for other restric
+tions."
+MEC ENG 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the introduction to Courses and Curricula section of th
+is catalog."
+NUC ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+NUC ENG 100,1,"The class provides students with an overview of the contempo
+rary nuclear energy technology with emphasis on nuclear fiss
+ion as an energy source. Starting with the basic physics of 
+the nuclear fission process, the class includes discussions 
+on reactor control, thermal hydraulics, fuel production, and
+ spent fuel management for various types of reactors in use 
+around the world as well as analysis of safety and other nuc
+lear-related issues. This"
+NUC ENG 101,1,"Energetics and kinetics of nuclear reactions and radioactive
+ decay, fission, fusion, and reactions of low-energy neutron
+s; properties of the fission products and the actinides; nuc
+lear models and transition probabilities; interaction of rad
+iation with matter."
+NUC ENG 102,1,"Laboratory course in nuclear physics. Experiments will allow
+ students to directly observe phenomena discussed in Nuclear
+ Engineering 101. These experiments will give students expos
+ure to (1) electronics, (2) alpha, beta, gamma radiation det
+ectors, (3) radioactive sources, and (4) experimental method
+s relevant for all aspects of nuclear science. Experiments i
+nclude: Rutherford scattering, x-ray fluorescence, muon life
+time, gamma-gamma angular"
+NUC ENG 104,1,"Basic science of radiation measurement, nuclear instrumentat
+ion, neutronics, radiation dosimetry. The lectures emphasize
+ the principles of radiation detection. The weekly laborator
+y applies a variety of radiation detection systems to the pr
+actical measurements of interest for nuclear power, nuclear 
+and non-nuclear science, and environmental applications. Stu
+dents present goals and approaches of the experiements being
+ performed."
+NUC ENG 107,1,"Introduction to medical imaging physics and systems, includi
+ng x-ray computed tomography (CT), nuclear magnetic resonanc
+e (NMR), positron emission tomography (PET), and SPECT; basi
+c principles of tomography and an introduction to unfolding 
+methods; resolution effects of counting statistics, inherent
+ system resolution and human factors."
+NUC ENG 120,1,"Effects of irradiation on the atomic and mechanical properti
+es of materials in nuclear reactors. Fission product swellin
+g and release; neutron damage to structural alloys; fabricat
+ion and properties of uranium dioxide fuel."
+NUC ENG 124,1,"Components and material flowsheets for nuclear fuel cycle, w
+aste characteristics, sources of radioactive wastes, composi
+tions, radioactivity and heat generation; waste treatment te
+chnologies; waste disposal technologies; safety assessment o
+f waste disposal."
+NUC ENG 130,1,"Use of nuclear measurement techniques to detect clandestine 
+movement and/or possession of nuclear materials by third par
+ties. Nuclear detection, forensics, signatures, and active a
+nd passive interrogation methodologies will be explored. Tec
+hniques currently deployed for arms control and treaty verif
+ication will be discussed. Emphasis will be placed on common
+ elements of detection technology from the viewpoint of reso
+lution of threat signatures"
+NUC ENG 150,1,"Neutron interactions, nuclear fission, and chain reacting sy
+stematics in thermal and fast nuclear reactors. Diffusion an
+d slowing down of neutrons. Criticality calculations. Nuclea
+r reactor dynamics and reactivity feedback. Production of ra
+dionuclides in nuclear reactors."
+NUC ENG 155,1,"Computational methods used to analyze radiation transport de
+scribed by various differential, integral, and integro-diffe
+rential equations. Numerical methods include finite differen
+ce, finite elements, discrete ordinates, and Monte Carlo. Ex
+amples from neutron and photon transport; numerical solution
+s of neutron/photon diffusion and transport equations. Monte
+ Carlo simulations of photon and neutron transport. An overv
+iew of optimization techniques"
+NUC ENG 156,1,"This course provides an introduction to the field of nuclear
+ criticality safety. Topics include: a review of basic conce
+pts related to criticality (fission, cross sections, multipl
+ication factor, etc.); criticality safety accidents; standar
+ds applicable to criticality safety; hand calculations and M
+onte Carlo methods used in criticality safety analysis; crit
+icality safety evaluation documents."
+NUC ENG 161,1,"Energy conversion in nuclear power systems; design of fissio
+n reactors; thermal and structural analysis of reactor core 
+and plant components; thermal-hydraulic analysis of accident
+s in nuclear power plants; safety evaluation and engineered 
+safety systems."
+NUC ENG 162,1,"Interaction of radiation with matter; physical, chemical, an
+d biological effects of radiation on human tissues; dosimetr
+y units and measurements; internal and external radiation fi
+elds and dosimetry; radiation exposure regulations; sources 
+of radiation and radioactivity; basic shielding concepts; el
+ements of radiation protection and control; theories and mod
+els for cell survival, radiation sensitivity, carcinogenesis
+, and dose calculatio"
+NUC ENG 167,1,"Project-based class for design and licensing of nuclear faci
+lities, including advanced reactors. Elements of a project p
+roposal. Regulatory framework and use of deterministic and p
+robabilistic licensing criteria. Siting criteria. External a
+nd internal events. Identification and analysis of design ba
+sis and beyond design basis events. Communication with regul
+ators and stakeholders. Ability to work in and contribute to
+ a design team."
+NUC ENG 170A,1,"Design of various fission and fusion power systems and other
+ physically based applications. Each semester a topic will b
+e chosen by the class as a whole. In addition to technology,
+ the design should address issues relating to economics, the
+ environment, and risk assessment."
+NUC ENG 170B,1,"A systems approach to the development of procedures for nucl
+ear medicine and radiation therapy. Each semester a specific
+ procedure will be studied and will entail the development o
+f the biological and physiological basis for a procedure, th
+e chemical and biochemical characteristics of appropriate dr
+ugs, dosimetric requirements and limitations, the production
+ and distribution of radionuclides and/or radiation fields t
+o be applied, and the"
+NUC ENG 175,1,"Methodological approaches for the quantification of technolo
+gical risk and risk based decision making. Probabilistic saf
+ety assessment, human health risks, environmental and ecolog
+ical risk analysis."
+NUC ENG 180,1,"Introduction to energy production by controlled thermonuclea
+r reactions. Nuclear fusion reactions, energy balances for f
+usion systems, survey of plasma physics; neutral beam inject
+ion; RF heating methods; vacuum systems; tritium handling."
+NUC ENG H194,1,"Supervised research. Students who have completed three or mo
+re upper division courses may pursue original research under
+ the direction of one of the members of the staff. A final r
+eport or presentation is required. A maximum of three units 
+of H194 may be used to fulfill a technical elective requirem
+ent in the Nuclear Engineering general program or joint majo
+r programs."
+NUC ENG 198,1,Group studies of selected topics.
+NUC ENG 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the Introduction to Courses and Curricula section of th
+is catalog."
+NUC ENG S199,1,"Supervised independent study. Please see section of the for 
+description and prerequisites."

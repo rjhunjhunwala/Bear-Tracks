@@ -1,56 +1,1536 @@
 name,size,about
-PHYSICS 5A,1,"Kinematics, dynamics, work and energy, rotational motion, oscillations, fluids and relativity. Use of calculus and vector algebra will be emphasized. Intended for students with an interest in pursuing a major in physics, astrophysics, engineering physics, or related disciplines. Successor to the Physics H7 series. Start of three semester 5A-5B-5C sequence."
-PHYSICS 5B,1,"Electric fields and potential, circuits, magnetism and induction. Introduction to optics including light propagation, reflection, refraction and interference. Intended for students with an interest in pursuing a major in physics, astrophysics, engineering physics, or related disciplines. Successor to the Physics H7 series. Continuation of 5A-5B-5C sequence."
-PHYSICS 5BL,1,"Part one of a two-semester laboratory sequence to introduce students to experimental physics and prepare them for research. Covers a variety of modern and historical experiments, emphasizing data analysis, clear scientific communication, and development of skills on modern equipment. Successor to the Physics H7 series."
-PHYSICS 5C,1,"Temperature, kinetic theory, entropy; particle/wave nature of matter, Schrodinger equation, hydrogen atom, applications of quantum physics. Intended for students with an interest in pursuing a major in physics, astrophysics, engineering physics or related disciplines. Continuation of 5A-5B-5C sequence. Successor to the Physics H7 series."
-PHYSICS 5CL,1,"Part two of a two-semester laboratory sequence to introduce students to experimental physics and prepare them for research. Covers a variety of modern and historical experiments, emphasizing iterative experimental design, clear scientific communication, and development of skills on modern equipment. Successor to the Physics H7 series."
+PHYSICS 5A,1,"Kinematics, dynamics, work and energy, rotational motion, os
+cillations, fluids and relativity. Use of calculus and vecto
+r algebra will be emphasized. Intended for students with an 
+interest in pursuing a major in physics, astrophysics, engin
+eering physics, or related disciplines. Successor to the Phy
+sics H7 series. Start of three semester 5A-5B-5C sequence."
+PHYSICS 5B,1,"Electric fields and potential, circuits, magnetism and induc
+tion. Introduction to optics including light propagation, re
+flection, refraction and interference. Intended for students
+ with an interest in pursuing a major in physics, astrophysi
+cs, engineering physics, or related disciplines. Successor t
+o the Physics H7 series. Continuation of 5A-5B-5C sequence."
+PHYSICS 5BL,1,"Part one of a two-semester laboratory sequence to introduce 
+students to experimental physics and prepare them for resear
+ch. Covers a variety of modern and historical experiments, e
+mphasizing data analysis, clear scientific communication, an
+d development of skills on modern equipment. Successor to th
+e Physics H7 series."
+PHYSICS 5C,1,"Temperature, kinetic theory, entropy; particle/wave nature o
+f matter, Schrodinger equation, hydrogen atom, applications 
+of quantum physics. Intended for students with an interest i
+n pursuing a major in physics, astrophysics, engineering phy
+sics or related disciplines. Continuation of 5A-5B-5C sequen
+ce. Successor to the Physics H7 series."
+PHYSICS 5CL,1,"Part two of a two-semester laboratory sequence to introduce 
+students to experimental physics and prepare them for resear
+ch. Covers a variety of modern and historical experiments, e
+mphasizing iterative experimental design, clear scientific c
+ommunication, and development of skills on modern equipment.
+ Successor to the Physics H7 series."
 PHYSICS 7A,1,Mechanics and wave motion.
 PHYSICS 7B,1,"Heat, electricity, and magnetism."
-PHYSICS 7C,1,"Electromagnetic waves, optics, relativity, and quantum physics."
-PHYSICS H7A,1,"Honors sequence corresponding to 7A-7B-7C, but with a greater emphasis on theory as opposed to problem solving. Recommended for those students who have had advanced Physics on the high school level and who are intending to declare a major in physics. Entrance into H7A is decided on the basis of performance on an examination given during the first week of class or the consent of the instructor, and into H7B-H7C on performance in previous courses"
-PHYSICS H7B,1,"Honors sequence corresponding to 7A-7B-7C, but with a greater emphasis on theory as opposed to problem solving. Recommended for those students who have had advanced Physics on the high school level and who are intending to declare a major in physics. Entrance into H7A is decided on the basis of performance on an examination given during the first week of class or the consent of the instructor, and into H7B-H7C on performance in previous courses"
-PHYSICS H7C,1,"Honors sequence corresponding to 7A-7B-7C, but with a greater emphasis on theory as opposed to problem solving. Recommended for those students who have had advanced Physics on the high school level and who are intending to declare a major in physics. Entrance into H7A is decided on the basis of performance on an examination given during the first week of class or the consent of the instructor, and into H7B-H7C on performance in previous courses"
-PHYSICS 8A,1,"Introduction to forces, kinetics, equilibria, fluids, waves, and heat. This course presents concepts and methodologies for understanding physical phenomena, and is particularly useful preparation for upper division study in biology and architecture."
-PHYSICS 8B,1,"Introduction to electricity, magnetism, electromagnetic waves, optics, and modern physics. The course presents concepts and methodologies for understanding physical phenomena, and is particularly useful preparation for upper division study in biology and architecture."
-PHYSICS 10,1,"The most interesting and important topics in physics, stressing conceptual understanding rather than math, with applications to current events. Topics covered may vary and may include energy and conservation, radioactivity, nuclear physics, the Theory of Relativity, lasers, explosions, earthquakes, superconductors, and quantum physics."
-PHYSICS C10,1,"The most interesting and important topics in physics, stressing conceptual understanding rather than math, with applications to current events. Topics covered may vary and may include energy and conservation, radioactivity, nuclear physics, the Theory of Relativity, lasers, explosions, earthquakes, superconductors, and quantum physics."
-PHYSICS 21,1,"Physical principles encountered in the study of music. The applicable laws of mechanics, fundamentals of sound, harmonic content, principles of sound production in musical instruments, musical scales. Numerous illustrative lecture demonstrations will be given. Only the basics of high school algebra and geometry will be used."
-PHYSICS C21,1,"What can we learn about the nature of reality and the ways that we humans have invented to discover how the world works? An exploration of these questions through the physical principles encountered in the study of music. The applicable laws of mechanics, fundamentals of sound, harmonic content, principles of sound production in musical instruments, musical scales. Numerous illustrative lecture demonstrations will be given. Only the basics"
-PHYSICS 24,1,"The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley Seminars are offered in all campus departments, and topics vary from department to department and semester to semester."
-PHYSICS 39,1,Enrollment limited to 20 students per section. Physics seminar course designed for both non major students and students considering a major in physics. Topics vary from semester to semester.
-PHYSICS 49,1,"Students with partial credit in lower division physics courses may, with consent of instructor, complete the credit under this heading."
-PHYSICS 77,1,"Introductory scientific programming in Python with examples from physics. Topics include: visualization, statistics and probability, regression, numerical integration, simulation, data modeling, function approximation, and algebraic systems. Recommended for freshman physics majors."
-PHYSICS 88,1,"Introduction to data science with applications to physics. Topics include: statistics and probability in physics, modeling of the physical systems and data, numerical integration and differentiation, function approximation. Connector course for Data Science 8, room-shared with Physics 77. Recommended for freshmen intended to major in physics or engineering with emphasis on data science."
-PHYSICS 89,1,"Complex numbers, linear algebra, ordinary differential equations, Fourier series and transform methods, introduction to partial differential equations, introduction to tensors. Applications to physics will be emphasized. This course or an equivalent course required for physics major."
+PHYSICS 7C,1,"Electromagnetic waves, optics, relativity, and quantum physi
+cs."
+PHYSICS H7A,1,"Honors sequence corresponding to 7A-7B-7C, but with a greate
+r emphasis on theory as opposed to problem solving. Recommen
+ded for those students who have had advanced Physics on the 
+high school level and who are intending to declare a major i
+n physics. Entrance into H7A is decided on the basis of perf
+ormance on an examination given during the first week of cla
+ss or the consent of the instructor, and into H7B-H7C on per
+formance in previous courses"
+PHYSICS H7B,1,"Honors sequence corresponding to 7A-7B-7C, but with a greate
+r emphasis on theory as opposed to problem solving. Recommen
+ded for those students who have had advanced Physics on the 
+high school level and who are intending to declare a major i
+n physics. Entrance into H7A is decided on the basis of perf
+ormance on an examination given during the first week of cla
+ss or the consent of the instructor, and into H7B-H7C on per
+formance in previous courses"
+PHYSICS H7C,1,"Honors sequence corresponding to 7A-7B-7C, but with a greate
+r emphasis on theory as opposed to problem solving. Recommen
+ded for those students who have had advanced Physics on the 
+high school level and who are intending to declare a major i
+n physics. Entrance into H7A is decided on the basis of perf
+ormance on an examination given during the first week of cla
+ss or the consent of the instructor, and into H7B-H7C on per
+formance in previous courses"
+PHYSICS 8A,1,"Introduction to forces, kinetics, equilibria, fluids, waves,
+ and heat. This course presents concepts and methodologies f
+or understanding physical phenomena, and is particularly use
+ful preparation for upper division study in biology and arch
+itecture."
+PHYSICS 8B,1,"Introduction to electricity, magnetism, electromagnetic wave
+s, optics, and modern physics. The course presents concepts 
+and methodologies for understanding physical phenomena, and 
+is particularly useful preparation for upper division study 
+in biology and architecture."
+PHYSICS 10,1,"The most interesting and important topics in physics, stress
+ing conceptual understanding rather than math, with applicat
+ions to current events. Topics covered may vary and may incl
+ude energy and conservation, radioactivity, nuclear physics,
+ the Theory of Relativity, lasers, explosions, earthquakes, 
+superconductors, and quantum physics."
+PHYSICS C10,1,"The most interesting and important topics in physics, stress
+ing conceptual understanding rather than math, with applicat
+ions to current events. Topics covered may vary and may incl
+ude energy and conservation, radioactivity, nuclear physics,
+ the Theory of Relativity, lasers, explosions, earthquakes, 
+superconductors, and quantum physics."
+PHYSICS 21,1,"Physical principles encountered in the study of music. The a
+pplicable laws of mechanics, fundamentals of sound, harmonic
+ content, principles of sound production in musical instrume
+nts, musical scales. Numerous illustrative lecture demonstra
+tions will be given. Only the basics of high school algebra 
+and geometry will be used."
+PHYSICS C21,1,"What can we learn about the nature of reality and the ways t
+hat we humans have invented to discover how the world works?
+ An exploration of these questions through the physical prin
+ciples encountered in the study of music. The applicable law
+s of mechanics, fundamentals of sound, harmonic content, pri
+nciples of sound production in musical instruments, musical 
+scales. Numerous illustrative lecture demonstrations will be
+ given. Only the basics"
+PHYSICS 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+PHYSICS 39,1,"Enrollment limited to 20 students per section. Physics semin
+ar course designed for both non major students and students 
+considering a major in physics. Topics vary from semester to
+ semester."
+PHYSICS 49,1,"Students with partial credit in lower division physics cours
+es may, with consent of instructor, complete the credit unde
+r this heading."
+PHYSICS 77,1,"Introductory scientific programming in Python with examples 
+from physics. Topics include: visualization, statistics and 
+probability, regression, numerical integration, simulation, 
+data modeling, function approximation, and algebraic systems
+. Recommended for freshman physics majors."
+PHYSICS 88,1,"Introduction to data science with applications to physics. T
+opics include: statistics and probability in physics, modeli
+ng of the physical systems and data, numerical integration a
+nd differentiation, function approximation. Connector course
+ for Data Science 8, room-shared with Physics 77. Recommende
+d for freshmen intended to major in physics or engineering w
+ith emphasis on data science."
+PHYSICS 89,1,"Complex numbers, linear algebra, ordinary differential equat
+ions, Fourier series and transform methods, introduction to 
+partial differential equations, introduction to tensors. App
+lications to physics will be emphasized. This course or an e
+quivalent course required for physics major."
 PHYSICS 98,1, 
-PHYSICS 98BC,1,"Berkeley Connect is a mentoring program, offered through various academic departments, that helps students build intellectual community. Over the course of a semester, enrolled students participate in regular small-group discussions facilitated by a graduate student mentor (following a faculty-directed curriculum), meet with their graduate student mentor for one-on-one academic advising, attend lectures and panel discussions featuring department"
+PHYSICS 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
 PHYSICS 99,1, 
-PHYSICS 100,1,"For undergraduate and graduate students interested in improving their ability to communicate scientific knowledge by teaching science in K-12 schools. The course will combine instruction in inquiry-based science teaching methods and learning pedagogy with 10 weeks of supervised teaching experience in a local school. Students will practice, with support and mentoring, communicating scientific knowledge through presentations and hands-on activities."
-PHYSICS 105,1,"Newtonian mechanics, motion of a particle in one, two, and three dimensions, Lagrange’s equations, Hamilton's equations, central force motion, moving coordinate systems, mechanics of continuous media, oscillations, normal modes, rigid body dynamics, tensor analysis techniques. Some knowledge of Python required for homework assignments. Students who have not taken Physics 77 or Data Science 8 are encouraged to complete the Python tutorials provided"
-PHYSICS 110A,1,"Part I. A course emphasizing electromagnetic theory and applications; charges and currents; electric and magnetic fields; dielectric, conducting, and magnetic media; relativity, Maxwell equations. Wave propagation in media, radiation and scattering, Fourier optics, interference and diffraction, ray optics and applications."
-PHYSICS 110B,1,"Part II. A course emphasizing electromagnetic theory and applications; charges and currents; electric and magnetic fields; dielectric, conducting, and magnetic media; relativity, Maxwell equations. Wave propagation in media, radiation and scattering, Fourier optics, interference and diffraction, ray optics and applications."
-PHYSICS 111A,1,"The instrumentation lab (formerly Basic Semiconductor Circuits) is an introductory course in basic design, analysis and modeling of circuits, and data analysis and control. Topics include but not limited to:"
-PHYSICS 111B,1,"In the advanced experimentation lab students complete four of 20+ advanced experiments. These include many experiments in atomic, nuclear, particle physics, biophysics, and solid-state physics, among others."
-PHYSICS 112,1,"Basic concepts of statistical mechanics, microscopic basis of thermodynamics and applications to macroscopic systems, condensed states, phase transformations, quantum distributions, elementary kinetic theory of transport processes, fluctuation phenomena. Some knowledge of Python required for homework assignments. Students who have not taken Physics 77 or Data Science 8 are encouraged to complete the Python tutorials provided by the Physics"
-PHYSICS 129,1,"Tools of particle and nuclear physics. Properties, classification, and interaction of particles including the quark-gluon constituents of hadrons. High energy phenomena analyzed by quantum mechanical methods. Course will survey the field including some related topics in nuclear physics. Some knowledge of Python required. Students who have not taken Physics 77 or Data Science 8 are encouraged to complete the Python tutorials provided by the Physics"
-PHYSICS 130,1,"Detailed theory and experimental basis of quantum and nonlinear optics, exhibiting concepts of quantum measurement, noise, stochastic processes and dissipative quantum systems. Topics include second-quantization of electromagnetic fields, photodetection, coherence properties, light-atom interactions, cavity quantum electrodynamics, nonlinear optical systems, squeezed light, aspects of quantum information science, and contemporary researc"
-PHYSICS 137A,1,"Part I. Introduction to the methods of quantum mechanics with applications to atomic, molecular, solid state, nuclear and elementary particle physics."
-PHYSICS 137B,1,"Part II. Introduction to the methods of quantum mechanics with applications to atomic, molecular, solid state, nuclear and elementary particle physics."
-PHYSICS 138,1,"This course covers atomic, molecular, and optical physics as a quantitative description of atoms and fields, a generalized toolbox for controlling quantum systems, and a vibrant research area. Topics covered include atomic structure and spectra, atom-field interactions, topics in quantum electrodynamics, methods of resonant manipulation of quantum systems, resonance optics, and experimental techniques."
-PHYSICS 139,1,"Historical and experimental foundations of Einstein's special theory of relativity; spatial and temporal measurements, particle dynamics, electrodynamics, Lorentz invariants. Introduction to general relativity. Selected applications. Designed for advanced undergraduates in physics and astronomy."
-PHYSICS 141A,1,"Part I. A thorough introductory course in modern solid state physics. Crystal symmetries; classification of solids and their bonding; electromagnetic, elastic, and particle waves in periodic lattices; thermal magnetic and dielectric properties of solids; energy bands of metals and semi-conductors; superconductivity; magnetism; ferroelectricity; magnetic resonances."
-PHYSICS 141B,1,"Part II. A thorough introductory course in modern solid state physics. Crystal symmetries; classification of solids and their bonding; electromagnetic, elastic, and particle waves in periodic lattices; thermal magnetic and dielectric properties of solids; energy bands of metals and semi-conductors; superconductivity; magnetism; ferroelectricity; magnetic resonances."
-PHYSICS 142,1,"Motion of charged particles in electric and magnetic fields, dynamics of fully ionized plasma from both microscopic and macroscopic point of view, magnetohydrodynamics, small amplitude waves; examples from astrophysics, space sciences and controlled-fusion research."
-PHYSICS 151,1,Topics vary from semester to semester. The subject matter level and scope of the course are such that it is acceptable as the required elective course in the Physics major. See Department of Physics course announcements.
-PHYSICS 153,1,"This course is designed to assist physics and other physical sciences transfer students in their transition to UC Berkeley. Over the course of a semester, students will learn about campus resources, how to navigate the campus, establish connections with other students in their cohorts, receive physics transfer peer mentorship and advising. Students will work in small-groups to solve challenging mathematical and physics concepts to assist with academic success."
-PHYSICS C161,1,"Elements of general relativity. Physics of pulsars, cosmic rays, black holes. The cosmological distance scale, elementary cosmological models, properties of galaxies and quasars. The mass density and age of the universe. Evidence for dark matter and dark energy and concepts of the early universe and of galaxy formation. Reflections on astrophysics as a probe of the extrema of physics."
-PHYSICS 177,1,"We will review the structure of proteins, nucleic acids, carbohydrates, lipids, and the forces and interactions maintaining their structure in solution. We will describe the thermodynamics and kinetics of protein folding. The principles of polymer chain statistics and of helix-coil transitions in biopolymers will be reviewed next, together with biopolymer dynamics. We will then cover the main structural methods in biology: X-ray crystallography"
-PHYSICS 188,1,"The course design covers data analysis and machine learning, highlighting their importance to the physical sciences. It covers data analysis with linear and nonlinear regression, logistic regression, and gaussian processes. It covers concepts in machine learning such as unsupervised and supervised regression and classification learning. It develops Bayesian statistics and information theory, covering concepts such as information, entropy, posteriors, MCMC, latent variables"
-PHYSICS H190,1,A seminar which includes study and reports on current theoretical and experimental problems. Open only to students officially in the physics honors program or with consent of instructor.
-PHYSICS C191,1,"This multidisciplinary course provides an introduction to fundamental conceptual aspects of quantum mechanics from a computational and informational theoretic perspective, as well as physical implementations and technological applications of quantum information science. Basic sections of quantum algorithms, complexity, and cryptography, will be touched upon, as well as pertinent physical realizations from nanoscale science and engineerin"
-PHYSICS H195A,1,"Thesis work under the supervision of a faculty member. To obtain credit the student must, at the end of two semesters, submit a satisfactory thesis. A total of four units must be taken. The units may be distributed between one or two semesters in any way."
-PHYSICS H195B,1,"Thesis work under the supervision of a faculty member. To obtain credit the student must, at the end of two semesters, submit a satisfactory thesis. A total of four units must be taken. The units may be distributed between one or two semesters in any way."
-PHYSICS 198,1,Enrollment restrictions apply; see the Introduction to Courses and Curricula section in this catalog.
-PHYSICS 198BC,1,"Berkeley Connect is a mentoring program, offered through various academic departments, that helps students build intellectual community. Over the course of a semester, enrolled students participate in regular small-group discussions facilitated by a graduate student mentor (following a faculty-directed curriculum), meet with their graduate student mentor for one-on-one academic advising, attend lectures and panel discussions featuring department"
-PHYSICS 198F,1,"Discussion-based introduction to contemporary research in physics for advanced undergraduates. Presentation of different weekly topics in physics research led by graduate students, postdocs, or professors in a particular field to connect upper division physics majors with contemporary research and to increase dialogue between upper division undergraduates and researchers in the department."
-PHYSICS 199,1,Enrollment restrictions apply; see the Introduction to Courses and Curricula section in this catalog.
+PHYSICS 100,1,"For undergraduate and graduate students interested in improv
+ing their ability to communicate scientific knowledge by tea
+ching science in K-12 schools. The course will combine instr
+uction in inquiry-based science teaching methods and learnin
+g pedagogy with 10 weeks of supervised teaching experience i
+n a local school. Students will practice, with support and m
+entoring, communicating scientific knowledge through present
+ations and hands-on activities."
+PHYSICS 105,1,"Newtonian mechanics, motion of a particle in one, two, and t
+hree dimensions, Lagrange’s equations, Hamilton's equations,
+ central force motion, moving coordinate systems, mechanics 
+of continuous media, oscillations, normal modes, rigid body 
+dynamics, tensor analysis techniques. Some knowledge of Pyth
+on required for homework assignments. Students who have not 
+taken Physics 77 or Data Science 8 are encouraged to complet
+e the Python tutorials provided"
+PHYSICS 110A,1,"Part I. A course emphasizing electromagnetic theory and appl
+ications; charges and currents; electric and magnetic fields
+; dielectric, conducting, and magnetic media; relativity, Ma
+xwell equations. Wave propagation in media, radiation and sc
+attering, Fourier optics, interference and diffraction, ray 
+optics and applications."
+PHYSICS 110B,1,"Part II. A course emphasizing electromagnetic theory and app
+lications; charges and currents; electric and magnetic field
+s; dielectric, conducting, and magnetic media; relativity, M
+axwell equations. Wave propagation in media, radiation and s
+cattering, Fourier optics, interference and diffraction, ray
+ optics and applications."
+PHYSICS 111A,1,"The instrumentation lab (formerly Basic Semiconductor Circui
+ts) is an introductory course in basic design, analysis and 
+modeling of circuits, and data analysis and control. Topics 
+include but not limited to:"
+PHYSICS 111B,1,"In the advanced experimentation lab students complete four o
+f 20+ advanced experiments. These include many experiments i
+n atomic, nuclear, particle physics, biophysics, and solid-s
+tate physics, among others."
+PHYSICS 112,1,"Basic concepts of statistical mechanics, microscopic basis o
+f thermodynamics and applications to macroscopic systems, co
+ndensed states, phase transformations, quantum distributions
+, elementary kinetic theory of transport processes, fluctuat
+ion phenomena. Some knowledge of Python required for homewor
+k assignments. Students who have not taken Physics 77 or Dat
+a Science 8 are encouraged to complete the Python tutorials 
+provided by the Physics"
+PHYSICS 129,1,"Tools of particle and nuclear physics. Properties, classific
+ation, and interaction of particles including the quark-gluo
+n constituents of hadrons. High energy phenomena analyzed by
+ quantum mechanical methods. Course will survey the field in
+cluding some related topics in nuclear physics. Some knowled
+ge of Python required. Students who have not taken Physics 7
+7 or Data Science 8 are encouraged to complete the Python tu
+torials provided by the Physics"
+PHYSICS 130,1,"Detailed theory and experimental basis of quantum and nonlin
+ear optics, exhibiting concepts of quantum measurement, nois
+e, stochastic processes and dissipative quantum systems. Top
+ics include second-quantization of electromagnetic fields, p
+hotodetection, coherence properties, light-atom interactions
+, cavity quantum electrodynamics, nonlinear optical systems,
+ squeezed light, aspects of quantum information science, and
+ contemporary researc"
+PHYSICS 137A,1,"Part I. Introduction to the methods of quantum mechanics wit
+h applications to atomic, molecular, solid state, nuclear an
+d elementary particle physics."
+PHYSICS 137B,1,"Part II. Introduction to the methods of quantum mechanics wi
+th applications to atomic, molecular, solid state, nuclear a
+nd elementary particle physics."
+PHYSICS 138,1,"This course covers atomic, molecular, and optical physics as
+ a quantitative description of atoms and fields, a generaliz
+ed toolbox for controlling quantum systems, and a vibrant re
+search area. Topics covered include atomic structure and spe
+ctra, atom-field interactions, topics in quantum electrodyna
+mics, methods of resonant manipulation of quantum systems, r
+esonance optics, and experimental techniques."
+PHYSICS 139,1,"Historical and experimental foundations of Einstein's specia
+l theory of relativity; spatial and temporal measurements, p
+article dynamics, electrodynamics, Lorentz invariants. Intro
+duction to general relativity. Selected applications. Design
+ed for advanced undergraduates in physics and astronomy."
+PHYSICS 141A,1,"Part I. A thorough introductory course in modern solid state
+ physics. Crystal symmetries; classification of solids and t
+heir bonding; electromagnetic, elastic, and particle waves i
+n periodic lattices; thermal magnetic and dielectric propert
+ies of solids; energy bands of metals and semi-conductors; s
+uperconductivity; magnetism; ferroelectricity; magnetic reso
+nances."
+PHYSICS 141B,1,"Part II. A thorough introductory course in modern solid stat
+e physics. Crystal symmetries; classification of solids and 
+their bonding; electromagnetic, elastic, and particle waves 
+in periodic lattices; thermal magnetic and dielectric proper
+ties of solids; energy bands of metals and semi-conductors; 
+superconductivity; magnetism; ferroelectricity; magnetic res
+onances."
+PHYSICS 142,1,"Motion of charged particles in electric and magnetic fields,
+ dynamics of fully ionized plasma from both microscopic and 
+macroscopic point of view, magnetohydrodynamics, small ampli
+tude waves; examples from astrophysics, space sciences and c
+ontrolled-fusion research."
+PHYSICS 151,1,"Topics vary from semester to semester. The subject matter le
+vel and scope of the course are such that it is acceptable a
+s the required elective course in the Physics major. See Dep
+artment of Physics course announcements."
+PHYSICS 153,1,"This course is designed to assist physics and other physical
+ sciences transfer students in their transition to UC Berkel
+ey. Over the course of a semester, students will learn about
+ campus resources, how to navigate the campus, establish con
+nections with other students in their cohorts, receive physi
+cs transfer peer mentorship and advising. Students will work
+ in small-groups to solve challenging mathematical and physi
+cs concepts to assist with academic success."
+PHYSICS C161,1,"Elements of general relativity. Physics of pulsars, cosmic r
+ays, black holes. The cosmological distance scale, elementar
+y cosmological models, properties of galaxies and quasars. T
+he mass density and age of the universe. Evidence for dark m
+atter and dark energy and concepts of the early universe and
+ of galaxy formation. Reflections on astrophysics as a probe
+ of the extrema of physics."
+PHYSICS 177,1,"We will review the structure of proteins, nucleic acids, car
+bohydrates, lipids, and the forces and interactions maintain
+ing their structure in solution. We will describe the thermo
+dynamics and kinetics of protein folding. The principles of 
+polymer chain statistics and of helix-coil transitions in bi
+opolymers will be reviewed next, together with biopolymer dy
+namics. We will then cover the main structural methods in bi
+ology: X-ray crystallography"
+PHYSICS 188,1,"The course design covers data analysis and machine learning,
+ highlighting their importance to the physical sciences. It 
+covers data analysis with linear and nonlinear regression, l
+ogistic regression, and gaussian processes. It covers concep
+ts in machine learning such as unsupervised and supervised r
+egression and classification learning. It develops Bayesian 
+statistics and information theory, covering concepts such as
+ information, entropy, posteriors, MCMC, latent variables"
+PHYSICS H190,1,"A seminar which includes study and reports on current theore
+tical and experimental problems. Open only to students offic
+ially in the physics honors program or with consent of instr
+uctor."
+PHYSICS C191,1,"This multidisciplinary course provides an introduction to fu
+ndamental conceptual aspects of quantum mechanics from a com
+putational and informational theoretic perspective, as well 
+as physical implementations and technological applications o
+f quantum information science. Basic sections of quantum alg
+orithms, complexity, and cryptography, will be touched upon,
+ as well as pertinent physical realizations from nanoscale s
+cience and engineerin"
+PHYSICS H195A,1,"Thesis work under the supervision of a faculty member. To ob
+tain credit the student must, at the end of two semesters, s
+ubmit a satisfactory thesis. A total of four units must be t
+aken. The units may be distributed between one or two semest
+ers in any way."
+PHYSICS H195B,1,"Thesis work under the supervision of a faculty member. To ob
+tain credit the student must, at the end of two semesters, s
+ubmit a satisfactory thesis. A total of four units must be t
+aken. The units may be distributed between one or two semest
+ers in any way."
+PHYSICS 198,1,"Enrollment restrictions apply; see the Introduction to Cours
+es and Curricula section in this catalog."
+PHYSICS 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHYSICS 198F,1,"Discussion-based introduction to contemporary research in ph
+ysics for advanced undergraduates. Presentation of different
+ weekly topics in physics research led by graduate students,
+ postdocs, or professors in a particular field to connect up
+per division physics majors with contemporary research and t
+o increase dialogue between upper division undergraduates an
+d researchers in the department."
+PHYSICS 199,1,"Enrollment restrictions apply; see the Introduction to Cours
+es and Curricula section in this catalog."
+PHYSICS 5A,1,"Kinematics, dynamics, work and energy, rotational motion, os
+cillations, fluids and relativity. Use of calculus and vecto
+r algebra will be emphasized. Intended for students with an 
+interest in pursuing a major in physics, astrophysics, engin
+eering physics, or related disciplines. Successor to the Phy
+sics H7 series. Start of three semester 5A-5B-5C sequence."
+PHYSICS 5B,1,"Electric fields and potential, circuits, magnetism and induc
+tion. Introduction to optics including light propagation, re
+flection, refraction and interference. Intended for students
+ with an interest in pursuing a major in physics, astrophysi
+cs, engineering physics, or related disciplines. Successor t
+o the Physics H7 series. Continuation of 5A-5B-5C sequence."
+PHYSICS 5BL,1,"Part one of a two-semester laboratory sequence to introduce 
+students to experimental physics and prepare them for resear
+ch. Covers a variety of modern and historical experiments, e
+mphasizing data analysis, clear scientific communication, an
+d development of skills on modern equipment. Successor to th
+e Physics H7 series."
+PHYSICS 5C,1,"Temperature, kinetic theory, entropy; particle/wave nature o
+f matter, Schrodinger equation, hydrogen atom, applications 
+of quantum physics. Intended for students with an interest i
+n pursuing a major in physics, astrophysics, engineering phy
+sics or related disciplines. Continuation of 5A-5B-5C sequen
+ce. Successor to the Physics H7 series."
+PHYSICS 5CL,1,"Part two of a two-semester laboratory sequence to introduce 
+students to experimental physics and prepare them for resear
+ch. Covers a variety of modern and historical experiments, e
+mphasizing iterative experimental design, clear scientific c
+ommunication, and development of skills on modern equipment.
+ Successor to the Physics H7 series."
+PHYSICS 7A,1,Mechanics and wave motion.
+PHYSICS 7B,1,"Heat, electricity, and magnetism."
+PHYSICS 7C,1,"Electromagnetic waves, optics, relativity, and quantum physi
+cs."
+PHYSICS H7A,1,"Honors sequence corresponding to 7A-7B-7C, but with a greate
+r emphasis on theory as opposed to problem solving. Recommen
+ded for those students who have had advanced Physics on the 
+high school level and who are intending to declare a major i
+n physics. Entrance into H7A is decided on the basis of perf
+ormance on an examination given during the first week of cla
+ss or the consent of the instructor, and into H7B-H7C on per
+formance in previous courses"
+PHYSICS H7B,1,"Honors sequence corresponding to 7A-7B-7C, but with a greate
+r emphasis on theory as opposed to problem solving. Recommen
+ded for those students who have had advanced Physics on the 
+high school level and who are intending to declare a major i
+n physics. Entrance into H7A is decided on the basis of perf
+ormance on an examination given during the first week of cla
+ss or the consent of the instructor, and into H7B-H7C on per
+formance in previous courses"
+PHYSICS H7C,1,"Honors sequence corresponding to 7A-7B-7C, but with a greate
+r emphasis on theory as opposed to problem solving. Recommen
+ded for those students who have had advanced Physics on the 
+high school level and who are intending to declare a major i
+n physics. Entrance into H7A is decided on the basis of perf
+ormance on an examination given during the first week of cla
+ss or the consent of the instructor, and into H7B-H7C on per
+formance in previous courses"
+PHYSICS 8A,1,"Introduction to forces, kinetics, equilibria, fluids, waves,
+ and heat. This course presents concepts and methodologies f
+or understanding physical phenomena, and is particularly use
+ful preparation for upper division study in biology and arch
+itecture."
+PHYSICS 8B,1,"Introduction to electricity, magnetism, electromagnetic wave
+s, optics, and modern physics. The course presents concepts 
+and methodologies for understanding physical phenomena, and 
+is particularly useful preparation for upper division study 
+in biology and architecture."
+PHYSICS 10,1,"The most interesting and important topics in physics, stress
+ing conceptual understanding rather than math, with applicat
+ions to current events. Topics covered may vary and may incl
+ude energy and conservation, radioactivity, nuclear physics,
+ the Theory of Relativity, lasers, explosions, earthquakes, 
+superconductors, and quantum physics."
+PHYSICS C10,1,"The most interesting and important topics in physics, stress
+ing conceptual understanding rather than math, with applicat
+ions to current events. Topics covered may vary and may incl
+ude energy and conservation, radioactivity, nuclear physics,
+ the Theory of Relativity, lasers, explosions, earthquakes, 
+superconductors, and quantum physics."
+PHYSICS 21,1,"Physical principles encountered in the study of music. The a
+pplicable laws of mechanics, fundamentals of sound, harmonic
+ content, principles of sound production in musical instrume
+nts, musical scales. Numerous illustrative lecture demonstra
+tions will be given. Only the basics of high school algebra 
+and geometry will be used."
+PHYSICS C21,1,"What can we learn about the nature of reality and the ways t
+hat we humans have invented to discover how the world works?
+ An exploration of these questions through the physical prin
+ciples encountered in the study of music. The applicable law
+s of mechanics, fundamentals of sound, harmonic content, pri
+nciples of sound production in musical instruments, musical 
+scales. Numerous illustrative lecture demonstrations will be
+ given. Only the basics"
+PHYSICS 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+PHYSICS 39,1,"Enrollment limited to 20 students per section. Physics semin
+ar course designed for both non major students and students 
+considering a major in physics. Topics vary from semester to
+ semester."
+PHYSICS 49,1,"Students with partial credit in lower division physics cours
+es may, with consent of instructor, complete the credit unde
+r this heading."
+PHYSICS 77,1,"Introductory scientific programming in Python with examples 
+from physics. Topics include: visualization, statistics and 
+probability, regression, numerical integration, simulation, 
+data modeling, function approximation, and algebraic systems
+. Recommended for freshman physics majors."
+PHYSICS 88,1,"Introduction to data science with applications to physics. T
+opics include: statistics and probability in physics, modeli
+ng of the physical systems and data, numerical integration a
+nd differentiation, function approximation. Connector course
+ for Data Science 8, room-shared with Physics 77. Recommende
+d for freshmen intended to major in physics or engineering w
+ith emphasis on data science."
+PHYSICS 89,1,"Complex numbers, linear algebra, ordinary differential equat
+ions, Fourier series and transform methods, introduction to 
+partial differential equations, introduction to tensors. App
+lications to physics will be emphasized. This course or an e
+quivalent course required for physics major."
+PHYSICS 98,1, 
+PHYSICS 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHYSICS 99,1, 
+PHYSICS 100,1,"For undergraduate and graduate students interested in improv
+ing their ability to communicate scientific knowledge by tea
+ching science in K-12 schools. The course will combine instr
+uction in inquiry-based science teaching methods and learnin
+g pedagogy with 10 weeks of supervised teaching experience i
+n a local school. Students will practice, with support and m
+entoring, communicating scientific knowledge through present
+ations and hands-on activities."
+PHYSICS 105,1,"Newtonian mechanics, motion of a particle in one, two, and t
+hree dimensions, Lagrange’s equations, Hamilton's equations,
+ central force motion, moving coordinate systems, mechanics 
+of continuous media, oscillations, normal modes, rigid body 
+dynamics, tensor analysis techniques. Some knowledge of Pyth
+on required for homework assignments. Students who have not 
+taken Physics 77 or Data Science 8 are encouraged to complet
+e the Python tutorials provided"
+PHYSICS 110A,1,"Part I. A course emphasizing electromagnetic theory and appl
+ications; charges and currents; electric and magnetic fields
+; dielectric, conducting, and magnetic media; relativity, Ma
+xwell equations. Wave propagation in media, radiation and sc
+attering, Fourier optics, interference and diffraction, ray 
+optics and applications."
+PHYSICS 110B,1,"Part II. A course emphasizing electromagnetic theory and app
+lications; charges and currents; electric and magnetic field
+s; dielectric, conducting, and magnetic media; relativity, M
+axwell equations. Wave propagation in media, radiation and s
+cattering, Fourier optics, interference and diffraction, ray
+ optics and applications."
+PHYSICS 111A,1,"The instrumentation lab (formerly Basic Semiconductor Circui
+ts) is an introductory course in basic design, analysis and 
+modeling of circuits, and data analysis and control. Topics 
+include but not limited to:"
+PHYSICS 111B,1,"In the advanced experimentation lab students complete four o
+f 20+ advanced experiments. These include many experiments i
+n atomic, nuclear, particle physics, biophysics, and solid-s
+tate physics, among others."
+PHYSICS 112,1,"Basic concepts of statistical mechanics, microscopic basis o
+f thermodynamics and applications to macroscopic systems, co
+ndensed states, phase transformations, quantum distributions
+, elementary kinetic theory of transport processes, fluctuat
+ion phenomena. Some knowledge of Python required for homewor
+k assignments. Students who have not taken Physics 77 or Dat
+a Science 8 are encouraged to complete the Python tutorials 
+provided by the Physics"
+PHYSICS 129,1,"Tools of particle and nuclear physics. Properties, classific
+ation, and interaction of particles including the quark-gluo
+n constituents of hadrons. High energy phenomena analyzed by
+ quantum mechanical methods. Course will survey the field in
+cluding some related topics in nuclear physics. Some knowled
+ge of Python required. Students who have not taken Physics 7
+7 or Data Science 8 are encouraged to complete the Python tu
+torials provided by the Physics"
+PHYSICS 130,1,"Detailed theory and experimental basis of quantum and nonlin
+ear optics, exhibiting concepts of quantum measurement, nois
+e, stochastic processes and dissipative quantum systems. Top
+ics include second-quantization of electromagnetic fields, p
+hotodetection, coherence properties, light-atom interactions
+, cavity quantum electrodynamics, nonlinear optical systems,
+ squeezed light, aspects of quantum information science, and
+ contemporary researc"
+PHYSICS 137A,1,"Part I. Introduction to the methods of quantum mechanics wit
+h applications to atomic, molecular, solid state, nuclear an
+d elementary particle physics."
+PHYSICS 137B,1,"Part II. Introduction to the methods of quantum mechanics wi
+th applications to atomic, molecular, solid state, nuclear a
+nd elementary particle physics."
+PHYSICS 138,1,"This course covers atomic, molecular, and optical physics as
+ a quantitative description of atoms and fields, a generaliz
+ed toolbox for controlling quantum systems, and a vibrant re
+search area. Topics covered include atomic structure and spe
+ctra, atom-field interactions, topics in quantum electrodyna
+mics, methods of resonant manipulation of quantum systems, r
+esonance optics, and experimental techniques."
+PHYSICS 139,1,"Historical and experimental foundations of Einstein's specia
+l theory of relativity; spatial and temporal measurements, p
+article dynamics, electrodynamics, Lorentz invariants. Intro
+duction to general relativity. Selected applications. Design
+ed for advanced undergraduates in physics and astronomy."
+PHYSICS 141A,1,"Part I. A thorough introductory course in modern solid state
+ physics. Crystal symmetries; classification of solids and t
+heir bonding; electromagnetic, elastic, and particle waves i
+n periodic lattices; thermal magnetic and dielectric propert
+ies of solids; energy bands of metals and semi-conductors; s
+uperconductivity; magnetism; ferroelectricity; magnetic reso
+nances."
+PHYSICS 141B,1,"Part II. A thorough introductory course in modern solid stat
+e physics. Crystal symmetries; classification of solids and 
+their bonding; electromagnetic, elastic, and particle waves 
+in periodic lattices; thermal magnetic and dielectric proper
+ties of solids; energy bands of metals and semi-conductors; 
+superconductivity; magnetism; ferroelectricity; magnetic res
+onances."
+PHYSICS 142,1,"Motion of charged particles in electric and magnetic fields,
+ dynamics of fully ionized plasma from both microscopic and 
+macroscopic point of view, magnetohydrodynamics, small ampli
+tude waves; examples from astrophysics, space sciences and c
+ontrolled-fusion research."
+PHYSICS 151,1,"Topics vary from semester to semester. The subject matter le
+vel and scope of the course are such that it is acceptable a
+s the required elective course in the Physics major. See Dep
+artment of Physics course announcements."
+PHYSICS 153,1,"This course is designed to assist physics and other physical
+ sciences transfer students in their transition to UC Berkel
+ey. Over the course of a semester, students will learn about
+ campus resources, how to navigate the campus, establish con
+nections with other students in their cohorts, receive physi
+cs transfer peer mentorship and advising. Students will work
+ in small-groups to solve challenging mathematical and physi
+cs concepts to assist with academic success."
+PHYSICS C161,1,"Elements of general relativity. Physics of pulsars, cosmic r
+ays, black holes. The cosmological distance scale, elementar
+y cosmological models, properties of galaxies and quasars. T
+he mass density and age of the universe. Evidence for dark m
+atter and dark energy and concepts of the early universe and
+ of galaxy formation. Reflections on astrophysics as a probe
+ of the extrema of physics."
+PHYSICS 177,1,"We will review the structure of proteins, nucleic acids, car
+bohydrates, lipids, and the forces and interactions maintain
+ing their structure in solution. We will describe the thermo
+dynamics and kinetics of protein folding. The principles of 
+polymer chain statistics and of helix-coil transitions in bi
+opolymers will be reviewed next, together with biopolymer dy
+namics. We will then cover the main structural methods in bi
+ology: X-ray crystallography"
+PHYSICS 188,1,"The course design covers data analysis and machine learning,
+ highlighting their importance to the physical sciences. It 
+covers data analysis with linear and nonlinear regression, l
+ogistic regression, and gaussian processes. It covers concep
+ts in machine learning such as unsupervised and supervised r
+egression and classification learning. It develops Bayesian 
+statistics and information theory, covering concepts such as
+ information, entropy, posteriors, MCMC, latent variables"
+PHYSICS H190,1,"A seminar which includes study and reports on current theore
+tical and experimental problems. Open only to students offic
+ially in the physics honors program or with consent of instr
+uctor."
+PHYSICS C191,1,"This multidisciplinary course provides an introduction to fu
+ndamental conceptual aspects of quantum mechanics from a com
+putational and informational theoretic perspective, as well 
+as physical implementations and technological applications o
+f quantum information science. Basic sections of quantum alg
+orithms, complexity, and cryptography, will be touched upon,
+ as well as pertinent physical realizations from nanoscale s
+cience and engineerin"
+PHYSICS H195A,1,"Thesis work under the supervision of a faculty member. To ob
+tain credit the student must, at the end of two semesters, s
+ubmit a satisfactory thesis. A total of four units must be t
+aken. The units may be distributed between one or two semest
+ers in any way."
+PHYSICS H195B,1,"Thesis work under the supervision of a faculty member. To ob
+tain credit the student must, at the end of two semesters, s
+ubmit a satisfactory thesis. A total of four units must be t
+aken. The units may be distributed between one or two semest
+ers in any way."
+PHYSICS 198,1,"Enrollment restrictions apply; see the Introduction to Cours
+es and Curricula section in this catalog."
+PHYSICS 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHYSICS 198F,1,"Discussion-based introduction to contemporary research in ph
+ysics for advanced undergraduates. Presentation of different
+ weekly topics in physics research led by graduate students,
+ postdocs, or professors in a particular field to connect up
+per division physics majors with contemporary research and t
+o increase dialogue between upper division undergraduates an
+d researchers in the department."
+PHYSICS 199,1,"Enrollment restrictions apply; see the Introduction to Cours
+es and Curricula section in this catalog."
+PHYSICS 5A,1,"Kinematics, dynamics, work and energy, rotational motion, os
+cillations, fluids and relativity. Use of calculus and vecto
+r algebra will be emphasized. Intended for students with an 
+interest in pursuing a major in physics, astrophysics, engin
+eering physics, or related disciplines. Successor to the Phy
+sics H7 series. Start of three semester 5A-5B-5C sequence."
+PHYSICS 5B,1,"Electric fields and potential, circuits, magnetism and induc
+tion. Introduction to optics including light propagation, re
+flection, refraction and interference. Intended for students
+ with an interest in pursuing a major in physics, astrophysi
+cs, engineering physics, or related disciplines. Successor t
+o the Physics H7 series. Continuation of 5A-5B-5C sequence."
+PHYSICS 5BL,1,"Part one of a two-semester laboratory sequence to introduce 
+students to experimental physics and prepare them for resear
+ch. Covers a variety of modern and historical experiments, e
+mphasizing data analysis, clear scientific communication, an
+d development of skills on modern equipment. Successor to th
+e Physics H7 series."
+PHYSICS 5C,1,"Temperature, kinetic theory, entropy; particle/wave nature o
+f matter, Schrodinger equation, hydrogen atom, applications 
+of quantum physics. Intended for students with an interest i
+n pursuing a major in physics, astrophysics, engineering phy
+sics or related disciplines. Continuation of 5A-5B-5C sequen
+ce. Successor to the Physics H7 series."
+PHYSICS 5CL,1,"Part two of a two-semester laboratory sequence to introduce 
+students to experimental physics and prepare them for resear
+ch. Covers a variety of modern and historical experiments, e
+mphasizing iterative experimental design, clear scientific c
+ommunication, and development of skills on modern equipment.
+ Successor to the Physics H7 series."
+PHYSICS 7A,1,Mechanics and wave motion.
+PHYSICS 7B,1,"Heat, electricity, and magnetism."
+PHYSICS 7C,1,"Electromagnetic waves, optics, relativity, and quantum physi
+cs."
+PHYSICS H7A,1,"Honors sequence corresponding to 7A-7B-7C, but with a greate
+r emphasis on theory as opposed to problem solving. Recommen
+ded for those students who have had advanced Physics on the 
+high school level and who are intending to declare a major i
+n physics. Entrance into H7A is decided on the basis of perf
+ormance on an examination given during the first week of cla
+ss or the consent of the instructor, and into H7B-H7C on per
+formance in previous courses"
+PHYSICS H7B,1,"Honors sequence corresponding to 7A-7B-7C, but with a greate
+r emphasis on theory as opposed to problem solving. Recommen
+ded for those students who have had advanced Physics on the 
+high school level and who are intending to declare a major i
+n physics. Entrance into H7A is decided on the basis of perf
+ormance on an examination given during the first week of cla
+ss or the consent of the instructor, and into H7B-H7C on per
+formance in previous courses"
+PHYSICS H7C,1,"Honors sequence corresponding to 7A-7B-7C, but with a greate
+r emphasis on theory as opposed to problem solving. Recommen
+ded for those students who have had advanced Physics on the 
+high school level and who are intending to declare a major i
+n physics. Entrance into H7A is decided on the basis of perf
+ormance on an examination given during the first week of cla
+ss or the consent of the instructor, and into H7B-H7C on per
+formance in previous courses"
+PHYSICS 8A,1,"Introduction to forces, kinetics, equilibria, fluids, waves,
+ and heat. This course presents concepts and methodologies f
+or understanding physical phenomena, and is particularly use
+ful preparation for upper division study in biology and arch
+itecture."
+PHYSICS 8B,1,"Introduction to electricity, magnetism, electromagnetic wave
+s, optics, and modern physics. The course presents concepts 
+and methodologies for understanding physical phenomena, and 
+is particularly useful preparation for upper division study 
+in biology and architecture."
+PHYSICS 10,1,"The most interesting and important topics in physics, stress
+ing conceptual understanding rather than math, with applicat
+ions to current events. Topics covered may vary and may incl
+ude energy and conservation, radioactivity, nuclear physics,
+ the Theory of Relativity, lasers, explosions, earthquakes, 
+superconductors, and quantum physics."
+PHYSICS C10,1,"The most interesting and important topics in physics, stress
+ing conceptual understanding rather than math, with applicat
+ions to current events. Topics covered may vary and may incl
+ude energy and conservation, radioactivity, nuclear physics,
+ the Theory of Relativity, lasers, explosions, earthquakes, 
+superconductors, and quantum physics."
+PHYSICS 21,1,"Physical principles encountered in the study of music. The a
+pplicable laws of mechanics, fundamentals of sound, harmonic
+ content, principles of sound production in musical instrume
+nts, musical scales. Numerous illustrative lecture demonstra
+tions will be given. Only the basics of high school algebra 
+and geometry will be used."
+PHYSICS C21,1,"What can we learn about the nature of reality and the ways t
+hat we humans have invented to discover how the world works?
+ An exploration of these questions through the physical prin
+ciples encountered in the study of music. The applicable law
+s of mechanics, fundamentals of sound, harmonic content, pri
+nciples of sound production in musical instruments, musical 
+scales. Numerous illustrative lecture demonstrations will be
+ given. Only the basics"
+PHYSICS 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+PHYSICS 39,1,"Enrollment limited to 20 students per section. Physics semin
+ar course designed for both non major students and students 
+considering a major in physics. Topics vary from semester to
+ semester."
+PHYSICS 49,1,"Students with partial credit in lower division physics cours
+es may, with consent of instructor, complete the credit unde
+r this heading."
+PHYSICS 77,1,"Introductory scientific programming in Python with examples 
+from physics. Topics include: visualization, statistics and 
+probability, regression, numerical integration, simulation, 
+data modeling, function approximation, and algebraic systems
+. Recommended for freshman physics majors."
+PHYSICS 88,1,"Introduction to data science with applications to physics. T
+opics include: statistics and probability in physics, modeli
+ng of the physical systems and data, numerical integration a
+nd differentiation, function approximation. Connector course
+ for Data Science 8, room-shared with Physics 77. Recommende
+d for freshmen intended to major in physics or engineering w
+ith emphasis on data science."
+PHYSICS 89,1,"Complex numbers, linear algebra, ordinary differential equat
+ions, Fourier series and transform methods, introduction to 
+partial differential equations, introduction to tensors. App
+lications to physics will be emphasized. This course or an e
+quivalent course required for physics major."
+PHYSICS 98,1, 
+PHYSICS 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHYSICS 99,1, 
+PHYSICS 100,1,"For undergraduate and graduate students interested in improv
+ing their ability to communicate scientific knowledge by tea
+ching science in K-12 schools. The course will combine instr
+uction in inquiry-based science teaching methods and learnin
+g pedagogy with 10 weeks of supervised teaching experience i
+n a local school. Students will practice, with support and m
+entoring, communicating scientific knowledge through present
+ations and hands-on activities."
+PHYSICS 105,1,"Newtonian mechanics, motion of a particle in one, two, and t
+hree dimensions, Lagrange’s equations, Hamilton's equations,
+ central force motion, moving coordinate systems, mechanics 
+of continuous media, oscillations, normal modes, rigid body 
+dynamics, tensor analysis techniques. Some knowledge of Pyth
+on required for homework assignments. Students who have not 
+taken Physics 77 or Data Science 8 are encouraged to complet
+e the Python tutorials provided"
+PHYSICS 110A,1,"Part I. A course emphasizing electromagnetic theory and appl
+ications; charges and currents; electric and magnetic fields
+; dielectric, conducting, and magnetic media; relativity, Ma
+xwell equations. Wave propagation in media, radiation and sc
+attering, Fourier optics, interference and diffraction, ray 
+optics and applications."
+PHYSICS 110B,1,"Part II. A course emphasizing electromagnetic theory and app
+lications; charges and currents; electric and magnetic field
+s; dielectric, conducting, and magnetic media; relativity, M
+axwell equations. Wave propagation in media, radiation and s
+cattering, Fourier optics, interference and diffraction, ray
+ optics and applications."
+PHYSICS 111A,1,"The instrumentation lab (formerly Basic Semiconductor Circui
+ts) is an introductory course in basic design, analysis and 
+modeling of circuits, and data analysis and control. Topics 
+include but not limited to:"
+PHYSICS 111B,1,"In the advanced experimentation lab students complete four o
+f 20+ advanced experiments. These include many experiments i
+n atomic, nuclear, particle physics, biophysics, and solid-s
+tate physics, among others."
+PHYSICS 112,1,"Basic concepts of statistical mechanics, microscopic basis o
+f thermodynamics and applications to macroscopic systems, co
+ndensed states, phase transformations, quantum distributions
+, elementary kinetic theory of transport processes, fluctuat
+ion phenomena. Some knowledge of Python required for homewor
+k assignments. Students who have not taken Physics 77 or Dat
+a Science 8 are encouraged to complete the Python tutorials 
+provided by the Physics"
+PHYSICS 129,1,"Tools of particle and nuclear physics. Properties, classific
+ation, and interaction of particles including the quark-gluo
+n constituents of hadrons. High energy phenomena analyzed by
+ quantum mechanical methods. Course will survey the field in
+cluding some related topics in nuclear physics. Some knowled
+ge of Python required. Students who have not taken Physics 7
+7 or Data Science 8 are encouraged to complete the Python tu
+torials provided by the Physics"
+PHYSICS 130,1,"Detailed theory and experimental basis of quantum and nonlin
+ear optics, exhibiting concepts of quantum measurement, nois
+e, stochastic processes and dissipative quantum systems. Top
+ics include second-quantization of electromagnetic fields, p
+hotodetection, coherence properties, light-atom interactions
+, cavity quantum electrodynamics, nonlinear optical systems,
+ squeezed light, aspects of quantum information science, and
+ contemporary researc"
+PHYSICS 137A,1,"Part I. Introduction to the methods of quantum mechanics wit
+h applications to atomic, molecular, solid state, nuclear an
+d elementary particle physics."
+PHYSICS 137B,1,"Part II. Introduction to the methods of quantum mechanics wi
+th applications to atomic, molecular, solid state, nuclear a
+nd elementary particle physics."
+PHYSICS 138,1,"This course covers atomic, molecular, and optical physics as
+ a quantitative description of atoms and fields, a generaliz
+ed toolbox for controlling quantum systems, and a vibrant re
+search area. Topics covered include atomic structure and spe
+ctra, atom-field interactions, topics in quantum electrodyna
+mics, methods of resonant manipulation of quantum systems, r
+esonance optics, and experimental techniques."
+PHYSICS 139,1,"Historical and experimental foundations of Einstein's specia
+l theory of relativity; spatial and temporal measurements, p
+article dynamics, electrodynamics, Lorentz invariants. Intro
+duction to general relativity. Selected applications. Design
+ed for advanced undergraduates in physics and astronomy."
+PHYSICS 141A,1,"Part I. A thorough introductory course in modern solid state
+ physics. Crystal symmetries; classification of solids and t
+heir bonding; electromagnetic, elastic, and particle waves i
+n periodic lattices; thermal magnetic and dielectric propert
+ies of solids; energy bands of metals and semi-conductors; s
+uperconductivity; magnetism; ferroelectricity; magnetic reso
+nances."
+PHYSICS 141B,1,"Part II. A thorough introductory course in modern solid stat
+e physics. Crystal symmetries; classification of solids and 
+their bonding; electromagnetic, elastic, and particle waves 
+in periodic lattices; thermal magnetic and dielectric proper
+ties of solids; energy bands of metals and semi-conductors; 
+superconductivity; magnetism; ferroelectricity; magnetic res
+onances."
+PHYSICS 142,1,"Motion of charged particles in electric and magnetic fields,
+ dynamics of fully ionized plasma from both microscopic and 
+macroscopic point of view, magnetohydrodynamics, small ampli
+tude waves; examples from astrophysics, space sciences and c
+ontrolled-fusion research."
+PHYSICS 151,1,"Topics vary from semester to semester. The subject matter le
+vel and scope of the course are such that it is acceptable a
+s the required elective course in the Physics major. See Dep
+artment of Physics course announcements."
+PHYSICS 153,1,"This course is designed to assist physics and other physical
+ sciences transfer students in their transition to UC Berkel
+ey. Over the course of a semester, students will learn about
+ campus resources, how to navigate the campus, establish con
+nections with other students in their cohorts, receive physi
+cs transfer peer mentorship and advising. Students will work
+ in small-groups to solve challenging mathematical and physi
+cs concepts to assist with academic success."
+PHYSICS C161,1,"Elements of general relativity. Physics of pulsars, cosmic r
+ays, black holes. The cosmological distance scale, elementar
+y cosmological models, properties of galaxies and quasars. T
+he mass density and age of the universe. Evidence for dark m
+atter and dark energy and concepts of the early universe and
+ of galaxy formation. Reflections on astrophysics as a probe
+ of the extrema of physics."
+PHYSICS 177,1,"We will review the structure of proteins, nucleic acids, car
+bohydrates, lipids, and the forces and interactions maintain
+ing their structure in solution. We will describe the thermo
+dynamics and kinetics of protein folding. The principles of 
+polymer chain statistics and of helix-coil transitions in bi
+opolymers will be reviewed next, together with biopolymer dy
+namics. We will then cover the main structural methods in bi
+ology: X-ray crystallography"
+PHYSICS 188,1,"The course design covers data analysis and machine learning,
+ highlighting their importance to the physical sciences. It 
+covers data analysis with linear and nonlinear regression, l
+ogistic regression, and gaussian processes. It covers concep
+ts in machine learning such as unsupervised and supervised r
+egression and classification learning. It develops Bayesian 
+statistics and information theory, covering concepts such as
+ information, entropy, posteriors, MCMC, latent variables"
+PHYSICS H190,1,"A seminar which includes study and reports on current theore
+tical and experimental problems. Open only to students offic
+ially in the physics honors program or with consent of instr
+uctor."
+PHYSICS C191,1,"This multidisciplinary course provides an introduction to fu
+ndamental conceptual aspects of quantum mechanics from a com
+putational and informational theoretic perspective, as well 
+as physical implementations and technological applications o
+f quantum information science. Basic sections of quantum alg
+orithms, complexity, and cryptography, will be touched upon,
+ as well as pertinent physical realizations from nanoscale s
+cience and engineerin"
+PHYSICS H195A,1,"Thesis work under the supervision of a faculty member. To ob
+tain credit the student must, at the end of two semesters, s
+ubmit a satisfactory thesis. A total of four units must be t
+aken. The units may be distributed between one or two semest
+ers in any way."
+PHYSICS H195B,1,"Thesis work under the supervision of a faculty member. To ob
+tain credit the student must, at the end of two semesters, s
+ubmit a satisfactory thesis. A total of four units must be t
+aken. The units may be distributed between one or two semest
+ers in any way."
+PHYSICS 198,1,"Enrollment restrictions apply; see the Introduction to Cours
+es and Curricula section in this catalog."
+PHYSICS 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHYSICS 198F,1,"Discussion-based introduction to contemporary research in ph
+ysics for advanced undergraduates. Presentation of different
+ weekly topics in physics research led by graduate students,
+ postdocs, or professors in a particular field to connect up
+per division physics majors with contemporary research and t
+o increase dialogue between upper division undergraduates an
+d researchers in the department."
+PHYSICS 199,1,"Enrollment restrictions apply; see the Introduction to Cours
+es and Curricula section in this catalog."
+PHYSICS 5A,1,"Kinematics, dynamics, work and energy, rotational motion, os
+cillations, fluids and relativity. Use of calculus and vecto
+r algebra will be emphasized. Intended for students with an 
+interest in pursuing a major in physics, astrophysics, engin
+eering physics, or related disciplines. Successor to the Phy
+sics H7 series. Start of three semester 5A-5B-5C sequence."
+PHYSICS 5B,1,"Electric fields and potential, circuits, magnetism and induc
+tion. Introduction to optics including light propagation, re
+flection, refraction and interference. Intended for students
+ with an interest in pursuing a major in physics, astrophysi
+cs, engineering physics, or related disciplines. Successor t
+o the Physics H7 series. Continuation of 5A-5B-5C sequence."
+PHYSICS 5BL,1,"Part one of a two-semester laboratory sequence to introduce 
+students to experimental physics and prepare them for resear
+ch. Covers a variety of modern and historical experiments, e
+mphasizing data analysis, clear scientific communication, an
+d development of skills on modern equipment. Successor to th
+e Physics H7 series."
+PHYSICS 5C,1,"Temperature, kinetic theory, entropy; particle/wave nature o
+f matter, Schrodinger equation, hydrogen atom, applications 
+of quantum physics. Intended for students with an interest i
+n pursuing a major in physics, astrophysics, engineering phy
+sics or related disciplines. Continuation of 5A-5B-5C sequen
+ce. Successor to the Physics H7 series."
+PHYSICS 5CL,1,"Part two of a two-semester laboratory sequence to introduce 
+students to experimental physics and prepare them for resear
+ch. Covers a variety of modern and historical experiments, e
+mphasizing iterative experimental design, clear scientific c
+ommunication, and development of skills on modern equipment.
+ Successor to the Physics H7 series."
+PHYSICS 7A,1,Mechanics and wave motion.
+PHYSICS 7B,1,"Heat, electricity, and magnetism."
+PHYSICS 7C,1,"Electromagnetic waves, optics, relativity, and quantum physi
+cs."
+PHYSICS H7A,1,"Honors sequence corresponding to 7A-7B-7C, but with a greate
+r emphasis on theory as opposed to problem solving. Recommen
+ded for those students who have had advanced Physics on the 
+high school level and who are intending to declare a major i
+n physics. Entrance into H7A is decided on the basis of perf
+ormance on an examination given during the first week of cla
+ss or the consent of the instructor, and into H7B-H7C on per
+formance in previous courses"
+PHYSICS H7B,1,"Honors sequence corresponding to 7A-7B-7C, but with a greate
+r emphasis on theory as opposed to problem solving. Recommen
+ded for those students who have had advanced Physics on the 
+high school level and who are intending to declare a major i
+n physics. Entrance into H7A is decided on the basis of perf
+ormance on an examination given during the first week of cla
+ss or the consent of the instructor, and into H7B-H7C on per
+formance in previous courses"
+PHYSICS H7C,1,"Honors sequence corresponding to 7A-7B-7C, but with a greate
+r emphasis on theory as opposed to problem solving. Recommen
+ded for those students who have had advanced Physics on the 
+high school level and who are intending to declare a major i
+n physics. Entrance into H7A is decided on the basis of perf
+ormance on an examination given during the first week of cla
+ss or the consent of the instructor, and into H7B-H7C on per
+formance in previous courses"
+PHYSICS 8A,1,"Introduction to forces, kinetics, equilibria, fluids, waves,
+ and heat. This course presents concepts and methodologies f
+or understanding physical phenomena, and is particularly use
+ful preparation for upper division study in biology and arch
+itecture."
+PHYSICS 8B,1,"Introduction to electricity, magnetism, electromagnetic wave
+s, optics, and modern physics. The course presents concepts 
+and methodologies for understanding physical phenomena, and 
+is particularly useful preparation for upper division study 
+in biology and architecture."
+PHYSICS 10,1,"The most interesting and important topics in physics, stress
+ing conceptual understanding rather than math, with applicat
+ions to current events. Topics covered may vary and may incl
+ude energy and conservation, radioactivity, nuclear physics,
+ the Theory of Relativity, lasers, explosions, earthquakes, 
+superconductors, and quantum physics."
+PHYSICS C10,1,"The most interesting and important topics in physics, stress
+ing conceptual understanding rather than math, with applicat
+ions to current events. Topics covered may vary and may incl
+ude energy and conservation, radioactivity, nuclear physics,
+ the Theory of Relativity, lasers, explosions, earthquakes, 
+superconductors, and quantum physics."
+PHYSICS 21,1,"Physical principles encountered in the study of music. The a
+pplicable laws of mechanics, fundamentals of sound, harmonic
+ content, principles of sound production in musical instrume
+nts, musical scales. Numerous illustrative lecture demonstra
+tions will be given. Only the basics of high school algebra 
+and geometry will be used."
+PHYSICS C21,1,"What can we learn about the nature of reality and the ways t
+hat we humans have invented to discover how the world works?
+ An exploration of these questions through the physical prin
+ciples encountered in the study of music. The applicable law
+s of mechanics, fundamentals of sound, harmonic content, pri
+nciples of sound production in musical instruments, musical 
+scales. Numerous illustrative lecture demonstrations will be
+ given. Only the basics"
+PHYSICS 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+PHYSICS 39,1,"Enrollment limited to 20 students per section. Physics semin
+ar course designed for both non major students and students 
+considering a major in physics. Topics vary from semester to
+ semester."
+PHYSICS 49,1,"Students with partial credit in lower division physics cours
+es may, with consent of instructor, complete the credit unde
+r this heading."
+PHYSICS 77,1,"Introductory scientific programming in Python with examples 
+from physics. Topics include: visualization, statistics and 
+probability, regression, numerical integration, simulation, 
+data modeling, function approximation, and algebraic systems
+. Recommended for freshman physics majors."
+PHYSICS 88,1,"Introduction to data science with applications to physics. T
+opics include: statistics and probability in physics, modeli
+ng of the physical systems and data, numerical integration a
+nd differentiation, function approximation. Connector course
+ for Data Science 8, room-shared with Physics 77. Recommende
+d for freshmen intended to major in physics or engineering w
+ith emphasis on data science."
+PHYSICS 89,1,"Complex numbers, linear algebra, ordinary differential equat
+ions, Fourier series and transform methods, introduction to 
+partial differential equations, introduction to tensors. App
+lications to physics will be emphasized. This course or an e
+quivalent course required for physics major."
+PHYSICS 98,1, 
+PHYSICS 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHYSICS 99,1, 
+PHYSICS 100,1,"For undergraduate and graduate students interested in improv
+ing their ability to communicate scientific knowledge by tea
+ching science in K-12 schools. The course will combine instr
+uction in inquiry-based science teaching methods and learnin
+g pedagogy with 10 weeks of supervised teaching experience i
+n a local school. Students will practice, with support and m
+entoring, communicating scientific knowledge through present
+ations and hands-on activities."
+PHYSICS 105,1,"Newtonian mechanics, motion of a particle in one, two, and t
+hree dimensions, Lagrange’s equations, Hamilton's equations,
+ central force motion, moving coordinate systems, mechanics 
+of continuous media, oscillations, normal modes, rigid body 
+dynamics, tensor analysis techniques. Some knowledge of Pyth
+on required for homework assignments. Students who have not 
+taken Physics 77 or Data Science 8 are encouraged to complet
+e the Python tutorials provided"
+PHYSICS 110A,1,"Part I. A course emphasizing electromagnetic theory and appl
+ications; charges and currents; electric and magnetic fields
+; dielectric, conducting, and magnetic media; relativity, Ma
+xwell equations. Wave propagation in media, radiation and sc
+attering, Fourier optics, interference and diffraction, ray 
+optics and applications."
+PHYSICS 110B,1,"Part II. A course emphasizing electromagnetic theory and app
+lications; charges and currents; electric and magnetic field
+s; dielectric, conducting, and magnetic media; relativity, M
+axwell equations. Wave propagation in media, radiation and s
+cattering, Fourier optics, interference and diffraction, ray
+ optics and applications."
+PHYSICS 111A,1,"The instrumentation lab (formerly Basic Semiconductor Circui
+ts) is an introductory course in basic design, analysis and 
+modeling of circuits, and data analysis and control. Topics 
+include but not limited to:"
+PHYSICS 111B,1,"In the advanced experimentation lab students complete four o
+f 20+ advanced experiments. These include many experiments i
+n atomic, nuclear, particle physics, biophysics, and solid-s
+tate physics, among others."
+PHYSICS 112,1,"Basic concepts of statistical mechanics, microscopic basis o
+f thermodynamics and applications to macroscopic systems, co
+ndensed states, phase transformations, quantum distributions
+, elementary kinetic theory of transport processes, fluctuat
+ion phenomena. Some knowledge of Python required for homewor
+k assignments. Students who have not taken Physics 77 or Dat
+a Science 8 are encouraged to complete the Python tutorials 
+provided by the Physics"
+PHYSICS 129,1,"Tools of particle and nuclear physics. Properties, classific
+ation, and interaction of particles including the quark-gluo
+n constituents of hadrons. High energy phenomena analyzed by
+ quantum mechanical methods. Course will survey the field in
+cluding some related topics in nuclear physics. Some knowled
+ge of Python required. Students who have not taken Physics 7
+7 or Data Science 8 are encouraged to complete the Python tu
+torials provided by the Physics"
+PHYSICS 130,1,"Detailed theory and experimental basis of quantum and nonlin
+ear optics, exhibiting concepts of quantum measurement, nois
+e, stochastic processes and dissipative quantum systems. Top
+ics include second-quantization of electromagnetic fields, p
+hotodetection, coherence properties, light-atom interactions
+, cavity quantum electrodynamics, nonlinear optical systems,
+ squeezed light, aspects of quantum information science, and
+ contemporary researc"
+PHYSICS 137A,1,"Part I. Introduction to the methods of quantum mechanics wit
+h applications to atomic, molecular, solid state, nuclear an
+d elementary particle physics."
+PHYSICS 137B,1,"Part II. Introduction to the methods of quantum mechanics wi
+th applications to atomic, molecular, solid state, nuclear a
+nd elementary particle physics."
+PHYSICS 138,1,"This course covers atomic, molecular, and optical physics as
+ a quantitative description of atoms and fields, a generaliz
+ed toolbox for controlling quantum systems, and a vibrant re
+search area. Topics covered include atomic structure and spe
+ctra, atom-field interactions, topics in quantum electrodyna
+mics, methods of resonant manipulation of quantum systems, r
+esonance optics, and experimental techniques."
+PHYSICS 139,1,"Historical and experimental foundations of Einstein's specia
+l theory of relativity; spatial and temporal measurements, p
+article dynamics, electrodynamics, Lorentz invariants. Intro
+duction to general relativity. Selected applications. Design
+ed for advanced undergraduates in physics and astronomy."
+PHYSICS 141A,1,"Part I. A thorough introductory course in modern solid state
+ physics. Crystal symmetries; classification of solids and t
+heir bonding; electromagnetic, elastic, and particle waves i
+n periodic lattices; thermal magnetic and dielectric propert
+ies of solids; energy bands of metals and semi-conductors; s
+uperconductivity; magnetism; ferroelectricity; magnetic reso
+nances."
+PHYSICS 141B,1,"Part II. A thorough introductory course in modern solid stat
+e physics. Crystal symmetries; classification of solids and 
+their bonding; electromagnetic, elastic, and particle waves 
+in periodic lattices; thermal magnetic and dielectric proper
+ties of solids; energy bands of metals and semi-conductors; 
+superconductivity; magnetism; ferroelectricity; magnetic res
+onances."
+PHYSICS 142,1,"Motion of charged particles in electric and magnetic fields,
+ dynamics of fully ionized plasma from both microscopic and 
+macroscopic point of view, magnetohydrodynamics, small ampli
+tude waves; examples from astrophysics, space sciences and c
+ontrolled-fusion research."
+PHYSICS 151,1,"Topics vary from semester to semester. The subject matter le
+vel and scope of the course are such that it is acceptable a
+s the required elective course in the Physics major. See Dep
+artment of Physics course announcements."
+PHYSICS 153,1,"This course is designed to assist physics and other physical
+ sciences transfer students in their transition to UC Berkel
+ey. Over the course of a semester, students will learn about
+ campus resources, how to navigate the campus, establish con
+nections with other students in their cohorts, receive physi
+cs transfer peer mentorship and advising. Students will work
+ in small-groups to solve challenging mathematical and physi
+cs concepts to assist with academic success."
+PHYSICS C161,1,"Elements of general relativity. Physics of pulsars, cosmic r
+ays, black holes. The cosmological distance scale, elementar
+y cosmological models, properties of galaxies and quasars. T
+he mass density and age of the universe. Evidence for dark m
+atter and dark energy and concepts of the early universe and
+ of galaxy formation. Reflections on astrophysics as a probe
+ of the extrema of physics."
+PHYSICS 177,1,"We will review the structure of proteins, nucleic acids, car
+bohydrates, lipids, and the forces and interactions maintain
+ing their structure in solution. We will describe the thermo
+dynamics and kinetics of protein folding. The principles of 
+polymer chain statistics and of helix-coil transitions in bi
+opolymers will be reviewed next, together with biopolymer dy
+namics. We will then cover the main structural methods in bi
+ology: X-ray crystallography"
+PHYSICS 188,1,"The course design covers data analysis and machine learning,
+ highlighting their importance to the physical sciences. It 
+covers data analysis with linear and nonlinear regression, l
+ogistic regression, and gaussian processes. It covers concep
+ts in machine learning such as unsupervised and supervised r
+egression and classification learning. It develops Bayesian 
+statistics and information theory, covering concepts such as
+ information, entropy, posteriors, MCMC, latent variables"
+PHYSICS H190,1,"A seminar which includes study and reports on current theore
+tical and experimental problems. Open only to students offic
+ially in the physics honors program or with consent of instr
+uctor."
+PHYSICS C191,1,"This multidisciplinary course provides an introduction to fu
+ndamental conceptual aspects of quantum mechanics from a com
+putational and informational theoretic perspective, as well 
+as physical implementations and technological applications o
+f quantum information science. Basic sections of quantum alg
+orithms, complexity, and cryptography, will be touched upon,
+ as well as pertinent physical realizations from nanoscale s
+cience and engineerin"
+PHYSICS H195A,1,"Thesis work under the supervision of a faculty member. To ob
+tain credit the student must, at the end of two semesters, s
+ubmit a satisfactory thesis. A total of four units must be t
+aken. The units may be distributed between one or two semest
+ers in any way."
+PHYSICS H195B,1,"Thesis work under the supervision of a faculty member. To ob
+tain credit the student must, at the end of two semesters, s
+ubmit a satisfactory thesis. A total of four units must be t
+aken. The units may be distributed between one or two semest
+ers in any way."
+PHYSICS 198,1,"Enrollment restrictions apply; see the Introduction to Cours
+es and Curricula section in this catalog."
+PHYSICS 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHYSICS 198F,1,"Discussion-based introduction to contemporary research in ph
+ysics for advanced undergraduates. Presentation of different
+ weekly topics in physics research led by graduate students,
+ postdocs, or professors in a particular field to connect up
+per division physics majors with contemporary research and t
+o increase dialogue between upper division undergraduates an
+d researchers in the department."
+PHYSICS 199,1,"Enrollment restrictions apply; see the Introduction to Cours
+es and Curricula section in this catalog."
+PHYSICS 5A,1,"Kinematics, dynamics, work and energy, rotational motion, os
+cillations, fluids and relativity. Use of calculus and vecto
+r algebra will be emphasized. Intended for students with an 
+interest in pursuing a major in physics, astrophysics, engin
+eering physics, or related disciplines. Successor to the Phy
+sics H7 series. Start of three semester 5A-5B-5C sequence."
+PHYSICS 5B,1,"Electric fields and potential, circuits, magnetism and induc
+tion. Introduction to optics including light propagation, re
+flection, refraction and interference. Intended for students
+ with an interest in pursuing a major in physics, astrophysi
+cs, engineering physics, or related disciplines. Successor t
+o the Physics H7 series. Continuation of 5A-5B-5C sequence."
+PHYSICS 5BL,1,"Part one of a two-semester laboratory sequence to introduce 
+students to experimental physics and prepare them for resear
+ch. Covers a variety of modern and historical experiments, e
+mphasizing data analysis, clear scientific communication, an
+d development of skills on modern equipment. Successor to th
+e Physics H7 series."
+PHYSICS 5C,1,"Temperature, kinetic theory, entropy; particle/wave nature o
+f matter, Schrodinger equation, hydrogen atom, applications 
+of quantum physics. Intended for students with an interest i
+n pursuing a major in physics, astrophysics, engineering phy
+sics or related disciplines. Continuation of 5A-5B-5C sequen
+ce. Successor to the Physics H7 series."
+PHYSICS 5CL,1,"Part two of a two-semester laboratory sequence to introduce 
+students to experimental physics and prepare them for resear
+ch. Covers a variety of modern and historical experiments, e
+mphasizing iterative experimental design, clear scientific c
+ommunication, and development of skills on modern equipment.
+ Successor to the Physics H7 series."
+PHYSICS 7A,1,Mechanics and wave motion.
+PHYSICS 7B,1,"Heat, electricity, and magnetism."
+PHYSICS 7C,1,"Electromagnetic waves, optics, relativity, and quantum physi
+cs."
+PHYSICS H7A,1,"Honors sequence corresponding to 7A-7B-7C, but with a greate
+r emphasis on theory as opposed to problem solving. Recommen
+ded for those students who have had advanced Physics on the 
+high school level and who are intending to declare a major i
+n physics. Entrance into H7A is decided on the basis of perf
+ormance on an examination given during the first week of cla
+ss or the consent of the instructor, and into H7B-H7C on per
+formance in previous courses"
+PHYSICS H7B,1,"Honors sequence corresponding to 7A-7B-7C, but with a greate
+r emphasis on theory as opposed to problem solving. Recommen
+ded for those students who have had advanced Physics on the 
+high school level and who are intending to declare a major i
+n physics. Entrance into H7A is decided on the basis of perf
+ormance on an examination given during the first week of cla
+ss or the consent of the instructor, and into H7B-H7C on per
+formance in previous courses"
+PHYSICS H7C,1,"Honors sequence corresponding to 7A-7B-7C, but with a greate
+r emphasis on theory as opposed to problem solving. Recommen
+ded for those students who have had advanced Physics on the 
+high school level and who are intending to declare a major i
+n physics. Entrance into H7A is decided on the basis of perf
+ormance on an examination given during the first week of cla
+ss or the consent of the instructor, and into H7B-H7C on per
+formance in previous courses"
+PHYSICS 8A,1,"Introduction to forces, kinetics, equilibria, fluids, waves,
+ and heat. This course presents concepts and methodologies f
+or understanding physical phenomena, and is particularly use
+ful preparation for upper division study in biology and arch
+itecture."
+PHYSICS 8B,1,"Introduction to electricity, magnetism, electromagnetic wave
+s, optics, and modern physics. The course presents concepts 
+and methodologies for understanding physical phenomena, and 
+is particularly useful preparation for upper division study 
+in biology and architecture."
+PHYSICS 10,1,"The most interesting and important topics in physics, stress
+ing conceptual understanding rather than math, with applicat
+ions to current events. Topics covered may vary and may incl
+ude energy and conservation, radioactivity, nuclear physics,
+ the Theory of Relativity, lasers, explosions, earthquakes, 
+superconductors, and quantum physics."
+PHYSICS C10,1,"The most interesting and important topics in physics, stress
+ing conceptual understanding rather than math, with applicat
+ions to current events. Topics covered may vary and may incl
+ude energy and conservation, radioactivity, nuclear physics,
+ the Theory of Relativity, lasers, explosions, earthquakes, 
+superconductors, and quantum physics."
+PHYSICS 21,1,"Physical principles encountered in the study of music. The a
+pplicable laws of mechanics, fundamentals of sound, harmonic
+ content, principles of sound production in musical instrume
+nts, musical scales. Numerous illustrative lecture demonstra
+tions will be given. Only the basics of high school algebra 
+and geometry will be used."
+PHYSICS C21,1,"What can we learn about the nature of reality and the ways t
+hat we humans have invented to discover how the world works?
+ An exploration of these questions through the physical prin
+ciples encountered in the study of music. The applicable law
+s of mechanics, fundamentals of sound, harmonic content, pri
+nciples of sound production in musical instruments, musical 
+scales. Numerous illustrative lecture demonstrations will be
+ given. Only the basics"
+PHYSICS 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+PHYSICS 39,1,"Enrollment limited to 20 students per section. Physics semin
+ar course designed for both non major students and students 
+considering a major in physics. Topics vary from semester to
+ semester."
+PHYSICS 49,1,"Students with partial credit in lower division physics cours
+es may, with consent of instructor, complete the credit unde
+r this heading."
+PHYSICS 77,1,"Introductory scientific programming in Python with examples 
+from physics. Topics include: visualization, statistics and 
+probability, regression, numerical integration, simulation, 
+data modeling, function approximation, and algebraic systems
+. Recommended for freshman physics majors."
+PHYSICS 88,1,"Introduction to data science with applications to physics. T
+opics include: statistics and probability in physics, modeli
+ng of the physical systems and data, numerical integration a
+nd differentiation, function approximation. Connector course
+ for Data Science 8, room-shared with Physics 77. Recommende
+d for freshmen intended to major in physics or engineering w
+ith emphasis on data science."
+PHYSICS 89,1,"Complex numbers, linear algebra, ordinary differential equat
+ions, Fourier series and transform methods, introduction to 
+partial differential equations, introduction to tensors. App
+lications to physics will be emphasized. This course or an e
+quivalent course required for physics major."
+PHYSICS 98,1, 
+PHYSICS 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHYSICS 99,1, 
+PHYSICS 100,1,"For undergraduate and graduate students interested in improv
+ing their ability to communicate scientific knowledge by tea
+ching science in K-12 schools. The course will combine instr
+uction in inquiry-based science teaching methods and learnin
+g pedagogy with 10 weeks of supervised teaching experience i
+n a local school. Students will practice, with support and m
+entoring, communicating scientific knowledge through present
+ations and hands-on activities."
+PHYSICS 105,1,"Newtonian mechanics, motion of a particle in one, two, and t
+hree dimensions, Lagrange’s equations, Hamilton's equations,
+ central force motion, moving coordinate systems, mechanics 
+of continuous media, oscillations, normal modes, rigid body 
+dynamics, tensor analysis techniques. Some knowledge of Pyth
+on required for homework assignments. Students who have not 
+taken Physics 77 or Data Science 8 are encouraged to complet
+e the Python tutorials provided"
+PHYSICS 110A,1,"Part I. A course emphasizing electromagnetic theory and appl
+ications; charges and currents; electric and magnetic fields
+; dielectric, conducting, and magnetic media; relativity, Ma
+xwell equations. Wave propagation in media, radiation and sc
+attering, Fourier optics, interference and diffraction, ray 
+optics and applications."
+PHYSICS 110B,1,"Part II. A course emphasizing electromagnetic theory and app
+lications; charges and currents; electric and magnetic field
+s; dielectric, conducting, and magnetic media; relativity, M
+axwell equations. Wave propagation in media, radiation and s
+cattering, Fourier optics, interference and diffraction, ray
+ optics and applications."
+PHYSICS 111A,1,"The instrumentation lab (formerly Basic Semiconductor Circui
+ts) is an introductory course in basic design, analysis and 
+modeling of circuits, and data analysis and control. Topics 
+include but not limited to:"
+PHYSICS 111B,1,"In the advanced experimentation lab students complete four o
+f 20+ advanced experiments. These include many experiments i
+n atomic, nuclear, particle physics, biophysics, and solid-s
+tate physics, among others."
+PHYSICS 112,1,"Basic concepts of statistical mechanics, microscopic basis o
+f thermodynamics and applications to macroscopic systems, co
+ndensed states, phase transformations, quantum distributions
+, elementary kinetic theory of transport processes, fluctuat
+ion phenomena. Some knowledge of Python required for homewor
+k assignments. Students who have not taken Physics 77 or Dat
+a Science 8 are encouraged to complete the Python tutorials 
+provided by the Physics"
+PHYSICS 129,1,"Tools of particle and nuclear physics. Properties, classific
+ation, and interaction of particles including the quark-gluo
+n constituents of hadrons. High energy phenomena analyzed by
+ quantum mechanical methods. Course will survey the field in
+cluding some related topics in nuclear physics. Some knowled
+ge of Python required. Students who have not taken Physics 7
+7 or Data Science 8 are encouraged to complete the Python tu
+torials provided by the Physics"
+PHYSICS 130,1,"Detailed theory and experimental basis of quantum and nonlin
+ear optics, exhibiting concepts of quantum measurement, nois
+e, stochastic processes and dissipative quantum systems. Top
+ics include second-quantization of electromagnetic fields, p
+hotodetection, coherence properties, light-atom interactions
+, cavity quantum electrodynamics, nonlinear optical systems,
+ squeezed light, aspects of quantum information science, and
+ contemporary researc"
+PHYSICS 137A,1,"Part I. Introduction to the methods of quantum mechanics wit
+h applications to atomic, molecular, solid state, nuclear an
+d elementary particle physics."
+PHYSICS 137B,1,"Part II. Introduction to the methods of quantum mechanics wi
+th applications to atomic, molecular, solid state, nuclear a
+nd elementary particle physics."
+PHYSICS 138,1,"This course covers atomic, molecular, and optical physics as
+ a quantitative description of atoms and fields, a generaliz
+ed toolbox for controlling quantum systems, and a vibrant re
+search area. Topics covered include atomic structure and spe
+ctra, atom-field interactions, topics in quantum electrodyna
+mics, methods of resonant manipulation of quantum systems, r
+esonance optics, and experimental techniques."
+PHYSICS 139,1,"Historical and experimental foundations of Einstein's specia
+l theory of relativity; spatial and temporal measurements, p
+article dynamics, electrodynamics, Lorentz invariants. Intro
+duction to general relativity. Selected applications. Design
+ed for advanced undergraduates in physics and astronomy."
+PHYSICS 141A,1,"Part I. A thorough introductory course in modern solid state
+ physics. Crystal symmetries; classification of solids and t
+heir bonding; electromagnetic, elastic, and particle waves i
+n periodic lattices; thermal magnetic and dielectric propert
+ies of solids; energy bands of metals and semi-conductors; s
+uperconductivity; magnetism; ferroelectricity; magnetic reso
+nances."
+PHYSICS 141B,1,"Part II. A thorough introductory course in modern solid stat
+e physics. Crystal symmetries; classification of solids and 
+their bonding; electromagnetic, elastic, and particle waves 
+in periodic lattices; thermal magnetic and dielectric proper
+ties of solids; energy bands of metals and semi-conductors; 
+superconductivity; magnetism; ferroelectricity; magnetic res
+onances."
+PHYSICS 142,1,"Motion of charged particles in electric and magnetic fields,
+ dynamics of fully ionized plasma from both microscopic and 
+macroscopic point of view, magnetohydrodynamics, small ampli
+tude waves; examples from astrophysics, space sciences and c
+ontrolled-fusion research."
+PHYSICS 151,1,"Topics vary from semester to semester. The subject matter le
+vel and scope of the course are such that it is acceptable a
+s the required elective course in the Physics major. See Dep
+artment of Physics course announcements."
+PHYSICS 153,1,"This course is designed to assist physics and other physical
+ sciences transfer students in their transition to UC Berkel
+ey. Over the course of a semester, students will learn about
+ campus resources, how to navigate the campus, establish con
+nections with other students in their cohorts, receive physi
+cs transfer peer mentorship and advising. Students will work
+ in small-groups to solve challenging mathematical and physi
+cs concepts to assist with academic success."
+PHYSICS C161,1,"Elements of general relativity. Physics of pulsars, cosmic r
+ays, black holes. The cosmological distance scale, elementar
+y cosmological models, properties of galaxies and quasars. T
+he mass density and age of the universe. Evidence for dark m
+atter and dark energy and concepts of the early universe and
+ of galaxy formation. Reflections on astrophysics as a probe
+ of the extrema of physics."
+PHYSICS 177,1,"We will review the structure of proteins, nucleic acids, car
+bohydrates, lipids, and the forces and interactions maintain
+ing their structure in solution. We will describe the thermo
+dynamics and kinetics of protein folding. The principles of 
+polymer chain statistics and of helix-coil transitions in bi
+opolymers will be reviewed next, together with biopolymer dy
+namics. We will then cover the main structural methods in bi
+ology: X-ray crystallography"
+PHYSICS 188,1,"The course design covers data analysis and machine learning,
+ highlighting their importance to the physical sciences. It 
+covers data analysis with linear and nonlinear regression, l
+ogistic regression, and gaussian processes. It covers concep
+ts in machine learning such as unsupervised and supervised r
+egression and classification learning. It develops Bayesian 
+statistics and information theory, covering concepts such as
+ information, entropy, posteriors, MCMC, latent variables"
+PHYSICS H190,1,"A seminar which includes study and reports on current theore
+tical and experimental problems. Open only to students offic
+ially in the physics honors program or with consent of instr
+uctor."
+PHYSICS C191,1,"This multidisciplinary course provides an introduction to fu
+ndamental conceptual aspects of quantum mechanics from a com
+putational and informational theoretic perspective, as well 
+as physical implementations and technological applications o
+f quantum information science. Basic sections of quantum alg
+orithms, complexity, and cryptography, will be touched upon,
+ as well as pertinent physical realizations from nanoscale s
+cience and engineerin"
+PHYSICS H195A,1,"Thesis work under the supervision of a faculty member. To ob
+tain credit the student must, at the end of two semesters, s
+ubmit a satisfactory thesis. A total of four units must be t
+aken. The units may be distributed between one or two semest
+ers in any way."
+PHYSICS H195B,1,"Thesis work under the supervision of a faculty member. To ob
+tain credit the student must, at the end of two semesters, s
+ubmit a satisfactory thesis. A total of four units must be t
+aken. The units may be distributed between one or two semest
+ers in any way."
+PHYSICS 198,1,"Enrollment restrictions apply; see the Introduction to Cours
+es and Curricula section in this catalog."
+PHYSICS 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHYSICS 198F,1,"Discussion-based introduction to contemporary research in ph
+ysics for advanced undergraduates. Presentation of different
+ weekly topics in physics research led by graduate students,
+ postdocs, or professors in a particular field to connect up
+per division physics majors with contemporary research and t
+o increase dialogue between upper division undergraduates an
+d researchers in the department."
+PHYSICS 199,1,"Enrollment restrictions apply; see the Introduction to Cours
+es and Curricula section in this catalog."

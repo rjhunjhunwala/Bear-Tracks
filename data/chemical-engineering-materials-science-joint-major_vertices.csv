@@ -1,60 +1,1571 @@
 name,size,about
-CHM ENG 24,1,"The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley Seminars are offered in all campus departments, and topics vary from department to department and semester to semester."
-CHM ENG 40,1,"Design and analysis of processes involving chemical change. Strategies for design, such as creative thinking and (re)definition of the design goal. Methods for analyzing designs, such as mathematical modeling, empirical analysis by graphics, and dynamic scaling by dimensional analysis. Design choices in light of process efficiency, product quality, economics, safety, and environmental issues."
-CHM ENG 84,1,"Sophomore seminars are small interactive courses offered by faculty members in departments all across the campus. Sophomore seminars offer opportunity for close, regular intellectual contact between faculty members and students in the crucial second year. The topics vary from department to department and semester to semester. Enrollment limited to 15 sophomores."
-CHM ENG 90,1,"An introduction is given to the science and technologies of producing electricity and transportation fuels from renewable energy resources (biomass, geothermal, solar, wind, and wave). Students will be introduced to quantitative calculations and comparisions of energy technologies together with the economic and political factors affecting the transition from nonrenewable to sustainable energy resources. Mass and energy balances are used to"
+CHM ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CHM ENG 40,1,"Design and analysis of processes involving chemical change. 
+Strategies for design, such as creative thinking and (re)def
+inition of the design goal. Methods for analyzing designs, s
+uch as mathematical modeling, empirical analysis by graphics
+, and dynamic scaling by dimensional analysis. Design choice
+s in light of process efficiency, product quality, economics
+, safety, and environmental issues."
+CHM ENG 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+CHM ENG 90,1,"An introduction is given to the science and technologies of 
+producing electricity and transportation fuels from renewabl
+e energy resources (biomass, geothermal, solar, wind, and wa
+ve). Students will be introduced to quantitative calculation
+s and comparisions of energy technologies together with the 
+economic and political factors affecting the transition from
+ nonrenewable to sustainable energy resources. Mass and ener
+gy balances are used to"
 CHM ENG 98,1,Supervised research on a specific topic.
-CHM ENG 98W,1,"Directed group study consisting of supplementary problem sets, review sessions, and discussions related to chemical engineering. Topics vary with instructor."
-CHM ENG 140,1,Material and energy balances applied to chemical process systems. Determination of thermodynamic properties needed for such calculations. Sources of data. Calculation procedures.
-CHM ENG 141,1,"Thermodynamic behavior of pure substances and mixtures. Properties of solutions, phase equilibria. Thermodynamic cycles. Chemical equilibria for homogeneous and heterogeneous systems."
-CHM ENG 142,1,Analysis and prediction of rates of chemical conversion in flow and nonflow processes involving homogeneous and heterogeneous systems.
-CHM ENG 143,1,"The purpose of Chemical Engineering Modeling and Computations in Chemical Engineering is to teach students the methodologies used in setting up mathematical models of simple chemical processes and operations, and the numerical techniques used to simulate them. Included are techniques to obtain physical properties of mixtures/solutions using equations of state. This is followed by simple processes such as vapor liquid equilibrium, separation"
-CHM ENG 150A,1,Principles of fluid mechanics and heat transfer with application to chemical processes. Laminar and turbulent flow in pipes and around submerged objects. Flow measurement. Heat conduction and convection; heat transfer coefficients.
-CHM ENG 150B,1,Principles of mass transfer with application to chemical processes. Diffusion and convection. Simultaneous heat and mass transfer; mass transfer coefficients. Design of staged and continuous separations processes.
-CHM ENG 154,1,"Experiments in physical measurements, fluid mechanics, heat and mass transfer, kinetics, and separation processes. Emphasis on investigation of basic relationships important in engineering. Experimental design, analysis of results, and preparation of engineering reports are stressed."
-CHM ENG 160,1,Design principles of chemical process equipment. Design of integrated chemical processes with emphasis upon economic considerations.
-CHM ENG 161S,1,"Design of chemical processes and equipment, with an emphasis on industry-sponsored and/or industry-tailored processes"
-CHM ENG 162,1,Analysis of the dynamic behavior of chemical processes and methods and theory of their control. Implementation of computer control systems on process simulations.
-CHM ENG 170A,1,"This course intends to introduce chemical engineers to the basic concepts of biochemical engineering. The course focuses on the use of chemical engineering skills and principles in the analysis and design of biologically-based processes. The main emphasis will be on biochemical kinetics, heat and mass transfer, thermodynamics, and transport phenomena as they apply to enzyme catalysis, microbial growth and metabolism, fermentation and bioreactor"
-CHM ENG 170B,1,"The second of a two-semester sequence intended to introduce chemical engineers to the basic concepts of biochemical engineering. The course focuses on the use of chemical engineering skills and principles in the analysis and design of biologically-based processes. The emphasis will be on biochemical kinetics, protein engineering, cell growth and metabolism, bioreactor design, downstream processing, pharmacokinetics, drug delivery, and et"
-CHM ENG C170L,1,Laboratory techniques for the cultivation of microorganisms in batch and continuous reactions. Enzymatic conversion processes. Recovery of biological products.
-CHM ENG 171,1,"Study of momentum, energy, and mass transfer in laminar and turbulent flow."
-CHM ENG 176,1,"Principles and application of electrochemical equilibria, kinetics, and transport processes. Technical electrolysis and electrochemical energy conversion."
-CHM ENG C178,1,"An interdisciplinary course on the synthesis, characterization, and properties of polymer materials. Emphasis on the molecular origin of properties of polymeric materials and technological applications. Topics include single molecule properties, polymer mixtures and solutions, melts, glasses, elastomers, and crystals. Experiments in polymer synthesis, characterization, and physical properties."
-CHM ENG 179,1,Chemical processing and properties of solid-state materials. Crystal growth and purification. Thin film technology. Application of chemical processing to the manufacture of semiconductors and solid-state devices.
-CHM ENG 180,1,"Optimal design of chemical processes and unit operations, emphasizing the interactions between technical and economic considerations. Analysis of process risks. Chemical and biomolecular process design in the presence of uncertainties. Interest rate determinants and their effects on chemical process feasibility and choices. Relationships between structure and behavior of firms in the chemical processing industries. Multivariable input-output"
-CHM ENG 182,1,"This nanoscale science and biomolecular engineering course will cover emerging topics in applied biotechnology and nanotechnology. Topics include enzyme kinetics, enzyme inhibition, recombinant protein generation, cell culture, genome editing, drug design, nanoparticle-based gene and drug delivery, fluorescence imaging, and sensors. The course will also probe the interface of biology with nanomaterials, and standard microscopic techniques to image biological"
-CHM ENG H193,1,A senior honors thesis is written in consultation with the student's faculty research advisor. This is a required course for students wishing to graduate with honors in Chemical Engineering.
-CHM ENG H194,1,Original research under direction of one of the members of the staff.
-CHM ENG 195,1,Lectures and/or tutorial instruction on special topics. Please refer to the Notes section in the Academic Guide for the current course description.
-CHM ENG C195A,1,"After an introduction to the different aspects of our global energy consumption, the course will focus on the role of biomass. The course will illustrate how the global scale of energy guides the biomass research. Emphasis will be placed on the integration of the biological aspects (crop selection, harvesting, storage and distribution, and chemical composition of biomass) with the chemical aspects to convert biomass to energy. The course aims to"
-CHM ENG 196,1,Special laboratory or computational work under direction of one of the members of the staff.
-CHM ENG 197,1,Supervised experience in off-campus organizations relevant to specific aspects and applications of chemical engineering. Written report required at the end of the term. Course does not satisfy unit or residence requirements for the bachelor's degree.
-CHM ENG 198,1,Supervised research on a specific topic. Enrollment is restricted; see Introduction to Courses and Curricula section in the General Catalog.
+CHM ENG 98W,1,"Directed group study consisting of supplementary problem set
+s, review sessions, and discussions related to chemical engi
+neering. Topics vary with instructor."
+CHM ENG 140,1,"Material and energy balances applied to chemical process sys
+tems. Determination of thermodynamic properties needed for s
+uch calculations. Sources of data. Calculation procedures."
+CHM ENG 141,1,"Thermodynamic behavior of pure substances and mixtures. Prop
+erties of solutions, phase equilibria. Thermodynamic cycles.
+ Chemical equilibria for homogeneous and heterogeneous syste
+ms."
+CHM ENG 142,1,"Analysis and prediction of rates of chemical conversion in f
+low and nonflow processes involving homogeneous and heteroge
+neous systems."
+CHM ENG 143,1,"The purpose of Chemical Engineering Modeling and Computation
+s in Chemical Engineering is to teach students the methodolo
+gies used in setting up mathematical models of simple chemic
+al processes and operations, and the numerical techniques us
+ed to simulate them. Included are techniques to obtain physi
+cal properties of mixtures/solutions using equations of stat
+e. This is followed by simple processes such as vapor liquid
+ equilibrium, separation"
+CHM ENG 150A,1,"Principles of fluid mechanics and heat transfer with applica
+tion to chemical processes. Laminar and turbulent flow in pi
+pes and around submerged objects. Flow measurement. Heat con
+duction and convection; heat transfer coefficients."
+CHM ENG 150B,1,"Principles of mass transfer with application to chemical pro
+cesses. Diffusion and convection. Simultaneous heat and mass
+ transfer; mass transfer coefficients. Design of staged and 
+continuous separations processes."
+CHM ENG 154,1,"Experiments in physical measurements, fluid mechanics, heat 
+and mass transfer, kinetics, and separation processes. Empha
+sis on investigation of basic relationships important in eng
+ineering. Experimental design, analysis of results, and prep
+aration of engineering reports are stressed."
+CHM ENG 160,1,"Design principles of chemical process equipment. Design of i
+ntegrated chemical processes with emphasis upon economic con
+siderations."
+CHM ENG 161S,1,"Design of chemical processes and equipment, with an emphasis
+ on industry-sponsored and/or industry-tailored processes"
+CHM ENG 162,1,"Analysis of the dynamic behavior of chemical processes and m
+ethods and theory of their control. Implementation of comput
+er control systems on process simulations."
+CHM ENG 170A,1,"This course intends to introduce chemical engineers to the b
+asic concepts of biochemical engineering. The course focuses
+ on the use of chemical engineering skills and principles in
+ the analysis and design of biologically-based processes. Th
+e main emphasis will be on biochemical kinetics, heat and ma
+ss transfer, thermodynamics, and transport phenomena as they
+ apply to enzyme catalysis, microbial growth and metabolism,
+ fermentation and bioreactor"
+CHM ENG 170B,1,"The second of a two-semester sequence intended to introduce 
+chemical engineers to the basic concepts of biochemical engi
+neering. The course focuses on the use of chemical engineeri
+ng skills and principles in the analysis and design of biolo
+gically-based processes. The emphasis will be on biochemical
+ kinetics, protein engineering, cell growth and metabolism, 
+bioreactor design, downstream processing, pharmacokinetics, 
+drug delivery, and et"
+CHM ENG C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHM ENG 171,1,"Study of momentum, energy, and mass transfer in laminar and 
+turbulent flow."
+CHM ENG 176,1,"Principles and application of electrochemical equilibria, ki
+netics, and transport processes. Technical electrolysis and 
+electrochemical energy conversion."
+CHM ENG C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHM ENG 179,1,"Chemical processing and properties of solid-state materials.
+ Crystal growth and purification. Thin film technology. Appl
+ication of chemical processing to the manufacture of semicon
+ductors and solid-state devices."
+CHM ENG 180,1,"Optimal design of chemical processes and unit operations, em
+phasizing the interactions between technical and economic co
+nsiderations. Analysis of process risks. Chemical and biomol
+ecular process design in the presence of uncertainties. Inte
+rest rate determinants and their effects on chemical process
+ feasibility and choices. Relationships between structure an
+d behavior of firms in the chemical processing industries. M
+ultivariable input-output"
+CHM ENG 182,1,"This nanoscale science and biomolecular engineering course w
+ill cover emerging topics in applied biotechnology and nanot
+echnology. Topics include enzyme kinetics, enzyme inhibition
+, recombinant protein generation, cell culture, genome editi
+ng, drug design, nanoparticle-based gene and drug delivery, 
+fluorescence imaging, and sensors. The course will also prob
+e the interface of biology with nanomaterials, and standard 
+microscopic techniques to image biological"
+CHM ENG H193,1,"A senior honors thesis is written in consultation with the s
+tudent's faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemical En
+gineering."
+CHM ENG H194,1,"Original research under direction of one of the members of t
+he staff."
+CHM ENG 195,1,"Lectures and/or tutorial instruction on special topics. Plea
+se refer to the Notes section in the Academic Guide for the 
+current course description."
+CHM ENG C195A,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHM ENG 196,1,"Special laboratory or computational work under direction of 
+one of the members of the staff."
+CHM ENG 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemical engineering.
+ Written report required at the end of the term. Course does
+ not satisfy unit or residence requirements for the bachelor
+'s degree."
+CHM ENG 198,1,"Supervised research on a specific topic. Enrollment is restr
+icted; see Introduction to Courses and Curricula section in 
+the General Catalog."
 CHM ENG 199,1, 
-MAT SCI 24,1,"The Freshman Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments, and topics vary from department to department and semester to semester. Enrollment limited to 20 freshmen."
-MAT SCI 45,1,"Application of basic principles of physics and chemistry to the engineering properties of materials. Emphasis on establishing structure, property, processing, and performance interrelationships in metals, ceramics, and polymers. While core concepts are fully covered each semester, examples and contextualization in Fall editions focuses on metals, ceramics, and functional/electronic properties and in Spring editions on polymers and soft-mat"
-MAT SCI 45L,1,This course presents laboratory applications of the basic principles introduced in the lecture-based course MSE45 – Properties of Materials.
-MAT SCI 102,1,"Bonding in solids; classification of metals, semiconductors, and insulators; crystal systems; point, line, and planar defects in crystals; examples of crystallographic and defect analysis in engineering materials; relationship to physical and mechanical properties."
-MAT SCI 103,1,"The nature, mechanisms, and kinetics of phase transformations and microstructural changes in the solid state. Atom diffusion in solids. Phase transformations through the nucleation and growth of new matrix or precipitate phases. Martensitic transformations, spinodal decomposition. The use of phase transformations to control microstructure."
-MAT SCI 104,1,"This 3-unit course will cover basic principles and techniques used for the characterization of engineering materials. The course is designed to introduce undergraduate students to the basic principles of structural, chemical and property characterization techniques. The course is grounded in modern x-ray diffraction and electron microscopy techniques for characterization of the chemical and structural properties of a material. The course"
-MAT SCI 104L,1,"This 1-unit laboratory course covers X-ray diffraction (XRD), scanning electron microscopy (SEM), and transmission electron microscopy (TEM), as well as lab writeup protocols and academic integrity. Students will get hands-on experience using the XRD, SEM and TEM equipment to perform microstructural characterization of materials. Students will also design and run their own project on a topic of their choosing."
-MAT SCI 111,1,"Introduction to the physical principles underlying the electric properties of modern solids with emphasis on semiconductors; control of defects and impurities through physical purification, bulk and thin film crystal growth and doping processes, materials basis of electronic and optoelectronic devices (diodes, transistors, semiconductor lasers) and optical fibers; properties of metal and oxide superconductors and their applications."
-MAT SCI 112,1,"Electrochemical theory of corrosion. Mechanisms and rates in relation to physiochemical and metallurgical factors. Stress corrosion and mechanical influences on corrosion. Corrosion protection by design, inhibition, cathodic protection, and coatings."
-MAT SCI 113,1,"This course covers elastic and plastic deformation under static and dynamic loads. Prediction and prevention of failure by yielding, fracture, fatigue, wear and environmental factors are addressed. Design issues pertaining to materials selection for load bearing applications are discussed. Case studies of engineering failures are presented. Topics include engineering materials, structure-property relationships, materials selection for design, mechanical"
-MAT SCI 117,1,"Introduction to the physical principles underlying the dielectric and magnetic properties of solids. Processing-microstructure-property relationships of dielectric materials, including piezoelectric, pryoelectric, and ferroelectric oxides, and of magnetic materials, including hard- and soft ferromagnets, ferrites and magneto-optic and -resistive materials. The course also covers the properties of grain boundary devices (including varistors)"
-MAT SCI C118,1,"This course is intended to give students the opportunity to expand their knowledge of topics related to biomedical materials selection and design. Structure-property relationships of biomedical materials and their interaction with biological systems will be addressed. Applications of the concepts developed include blood-materials compatibility, biomimetic materials, hard and soft tissue-materials interactions, drug delivery, tissue engineering"
-MAT SCI 120,1,"Economic and technological significance of metals and other materials. Elementary geology (composition of lithosphere, mineralization). Short survey of mining and mineral processing techniques. Review of chemical thermodynamics and reaction kinetics. Principles of process engineering including material, heat, and mechanical energy balances. Elementary heat transfer, fluid flow, and mass transfer. Electrolytic production and refining of metals."
-MAT SCI 121,1,"The principles of metals processing with emphasis on the use of processing to establish microstructures which impart desirable engineering properties. The techniques discussed include solidification, thermal and mechanical processing, powder processing, welding and joining, and surface treatments."
-MAT SCI 122,1,"Powder fabrication by grinding and chemical methods, rheological behavior of powder-fluid suspensions, forming methods, drying, sintering, and grain growth. Relation of processing steps to microstructure development."
-MAT SCI 123,1,"This 4-unit course starts with a brief review of the fundamentals of solid-state physics including bands and defects in semiconductors and oxides, and then moves to bulk semiconductor crystals growth and processing including doping, diffusion and implantation, and then to thin film deposition and processing methods, and finishes with a discussion of materials analysis and characterization. Recent advances in nanomaterials research will also"
-MAT SCI 125,1,"Deposition, processing, and characterization of thin films and their technological applications. Physical and chemical vapor deposition methods. Thin-film nucleation and growth. Thermal and ion processing. Microstructural development in epitaxial, polycrystalline, and amorphous films. Thin-film characterization techniques. Applications in information storage, integrated circuits, and optoelectronic devices. Laboratory demonstrations."
-MAT SCI 130,1,"This course provides a culminating experience for students approaching completion of the materials science and engineering curriculum. Laboratory experiments are undertaken in a variety of areas from the investigations on semiconductor materials to corrosion science and elucidate the relationships among structure, processing, properties, and performance. The principles of materials selection in engineering design are reviewed."
-MAT SCI 136,1,"In many, if not all, technologies, it is materials that play a crucial, enabling role. This course examines potentially sustainable technologies, and the materials properties that enable them. The science at the basis of selected energy technologies are examined and considered in case studies."
-MAT SCI 140,1,"This course introduces the fundamental principles needed to understand the behavior of materials at the nanometer length scale and the different classes of nanomaterials with applications ranging from information technology to biotechnology. Topics include introduction to different classes of nanomaterials, synthesis and characterization of nanomaterials, and the electronic, magnetic, optical, and mechanical properties of nanomaterials."
-MAT SCI C150,1,"The application of basic chemical principles to problems in materials discovery, design, and characterization will be discussed. Topics covered will include inorganic solids, nanoscale materials, polymers, and biological materials, with specific focus on the ways in which atomic-level interactions dictate the bulk properties of matter."
-MAT SCI 151,1,"This course is designed for upper division undergraduate and graduate students to gain a fundamental understanding of the science of polymeric materials. Beginning with a treatment of ideal polymeric chain conformations, it develops the thermodynamics of polmyer blends and solutions, the modeling of polymer networks and gelations, the dynamics of polymer chains, and the morphologies of thin films and other dimensionally-restricted structures"
-MAT SCI H194,1,"Students who have completed a satisfactory number of advanced courses with a grade-point average of 3.3 or higher may pursue original research under the direction of one of the members of the staff. A maximum of 3 units of H194 may be used to fulfill technical elective requirements in the Materials Science and Engineering program or double majors (unlike 198 or 199, which do not satisfy technical elective requirements). Final report required"
-MAT SCI 195,1,"Group study of special topics in materials science and engineering. Selection of topics for further study of underlying concepts and relevent literature, in consultion with appropriate faculty members."
+MAT SCI 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to 20 freshmen."
+MAT SCI 45,1,"Application of basic principles of physics and chemistry to 
+the engineering properties of materials. Emphasis on establi
+shing structure, property, processing, and performance inter
+relationships in metals, ceramics, and polymers. While core 
+concepts are fully covered each semester, examples and conte
+xtualization in Fall editions focuses on metals, ceramics, a
+nd functional/electronic properties and in Spring editions o
+n polymers and soft-mat"
+MAT SCI 45L,1,"This course presents laboratory applications of the basic pr
+inciples introduced in the lecture-based course MSE45 – Prop
+erties of Materials."
+MAT SCI 102,1,"Bonding in solids; classification of metals, semiconductors,
+ and insulators; crystal systems; point, line, and planar de
+fects in crystals; examples of crystallographic and defect a
+nalysis in engineering materials; relationship to physical a
+nd mechanical properties."
+MAT SCI 103,1,"The nature, mechanisms, and kinetics of phase transformation
+s and microstructural changes in the solid state. Atom diffu
+sion in solids. Phase transformations through the nucleation
+ and growth of new matrix or precipitate phases. Martensitic
+ transformations, spinodal decomposition. The use of phase t
+ransformations to control microstructure."
+MAT SCI 104,1,"This 3-unit course will cover basic principles and technique
+s used for the characterization of engineering materials. Th
+e course is designed to introduce undergraduate students to 
+the basic principles of structural, chemical and property ch
+aracterization techniques. The course is grounded in modern 
+x-ray diffraction and electron microscopy techniques for cha
+racterization of the chemical and structural properties of a
+ material. The course"
+MAT SCI 104L,1,"This 1-unit laboratory course covers X-ray diffraction (XRD)
+, scanning electron microscopy (SEM), and transmission elect
+ron microscopy (TEM), as well as lab writeup protocols and a
+cademic integrity. Students will get hands-on experience usi
+ng the XRD, SEM and TEM equipment to perform microstructural
+ characterization of materials. Students will also design an
+d run their own project on a topic of their choosing."
+MAT SCI 111,1,"Introduction to the physical principles underlying the elect
+ric properties of modern solids with emphasis on semiconduct
+ors; control of defects and impurities through physical puri
+fication, bulk and thin film crystal growth and doping proce
+sses, materials basis of electronic and optoelectronic devic
+es (diodes, transistors, semiconductor lasers) and optical f
+ibers; properties of metal and oxide superconductors and the
+ir applications."
+MAT SCI 112,1,"Electrochemical theory of corrosion. Mechanisms and rates in
+ relation to physiochemical and metallurgical factors. Stres
+s corrosion and mechanical influences on corrosion. Corrosio
+n protection by design, inhibition, cathodic protection, and
+ coatings."
+MAT SCI 113,1,"This course covers elastic and plastic deformation under sta
+tic and dynamic loads. Prediction and prevention of failure 
+by yielding, fracture, fatigue, wear and environmental facto
+rs are addressed. Design issues pertaining to materials sele
+ction for load bearing applications are discussed. Case stud
+ies of engineering failures are presented. Topics include en
+gineering materials, structure-property relationships, mater
+ials selection for design, mechanical"
+MAT SCI 117,1,"Introduction to the physical principles underlying the diele
+ctric and magnetic properties of solids. Processing-microstr
+ucture-property relationships of dielectric materials, inclu
+ding piezoelectric, pryoelectric, and ferroelectric oxides, 
+and of magnetic materials, including hard- and soft ferromag
+nets, ferrites and magneto-optic and -resistive materials. T
+he course also covers the properties of grain boundary devic
+es (including varistors)"
+MAT SCI C118,1,"This course is intended to give students the opportunity to 
+expand their knowledge of topics related to biomedical mater
+ials selection and design. Structure-property relationships 
+of biomedical materials and their interaction with biologica
+l systems will be addressed. Applications of the concepts de
+veloped include blood-materials compatibility, biomimetic ma
+terials, hard and soft tissue-materials interactions, drug d
+elivery, tissue engineering"
+MAT SCI 120,1,"Economic and technological significance of metals and other 
+materials. Elementary geology (composition of lithosphere, m
+ineralization). Short survey of mining and mineral processin
+g techniques. Review of chemical thermodynamics and reaction
+ kinetics. Principles of process engineering including mater
+ial, heat, and mechanical energy balances. Elementary heat t
+ransfer, fluid flow, and mass transfer. Electrolytic product
+ion and refining of metals."
+MAT SCI 121,1,"The principles of metals processing with emphasis on the use
+ of processing to establish microstructures which impart des
+irable engineering properties. The techniques discussed incl
+ude solidification, thermal and mechanical processing, powde
+r processing, welding and joining, and surface treatments."
+MAT SCI 122,1,"Powder fabrication by grinding and chemical methods, rheolog
+ical behavior of powder-fluid suspensions, forming methods, 
+drying, sintering, and grain growth. Relation of processing 
+steps to microstructure development."
+MAT SCI 123,1,"This 4-unit course starts with a brief review of the fundame
+ntals of solid-state physics including bands and defects in 
+semiconductors and oxides, and then moves to bulk semiconduc
+tor crystals growth and processing including doping, diffusi
+on and implantation, and then to thin film deposition and pr
+ocessing methods, and finishes with a discussion of material
+s analysis and characterization. Recent advances in nanomate
+rials research will also"
+MAT SCI 125,1,"Deposition, processing, and characterization of thin films a
+nd their technological applications. Physical and chemical v
+apor deposition methods. Thin-film nucleation and growth. Th
+ermal and ion processing. Microstructural development in epi
+taxial, polycrystalline, and amorphous films. Thin-film char
+acterization techniques. Applications in information storage
+, integrated circuits, and optoelectronic devices. Laborator
+y demonstrations."
+MAT SCI 130,1,"This course provides a culminating experience for students a
+pproaching completion of the materials science and engineeri
+ng curriculum. Laboratory experiments are undertaken in a va
+riety of areas from the investigations on semiconductor mate
+rials to corrosion science and elucidate the relationships a
+mong structure, processing, properties, and performance. The
+ principles of materials selection in engineering design are
+ reviewed."
+MAT SCI 136,1,"In many, if not all, technologies, it is materials that play
+ a crucial, enabling role. This course examines potentially 
+sustainable technologies, and the materials properties that 
+enable them. The science at the basis of selected energy tec
+hnologies are examined and considered in case studies."
+MAT SCI 140,1,"This course introduces the fundamental principles needed to 
+understand the behavior of materials at the nanometer length
+ scale and the different classes of nanomaterials with appli
+cations ranging from information technology to biotechnology
+. Topics include introduction to different classes of nanoma
+terials, synthesis and characterization of nanomaterials, an
+d the electronic, magnetic, optical, and mechanical properti
+es of nanomaterials."
+MAT SCI C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+MAT SCI 151,1,"This course is designed for upper division undergraduate and
+ graduate students to gain a fundamental understanding of th
+e science of polymeric materials. Beginning with a treatment
+ of ideal polymeric chain conformations, it develops the the
+rmodynamics of polmyer blends and solutions, the modeling of
+ polymer networks and gelations, the dynamics of polymer cha
+ins, and the morphologies of thin films and other dimensiona
+lly-restricted structures"
+MAT SCI H194,1,"Students who have completed a satisfactory number of advance
+d courses with a grade-point average of 3.3 or higher may pu
+rsue original research under the direction of one of the mem
+bers of the staff. A maximum of 3 units of H194 may be used 
+to fulfill technical elective requirements in the Materials 
+Science and Engineering program or double majors (unlike 198
+ or 199, which do not satisfy technical elective requirement
+s). Final report required"
+MAT SCI 195,1,"Group study of special topics in materials science and engin
+eering. Selection of topics for further study of underlying 
+concepts and relevent literature, in consultion with appropr
+iate faculty members."
 MAT SCI 198,1,Group studies of selected topics.
-MAT SCI 199,1,Supervised independent study. Enrollment restrictions apply; see the Introduction to Courses and Curricula section of this catalog.
+MAT SCI 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the Introduction to Courses and Curricula section of th
+is catalog."
+CHM ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CHM ENG 40,1,"Design and analysis of processes involving chemical change. 
+Strategies for design, such as creative thinking and (re)def
+inition of the design goal. Methods for analyzing designs, s
+uch as mathematical modeling, empirical analysis by graphics
+, and dynamic scaling by dimensional analysis. Design choice
+s in light of process efficiency, product quality, economics
+, safety, and environmental issues."
+CHM ENG 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+CHM ENG 90,1,"An introduction is given to the science and technologies of 
+producing electricity and transportation fuels from renewabl
+e energy resources (biomass, geothermal, solar, wind, and wa
+ve). Students will be introduced to quantitative calculation
+s and comparisions of energy technologies together with the 
+economic and political factors affecting the transition from
+ nonrenewable to sustainable energy resources. Mass and ener
+gy balances are used to"
+CHM ENG 98,1,Supervised research on a specific topic.
+CHM ENG 98W,1,"Directed group study consisting of supplementary problem set
+s, review sessions, and discussions related to chemical engi
+neering. Topics vary with instructor."
+CHM ENG 140,1,"Material and energy balances applied to chemical process sys
+tems. Determination of thermodynamic properties needed for s
+uch calculations. Sources of data. Calculation procedures."
+CHM ENG 141,1,"Thermodynamic behavior of pure substances and mixtures. Prop
+erties of solutions, phase equilibria. Thermodynamic cycles.
+ Chemical equilibria for homogeneous and heterogeneous syste
+ms."
+CHM ENG 142,1,"Analysis and prediction of rates of chemical conversion in f
+low and nonflow processes involving homogeneous and heteroge
+neous systems."
+CHM ENG 143,1,"The purpose of Chemical Engineering Modeling and Computation
+s in Chemical Engineering is to teach students the methodolo
+gies used in setting up mathematical models of simple chemic
+al processes and operations, and the numerical techniques us
+ed to simulate them. Included are techniques to obtain physi
+cal properties of mixtures/solutions using equations of stat
+e. This is followed by simple processes such as vapor liquid
+ equilibrium, separation"
+CHM ENG 150A,1,"Principles of fluid mechanics and heat transfer with applica
+tion to chemical processes. Laminar and turbulent flow in pi
+pes and around submerged objects. Flow measurement. Heat con
+duction and convection; heat transfer coefficients."
+CHM ENG 150B,1,"Principles of mass transfer with application to chemical pro
+cesses. Diffusion and convection. Simultaneous heat and mass
+ transfer; mass transfer coefficients. Design of staged and 
+continuous separations processes."
+CHM ENG 154,1,"Experiments in physical measurements, fluid mechanics, heat 
+and mass transfer, kinetics, and separation processes. Empha
+sis on investigation of basic relationships important in eng
+ineering. Experimental design, analysis of results, and prep
+aration of engineering reports are stressed."
+CHM ENG 160,1,"Design principles of chemical process equipment. Design of i
+ntegrated chemical processes with emphasis upon economic con
+siderations."
+CHM ENG 161S,1,"Design of chemical processes and equipment, with an emphasis
+ on industry-sponsored and/or industry-tailored processes"
+CHM ENG 162,1,"Analysis of the dynamic behavior of chemical processes and m
+ethods and theory of their control. Implementation of comput
+er control systems on process simulations."
+CHM ENG 170A,1,"This course intends to introduce chemical engineers to the b
+asic concepts of biochemical engineering. The course focuses
+ on the use of chemical engineering skills and principles in
+ the analysis and design of biologically-based processes. Th
+e main emphasis will be on biochemical kinetics, heat and ma
+ss transfer, thermodynamics, and transport phenomena as they
+ apply to enzyme catalysis, microbial growth and metabolism,
+ fermentation and bioreactor"
+CHM ENG 170B,1,"The second of a two-semester sequence intended to introduce 
+chemical engineers to the basic concepts of biochemical engi
+neering. The course focuses on the use of chemical engineeri
+ng skills and principles in the analysis and design of biolo
+gically-based processes. The emphasis will be on biochemical
+ kinetics, protein engineering, cell growth and metabolism, 
+bioreactor design, downstream processing, pharmacokinetics, 
+drug delivery, and et"
+CHM ENG C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHM ENG 171,1,"Study of momentum, energy, and mass transfer in laminar and 
+turbulent flow."
+CHM ENG 176,1,"Principles and application of electrochemical equilibria, ki
+netics, and transport processes. Technical electrolysis and 
+electrochemical energy conversion."
+CHM ENG C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHM ENG 179,1,"Chemical processing and properties of solid-state materials.
+ Crystal growth and purification. Thin film technology. Appl
+ication of chemical processing to the manufacture of semicon
+ductors and solid-state devices."
+CHM ENG 180,1,"Optimal design of chemical processes and unit operations, em
+phasizing the interactions between technical and economic co
+nsiderations. Analysis of process risks. Chemical and biomol
+ecular process design in the presence of uncertainties. Inte
+rest rate determinants and their effects on chemical process
+ feasibility and choices. Relationships between structure an
+d behavior of firms in the chemical processing industries. M
+ultivariable input-output"
+CHM ENG 182,1,"This nanoscale science and biomolecular engineering course w
+ill cover emerging topics in applied biotechnology and nanot
+echnology. Topics include enzyme kinetics, enzyme inhibition
+, recombinant protein generation, cell culture, genome editi
+ng, drug design, nanoparticle-based gene and drug delivery, 
+fluorescence imaging, and sensors. The course will also prob
+e the interface of biology with nanomaterials, and standard 
+microscopic techniques to image biological"
+CHM ENG H193,1,"A senior honors thesis is written in consultation with the s
+tudent's faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemical En
+gineering."
+CHM ENG H194,1,"Original research under direction of one of the members of t
+he staff."
+CHM ENG 195,1,"Lectures and/or tutorial instruction on special topics. Plea
+se refer to the Notes section in the Academic Guide for the 
+current course description."
+CHM ENG C195A,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHM ENG 196,1,"Special laboratory or computational work under direction of 
+one of the members of the staff."
+CHM ENG 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemical engineering.
+ Written report required at the end of the term. Course does
+ not satisfy unit or residence requirements for the bachelor
+'s degree."
+CHM ENG 198,1,"Supervised research on a specific topic. Enrollment is restr
+icted; see Introduction to Courses and Curricula section in 
+the General Catalog."
+CHM ENG 199,1, 
+MAT SCI 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to 20 freshmen."
+MAT SCI 45,1,"Application of basic principles of physics and chemistry to 
+the engineering properties of materials. Emphasis on establi
+shing structure, property, processing, and performance inter
+relationships in metals, ceramics, and polymers. While core 
+concepts are fully covered each semester, examples and conte
+xtualization in Fall editions focuses on metals, ceramics, a
+nd functional/electronic properties and in Spring editions o
+n polymers and soft-mat"
+MAT SCI 45L,1,"This course presents laboratory applications of the basic pr
+inciples introduced in the lecture-based course MSE45 – Prop
+erties of Materials."
+MAT SCI 102,1,"Bonding in solids; classification of metals, semiconductors,
+ and insulators; crystal systems; point, line, and planar de
+fects in crystals; examples of crystallographic and defect a
+nalysis in engineering materials; relationship to physical a
+nd mechanical properties."
+MAT SCI 103,1,"The nature, mechanisms, and kinetics of phase transformation
+s and microstructural changes in the solid state. Atom diffu
+sion in solids. Phase transformations through the nucleation
+ and growth of new matrix or precipitate phases. Martensitic
+ transformations, spinodal decomposition. The use of phase t
+ransformations to control microstructure."
+MAT SCI 104,1,"This 3-unit course will cover basic principles and technique
+s used for the characterization of engineering materials. Th
+e course is designed to introduce undergraduate students to 
+the basic principles of structural, chemical and property ch
+aracterization techniques. The course is grounded in modern 
+x-ray diffraction and electron microscopy techniques for cha
+racterization of the chemical and structural properties of a
+ material. The course"
+MAT SCI 104L,1,"This 1-unit laboratory course covers X-ray diffraction (XRD)
+, scanning electron microscopy (SEM), and transmission elect
+ron microscopy (TEM), as well as lab writeup protocols and a
+cademic integrity. Students will get hands-on experience usi
+ng the XRD, SEM and TEM equipment to perform microstructural
+ characterization of materials. Students will also design an
+d run their own project on a topic of their choosing."
+MAT SCI 111,1,"Introduction to the physical principles underlying the elect
+ric properties of modern solids with emphasis on semiconduct
+ors; control of defects and impurities through physical puri
+fication, bulk and thin film crystal growth and doping proce
+sses, materials basis of electronic and optoelectronic devic
+es (diodes, transistors, semiconductor lasers) and optical f
+ibers; properties of metal and oxide superconductors and the
+ir applications."
+MAT SCI 112,1,"Electrochemical theory of corrosion. Mechanisms and rates in
+ relation to physiochemical and metallurgical factors. Stres
+s corrosion and mechanical influences on corrosion. Corrosio
+n protection by design, inhibition, cathodic protection, and
+ coatings."
+MAT SCI 113,1,"This course covers elastic and plastic deformation under sta
+tic and dynamic loads. Prediction and prevention of failure 
+by yielding, fracture, fatigue, wear and environmental facto
+rs are addressed. Design issues pertaining to materials sele
+ction for load bearing applications are discussed. Case stud
+ies of engineering failures are presented. Topics include en
+gineering materials, structure-property relationships, mater
+ials selection for design, mechanical"
+MAT SCI 117,1,"Introduction to the physical principles underlying the diele
+ctric and magnetic properties of solids. Processing-microstr
+ucture-property relationships of dielectric materials, inclu
+ding piezoelectric, pryoelectric, and ferroelectric oxides, 
+and of magnetic materials, including hard- and soft ferromag
+nets, ferrites and magneto-optic and -resistive materials. T
+he course also covers the properties of grain boundary devic
+es (including varistors)"
+MAT SCI C118,1,"This course is intended to give students the opportunity to 
+expand their knowledge of topics related to biomedical mater
+ials selection and design. Structure-property relationships 
+of biomedical materials and their interaction with biologica
+l systems will be addressed. Applications of the concepts de
+veloped include blood-materials compatibility, biomimetic ma
+terials, hard and soft tissue-materials interactions, drug d
+elivery, tissue engineering"
+MAT SCI 120,1,"Economic and technological significance of metals and other 
+materials. Elementary geology (composition of lithosphere, m
+ineralization). Short survey of mining and mineral processin
+g techniques. Review of chemical thermodynamics and reaction
+ kinetics. Principles of process engineering including mater
+ial, heat, and mechanical energy balances. Elementary heat t
+ransfer, fluid flow, and mass transfer. Electrolytic product
+ion and refining of metals."
+MAT SCI 121,1,"The principles of metals processing with emphasis on the use
+ of processing to establish microstructures which impart des
+irable engineering properties. The techniques discussed incl
+ude solidification, thermal and mechanical processing, powde
+r processing, welding and joining, and surface treatments."
+MAT SCI 122,1,"Powder fabrication by grinding and chemical methods, rheolog
+ical behavior of powder-fluid suspensions, forming methods, 
+drying, sintering, and grain growth. Relation of processing 
+steps to microstructure development."
+MAT SCI 123,1,"This 4-unit course starts with a brief review of the fundame
+ntals of solid-state physics including bands and defects in 
+semiconductors and oxides, and then moves to bulk semiconduc
+tor crystals growth and processing including doping, diffusi
+on and implantation, and then to thin film deposition and pr
+ocessing methods, and finishes with a discussion of material
+s analysis and characterization. Recent advances in nanomate
+rials research will also"
+MAT SCI 125,1,"Deposition, processing, and characterization of thin films a
+nd their technological applications. Physical and chemical v
+apor deposition methods. Thin-film nucleation and growth. Th
+ermal and ion processing. Microstructural development in epi
+taxial, polycrystalline, and amorphous films. Thin-film char
+acterization techniques. Applications in information storage
+, integrated circuits, and optoelectronic devices. Laborator
+y demonstrations."
+MAT SCI 130,1,"This course provides a culminating experience for students a
+pproaching completion of the materials science and engineeri
+ng curriculum. Laboratory experiments are undertaken in a va
+riety of areas from the investigations on semiconductor mate
+rials to corrosion science and elucidate the relationships a
+mong structure, processing, properties, and performance. The
+ principles of materials selection in engineering design are
+ reviewed."
+MAT SCI 136,1,"In many, if not all, technologies, it is materials that play
+ a crucial, enabling role. This course examines potentially 
+sustainable technologies, and the materials properties that 
+enable them. The science at the basis of selected energy tec
+hnologies are examined and considered in case studies."
+MAT SCI 140,1,"This course introduces the fundamental principles needed to 
+understand the behavior of materials at the nanometer length
+ scale and the different classes of nanomaterials with appli
+cations ranging from information technology to biotechnology
+. Topics include introduction to different classes of nanoma
+terials, synthesis and characterization of nanomaterials, an
+d the electronic, magnetic, optical, and mechanical properti
+es of nanomaterials."
+MAT SCI C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+MAT SCI 151,1,"This course is designed for upper division undergraduate and
+ graduate students to gain a fundamental understanding of th
+e science of polymeric materials. Beginning with a treatment
+ of ideal polymeric chain conformations, it develops the the
+rmodynamics of polmyer blends and solutions, the modeling of
+ polymer networks and gelations, the dynamics of polymer cha
+ins, and the morphologies of thin films and other dimensiona
+lly-restricted structures"
+MAT SCI H194,1,"Students who have completed a satisfactory number of advance
+d courses with a grade-point average of 3.3 or higher may pu
+rsue original research under the direction of one of the mem
+bers of the staff. A maximum of 3 units of H194 may be used 
+to fulfill technical elective requirements in the Materials 
+Science and Engineering program or double majors (unlike 198
+ or 199, which do not satisfy technical elective requirement
+s). Final report required"
+MAT SCI 195,1,"Group study of special topics in materials science and engin
+eering. Selection of topics for further study of underlying 
+concepts and relevent literature, in consultion with appropr
+iate faculty members."
+MAT SCI 198,1,Group studies of selected topics.
+MAT SCI 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the Introduction to Courses and Curricula section of th
+is catalog."
+CHM ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CHM ENG 40,1,"Design and analysis of processes involving chemical change. 
+Strategies for design, such as creative thinking and (re)def
+inition of the design goal. Methods for analyzing designs, s
+uch as mathematical modeling, empirical analysis by graphics
+, and dynamic scaling by dimensional analysis. Design choice
+s in light of process efficiency, product quality, economics
+, safety, and environmental issues."
+CHM ENG 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+CHM ENG 90,1,"An introduction is given to the science and technologies of 
+producing electricity and transportation fuels from renewabl
+e energy resources (biomass, geothermal, solar, wind, and wa
+ve). Students will be introduced to quantitative calculation
+s and comparisions of energy technologies together with the 
+economic and political factors affecting the transition from
+ nonrenewable to sustainable energy resources. Mass and ener
+gy balances are used to"
+CHM ENG 98,1,Supervised research on a specific topic.
+CHM ENG 98W,1,"Directed group study consisting of supplementary problem set
+s, review sessions, and discussions related to chemical engi
+neering. Topics vary with instructor."
+CHM ENG 140,1,"Material and energy balances applied to chemical process sys
+tems. Determination of thermodynamic properties needed for s
+uch calculations. Sources of data. Calculation procedures."
+CHM ENG 141,1,"Thermodynamic behavior of pure substances and mixtures. Prop
+erties of solutions, phase equilibria. Thermodynamic cycles.
+ Chemical equilibria for homogeneous and heterogeneous syste
+ms."
+CHM ENG 142,1,"Analysis and prediction of rates of chemical conversion in f
+low and nonflow processes involving homogeneous and heteroge
+neous systems."
+CHM ENG 143,1,"The purpose of Chemical Engineering Modeling and Computation
+s in Chemical Engineering is to teach students the methodolo
+gies used in setting up mathematical models of simple chemic
+al processes and operations, and the numerical techniques us
+ed to simulate them. Included are techniques to obtain physi
+cal properties of mixtures/solutions using equations of stat
+e. This is followed by simple processes such as vapor liquid
+ equilibrium, separation"
+CHM ENG 150A,1,"Principles of fluid mechanics and heat transfer with applica
+tion to chemical processes. Laminar and turbulent flow in pi
+pes and around submerged objects. Flow measurement. Heat con
+duction and convection; heat transfer coefficients."
+CHM ENG 150B,1,"Principles of mass transfer with application to chemical pro
+cesses. Diffusion and convection. Simultaneous heat and mass
+ transfer; mass transfer coefficients. Design of staged and 
+continuous separations processes."
+CHM ENG 154,1,"Experiments in physical measurements, fluid mechanics, heat 
+and mass transfer, kinetics, and separation processes. Empha
+sis on investigation of basic relationships important in eng
+ineering. Experimental design, analysis of results, and prep
+aration of engineering reports are stressed."
+CHM ENG 160,1,"Design principles of chemical process equipment. Design of i
+ntegrated chemical processes with emphasis upon economic con
+siderations."
+CHM ENG 161S,1,"Design of chemical processes and equipment, with an emphasis
+ on industry-sponsored and/or industry-tailored processes"
+CHM ENG 162,1,"Analysis of the dynamic behavior of chemical processes and m
+ethods and theory of their control. Implementation of comput
+er control systems on process simulations."
+CHM ENG 170A,1,"This course intends to introduce chemical engineers to the b
+asic concepts of biochemical engineering. The course focuses
+ on the use of chemical engineering skills and principles in
+ the analysis and design of biologically-based processes. Th
+e main emphasis will be on biochemical kinetics, heat and ma
+ss transfer, thermodynamics, and transport phenomena as they
+ apply to enzyme catalysis, microbial growth and metabolism,
+ fermentation and bioreactor"
+CHM ENG 170B,1,"The second of a two-semester sequence intended to introduce 
+chemical engineers to the basic concepts of biochemical engi
+neering. The course focuses on the use of chemical engineeri
+ng skills and principles in the analysis and design of biolo
+gically-based processes. The emphasis will be on biochemical
+ kinetics, protein engineering, cell growth and metabolism, 
+bioreactor design, downstream processing, pharmacokinetics, 
+drug delivery, and et"
+CHM ENG C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHM ENG 171,1,"Study of momentum, energy, and mass transfer in laminar and 
+turbulent flow."
+CHM ENG 176,1,"Principles and application of electrochemical equilibria, ki
+netics, and transport processes. Technical electrolysis and 
+electrochemical energy conversion."
+CHM ENG C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHM ENG 179,1,"Chemical processing and properties of solid-state materials.
+ Crystal growth and purification. Thin film technology. Appl
+ication of chemical processing to the manufacture of semicon
+ductors and solid-state devices."
+CHM ENG 180,1,"Optimal design of chemical processes and unit operations, em
+phasizing the interactions between technical and economic co
+nsiderations. Analysis of process risks. Chemical and biomol
+ecular process design in the presence of uncertainties. Inte
+rest rate determinants and their effects on chemical process
+ feasibility and choices. Relationships between structure an
+d behavior of firms in the chemical processing industries. M
+ultivariable input-output"
+CHM ENG 182,1,"This nanoscale science and biomolecular engineering course w
+ill cover emerging topics in applied biotechnology and nanot
+echnology. Topics include enzyme kinetics, enzyme inhibition
+, recombinant protein generation, cell culture, genome editi
+ng, drug design, nanoparticle-based gene and drug delivery, 
+fluorescence imaging, and sensors. The course will also prob
+e the interface of biology with nanomaterials, and standard 
+microscopic techniques to image biological"
+CHM ENG H193,1,"A senior honors thesis is written in consultation with the s
+tudent's faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemical En
+gineering."
+CHM ENG H194,1,"Original research under direction of one of the members of t
+he staff."
+CHM ENG 195,1,"Lectures and/or tutorial instruction on special topics. Plea
+se refer to the Notes section in the Academic Guide for the 
+current course description."
+CHM ENG C195A,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHM ENG 196,1,"Special laboratory or computational work under direction of 
+one of the members of the staff."
+CHM ENG 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemical engineering.
+ Written report required at the end of the term. Course does
+ not satisfy unit or residence requirements for the bachelor
+'s degree."
+CHM ENG 198,1,"Supervised research on a specific topic. Enrollment is restr
+icted; see Introduction to Courses and Curricula section in 
+the General Catalog."
+CHM ENG 199,1, 
+MAT SCI 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to 20 freshmen."
+MAT SCI 45,1,"Application of basic principles of physics and chemistry to 
+the engineering properties of materials. Emphasis on establi
+shing structure, property, processing, and performance inter
+relationships in metals, ceramics, and polymers. While core 
+concepts are fully covered each semester, examples and conte
+xtualization in Fall editions focuses on metals, ceramics, a
+nd functional/electronic properties and in Spring editions o
+n polymers and soft-mat"
+MAT SCI 45L,1,"This course presents laboratory applications of the basic pr
+inciples introduced in the lecture-based course MSE45 – Prop
+erties of Materials."
+MAT SCI 102,1,"Bonding in solids; classification of metals, semiconductors,
+ and insulators; crystal systems; point, line, and planar de
+fects in crystals; examples of crystallographic and defect a
+nalysis in engineering materials; relationship to physical a
+nd mechanical properties."
+MAT SCI 103,1,"The nature, mechanisms, and kinetics of phase transformation
+s and microstructural changes in the solid state. Atom diffu
+sion in solids. Phase transformations through the nucleation
+ and growth of new matrix or precipitate phases. Martensitic
+ transformations, spinodal decomposition. The use of phase t
+ransformations to control microstructure."
+MAT SCI 104,1,"This 3-unit course will cover basic principles and technique
+s used for the characterization of engineering materials. Th
+e course is designed to introduce undergraduate students to 
+the basic principles of structural, chemical and property ch
+aracterization techniques. The course is grounded in modern 
+x-ray diffraction and electron microscopy techniques for cha
+racterization of the chemical and structural properties of a
+ material. The course"
+MAT SCI 104L,1,"This 1-unit laboratory course covers X-ray diffraction (XRD)
+, scanning electron microscopy (SEM), and transmission elect
+ron microscopy (TEM), as well as lab writeup protocols and a
+cademic integrity. Students will get hands-on experience usi
+ng the XRD, SEM and TEM equipment to perform microstructural
+ characterization of materials. Students will also design an
+d run their own project on a topic of their choosing."
+MAT SCI 111,1,"Introduction to the physical principles underlying the elect
+ric properties of modern solids with emphasis on semiconduct
+ors; control of defects and impurities through physical puri
+fication, bulk and thin film crystal growth and doping proce
+sses, materials basis of electronic and optoelectronic devic
+es (diodes, transistors, semiconductor lasers) and optical f
+ibers; properties of metal and oxide superconductors and the
+ir applications."
+MAT SCI 112,1,"Electrochemical theory of corrosion. Mechanisms and rates in
+ relation to physiochemical and metallurgical factors. Stres
+s corrosion and mechanical influences on corrosion. Corrosio
+n protection by design, inhibition, cathodic protection, and
+ coatings."
+MAT SCI 113,1,"This course covers elastic and plastic deformation under sta
+tic and dynamic loads. Prediction and prevention of failure 
+by yielding, fracture, fatigue, wear and environmental facto
+rs are addressed. Design issues pertaining to materials sele
+ction for load bearing applications are discussed. Case stud
+ies of engineering failures are presented. Topics include en
+gineering materials, structure-property relationships, mater
+ials selection for design, mechanical"
+MAT SCI 117,1,"Introduction to the physical principles underlying the diele
+ctric and magnetic properties of solids. Processing-microstr
+ucture-property relationships of dielectric materials, inclu
+ding piezoelectric, pryoelectric, and ferroelectric oxides, 
+and of magnetic materials, including hard- and soft ferromag
+nets, ferrites and magneto-optic and -resistive materials. T
+he course also covers the properties of grain boundary devic
+es (including varistors)"
+MAT SCI C118,1,"This course is intended to give students the opportunity to 
+expand their knowledge of topics related to biomedical mater
+ials selection and design. Structure-property relationships 
+of biomedical materials and their interaction with biologica
+l systems will be addressed. Applications of the concepts de
+veloped include blood-materials compatibility, biomimetic ma
+terials, hard and soft tissue-materials interactions, drug d
+elivery, tissue engineering"
+MAT SCI 120,1,"Economic and technological significance of metals and other 
+materials. Elementary geology (composition of lithosphere, m
+ineralization). Short survey of mining and mineral processin
+g techniques. Review of chemical thermodynamics and reaction
+ kinetics. Principles of process engineering including mater
+ial, heat, and mechanical energy balances. Elementary heat t
+ransfer, fluid flow, and mass transfer. Electrolytic product
+ion and refining of metals."
+MAT SCI 121,1,"The principles of metals processing with emphasis on the use
+ of processing to establish microstructures which impart des
+irable engineering properties. The techniques discussed incl
+ude solidification, thermal and mechanical processing, powde
+r processing, welding and joining, and surface treatments."
+MAT SCI 122,1,"Powder fabrication by grinding and chemical methods, rheolog
+ical behavior of powder-fluid suspensions, forming methods, 
+drying, sintering, and grain growth. Relation of processing 
+steps to microstructure development."
+MAT SCI 123,1,"This 4-unit course starts with a brief review of the fundame
+ntals of solid-state physics including bands and defects in 
+semiconductors and oxides, and then moves to bulk semiconduc
+tor crystals growth and processing including doping, diffusi
+on and implantation, and then to thin film deposition and pr
+ocessing methods, and finishes with a discussion of material
+s analysis and characterization. Recent advances in nanomate
+rials research will also"
+MAT SCI 125,1,"Deposition, processing, and characterization of thin films a
+nd their technological applications. Physical and chemical v
+apor deposition methods. Thin-film nucleation and growth. Th
+ermal and ion processing. Microstructural development in epi
+taxial, polycrystalline, and amorphous films. Thin-film char
+acterization techniques. Applications in information storage
+, integrated circuits, and optoelectronic devices. Laborator
+y demonstrations."
+MAT SCI 130,1,"This course provides a culminating experience for students a
+pproaching completion of the materials science and engineeri
+ng curriculum. Laboratory experiments are undertaken in a va
+riety of areas from the investigations on semiconductor mate
+rials to corrosion science and elucidate the relationships a
+mong structure, processing, properties, and performance. The
+ principles of materials selection in engineering design are
+ reviewed."
+MAT SCI 136,1,"In many, if not all, technologies, it is materials that play
+ a crucial, enabling role. This course examines potentially 
+sustainable technologies, and the materials properties that 
+enable them. The science at the basis of selected energy tec
+hnologies are examined and considered in case studies."
+MAT SCI 140,1,"This course introduces the fundamental principles needed to 
+understand the behavior of materials at the nanometer length
+ scale and the different classes of nanomaterials with appli
+cations ranging from information technology to biotechnology
+. Topics include introduction to different classes of nanoma
+terials, synthesis and characterization of nanomaterials, an
+d the electronic, magnetic, optical, and mechanical properti
+es of nanomaterials."
+MAT SCI C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+MAT SCI 151,1,"This course is designed for upper division undergraduate and
+ graduate students to gain a fundamental understanding of th
+e science of polymeric materials. Beginning with a treatment
+ of ideal polymeric chain conformations, it develops the the
+rmodynamics of polmyer blends and solutions, the modeling of
+ polymer networks and gelations, the dynamics of polymer cha
+ins, and the morphologies of thin films and other dimensiona
+lly-restricted structures"
+MAT SCI H194,1,"Students who have completed a satisfactory number of advance
+d courses with a grade-point average of 3.3 or higher may pu
+rsue original research under the direction of one of the mem
+bers of the staff. A maximum of 3 units of H194 may be used 
+to fulfill technical elective requirements in the Materials 
+Science and Engineering program or double majors (unlike 198
+ or 199, which do not satisfy technical elective requirement
+s). Final report required"
+MAT SCI 195,1,"Group study of special topics in materials science and engin
+eering. Selection of topics for further study of underlying 
+concepts and relevent literature, in consultion with appropr
+iate faculty members."
+MAT SCI 198,1,Group studies of selected topics.
+MAT SCI 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the Introduction to Courses and Curricula section of th
+is catalog."
+CHM ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CHM ENG 40,1,"Design and analysis of processes involving chemical change. 
+Strategies for design, such as creative thinking and (re)def
+inition of the design goal. Methods for analyzing designs, s
+uch as mathematical modeling, empirical analysis by graphics
+, and dynamic scaling by dimensional analysis. Design choice
+s in light of process efficiency, product quality, economics
+, safety, and environmental issues."
+CHM ENG 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+CHM ENG 90,1,"An introduction is given to the science and technologies of 
+producing electricity and transportation fuels from renewabl
+e energy resources (biomass, geothermal, solar, wind, and wa
+ve). Students will be introduced to quantitative calculation
+s and comparisions of energy technologies together with the 
+economic and political factors affecting the transition from
+ nonrenewable to sustainable energy resources. Mass and ener
+gy balances are used to"
+CHM ENG 98,1,Supervised research on a specific topic.
+CHM ENG 98W,1,"Directed group study consisting of supplementary problem set
+s, review sessions, and discussions related to chemical engi
+neering. Topics vary with instructor."
+CHM ENG 140,1,"Material and energy balances applied to chemical process sys
+tems. Determination of thermodynamic properties needed for s
+uch calculations. Sources of data. Calculation procedures."
+CHM ENG 141,1,"Thermodynamic behavior of pure substances and mixtures. Prop
+erties of solutions, phase equilibria. Thermodynamic cycles.
+ Chemical equilibria for homogeneous and heterogeneous syste
+ms."
+CHM ENG 142,1,"Analysis and prediction of rates of chemical conversion in f
+low and nonflow processes involving homogeneous and heteroge
+neous systems."
+CHM ENG 143,1,"The purpose of Chemical Engineering Modeling and Computation
+s in Chemical Engineering is to teach students the methodolo
+gies used in setting up mathematical models of simple chemic
+al processes and operations, and the numerical techniques us
+ed to simulate them. Included are techniques to obtain physi
+cal properties of mixtures/solutions using equations of stat
+e. This is followed by simple processes such as vapor liquid
+ equilibrium, separation"
+CHM ENG 150A,1,"Principles of fluid mechanics and heat transfer with applica
+tion to chemical processes. Laminar and turbulent flow in pi
+pes and around submerged objects. Flow measurement. Heat con
+duction and convection; heat transfer coefficients."
+CHM ENG 150B,1,"Principles of mass transfer with application to chemical pro
+cesses. Diffusion and convection. Simultaneous heat and mass
+ transfer; mass transfer coefficients. Design of staged and 
+continuous separations processes."
+CHM ENG 154,1,"Experiments in physical measurements, fluid mechanics, heat 
+and mass transfer, kinetics, and separation processes. Empha
+sis on investigation of basic relationships important in eng
+ineering. Experimental design, analysis of results, and prep
+aration of engineering reports are stressed."
+CHM ENG 160,1,"Design principles of chemical process equipment. Design of i
+ntegrated chemical processes with emphasis upon economic con
+siderations."
+CHM ENG 161S,1,"Design of chemical processes and equipment, with an emphasis
+ on industry-sponsored and/or industry-tailored processes"
+CHM ENG 162,1,"Analysis of the dynamic behavior of chemical processes and m
+ethods and theory of their control. Implementation of comput
+er control systems on process simulations."
+CHM ENG 170A,1,"This course intends to introduce chemical engineers to the b
+asic concepts of biochemical engineering. The course focuses
+ on the use of chemical engineering skills and principles in
+ the analysis and design of biologically-based processes. Th
+e main emphasis will be on biochemical kinetics, heat and ma
+ss transfer, thermodynamics, and transport phenomena as they
+ apply to enzyme catalysis, microbial growth and metabolism,
+ fermentation and bioreactor"
+CHM ENG 170B,1,"The second of a two-semester sequence intended to introduce 
+chemical engineers to the basic concepts of biochemical engi
+neering. The course focuses on the use of chemical engineeri
+ng skills and principles in the analysis and design of biolo
+gically-based processes. The emphasis will be on biochemical
+ kinetics, protein engineering, cell growth and metabolism, 
+bioreactor design, downstream processing, pharmacokinetics, 
+drug delivery, and et"
+CHM ENG C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHM ENG 171,1,"Study of momentum, energy, and mass transfer in laminar and 
+turbulent flow."
+CHM ENG 176,1,"Principles and application of electrochemical equilibria, ki
+netics, and transport processes. Technical electrolysis and 
+electrochemical energy conversion."
+CHM ENG C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHM ENG 179,1,"Chemical processing and properties of solid-state materials.
+ Crystal growth and purification. Thin film technology. Appl
+ication of chemical processing to the manufacture of semicon
+ductors and solid-state devices."
+CHM ENG 180,1,"Optimal design of chemical processes and unit operations, em
+phasizing the interactions between technical and economic co
+nsiderations. Analysis of process risks. Chemical and biomol
+ecular process design in the presence of uncertainties. Inte
+rest rate determinants and their effects on chemical process
+ feasibility and choices. Relationships between structure an
+d behavior of firms in the chemical processing industries. M
+ultivariable input-output"
+CHM ENG 182,1,"This nanoscale science and biomolecular engineering course w
+ill cover emerging topics in applied biotechnology and nanot
+echnology. Topics include enzyme kinetics, enzyme inhibition
+, recombinant protein generation, cell culture, genome editi
+ng, drug design, nanoparticle-based gene and drug delivery, 
+fluorescence imaging, and sensors. The course will also prob
+e the interface of biology with nanomaterials, and standard 
+microscopic techniques to image biological"
+CHM ENG H193,1,"A senior honors thesis is written in consultation with the s
+tudent's faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemical En
+gineering."
+CHM ENG H194,1,"Original research under direction of one of the members of t
+he staff."
+CHM ENG 195,1,"Lectures and/or tutorial instruction on special topics. Plea
+se refer to the Notes section in the Academic Guide for the 
+current course description."
+CHM ENG C195A,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHM ENG 196,1,"Special laboratory or computational work under direction of 
+one of the members of the staff."
+CHM ENG 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemical engineering.
+ Written report required at the end of the term. Course does
+ not satisfy unit or residence requirements for the bachelor
+'s degree."
+CHM ENG 198,1,"Supervised research on a specific topic. Enrollment is restr
+icted; see Introduction to Courses and Curricula section in 
+the General Catalog."
+CHM ENG 199,1, 
+MAT SCI 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to 20 freshmen."
+MAT SCI 45,1,"Application of basic principles of physics and chemistry to 
+the engineering properties of materials. Emphasis on establi
+shing structure, property, processing, and performance inter
+relationships in metals, ceramics, and polymers. While core 
+concepts are fully covered each semester, examples and conte
+xtualization in Fall editions focuses on metals, ceramics, a
+nd functional/electronic properties and in Spring editions o
+n polymers and soft-mat"
+MAT SCI 45L,1,"This course presents laboratory applications of the basic pr
+inciples introduced in the lecture-based course MSE45 – Prop
+erties of Materials."
+MAT SCI 102,1,"Bonding in solids; classification of metals, semiconductors,
+ and insulators; crystal systems; point, line, and planar de
+fects in crystals; examples of crystallographic and defect a
+nalysis in engineering materials; relationship to physical a
+nd mechanical properties."
+MAT SCI 103,1,"The nature, mechanisms, and kinetics of phase transformation
+s and microstructural changes in the solid state. Atom diffu
+sion in solids. Phase transformations through the nucleation
+ and growth of new matrix or precipitate phases. Martensitic
+ transformations, spinodal decomposition. The use of phase t
+ransformations to control microstructure."
+MAT SCI 104,1,"This 3-unit course will cover basic principles and technique
+s used for the characterization of engineering materials. Th
+e course is designed to introduce undergraduate students to 
+the basic principles of structural, chemical and property ch
+aracterization techniques. The course is grounded in modern 
+x-ray diffraction and electron microscopy techniques for cha
+racterization of the chemical and structural properties of a
+ material. The course"
+MAT SCI 104L,1,"This 1-unit laboratory course covers X-ray diffraction (XRD)
+, scanning electron microscopy (SEM), and transmission elect
+ron microscopy (TEM), as well as lab writeup protocols and a
+cademic integrity. Students will get hands-on experience usi
+ng the XRD, SEM and TEM equipment to perform microstructural
+ characterization of materials. Students will also design an
+d run their own project on a topic of their choosing."
+MAT SCI 111,1,"Introduction to the physical principles underlying the elect
+ric properties of modern solids with emphasis on semiconduct
+ors; control of defects and impurities through physical puri
+fication, bulk and thin film crystal growth and doping proce
+sses, materials basis of electronic and optoelectronic devic
+es (diodes, transistors, semiconductor lasers) and optical f
+ibers; properties of metal and oxide superconductors and the
+ir applications."
+MAT SCI 112,1,"Electrochemical theory of corrosion. Mechanisms and rates in
+ relation to physiochemical and metallurgical factors. Stres
+s corrosion and mechanical influences on corrosion. Corrosio
+n protection by design, inhibition, cathodic protection, and
+ coatings."
+MAT SCI 113,1,"This course covers elastic and plastic deformation under sta
+tic and dynamic loads. Prediction and prevention of failure 
+by yielding, fracture, fatigue, wear and environmental facto
+rs are addressed. Design issues pertaining to materials sele
+ction for load bearing applications are discussed. Case stud
+ies of engineering failures are presented. Topics include en
+gineering materials, structure-property relationships, mater
+ials selection for design, mechanical"
+MAT SCI 117,1,"Introduction to the physical principles underlying the diele
+ctric and magnetic properties of solids. Processing-microstr
+ucture-property relationships of dielectric materials, inclu
+ding piezoelectric, pryoelectric, and ferroelectric oxides, 
+and of magnetic materials, including hard- and soft ferromag
+nets, ferrites and magneto-optic and -resistive materials. T
+he course also covers the properties of grain boundary devic
+es (including varistors)"
+MAT SCI C118,1,"This course is intended to give students the opportunity to 
+expand their knowledge of topics related to biomedical mater
+ials selection and design. Structure-property relationships 
+of biomedical materials and their interaction with biologica
+l systems will be addressed. Applications of the concepts de
+veloped include blood-materials compatibility, biomimetic ma
+terials, hard and soft tissue-materials interactions, drug d
+elivery, tissue engineering"
+MAT SCI 120,1,"Economic and technological significance of metals and other 
+materials. Elementary geology (composition of lithosphere, m
+ineralization). Short survey of mining and mineral processin
+g techniques. Review of chemical thermodynamics and reaction
+ kinetics. Principles of process engineering including mater
+ial, heat, and mechanical energy balances. Elementary heat t
+ransfer, fluid flow, and mass transfer. Electrolytic product
+ion and refining of metals."
+MAT SCI 121,1,"The principles of metals processing with emphasis on the use
+ of processing to establish microstructures which impart des
+irable engineering properties. The techniques discussed incl
+ude solidification, thermal and mechanical processing, powde
+r processing, welding and joining, and surface treatments."
+MAT SCI 122,1,"Powder fabrication by grinding and chemical methods, rheolog
+ical behavior of powder-fluid suspensions, forming methods, 
+drying, sintering, and grain growth. Relation of processing 
+steps to microstructure development."
+MAT SCI 123,1,"This 4-unit course starts with a brief review of the fundame
+ntals of solid-state physics including bands and defects in 
+semiconductors and oxides, and then moves to bulk semiconduc
+tor crystals growth and processing including doping, diffusi
+on and implantation, and then to thin film deposition and pr
+ocessing methods, and finishes with a discussion of material
+s analysis and characterization. Recent advances in nanomate
+rials research will also"
+MAT SCI 125,1,"Deposition, processing, and characterization of thin films a
+nd their technological applications. Physical and chemical v
+apor deposition methods. Thin-film nucleation and growth. Th
+ermal and ion processing. Microstructural development in epi
+taxial, polycrystalline, and amorphous films. Thin-film char
+acterization techniques. Applications in information storage
+, integrated circuits, and optoelectronic devices. Laborator
+y demonstrations."
+MAT SCI 130,1,"This course provides a culminating experience for students a
+pproaching completion of the materials science and engineeri
+ng curriculum. Laboratory experiments are undertaken in a va
+riety of areas from the investigations on semiconductor mate
+rials to corrosion science and elucidate the relationships a
+mong structure, processing, properties, and performance. The
+ principles of materials selection in engineering design are
+ reviewed."
+MAT SCI 136,1,"In many, if not all, technologies, it is materials that play
+ a crucial, enabling role. This course examines potentially 
+sustainable technologies, and the materials properties that 
+enable them. The science at the basis of selected energy tec
+hnologies are examined and considered in case studies."
+MAT SCI 140,1,"This course introduces the fundamental principles needed to 
+understand the behavior of materials at the nanometer length
+ scale and the different classes of nanomaterials with appli
+cations ranging from information technology to biotechnology
+. Topics include introduction to different classes of nanoma
+terials, synthesis and characterization of nanomaterials, an
+d the electronic, magnetic, optical, and mechanical properti
+es of nanomaterials."
+MAT SCI C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+MAT SCI 151,1,"This course is designed for upper division undergraduate and
+ graduate students to gain a fundamental understanding of th
+e science of polymeric materials. Beginning with a treatment
+ of ideal polymeric chain conformations, it develops the the
+rmodynamics of polmyer blends and solutions, the modeling of
+ polymer networks and gelations, the dynamics of polymer cha
+ins, and the morphologies of thin films and other dimensiona
+lly-restricted structures"
+MAT SCI H194,1,"Students who have completed a satisfactory number of advance
+d courses with a grade-point average of 3.3 or higher may pu
+rsue original research under the direction of one of the mem
+bers of the staff. A maximum of 3 units of H194 may be used 
+to fulfill technical elective requirements in the Materials 
+Science and Engineering program or double majors (unlike 198
+ or 199, which do not satisfy technical elective requirement
+s). Final report required"
+MAT SCI 195,1,"Group study of special topics in materials science and engin
+eering. Selection of topics for further study of underlying 
+concepts and relevent literature, in consultion with appropr
+iate faculty members."
+MAT SCI 198,1,Group studies of selected topics.
+MAT SCI 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the Introduction to Courses and Curricula section of th
+is catalog."
+CHM ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CHM ENG 40,1,"Design and analysis of processes involving chemical change. 
+Strategies for design, such as creative thinking and (re)def
+inition of the design goal. Methods for analyzing designs, s
+uch as mathematical modeling, empirical analysis by graphics
+, and dynamic scaling by dimensional analysis. Design choice
+s in light of process efficiency, product quality, economics
+, safety, and environmental issues."
+CHM ENG 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+CHM ENG 90,1,"An introduction is given to the science and technologies of 
+producing electricity and transportation fuels from renewabl
+e energy resources (biomass, geothermal, solar, wind, and wa
+ve). Students will be introduced to quantitative calculation
+s and comparisions of energy technologies together with the 
+economic and political factors affecting the transition from
+ nonrenewable to sustainable energy resources. Mass and ener
+gy balances are used to"
+CHM ENG 98,1,Supervised research on a specific topic.
+CHM ENG 98W,1,"Directed group study consisting of supplementary problem set
+s, review sessions, and discussions related to chemical engi
+neering. Topics vary with instructor."
+CHM ENG 140,1,"Material and energy balances applied to chemical process sys
+tems. Determination of thermodynamic properties needed for s
+uch calculations. Sources of data. Calculation procedures."
+CHM ENG 141,1,"Thermodynamic behavior of pure substances and mixtures. Prop
+erties of solutions, phase equilibria. Thermodynamic cycles.
+ Chemical equilibria for homogeneous and heterogeneous syste
+ms."
+CHM ENG 142,1,"Analysis and prediction of rates of chemical conversion in f
+low and nonflow processes involving homogeneous and heteroge
+neous systems."
+CHM ENG 143,1,"The purpose of Chemical Engineering Modeling and Computation
+s in Chemical Engineering is to teach students the methodolo
+gies used in setting up mathematical models of simple chemic
+al processes and operations, and the numerical techniques us
+ed to simulate them. Included are techniques to obtain physi
+cal properties of mixtures/solutions using equations of stat
+e. This is followed by simple processes such as vapor liquid
+ equilibrium, separation"
+CHM ENG 150A,1,"Principles of fluid mechanics and heat transfer with applica
+tion to chemical processes. Laminar and turbulent flow in pi
+pes and around submerged objects. Flow measurement. Heat con
+duction and convection; heat transfer coefficients."
+CHM ENG 150B,1,"Principles of mass transfer with application to chemical pro
+cesses. Diffusion and convection. Simultaneous heat and mass
+ transfer; mass transfer coefficients. Design of staged and 
+continuous separations processes."
+CHM ENG 154,1,"Experiments in physical measurements, fluid mechanics, heat 
+and mass transfer, kinetics, and separation processes. Empha
+sis on investigation of basic relationships important in eng
+ineering. Experimental design, analysis of results, and prep
+aration of engineering reports are stressed."
+CHM ENG 160,1,"Design principles of chemical process equipment. Design of i
+ntegrated chemical processes with emphasis upon economic con
+siderations."
+CHM ENG 161S,1,"Design of chemical processes and equipment, with an emphasis
+ on industry-sponsored and/or industry-tailored processes"
+CHM ENG 162,1,"Analysis of the dynamic behavior of chemical processes and m
+ethods and theory of their control. Implementation of comput
+er control systems on process simulations."
+CHM ENG 170A,1,"This course intends to introduce chemical engineers to the b
+asic concepts of biochemical engineering. The course focuses
+ on the use of chemical engineering skills and principles in
+ the analysis and design of biologically-based processes. Th
+e main emphasis will be on biochemical kinetics, heat and ma
+ss transfer, thermodynamics, and transport phenomena as they
+ apply to enzyme catalysis, microbial growth and metabolism,
+ fermentation and bioreactor"
+CHM ENG 170B,1,"The second of a two-semester sequence intended to introduce 
+chemical engineers to the basic concepts of biochemical engi
+neering. The course focuses on the use of chemical engineeri
+ng skills and principles in the analysis and design of biolo
+gically-based processes. The emphasis will be on biochemical
+ kinetics, protein engineering, cell growth and metabolism, 
+bioreactor design, downstream processing, pharmacokinetics, 
+drug delivery, and et"
+CHM ENG C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHM ENG 171,1,"Study of momentum, energy, and mass transfer in laminar and 
+turbulent flow."
+CHM ENG 176,1,"Principles and application of electrochemical equilibria, ki
+netics, and transport processes. Technical electrolysis and 
+electrochemical energy conversion."
+CHM ENG C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHM ENG 179,1,"Chemical processing and properties of solid-state materials.
+ Crystal growth and purification. Thin film technology. Appl
+ication of chemical processing to the manufacture of semicon
+ductors and solid-state devices."
+CHM ENG 180,1,"Optimal design of chemical processes and unit operations, em
+phasizing the interactions between technical and economic co
+nsiderations. Analysis of process risks. Chemical and biomol
+ecular process design in the presence of uncertainties. Inte
+rest rate determinants and their effects on chemical process
+ feasibility and choices. Relationships between structure an
+d behavior of firms in the chemical processing industries. M
+ultivariable input-output"
+CHM ENG 182,1,"This nanoscale science and biomolecular engineering course w
+ill cover emerging topics in applied biotechnology and nanot
+echnology. Topics include enzyme kinetics, enzyme inhibition
+, recombinant protein generation, cell culture, genome editi
+ng, drug design, nanoparticle-based gene and drug delivery, 
+fluorescence imaging, and sensors. The course will also prob
+e the interface of biology with nanomaterials, and standard 
+microscopic techniques to image biological"
+CHM ENG H193,1,"A senior honors thesis is written in consultation with the s
+tudent's faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemical En
+gineering."
+CHM ENG H194,1,"Original research under direction of one of the members of t
+he staff."
+CHM ENG 195,1,"Lectures and/or tutorial instruction on special topics. Plea
+se refer to the Notes section in the Academic Guide for the 
+current course description."
+CHM ENG C195A,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHM ENG 196,1,"Special laboratory or computational work under direction of 
+one of the members of the staff."
+CHM ENG 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemical engineering.
+ Written report required at the end of the term. Course does
+ not satisfy unit or residence requirements for the bachelor
+'s degree."
+CHM ENG 198,1,"Supervised research on a specific topic. Enrollment is restr
+icted; see Introduction to Courses and Curricula section in 
+the General Catalog."
+CHM ENG 199,1, 
+MAT SCI 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to 20 freshmen."
+MAT SCI 45,1,"Application of basic principles of physics and chemistry to 
+the engineering properties of materials. Emphasis on establi
+shing structure, property, processing, and performance inter
+relationships in metals, ceramics, and polymers. While core 
+concepts are fully covered each semester, examples and conte
+xtualization in Fall editions focuses on metals, ceramics, a
+nd functional/electronic properties and in Spring editions o
+n polymers and soft-mat"
+MAT SCI 45L,1,"This course presents laboratory applications of the basic pr
+inciples introduced in the lecture-based course MSE45 – Prop
+erties of Materials."
+MAT SCI 102,1,"Bonding in solids; classification of metals, semiconductors,
+ and insulators; crystal systems; point, line, and planar de
+fects in crystals; examples of crystallographic and defect a
+nalysis in engineering materials; relationship to physical a
+nd mechanical properties."
+MAT SCI 103,1,"The nature, mechanisms, and kinetics of phase transformation
+s and microstructural changes in the solid state. Atom diffu
+sion in solids. Phase transformations through the nucleation
+ and growth of new matrix or precipitate phases. Martensitic
+ transformations, spinodal decomposition. The use of phase t
+ransformations to control microstructure."
+MAT SCI 104,1,"This 3-unit course will cover basic principles and technique
+s used for the characterization of engineering materials. Th
+e course is designed to introduce undergraduate students to 
+the basic principles of structural, chemical and property ch
+aracterization techniques. The course is grounded in modern 
+x-ray diffraction and electron microscopy techniques for cha
+racterization of the chemical and structural properties of a
+ material. The course"
+MAT SCI 104L,1,"This 1-unit laboratory course covers X-ray diffraction (XRD)
+, scanning electron microscopy (SEM), and transmission elect
+ron microscopy (TEM), as well as lab writeup protocols and a
+cademic integrity. Students will get hands-on experience usi
+ng the XRD, SEM and TEM equipment to perform microstructural
+ characterization of materials. Students will also design an
+d run their own project on a topic of their choosing."
+MAT SCI 111,1,"Introduction to the physical principles underlying the elect
+ric properties of modern solids with emphasis on semiconduct
+ors; control of defects and impurities through physical puri
+fication, bulk and thin film crystal growth and doping proce
+sses, materials basis of electronic and optoelectronic devic
+es (diodes, transistors, semiconductor lasers) and optical f
+ibers; properties of metal and oxide superconductors and the
+ir applications."
+MAT SCI 112,1,"Electrochemical theory of corrosion. Mechanisms and rates in
+ relation to physiochemical and metallurgical factors. Stres
+s corrosion and mechanical influences on corrosion. Corrosio
+n protection by design, inhibition, cathodic protection, and
+ coatings."
+MAT SCI 113,1,"This course covers elastic and plastic deformation under sta
+tic and dynamic loads. Prediction and prevention of failure 
+by yielding, fracture, fatigue, wear and environmental facto
+rs are addressed. Design issues pertaining to materials sele
+ction for load bearing applications are discussed. Case stud
+ies of engineering failures are presented. Topics include en
+gineering materials, structure-property relationships, mater
+ials selection for design, mechanical"
+MAT SCI 117,1,"Introduction to the physical principles underlying the diele
+ctric and magnetic properties of solids. Processing-microstr
+ucture-property relationships of dielectric materials, inclu
+ding piezoelectric, pryoelectric, and ferroelectric oxides, 
+and of magnetic materials, including hard- and soft ferromag
+nets, ferrites and magneto-optic and -resistive materials. T
+he course also covers the properties of grain boundary devic
+es (including varistors)"
+MAT SCI C118,1,"This course is intended to give students the opportunity to 
+expand their knowledge of topics related to biomedical mater
+ials selection and design. Structure-property relationships 
+of biomedical materials and their interaction with biologica
+l systems will be addressed. Applications of the concepts de
+veloped include blood-materials compatibility, biomimetic ma
+terials, hard and soft tissue-materials interactions, drug d
+elivery, tissue engineering"
+MAT SCI 120,1,"Economic and technological significance of metals and other 
+materials. Elementary geology (composition of lithosphere, m
+ineralization). Short survey of mining and mineral processin
+g techniques. Review of chemical thermodynamics and reaction
+ kinetics. Principles of process engineering including mater
+ial, heat, and mechanical energy balances. Elementary heat t
+ransfer, fluid flow, and mass transfer. Electrolytic product
+ion and refining of metals."
+MAT SCI 121,1,"The principles of metals processing with emphasis on the use
+ of processing to establish microstructures which impart des
+irable engineering properties. The techniques discussed incl
+ude solidification, thermal and mechanical processing, powde
+r processing, welding and joining, and surface treatments."
+MAT SCI 122,1,"Powder fabrication by grinding and chemical methods, rheolog
+ical behavior of powder-fluid suspensions, forming methods, 
+drying, sintering, and grain growth. Relation of processing 
+steps to microstructure development."
+MAT SCI 123,1,"This 4-unit course starts with a brief review of the fundame
+ntals of solid-state physics including bands and defects in 
+semiconductors and oxides, and then moves to bulk semiconduc
+tor crystals growth and processing including doping, diffusi
+on and implantation, and then to thin film deposition and pr
+ocessing methods, and finishes with a discussion of material
+s analysis and characterization. Recent advances in nanomate
+rials research will also"
+MAT SCI 125,1,"Deposition, processing, and characterization of thin films a
+nd their technological applications. Physical and chemical v
+apor deposition methods. Thin-film nucleation and growth. Th
+ermal and ion processing. Microstructural development in epi
+taxial, polycrystalline, and amorphous films. Thin-film char
+acterization techniques. Applications in information storage
+, integrated circuits, and optoelectronic devices. Laborator
+y demonstrations."
+MAT SCI 130,1,"This course provides a culminating experience for students a
+pproaching completion of the materials science and engineeri
+ng curriculum. Laboratory experiments are undertaken in a va
+riety of areas from the investigations on semiconductor mate
+rials to corrosion science and elucidate the relationships a
+mong structure, processing, properties, and performance. The
+ principles of materials selection in engineering design are
+ reviewed."
+MAT SCI 136,1,"In many, if not all, technologies, it is materials that play
+ a crucial, enabling role. This course examines potentially 
+sustainable technologies, and the materials properties that 
+enable them. The science at the basis of selected energy tec
+hnologies are examined and considered in case studies."
+MAT SCI 140,1,"This course introduces the fundamental principles needed to 
+understand the behavior of materials at the nanometer length
+ scale and the different classes of nanomaterials with appli
+cations ranging from information technology to biotechnology
+. Topics include introduction to different classes of nanoma
+terials, synthesis and characterization of nanomaterials, an
+d the electronic, magnetic, optical, and mechanical properti
+es of nanomaterials."
+MAT SCI C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+MAT SCI 151,1,"This course is designed for upper division undergraduate and
+ graduate students to gain a fundamental understanding of th
+e science of polymeric materials. Beginning with a treatment
+ of ideal polymeric chain conformations, it develops the the
+rmodynamics of polmyer blends and solutions, the modeling of
+ polymer networks and gelations, the dynamics of polymer cha
+ins, and the morphologies of thin films and other dimensiona
+lly-restricted structures"
+MAT SCI H194,1,"Students who have completed a satisfactory number of advance
+d courses with a grade-point average of 3.3 or higher may pu
+rsue original research under the direction of one of the mem
+bers of the staff. A maximum of 3 units of H194 may be used 
+to fulfill technical elective requirements in the Materials 
+Science and Engineering program or double majors (unlike 198
+ or 199, which do not satisfy technical elective requirement
+s). Final report required"
+MAT SCI 195,1,"Group study of special topics in materials science and engin
+eering. Selection of topics for further study of underlying 
+concepts and relevent literature, in consultion with appropr
+iate faculty members."
+MAT SCI 198,1,Group studies of selected topics.
+MAT SCI 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the Introduction to Courses and Curricula section of th
+is catalog."

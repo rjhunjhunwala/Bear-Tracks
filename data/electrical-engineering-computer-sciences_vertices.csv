@@ -1,18 +1,92 @@
 name,size,about
-EECS 16A,1,"This course and its follow-on course EECS16B focus on the fundamentals of designing modern information devices and systems that interface with the real world. Together, this course sequence provides a comprehensive foundation for core EECS topics in signal processing, learning, control, and circuit design while introducing key linear-algebraic concepts motivated by application contexts. Modeling is emphasized in a way that deepens mathematical"
+EECS 16A,1,"This course and its follow-on course EECS16B focus on the fu
+ndamentals of designing modern information devices and syste
+ms that interface with the real world. Together, this course
+ sequence provides a comprehensive foundation for core EECS 
+topics in signal processing, learning, control, and circuit 
+design while introducing key linear-algebraic concepts motiv
+ated by application contexts. Modeling is emphasized in a wa
+y that deepens mathematical"
 EECS 16B,1,This course is a follow-on to 
-EECS 47D,1,"This course allows students who have had a linear algebra and/or basic circuit theory course to complete the work in EE16A and be ready for EE16B or EE47E. The course focuses on the fundamentals of designing modern information devices and systems that interface with the real world and provides a comprehensive foundation for core EECS topics in signal processing, learning, control, and circuit design. Modeling is emphasized in a way that deepens mathematical maturity"
-EECS 47E,1,"This course allows students who have had a linear algebra and/or basic circuit theory course to complete the work in EE16B. The course focuses on the fundamentals of designing modern information devices and systems that interface with the real world and provides a comprehensive foundation for core EECS topics in signal processing (DFT), learning (SVD/PCA), feedback control, and circuit design. Modeling is emphasized in a way that deepens mathematical maturity"
-EECS 47F,1,"This course allows students who have had a discrete math and/or probability course to complete the work in CS70. Logic, infinity, and induction; applications include undecidability and stable marriage problem. Modular arithmetic and GCDs; applications include primality testing and cryptography. Polynomials; examples include error correcting codes and interpolation. Probability including sample spaces, independence, random variables, law of large numbers; examples"
-EECS C106A,1,"An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course covers forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on proximity, tactile, and force sensing, vision sensors, camera calibration, stereo construction, and motion detection. The course concludes with current applications"
+EECS 47D,1,"This course allows students who have had a linear algebra an
+d/or basic circuit theory course to complete the work in EE1
+6A and be ready for EE16B or EE47E. The course focuses on th
+e fundamentals of designing modern information devices and s
+ystems that interface with the real world and provides a com
+prehensive foundation for core EECS topics in signal process
+ing, learning, control, and circuit design. Modeling is emph
+asized in a way that deepens mathematical maturity"
+EECS 47E,1,"This course allows students who have had a linear algebra an
+d/or basic circuit theory course to complete the work in EE1
+6B. The course focuses on the fundamentals of designing mode
+rn information devices and systems that interface with the r
+eal world and provides a comprehensive foundation for core E
+ECS topics in signal processing (DFT), learning (SVD/PCA), f
+eedback control, and circuit design. Modeling is emphasized 
+in a way that deepens mathematical maturity"
+EECS 47F,1,"This course allows students who have had a discrete math and
+/or probability course to complete the work in CS70. Logic, 
+infinity, and induction; applications include undecidability
+ and stable marriage problem. Modular arithmetic and GCDs; a
+pplications include primality testing and cryptography. Poly
+nomials; examples include error correcting codes and interpo
+lation. Probability including sample spaces, independence, r
+andom variables, law of large numbers; examples"
+EECS C106A,1,"An introduction to the kinematics, dynamics, and control of 
+robot manipulators, robotic vision, and sensing. The course 
+covers forward and inverse kinematics of serial chain manipu
+lators, the manipulator Jacobian, force relations, dynamics,
+ and control. It presents elementary principles on proximity
+, tactile, and force sensing, vision sensors, camera calibra
+tion, stereo construction, and motion detection. The course 
+concludes with current applications"
 EECS C106B,1,This course is a sequel to 
-EECS 126,1,"This course covers the fundamentals of probability and random processes useful in fields such as networks, communication, signal processing, and control. Sample space, events, probability law. Conditional probability. Independence. Random variables. Distribution, density functions. Random vectors. Law of large numbers. Central limit theorem. Estimation and detection. Markov chains."
-EECS 127,1,"This course offers an introduction to optimization models and their applications, ranging from machine learning and statistics to decision-making and control, with emphasis on numerically tractable problems, such as linear or constrained least-squares optimization."
-EECS 149,1,"This course introduces students to the basics of modeling, analysis, and design of embedded, cyber-physical systems. Students learn how to integrate computation with physical processes to meet a desired specification. Topics include models of computation, control, analysis and verification, interfacing with the physical world, real-time behaviors, mapping to platforms, and distributed embedded systems. The course has a strong laboratory component"
-EECS 151,1,"An introduction to digital and system design. The material provides a top-down view of the principles, components, and methodologies for large scale digital system design. The underlying CMOS devices and manufacturing technologies are introduced, but quickly abstracted to higher-levels to focus the class on design of larger digital modules for both FPGAs (field programmable gate arrays) and ASICs (application specific integrated circuits)."
-EECS 151LA,1,"This lab lays the foundation of modern digital design by first presenting the scripting and hardware description language base for specification of digital systems and interactions with tool flows. The labs are centered on a large design with the focus on rapid design space exploration. The lab exercises culminate with a project design, e.g., implementation of a three-stage RISC-V processor with a register file and caches. The design is mapped"
-EECS 151LB,1,"This lab covers the design of modern digital systems with Field-Programmable Gate Array (FPGA) platforms. A series of lab exercises provide the background and practice of digital design using a modern FPGA design tool flow. Digital synthesis, partitioning, placement, routing, and simulation tools for FPGAs are covered in detail. The labs exercises culminate with a large design project, e.g., an implementation of a full three-stage RISC-V processor"
-COMPSCI C8,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall 2019, Spring 2019, Summer 2018 8 Week Session, Spring 2018"
+EECS 126,1,"This course covers the fundamentals of probability and rando
+m processes useful in fields such as networks, communication
+, signal processing, and control. Sample space, events, prob
+ability law. Conditional probability. Independence. Random v
+ariables. Distribution, density functions. Random vectors. L
+aw of large numbers. Central limit theorem. Estimation and d
+etection. Markov chains."
+EECS 127,1,"This course offers an introduction to optimization models an
+d their applications, ranging from machine learning and stat
+istics to decision-making and control, with emphasis on nume
+rically tractable problems, such as linear or constrained le
+ast-squares optimization."
+EECS 149,1,"This course introduces students to the basics of modeling, a
+nalysis, and design of embedded, cyber-physical systems. Stu
+dents learn how to integrate computation with physical proce
+sses to meet a desired specification. Topics include models 
+of computation, control, analysis and verification, interfac
+ing with the physical world, real-time behaviors, mapping to
+ platforms, and distributed embedded systems. The course has
+ a strong laboratory component"
+EECS 151,1,"An introduction to digital and system design. The material p
+rovides a top-down view of the principles, components, and m
+ethodologies for large scale digital system design. The unde
+rlying CMOS devices and manufacturing technologies are intro
+duced, but quickly abstracted to higher-levels to focus the 
+class on design of larger digital modules for both FPGAs (fi
+eld programmable gate arrays) and ASICs (application specifi
+c integrated circuits)."
+EECS 151LA,1,"This lab lays the foundation of modern digital design by fir
+st presenting the scripting and hardware description languag
+e base for specification of digital systems and interactions
+ with tool flows. The labs are centered on a large design wi
+th the focus on rapid design space exploration. The lab exer
+cises culminate with a project design, e.g., implementation 
+of a three-stage RISC-V processor with a register file and c
+aches. The design is mapped"
+EECS 151LB,1,"This lab covers the design of modern digital systems with Fi
+eld-Programmable Gate Array (FPGA) platforms. A series of la
+b exercises provide the background and practice of digital d
+esign using a modern FPGA design tool flow. Digital synthesi
+s, partitioning, placement, routing, and simulation tools fo
+r FPGAs are covered in detail. The labs exercises culminate 
+with a large design project, e.g., an implementation of a fu
+ll three-stage RISC-V processor"
+COMPSCI C8,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019, Spring 2019, Summer 2018 8 Week Session, Spring 2018"
 COMPSCI C8R,1,Terms offered: Prior to 2007
 COMPSCI 9A,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
 COMPSCI 9C,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
@@ -21,7 +95,8 @@ COMPSCI 9E,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
 COMPSCI 9F,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
 COMPSCI 9G,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
 COMPSCI 9H,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
-COMPSCI 10,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall 2019"
+COMPSCI 10,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
 COMPSCI W10,1,Terms offered: Fall 2012
 COMPSCI 36,1,"Terms offered: Fall 2019, Fall 2018, Spring 2018"
 COMPSCI 39,1,"Terms offered: Spring 2019, Fall 2017, Spring 2017"
@@ -35,26 +110,34 @@ COMPSCI 39R,1,"Terms offered: Spring 2016, Spring 2013"
 COMPSCI 47A,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
 COMPSCI 47B,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
 COMPSCI 47C,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
-COMPSCI 61A,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall 2019"
+COMPSCI 61A,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
 COMPSCI 61B,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
-COMPSCI 61BL,1,"Terms offered: Summer 2020 8 Week Session, Summer 2019 8 Week Session, Summer 2018 8 Week Session"
-COMPSCI 61C,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall 2019"
+COMPSCI 61BL,1,"Terms offered: Summer 2020 8 Week Session, Summer 2019 8 Wee
+k Session, Summer 2018 8 Week Session"
+COMPSCI 61C,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
 COMPSCI 61CL,1,"Terms offered: Fall 2009, Spring 2009, Fall 2008"
 COMPSCI W61A,1,Terms offered: Summer 2019 8 Week Session
 COMPSCI W61B,1,Terms offered: Not yet offered
-COMPSCI 70,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall 2019"
+COMPSCI 70,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
 COMPSCI C79,1,Terms offered: Spring 2013
 COMPSCI 88,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
 COMPSCI 94,1,Terms offered: Fall 2015
 COMPSCI 97,1,"Terms offered: Fall 2015, Spring 2015, Fall 2014"
 COMPSCI 98,1,"Terms offered: Fall 2018, Fall 2016, Fall 2015"
 COMPSCI 99,1,"Terms offered: Fall 2015, Fall 2014, Spring 2014"
-COMPSCI C100,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall 2019, Spring 2019"
+COMPSCI C100,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019, Spring 2019"
 COMPSCI 146L,1,Terms offered: Spring 2015
 COMPSCI 152,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
-COMPSCI 160,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Session"
-COMPSCI 161,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Session"
-COMPSCI 162,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Session"
+COMPSCI 160,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 161,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 162,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
 COMPSCI 164,1,"Terms offered: Fall 2019, Spring 2019, Fall 2018"
 COMPSCI 168,1,"Terms offered: Spring 2020, Fall 2018, Fall 2017"
 COMPSCI 169,1,"Terms offered: Fall 2019, Spring 2019, Fall 2017"
@@ -71,8 +154,10 @@ COMPSCI W182,1,Terms offered: Spring 2020
 COMPSCI 184,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
 COMPSCI 186,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
 COMPSCI W186,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
-COMPSCI 188,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Session"
-COMPSCI 189,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Session"
+COMPSCI 188,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 189,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
 COMPSCI C191,1,"Terms offered: Spring 2020, Spring 2019, Spring 2017"
 COMPSCI 194,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
 COMPSCI 195,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
@@ -85,7 +170,8 @@ COMPSCI 199,1,"Terms offered: Fall 2018, Fall 2016, Fall 2015"
 EL ENG 24,1,"Terms offered: Fall 2017, Spring 2017, Spring 2016"
 EL ENG 25,1,Terms offered: Fall 2011
 EL ENG 39,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
-EL ENG 42,1,"Terms offered: Fall 2013, Summer 2013 8 Week Session, Spring 2013"
+EL ENG 42,1,"Terms offered: Fall 2013, Summer 2013 8 Week Session, Spring
+ 2013"
 EL ENG 49,1,"Terms offered: Spring 2020, Spring 2019, Fall 2018"
 EL ENG 84,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
 EL ENG 97,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
@@ -114,7 +200,856 @@ EL ENG 144,1,"Terms offered: Fall 2015, Fall 2014, Fall 2013"
 EL ENG C145B,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
 EL ENG C145L,1,"Terms offered: Fall 2014, Fall 2013, Fall 2012"
 EL ENG C145M,1,"Terms offered: Spring 2013, Spring 2012, Spring 2011"
-EL ENG C145O,1,"Terms offered: Spring 2015, Spring 2014, Spring 2013, Spring 2012"
+EL ENG C145O,1,"Terms offered: Spring 2015, Spring 2014, Spring 2013, Spring
+ 2012"
+EL ENG 146L,1,Terms offered: Spring 2015
+EL ENG 147,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 192,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 194,1,"Terms offered: Spring 2020, Fall 2018, Spring 2018"
+EL ENG H196A,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG H196B,1,"Terms offered: Spring 2016, Spring 2015, Spring 2014"
+EL ENG 197,1,"Terms offered: Spring 2018, Spring 2016, Fall 2015"
+EL ENG 198,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+EL ENG 199,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+EECS 16A,1,"This course and its follow-on course EECS16B focus on the fu
+ndamentals of designing modern information devices and syste
+ms that interface with the real world. Together, this course
+ sequence provides a comprehensive foundation for core EECS 
+topics in signal processing, learning, control, and circuit 
+design while introducing key linear-algebraic concepts motiv
+ated by application contexts. Modeling is emphasized in a wa
+y that deepens mathematical"
+EECS 16B,1,This course is a follow-on to 
+EECS 47D,1,"This course allows students who have had a linear algebra an
+d/or basic circuit theory course to complete the work in EE1
+6A and be ready for EE16B or EE47E. The course focuses on th
+e fundamentals of designing modern information devices and s
+ystems that interface with the real world and provides a com
+prehensive foundation for core EECS topics in signal process
+ing, learning, control, and circuit design. Modeling is emph
+asized in a way that deepens mathematical maturity"
+EECS 47E,1,"This course allows students who have had a linear algebra an
+d/or basic circuit theory course to complete the work in EE1
+6B. The course focuses on the fundamentals of designing mode
+rn information devices and systems that interface with the r
+eal world and provides a comprehensive foundation for core E
+ECS topics in signal processing (DFT), learning (SVD/PCA), f
+eedback control, and circuit design. Modeling is emphasized 
+in a way that deepens mathematical maturity"
+EECS 47F,1,"This course allows students who have had a discrete math and
+/or probability course to complete the work in CS70. Logic, 
+infinity, and induction; applications include undecidability
+ and stable marriage problem. Modular arithmetic and GCDs; a
+pplications include primality testing and cryptography. Poly
+nomials; examples include error correcting codes and interpo
+lation. Probability including sample spaces, independence, r
+andom variables, law of large numbers; examples"
+EECS C106A,1,"An introduction to the kinematics, dynamics, and control of 
+robot manipulators, robotic vision, and sensing. The course 
+covers forward and inverse kinematics of serial chain manipu
+lators, the manipulator Jacobian, force relations, dynamics,
+ and control. It presents elementary principles on proximity
+, tactile, and force sensing, vision sensors, camera calibra
+tion, stereo construction, and motion detection. The course 
+concludes with current applications"
+EECS C106B,1,This course is a sequel to 
+EECS 126,1,"This course covers the fundamentals of probability and rando
+m processes useful in fields such as networks, communication
+, signal processing, and control. Sample space, events, prob
+ability law. Conditional probability. Independence. Random v
+ariables. Distribution, density functions. Random vectors. L
+aw of large numbers. Central limit theorem. Estimation and d
+etection. Markov chains."
+EECS 127,1,"This course offers an introduction to optimization models an
+d their applications, ranging from machine learning and stat
+istics to decision-making and control, with emphasis on nume
+rically tractable problems, such as linear or constrained le
+ast-squares optimization."
+EECS 149,1,"This course introduces students to the basics of modeling, a
+nalysis, and design of embedded, cyber-physical systems. Stu
+dents learn how to integrate computation with physical proce
+sses to meet a desired specification. Topics include models 
+of computation, control, analysis and verification, interfac
+ing with the physical world, real-time behaviors, mapping to
+ platforms, and distributed embedded systems. The course has
+ a strong laboratory component"
+EECS 151,1,"An introduction to digital and system design. The material p
+rovides a top-down view of the principles, components, and m
+ethodologies for large scale digital system design. The unde
+rlying CMOS devices and manufacturing technologies are intro
+duced, but quickly abstracted to higher-levels to focus the 
+class on design of larger digital modules for both FPGAs (fi
+eld programmable gate arrays) and ASICs (application specifi
+c integrated circuits)."
+EECS 151LA,1,"This lab lays the foundation of modern digital design by fir
+st presenting the scripting and hardware description languag
+e base for specification of digital systems and interactions
+ with tool flows. The labs are centered on a large design wi
+th the focus on rapid design space exploration. The lab exer
+cises culminate with a project design, e.g., implementation 
+of a three-stage RISC-V processor with a register file and c
+aches. The design is mapped"
+EECS 151LB,1,"This lab covers the design of modern digital systems with Fi
+eld-Programmable Gate Array (FPGA) platforms. A series of la
+b exercises provide the background and practice of digital d
+esign using a modern FPGA design tool flow. Digital synthesi
+s, partitioning, placement, routing, and simulation tools fo
+r FPGAs are covered in detail. The labs exercises culminate 
+with a large design project, e.g., an implementation of a fu
+ll three-stage RISC-V processor"
+COMPSCI C8,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019, Spring 2019, Summer 2018 8 Week Session, Spring 2018"
+COMPSCI C8R,1,Terms offered: Prior to 2007
+COMPSCI 9A,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+COMPSCI 9C,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9D,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+COMPSCI 9E,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9F,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9G,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9H,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 10,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI W10,1,Terms offered: Fall 2012
+COMPSCI 36,1,"Terms offered: Fall 2019, Fall 2018, Spring 2018"
+COMPSCI 39,1,"Terms offered: Spring 2019, Fall 2017, Spring 2017"
+COMPSCI 39J,1,"Terms offered: Fall 2010, Spring 2010, Fall 2009"
+COMPSCI 39K,1,"Terms offered: Spring 2013, Spring 2011, Spring 2010"
+COMPSCI 39M,1,Terms offered: Fall 2008
+COMPSCI 39N,1,"Terms offered: Fall 2010, Fall 2009"
+COMPSCI 39P,1,"Terms offered: Fall 2013, Spring 2013, Fall 2012"
+COMPSCI 39Q,1,Terms offered: Fall 2011
+COMPSCI 39R,1,"Terms offered: Spring 2016, Spring 2013"
+COMPSCI 47A,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 47B,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 47C,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 61A,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI 61B,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 61BL,1,"Terms offered: Summer 2020 8 Week Session, Summer 2019 8 Wee
+k Session, Summer 2018 8 Week Session"
+COMPSCI 61C,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI 61CL,1,"Terms offered: Fall 2009, Spring 2009, Fall 2008"
+COMPSCI W61A,1,Terms offered: Summer 2019 8 Week Session
+COMPSCI W61B,1,Terms offered: Not yet offered
+COMPSCI 70,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI C79,1,Terms offered: Spring 2013
+COMPSCI 88,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 94,1,Terms offered: Fall 2015
+COMPSCI 97,1,"Terms offered: Fall 2015, Spring 2015, Fall 2014"
+COMPSCI 98,1,"Terms offered: Fall 2018, Fall 2016, Fall 2015"
+COMPSCI 99,1,"Terms offered: Fall 2015, Fall 2014, Spring 2014"
+COMPSCI C100,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019, Spring 2019"
+COMPSCI 146L,1,Terms offered: Spring 2015
+COMPSCI 152,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+COMPSCI 160,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 161,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 162,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 164,1,"Terms offered: Fall 2019, Spring 2019, Fall 2018"
+COMPSCI 168,1,"Terms offered: Spring 2020, Fall 2018, Fall 2017"
+COMPSCI 169,1,"Terms offered: Fall 2019, Spring 2019, Fall 2017"
+COMPSCI 169A,1,Terms offered: Not yet offered
+COMPSCI 169L,1,Terms offered: Not yet offered
+COMPSCI 170,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 171,1,Terms offered: Not yet offered
+COMPSCI 172,1,"Terms offered: Spring 2019, Spring 2016, Fall 2015"
+COMPSCI 174,1,"Terms offered: Fall 2019, Spring 2019, Spring 2018"
+COMPSCI 176,1,"Terms offered: Fall 2018, Fall 2017, Fall 2016"
+COMPSCI 182,1,Terms offered: Spring 2019
+COMPSCI L182,1,Terms offered: Spring 2020
+COMPSCI W182,1,Terms offered: Spring 2020
+COMPSCI 184,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+COMPSCI 186,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+COMPSCI W186,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 188,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 189,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI C191,1,"Terms offered: Spring 2020, Spring 2019, Spring 2017"
+COMPSCI 194,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 195,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI H195,1,"Terms offered: Spring 2014, Fall 2013, Spring 2013"
+COMPSCI H196A,1,"Terms offered: Fall 2016, Fall 2010, Spring 2010"
+COMPSCI H196B,1,"Terms offered: Spring 2010, Spring 2009, Fall 2008"
+COMPSCI 197,1,"Terms offered: Spring 2019, Fall 2018, Fall 2016"
+COMPSCI 198,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 199,1,"Terms offered: Fall 2018, Fall 2016, Fall 2015"
+EL ENG 24,1,"Terms offered: Fall 2017, Spring 2017, Spring 2016"
+EL ENG 25,1,Terms offered: Fall 2011
+EL ENG 39,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 42,1,"Terms offered: Fall 2013, Summer 2013 8 Week Session, Spring
+ 2013"
+EL ENG 49,1,"Terms offered: Spring 2020, Spring 2019, Fall 2018"
+EL ENG 84,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 97,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 98,1,"Terms offered: Fall 2016, Spring 2016, Fall 2015"
+EL ENG 99,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 105,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG C106A,1,"Terms offered: Fall 2017, Fall 2016, Fall 2015"
+EL ENG C106B,1,"Terms offered: Spring 2017, Spring 2016"
+EL ENG 113,1,"Terms offered: Fall 2019, Spring 2019, Spring 2018"
+EL ENG 117,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 118,1,"Terms offered: Fall 2019, Spring 2019, Fall 2017"
+EL ENG 120,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 121,1,"Terms offered: Spring 2016, Fall 2014, Fall 2013"
+EL ENG 122,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 123,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 126,1,"Terms offered: Spring 2017, Fall 2016, Spring 2016"
+EL ENG C128,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 130,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 134,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 137A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 137B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 140,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 142,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 143,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 144,1,"Terms offered: Fall 2015, Fall 2014, Fall 2013"
+EL ENG C145B,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG C145L,1,"Terms offered: Fall 2014, Fall 2013, Fall 2012"
+EL ENG C145M,1,"Terms offered: Spring 2013, Spring 2012, Spring 2011"
+EL ENG C145O,1,"Terms offered: Spring 2015, Spring 2014, Spring 2013, Spring
+ 2012"
+EL ENG 146L,1,Terms offered: Spring 2015
+EL ENG 147,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 192,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 194,1,"Terms offered: Spring 2020, Fall 2018, Spring 2018"
+EL ENG H196A,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG H196B,1,"Terms offered: Spring 2016, Spring 2015, Spring 2014"
+EL ENG 197,1,"Terms offered: Spring 2018, Spring 2016, Fall 2015"
+EL ENG 198,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+EL ENG 199,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+EECS 16A,1,"This course and its follow-on course EECS16B focus on the fu
+ndamentals of designing modern information devices and syste
+ms that interface with the real world. Together, this course
+ sequence provides a comprehensive foundation for core EECS 
+topics in signal processing, learning, control, and circuit 
+design while introducing key linear-algebraic concepts motiv
+ated by application contexts. Modeling is emphasized in a wa
+y that deepens mathematical"
+EECS 16B,1,This course is a follow-on to 
+EECS 47D,1,"This course allows students who have had a linear algebra an
+d/or basic circuit theory course to complete the work in EE1
+6A and be ready for EE16B or EE47E. The course focuses on th
+e fundamentals of designing modern information devices and s
+ystems that interface with the real world and provides a com
+prehensive foundation for core EECS topics in signal process
+ing, learning, control, and circuit design. Modeling is emph
+asized in a way that deepens mathematical maturity"
+EECS 47E,1,"This course allows students who have had a linear algebra an
+d/or basic circuit theory course to complete the work in EE1
+6B. The course focuses on the fundamentals of designing mode
+rn information devices and systems that interface with the r
+eal world and provides a comprehensive foundation for core E
+ECS topics in signal processing (DFT), learning (SVD/PCA), f
+eedback control, and circuit design. Modeling is emphasized 
+in a way that deepens mathematical maturity"
+EECS 47F,1,"This course allows students who have had a discrete math and
+/or probability course to complete the work in CS70. Logic, 
+infinity, and induction; applications include undecidability
+ and stable marriage problem. Modular arithmetic and GCDs; a
+pplications include primality testing and cryptography. Poly
+nomials; examples include error correcting codes and interpo
+lation. Probability including sample spaces, independence, r
+andom variables, law of large numbers; examples"
+EECS C106A,1,"An introduction to the kinematics, dynamics, and control of 
+robot manipulators, robotic vision, and sensing. The course 
+covers forward and inverse kinematics of serial chain manipu
+lators, the manipulator Jacobian, force relations, dynamics,
+ and control. It presents elementary principles on proximity
+, tactile, and force sensing, vision sensors, camera calibra
+tion, stereo construction, and motion detection. The course 
+concludes with current applications"
+EECS C106B,1,This course is a sequel to 
+EECS 126,1,"This course covers the fundamentals of probability and rando
+m processes useful in fields such as networks, communication
+, signal processing, and control. Sample space, events, prob
+ability law. Conditional probability. Independence. Random v
+ariables. Distribution, density functions. Random vectors. L
+aw of large numbers. Central limit theorem. Estimation and d
+etection. Markov chains."
+EECS 127,1,"This course offers an introduction to optimization models an
+d their applications, ranging from machine learning and stat
+istics to decision-making and control, with emphasis on nume
+rically tractable problems, such as linear or constrained le
+ast-squares optimization."
+EECS 149,1,"This course introduces students to the basics of modeling, a
+nalysis, and design of embedded, cyber-physical systems. Stu
+dents learn how to integrate computation with physical proce
+sses to meet a desired specification. Topics include models 
+of computation, control, analysis and verification, interfac
+ing with the physical world, real-time behaviors, mapping to
+ platforms, and distributed embedded systems. The course has
+ a strong laboratory component"
+EECS 151,1,"An introduction to digital and system design. The material p
+rovides a top-down view of the principles, components, and m
+ethodologies for large scale digital system design. The unde
+rlying CMOS devices and manufacturing technologies are intro
+duced, but quickly abstracted to higher-levels to focus the 
+class on design of larger digital modules for both FPGAs (fi
+eld programmable gate arrays) and ASICs (application specifi
+c integrated circuits)."
+EECS 151LA,1,"This lab lays the foundation of modern digital design by fir
+st presenting the scripting and hardware description languag
+e base for specification of digital systems and interactions
+ with tool flows. The labs are centered on a large design wi
+th the focus on rapid design space exploration. The lab exer
+cises culminate with a project design, e.g., implementation 
+of a three-stage RISC-V processor with a register file and c
+aches. The design is mapped"
+EECS 151LB,1,"This lab covers the design of modern digital systems with Fi
+eld-Programmable Gate Array (FPGA) platforms. A series of la
+b exercises provide the background and practice of digital d
+esign using a modern FPGA design tool flow. Digital synthesi
+s, partitioning, placement, routing, and simulation tools fo
+r FPGAs are covered in detail. The labs exercises culminate 
+with a large design project, e.g., an implementation of a fu
+ll three-stage RISC-V processor"
+COMPSCI C8,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019, Spring 2019, Summer 2018 8 Week Session, Spring 2018"
+COMPSCI C8R,1,Terms offered: Prior to 2007
+COMPSCI 9A,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+COMPSCI 9C,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9D,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+COMPSCI 9E,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9F,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9G,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9H,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 10,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI W10,1,Terms offered: Fall 2012
+COMPSCI 36,1,"Terms offered: Fall 2019, Fall 2018, Spring 2018"
+COMPSCI 39,1,"Terms offered: Spring 2019, Fall 2017, Spring 2017"
+COMPSCI 39J,1,"Terms offered: Fall 2010, Spring 2010, Fall 2009"
+COMPSCI 39K,1,"Terms offered: Spring 2013, Spring 2011, Spring 2010"
+COMPSCI 39M,1,Terms offered: Fall 2008
+COMPSCI 39N,1,"Terms offered: Fall 2010, Fall 2009"
+COMPSCI 39P,1,"Terms offered: Fall 2013, Spring 2013, Fall 2012"
+COMPSCI 39Q,1,Terms offered: Fall 2011
+COMPSCI 39R,1,"Terms offered: Spring 2016, Spring 2013"
+COMPSCI 47A,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 47B,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 47C,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 61A,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI 61B,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 61BL,1,"Terms offered: Summer 2020 8 Week Session, Summer 2019 8 Wee
+k Session, Summer 2018 8 Week Session"
+COMPSCI 61C,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI 61CL,1,"Terms offered: Fall 2009, Spring 2009, Fall 2008"
+COMPSCI W61A,1,Terms offered: Summer 2019 8 Week Session
+COMPSCI W61B,1,Terms offered: Not yet offered
+COMPSCI 70,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI C79,1,Terms offered: Spring 2013
+COMPSCI 88,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 94,1,Terms offered: Fall 2015
+COMPSCI 97,1,"Terms offered: Fall 2015, Spring 2015, Fall 2014"
+COMPSCI 98,1,"Terms offered: Fall 2018, Fall 2016, Fall 2015"
+COMPSCI 99,1,"Terms offered: Fall 2015, Fall 2014, Spring 2014"
+COMPSCI C100,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019, Spring 2019"
+COMPSCI 146L,1,Terms offered: Spring 2015
+COMPSCI 152,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+COMPSCI 160,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 161,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 162,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 164,1,"Terms offered: Fall 2019, Spring 2019, Fall 2018"
+COMPSCI 168,1,"Terms offered: Spring 2020, Fall 2018, Fall 2017"
+COMPSCI 169,1,"Terms offered: Fall 2019, Spring 2019, Fall 2017"
+COMPSCI 169A,1,Terms offered: Not yet offered
+COMPSCI 169L,1,Terms offered: Not yet offered
+COMPSCI 170,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 171,1,Terms offered: Not yet offered
+COMPSCI 172,1,"Terms offered: Spring 2019, Spring 2016, Fall 2015"
+COMPSCI 174,1,"Terms offered: Fall 2019, Spring 2019, Spring 2018"
+COMPSCI 176,1,"Terms offered: Fall 2018, Fall 2017, Fall 2016"
+COMPSCI 182,1,Terms offered: Spring 2019
+COMPSCI L182,1,Terms offered: Spring 2020
+COMPSCI W182,1,Terms offered: Spring 2020
+COMPSCI 184,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+COMPSCI 186,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+COMPSCI W186,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 188,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 189,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI C191,1,"Terms offered: Spring 2020, Spring 2019, Spring 2017"
+COMPSCI 194,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 195,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI H195,1,"Terms offered: Spring 2014, Fall 2013, Spring 2013"
+COMPSCI H196A,1,"Terms offered: Fall 2016, Fall 2010, Spring 2010"
+COMPSCI H196B,1,"Terms offered: Spring 2010, Spring 2009, Fall 2008"
+COMPSCI 197,1,"Terms offered: Spring 2019, Fall 2018, Fall 2016"
+COMPSCI 198,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 199,1,"Terms offered: Fall 2018, Fall 2016, Fall 2015"
+EL ENG 24,1,"Terms offered: Fall 2017, Spring 2017, Spring 2016"
+EL ENG 25,1,Terms offered: Fall 2011
+EL ENG 39,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 42,1,"Terms offered: Fall 2013, Summer 2013 8 Week Session, Spring
+ 2013"
+EL ENG 49,1,"Terms offered: Spring 2020, Spring 2019, Fall 2018"
+EL ENG 84,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 97,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 98,1,"Terms offered: Fall 2016, Spring 2016, Fall 2015"
+EL ENG 99,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 105,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG C106A,1,"Terms offered: Fall 2017, Fall 2016, Fall 2015"
+EL ENG C106B,1,"Terms offered: Spring 2017, Spring 2016"
+EL ENG 113,1,"Terms offered: Fall 2019, Spring 2019, Spring 2018"
+EL ENG 117,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 118,1,"Terms offered: Fall 2019, Spring 2019, Fall 2017"
+EL ENG 120,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 121,1,"Terms offered: Spring 2016, Fall 2014, Fall 2013"
+EL ENG 122,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 123,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 126,1,"Terms offered: Spring 2017, Fall 2016, Spring 2016"
+EL ENG C128,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 130,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 134,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 137A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 137B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 140,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 142,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 143,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 144,1,"Terms offered: Fall 2015, Fall 2014, Fall 2013"
+EL ENG C145B,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG C145L,1,"Terms offered: Fall 2014, Fall 2013, Fall 2012"
+EL ENG C145M,1,"Terms offered: Spring 2013, Spring 2012, Spring 2011"
+EL ENG C145O,1,"Terms offered: Spring 2015, Spring 2014, Spring 2013, Spring
+ 2012"
+EL ENG 146L,1,Terms offered: Spring 2015
+EL ENG 147,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 192,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 194,1,"Terms offered: Spring 2020, Fall 2018, Spring 2018"
+EL ENG H196A,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG H196B,1,"Terms offered: Spring 2016, Spring 2015, Spring 2014"
+EL ENG 197,1,"Terms offered: Spring 2018, Spring 2016, Fall 2015"
+EL ENG 198,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+EL ENG 199,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+EECS 16A,1,"This course and its follow-on course EECS16B focus on the fu
+ndamentals of designing modern information devices and syste
+ms that interface with the real world. Together, this course
+ sequence provides a comprehensive foundation for core EECS 
+topics in signal processing, learning, control, and circuit 
+design while introducing key linear-algebraic concepts motiv
+ated by application contexts. Modeling is emphasized in a wa
+y that deepens mathematical"
+EECS 16B,1,This course is a follow-on to 
+EECS 47D,1,"This course allows students who have had a linear algebra an
+d/or basic circuit theory course to complete the work in EE1
+6A and be ready for EE16B or EE47E. The course focuses on th
+e fundamentals of designing modern information devices and s
+ystems that interface with the real world and provides a com
+prehensive foundation for core EECS topics in signal process
+ing, learning, control, and circuit design. Modeling is emph
+asized in a way that deepens mathematical maturity"
+EECS 47E,1,"This course allows students who have had a linear algebra an
+d/or basic circuit theory course to complete the work in EE1
+6B. The course focuses on the fundamentals of designing mode
+rn information devices and systems that interface with the r
+eal world and provides a comprehensive foundation for core E
+ECS topics in signal processing (DFT), learning (SVD/PCA), f
+eedback control, and circuit design. Modeling is emphasized 
+in a way that deepens mathematical maturity"
+EECS 47F,1,"This course allows students who have had a discrete math and
+/or probability course to complete the work in CS70. Logic, 
+infinity, and induction; applications include undecidability
+ and stable marriage problem. Modular arithmetic and GCDs; a
+pplications include primality testing and cryptography. Poly
+nomials; examples include error correcting codes and interpo
+lation. Probability including sample spaces, independence, r
+andom variables, law of large numbers; examples"
+EECS C106A,1,"An introduction to the kinematics, dynamics, and control of 
+robot manipulators, robotic vision, and sensing. The course 
+covers forward and inverse kinematics of serial chain manipu
+lators, the manipulator Jacobian, force relations, dynamics,
+ and control. It presents elementary principles on proximity
+, tactile, and force sensing, vision sensors, camera calibra
+tion, stereo construction, and motion detection. The course 
+concludes with current applications"
+EECS C106B,1,This course is a sequel to 
+EECS 126,1,"This course covers the fundamentals of probability and rando
+m processes useful in fields such as networks, communication
+, signal processing, and control. Sample space, events, prob
+ability law. Conditional probability. Independence. Random v
+ariables. Distribution, density functions. Random vectors. L
+aw of large numbers. Central limit theorem. Estimation and d
+etection. Markov chains."
+EECS 127,1,"This course offers an introduction to optimization models an
+d their applications, ranging from machine learning and stat
+istics to decision-making and control, with emphasis on nume
+rically tractable problems, such as linear or constrained le
+ast-squares optimization."
+EECS 149,1,"This course introduces students to the basics of modeling, a
+nalysis, and design of embedded, cyber-physical systems. Stu
+dents learn how to integrate computation with physical proce
+sses to meet a desired specification. Topics include models 
+of computation, control, analysis and verification, interfac
+ing with the physical world, real-time behaviors, mapping to
+ platforms, and distributed embedded systems. The course has
+ a strong laboratory component"
+EECS 151,1,"An introduction to digital and system design. The material p
+rovides a top-down view of the principles, components, and m
+ethodologies for large scale digital system design. The unde
+rlying CMOS devices and manufacturing technologies are intro
+duced, but quickly abstracted to higher-levels to focus the 
+class on design of larger digital modules for both FPGAs (fi
+eld programmable gate arrays) and ASICs (application specifi
+c integrated circuits)."
+EECS 151LA,1,"This lab lays the foundation of modern digital design by fir
+st presenting the scripting and hardware description languag
+e base for specification of digital systems and interactions
+ with tool flows. The labs are centered on a large design wi
+th the focus on rapid design space exploration. The lab exer
+cises culminate with a project design, e.g., implementation 
+of a three-stage RISC-V processor with a register file and c
+aches. The design is mapped"
+EECS 151LB,1,"This lab covers the design of modern digital systems with Fi
+eld-Programmable Gate Array (FPGA) platforms. A series of la
+b exercises provide the background and practice of digital d
+esign using a modern FPGA design tool flow. Digital synthesi
+s, partitioning, placement, routing, and simulation tools fo
+r FPGAs are covered in detail. The labs exercises culminate 
+with a large design project, e.g., an implementation of a fu
+ll three-stage RISC-V processor"
+COMPSCI C8,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019, Spring 2019, Summer 2018 8 Week Session, Spring 2018"
+COMPSCI C8R,1,Terms offered: Prior to 2007
+COMPSCI 9A,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+COMPSCI 9C,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9D,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+COMPSCI 9E,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9F,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9G,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9H,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 10,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI W10,1,Terms offered: Fall 2012
+COMPSCI 36,1,"Terms offered: Fall 2019, Fall 2018, Spring 2018"
+COMPSCI 39,1,"Terms offered: Spring 2019, Fall 2017, Spring 2017"
+COMPSCI 39J,1,"Terms offered: Fall 2010, Spring 2010, Fall 2009"
+COMPSCI 39K,1,"Terms offered: Spring 2013, Spring 2011, Spring 2010"
+COMPSCI 39M,1,Terms offered: Fall 2008
+COMPSCI 39N,1,"Terms offered: Fall 2010, Fall 2009"
+COMPSCI 39P,1,"Terms offered: Fall 2013, Spring 2013, Fall 2012"
+COMPSCI 39Q,1,Terms offered: Fall 2011
+COMPSCI 39R,1,"Terms offered: Spring 2016, Spring 2013"
+COMPSCI 47A,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 47B,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 47C,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 61A,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI 61B,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 61BL,1,"Terms offered: Summer 2020 8 Week Session, Summer 2019 8 Wee
+k Session, Summer 2018 8 Week Session"
+COMPSCI 61C,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI 61CL,1,"Terms offered: Fall 2009, Spring 2009, Fall 2008"
+COMPSCI W61A,1,Terms offered: Summer 2019 8 Week Session
+COMPSCI W61B,1,Terms offered: Not yet offered
+COMPSCI 70,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI C79,1,Terms offered: Spring 2013
+COMPSCI 88,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 94,1,Terms offered: Fall 2015
+COMPSCI 97,1,"Terms offered: Fall 2015, Spring 2015, Fall 2014"
+COMPSCI 98,1,"Terms offered: Fall 2018, Fall 2016, Fall 2015"
+COMPSCI 99,1,"Terms offered: Fall 2015, Fall 2014, Spring 2014"
+COMPSCI C100,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019, Spring 2019"
+COMPSCI 146L,1,Terms offered: Spring 2015
+COMPSCI 152,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+COMPSCI 160,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 161,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 162,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 164,1,"Terms offered: Fall 2019, Spring 2019, Fall 2018"
+COMPSCI 168,1,"Terms offered: Spring 2020, Fall 2018, Fall 2017"
+COMPSCI 169,1,"Terms offered: Fall 2019, Spring 2019, Fall 2017"
+COMPSCI 169A,1,Terms offered: Not yet offered
+COMPSCI 169L,1,Terms offered: Not yet offered
+COMPSCI 170,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 171,1,Terms offered: Not yet offered
+COMPSCI 172,1,"Terms offered: Spring 2019, Spring 2016, Fall 2015"
+COMPSCI 174,1,"Terms offered: Fall 2019, Spring 2019, Spring 2018"
+COMPSCI 176,1,"Terms offered: Fall 2018, Fall 2017, Fall 2016"
+COMPSCI 182,1,Terms offered: Spring 2019
+COMPSCI L182,1,Terms offered: Spring 2020
+COMPSCI W182,1,Terms offered: Spring 2020
+COMPSCI 184,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+COMPSCI 186,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+COMPSCI W186,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 188,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 189,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI C191,1,"Terms offered: Spring 2020, Spring 2019, Spring 2017"
+COMPSCI 194,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 195,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI H195,1,"Terms offered: Spring 2014, Fall 2013, Spring 2013"
+COMPSCI H196A,1,"Terms offered: Fall 2016, Fall 2010, Spring 2010"
+COMPSCI H196B,1,"Terms offered: Spring 2010, Spring 2009, Fall 2008"
+COMPSCI 197,1,"Terms offered: Spring 2019, Fall 2018, Fall 2016"
+COMPSCI 198,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 199,1,"Terms offered: Fall 2018, Fall 2016, Fall 2015"
+EL ENG 24,1,"Terms offered: Fall 2017, Spring 2017, Spring 2016"
+EL ENG 25,1,Terms offered: Fall 2011
+EL ENG 39,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 42,1,"Terms offered: Fall 2013, Summer 2013 8 Week Session, Spring
+ 2013"
+EL ENG 49,1,"Terms offered: Spring 2020, Spring 2019, Fall 2018"
+EL ENG 84,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 97,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 98,1,"Terms offered: Fall 2016, Spring 2016, Fall 2015"
+EL ENG 99,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 105,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG C106A,1,"Terms offered: Fall 2017, Fall 2016, Fall 2015"
+EL ENG C106B,1,"Terms offered: Spring 2017, Spring 2016"
+EL ENG 113,1,"Terms offered: Fall 2019, Spring 2019, Spring 2018"
+EL ENG 117,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 118,1,"Terms offered: Fall 2019, Spring 2019, Fall 2017"
+EL ENG 120,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 121,1,"Terms offered: Spring 2016, Fall 2014, Fall 2013"
+EL ENG 122,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 123,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 126,1,"Terms offered: Spring 2017, Fall 2016, Spring 2016"
+EL ENG C128,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 130,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 134,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 137A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 137B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 140,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 142,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 143,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 144,1,"Terms offered: Fall 2015, Fall 2014, Fall 2013"
+EL ENG C145B,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG C145L,1,"Terms offered: Fall 2014, Fall 2013, Fall 2012"
+EL ENG C145M,1,"Terms offered: Spring 2013, Spring 2012, Spring 2011"
+EL ENG C145O,1,"Terms offered: Spring 2015, Spring 2014, Spring 2013, Spring
+ 2012"
+EL ENG 146L,1,Terms offered: Spring 2015
+EL ENG 147,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 192,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 194,1,"Terms offered: Spring 2020, Fall 2018, Spring 2018"
+EL ENG H196A,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG H196B,1,"Terms offered: Spring 2016, Spring 2015, Spring 2014"
+EL ENG 197,1,"Terms offered: Spring 2018, Spring 2016, Fall 2015"
+EL ENG 198,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+EL ENG 199,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+EECS 16A,1,"This course and its follow-on course EECS16B focus on the fu
+ndamentals of designing modern information devices and syste
+ms that interface with the real world. Together, this course
+ sequence provides a comprehensive foundation for core EECS 
+topics in signal processing, learning, control, and circuit 
+design while introducing key linear-algebraic concepts motiv
+ated by application contexts. Modeling is emphasized in a wa
+y that deepens mathematical"
+EECS 16B,1,This course is a follow-on to 
+EECS 47D,1,"This course allows students who have had a linear algebra an
+d/or basic circuit theory course to complete the work in EE1
+6A and be ready for EE16B or EE47E. The course focuses on th
+e fundamentals of designing modern information devices and s
+ystems that interface with the real world and provides a com
+prehensive foundation for core EECS topics in signal process
+ing, learning, control, and circuit design. Modeling is emph
+asized in a way that deepens mathematical maturity"
+EECS 47E,1,"This course allows students who have had a linear algebra an
+d/or basic circuit theory course to complete the work in EE1
+6B. The course focuses on the fundamentals of designing mode
+rn information devices and systems that interface with the r
+eal world and provides a comprehensive foundation for core E
+ECS topics in signal processing (DFT), learning (SVD/PCA), f
+eedback control, and circuit design. Modeling is emphasized 
+in a way that deepens mathematical maturity"
+EECS 47F,1,"This course allows students who have had a discrete math and
+/or probability course to complete the work in CS70. Logic, 
+infinity, and induction; applications include undecidability
+ and stable marriage problem. Modular arithmetic and GCDs; a
+pplications include primality testing and cryptography. Poly
+nomials; examples include error correcting codes and interpo
+lation. Probability including sample spaces, independence, r
+andom variables, law of large numbers; examples"
+EECS C106A,1,"An introduction to the kinematics, dynamics, and control of 
+robot manipulators, robotic vision, and sensing. The course 
+covers forward and inverse kinematics of serial chain manipu
+lators, the manipulator Jacobian, force relations, dynamics,
+ and control. It presents elementary principles on proximity
+, tactile, and force sensing, vision sensors, camera calibra
+tion, stereo construction, and motion detection. The course 
+concludes with current applications"
+EECS C106B,1,This course is a sequel to 
+EECS 126,1,"This course covers the fundamentals of probability and rando
+m processes useful in fields such as networks, communication
+, signal processing, and control. Sample space, events, prob
+ability law. Conditional probability. Independence. Random v
+ariables. Distribution, density functions. Random vectors. L
+aw of large numbers. Central limit theorem. Estimation and d
+etection. Markov chains."
+EECS 127,1,"This course offers an introduction to optimization models an
+d their applications, ranging from machine learning and stat
+istics to decision-making and control, with emphasis on nume
+rically tractable problems, such as linear or constrained le
+ast-squares optimization."
+EECS 149,1,"This course introduces students to the basics of modeling, a
+nalysis, and design of embedded, cyber-physical systems. Stu
+dents learn how to integrate computation with physical proce
+sses to meet a desired specification. Topics include models 
+of computation, control, analysis and verification, interfac
+ing with the physical world, real-time behaviors, mapping to
+ platforms, and distributed embedded systems. The course has
+ a strong laboratory component"
+EECS 151,1,"An introduction to digital and system design. The material p
+rovides a top-down view of the principles, components, and m
+ethodologies for large scale digital system design. The unde
+rlying CMOS devices and manufacturing technologies are intro
+duced, but quickly abstracted to higher-levels to focus the 
+class on design of larger digital modules for both FPGAs (fi
+eld programmable gate arrays) and ASICs (application specifi
+c integrated circuits)."
+EECS 151LA,1,"This lab lays the foundation of modern digital design by fir
+st presenting the scripting and hardware description languag
+e base for specification of digital systems and interactions
+ with tool flows. The labs are centered on a large design wi
+th the focus on rapid design space exploration. The lab exer
+cises culminate with a project design, e.g., implementation 
+of a three-stage RISC-V processor with a register file and c
+aches. The design is mapped"
+EECS 151LB,1,"This lab covers the design of modern digital systems with Fi
+eld-Programmable Gate Array (FPGA) platforms. A series of la
+b exercises provide the background and practice of digital d
+esign using a modern FPGA design tool flow. Digital synthesi
+s, partitioning, placement, routing, and simulation tools fo
+r FPGAs are covered in detail. The labs exercises culminate 
+with a large design project, e.g., an implementation of a fu
+ll three-stage RISC-V processor"
+COMPSCI C8,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019, Spring 2019, Summer 2018 8 Week Session, Spring 2018"
+COMPSCI C8R,1,Terms offered: Prior to 2007
+COMPSCI 9A,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+COMPSCI 9C,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9D,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+COMPSCI 9E,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9F,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9G,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 9H,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+COMPSCI 10,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI W10,1,Terms offered: Fall 2012
+COMPSCI 36,1,"Terms offered: Fall 2019, Fall 2018, Spring 2018"
+COMPSCI 39,1,"Terms offered: Spring 2019, Fall 2017, Spring 2017"
+COMPSCI 39J,1,"Terms offered: Fall 2010, Spring 2010, Fall 2009"
+COMPSCI 39K,1,"Terms offered: Spring 2013, Spring 2011, Spring 2010"
+COMPSCI 39M,1,Terms offered: Fall 2008
+COMPSCI 39N,1,"Terms offered: Fall 2010, Fall 2009"
+COMPSCI 39P,1,"Terms offered: Fall 2013, Spring 2013, Fall 2012"
+COMPSCI 39Q,1,Terms offered: Fall 2011
+COMPSCI 39R,1,"Terms offered: Spring 2016, Spring 2013"
+COMPSCI 47A,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 47B,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 47C,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 61A,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI 61B,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 61BL,1,"Terms offered: Summer 2020 8 Week Session, Summer 2019 8 Wee
+k Session, Summer 2018 8 Week Session"
+COMPSCI 61C,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI 61CL,1,"Terms offered: Fall 2009, Spring 2009, Fall 2008"
+COMPSCI W61A,1,Terms offered: Summer 2019 8 Week Session
+COMPSCI W61B,1,Terms offered: Not yet offered
+COMPSCI 70,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019"
+COMPSCI C79,1,Terms offered: Spring 2013
+COMPSCI 88,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 94,1,Terms offered: Fall 2015
+COMPSCI 97,1,"Terms offered: Fall 2015, Spring 2015, Fall 2014"
+COMPSCI 98,1,"Terms offered: Fall 2018, Fall 2016, Fall 2015"
+COMPSCI 99,1,"Terms offered: Fall 2015, Fall 2014, Spring 2014"
+COMPSCI C100,1,"Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall
+ 2019, Spring 2019"
+COMPSCI 146L,1,Terms offered: Spring 2015
+COMPSCI 152,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+COMPSCI 160,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 161,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 162,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 164,1,"Terms offered: Fall 2019, Spring 2019, Fall 2018"
+COMPSCI 168,1,"Terms offered: Spring 2020, Fall 2018, Fall 2017"
+COMPSCI 169,1,"Terms offered: Fall 2019, Spring 2019, Fall 2017"
+COMPSCI 169A,1,Terms offered: Not yet offered
+COMPSCI 169L,1,Terms offered: Not yet offered
+COMPSCI 170,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 171,1,Terms offered: Not yet offered
+COMPSCI 172,1,"Terms offered: Spring 2019, Spring 2016, Fall 2015"
+COMPSCI 174,1,"Terms offered: Fall 2019, Spring 2019, Spring 2018"
+COMPSCI 176,1,"Terms offered: Fall 2018, Fall 2017, Fall 2016"
+COMPSCI 182,1,Terms offered: Spring 2019
+COMPSCI L182,1,Terms offered: Spring 2020
+COMPSCI W182,1,Terms offered: Spring 2020
+COMPSCI 184,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+COMPSCI 186,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+COMPSCI W186,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 188,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI 189,1,"Terms offered: Spring 2020, Fall 2019, Summer 2019 8 Week Se
+ssion"
+COMPSCI C191,1,"Terms offered: Spring 2020, Spring 2019, Spring 2017"
+COMPSCI 194,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 195,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI H195,1,"Terms offered: Spring 2014, Fall 2013, Spring 2013"
+COMPSCI H196A,1,"Terms offered: Fall 2016, Fall 2010, Spring 2010"
+COMPSCI H196B,1,"Terms offered: Spring 2010, Spring 2009, Fall 2008"
+COMPSCI 197,1,"Terms offered: Spring 2019, Fall 2018, Fall 2016"
+COMPSCI 198,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+COMPSCI 199,1,"Terms offered: Fall 2018, Fall 2016, Fall 2015"
+EL ENG 24,1,"Terms offered: Fall 2017, Spring 2017, Spring 2016"
+EL ENG 25,1,Terms offered: Fall 2011
+EL ENG 39,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 42,1,"Terms offered: Fall 2013, Summer 2013 8 Week Session, Spring
+ 2013"
+EL ENG 49,1,"Terms offered: Spring 2020, Spring 2019, Fall 2018"
+EL ENG 84,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 97,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 98,1,"Terms offered: Fall 2016, Spring 2016, Fall 2015"
+EL ENG 99,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 105,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG C106A,1,"Terms offered: Fall 2017, Fall 2016, Fall 2015"
+EL ENG C106B,1,"Terms offered: Spring 2017, Spring 2016"
+EL ENG 113,1,"Terms offered: Fall 2019, Spring 2019, Spring 2018"
+EL ENG 117,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 118,1,"Terms offered: Fall 2019, Spring 2019, Fall 2017"
+EL ENG 120,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 121,1,"Terms offered: Spring 2016, Fall 2014, Fall 2013"
+EL ENG 122,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 123,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 126,1,"Terms offered: Spring 2017, Fall 2016, Spring 2016"
+EL ENG C128,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 130,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 134,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 137A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 137B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 140,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 142,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 143,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 144,1,"Terms offered: Fall 2015, Fall 2014, Fall 2013"
+EL ENG C145B,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG C145L,1,"Terms offered: Fall 2014, Fall 2013, Fall 2012"
+EL ENG C145M,1,"Terms offered: Spring 2013, Spring 2012, Spring 2011"
+EL ENG C145O,1,"Terms offered: Spring 2015, Spring 2014, Spring 2013, Spring
+ 2012"
 EL ENG 146L,1,Terms offered: Spring 2015
 EL ENG 147,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
 EL ENG 192,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"

@@ -1,31 +1,881 @@
 name,size,about
-ENGIN 1,1,"This course provides the framework for engineering an empowered life through leadership, discovery and service. The class focuses on development of self, emotional intelligence, strategic thinking, problem solving, teamwork, diversity, and service learning. Skills include developing of self-awareness; understanding our unique strengths; debunking the imposter syndrome; creating plans of action and setting goals; giving and receiving assessments; interpreting body"
-ENGIN 7,1,"Elements of procedural and object-oriented programming. Induction, iteration, and recursion. Real functions and floating-point computations for engineering analysis. Introduction to data structures. Representative examples are drawn from mathematics, science, and engineering. The course uses the MATLAB programming language. Sponsoring departments: Civil and Environmental Engineering and Mechanical Engineering."
-ENGIN W7,1,"Elements of procedural and object-oriented programming. Induction, iteration, and recursion. Real functions and floating-point computations for engineering analysis. Introduction to data structures. Representative examples are drawn from mathematics, science, and engineering. The course uses the MATLAB programming language."
-ENGIN 11,1,"Introduction to basic concepts in radiation detection and radioactivity, electrical circuits, and data analytics. Lectures provide the theoretical foundation of the work being performed in the accompanying laboratory. The course will contain three sections: introduction to how radiation interacts with matter and radiation detection technologies; development of the tools (mathematical and computational) needed for analyzing various types of radiation"
-ENGIN 24,1,"The Berkeley Seminar Program is designed to provide students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Berkeley Seminars are offered in all college departments, and topics vary from department to department and semester to semester."
-ENGIN 25,1,Development of 3-dimensional visualization skills for engineering design. Sketching as a tool for design communication. Presentation of 3-dimensional geometry with 2-dimensional engineering drawings. This course will introduce the use of 2-dimensional CAD on computer workstations as a major graphical analysis and design tool. A group design project is required. Teamwork and effective communication are emphasized.
-ENGIN 26,1,"Three-dimensional modeling for engineering design. This course will emphasize the use of CAD on computer workstations as a major graphical analysis and design tool. Students develop design skills, and practice applying these skills. A group design project is required. Hands-on creativity, teamwork, and effective communication are emphasized."
-ENGIN 27,1,"Geometric dimensioning and tolerancing (GD&T), tolerance analysis for fabrication, fundamentals of manufacturing processes (metal cutting, welding, joining, casting, molding, and layered manufacturing)."
-ENGIN 39B,1,"Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25."
-ENGIN 39E,1,"Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25."
-ENGIN 39F,1,"Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 25."
-ENGIN 40,1,Fundamental laws of thermodynamics for simple substances; application to flow processes and to nonreacting mixtures; statistical thermodynamics of ideal gases and crystalline solids; chemical and materials thermodynamics; multiphase and multicomponent equilibria in reacting systems; electrochemistry. Sponsoring Departments: Materials Science and Engineering and Nuclear Engineering.
-ENGIN 47,1,May be taken only with permission of the Dean of the College of Engineering. Students with partial credit in a lower division engineering course may complete the work under this heading.
-ENGIN 78,1,"This course introduces engineering students to elements of statistics and probability, followed by a module-based introduction to select computational techniques from data science and stochastic optimization. Each module is based on a contemporary engineering problem of broad interest. The computational techniques presented in the course are drawn from Bayesian optimization, supervised learning, neural networks, classification, and Kalman filtering."
-ENGIN 92,1,"This series of lectures provides students, especially undeclared Engineering students, with information on the various engineering disciplines to guide them toward choice of major. Lecturers describe research activities, how they made their own career choices, and indicate future opportunities. Recommended for all Engineering Science students and required for Engineering undeclared students."
-ENGIN 93,1,Weekly seminar with different speakers on energy-related topics. The goal is to expose students to a broad range of energy issues.
-ENGIN 98,1,"Seminars for group study of selected topics, which will vary from year to year. Intended for students in the lower division."
-ENGIN 117,1,Methods of theoretical engineering analysis; techniques for analyzing partial differential equations and the use of special functions related to engineering systems. Sponsoring Department: Mechanical Engineering.
-ENGIN 120,1,"Economic analysis for engineering decision making: Capital flows, effect of time and interest rate. Different methods of evaluation of alternatives. Minimum-cost life and replacement analysis. Depreciation and taxes. Uncertainty; preference under risk; decision analysis. Capital sources and their effects. Economic studies."
-ENGIN 125,1,"How should engineers analyze and resolve the ethical issues inherent in engineering? This seminar-style course provides an introduction to how theories, concepts, and methods from the humanities and social science can be applied to ethical problems in engineering. Assignments incorporate group and independent research designed to provide students an opportunity to contribute novel findings to the emerging field of engineering ethics while building"
-ENGIN 128,1,Advanced graphics tools for engineering design. Parametric solid modeling. Assembly modeling. Presentation using computer animation and multimedia techniques.
-ENGIN 147,1,May be taken only with permission of the Dean of the College of Engineering. Students with partial credit in an upper division engineering course may complete the work under this heading.
-ENGIN 150,1,"The course emphasizes elementary modeling, numerical methods & their implementation on physical problems motivated by phenomena that students are likely to encounter in their careers, involving biomechanics, heat-transfer, structural analysis, control theory, fluid-flow, electrical conduction, diffusion, etc. This will help students develop intuition about the strengths and weaknesses of a variety of modeling & numerical methods, as well"
-ENGIN 157AC,1,"This course engages students at the intersection of environmental justice, social justice, and engineering to explore how problems that are commonly defined in technical terms are at their roots deeply socially embedded. Through partnerships with community-based organizations, students are trained to recognize the socio-political nature of technical problems so that they may approach solutions in ways that prioritize social justice. Topics"
-ENGIN 177,1,"The course builds an understanding, demonstrates engineering uses, and provides hand-on experience for object-oriented programming as well as exposes a practical knowledge of advanced features available in MATLAB. The course will begin with a brief review of basic MATLAB features and quickly move to class organization and functionality. The introduced concepts are reinforced by examining the advanced graphical features of MATLAB. The material"
-ENGIN 180,1,The course is concerned with giving students the tools to prepare for the fields and jobs of the future.
-ENGIN 185,1,"This course provides engineering majors with the fundamental skills for effective technical communication. During the course of the semester, students will develop communications for public dissemination, covering a project or initiative within UC Berkeley’s College of Engineering. This work will call on students to: (a) cultivate interest in a broad range of topics related to Engineering; (b) become an engaged and critical reader of academic"
-ENGIN 187,1,"The course examines the challenges of innovation beyond new technology development: from the challenges of global expansion, to the issues of unintended consequences of technology and the ability of technology to support or hinder social justice. The course will provide examples in a variety of global locations (e.g., Latin America, Southeast Asia, Africa, China, and India), utilizing case examples (written and presented by speakers) that illustrate the challenges faced"
-ENGIN 194,1,Students who have completed a satisfactory number of advanced courses may pursue original research under the direction of one of the members of the staff. Final report and presentation required.
+ENGIN 1,1,"This course provides the framework for engineering an empowe
+red life through leadership, discovery and service. The clas
+s focuses on development of self, emotional intelligence, st
+rategic thinking, problem solving, teamwork, diversity, and 
+service learning. Skills include developing of self-awarenes
+s; understanding our unique strengths; debunking the imposte
+r syndrome; creating plans of action and setting goals; givi
+ng and receiving assessments; interpreting body"
+ENGIN 7,1,"Elements of procedural and object-oriented programming. Indu
+ction, iteration, and recursion. Real functions and floating
+-point computations for engineering analysis. Introduction t
+o data structures. Representative examples are drawn from ma
+thematics, science, and engineering. The course uses the MAT
+LAB programming language. Sponsoring departments: Civil and 
+Environmental Engineering and Mechanical Engineering."
+ENGIN W7,1,"Elements of procedural and object-oriented programming. Indu
+ction, iteration, and recursion. Real functions and floating
+-point computations for engineering analysis. Introduction t
+o data structures. Representative examples are drawn from ma
+thematics, science, and engineering. The course uses the MAT
+LAB programming language."
+ENGIN 11,1,"Introduction to basic concepts in radiation detection and ra
+dioactivity, electrical circuits, and data analytics. Lectur
+es provide the theoretical foundation of the work being perf
+ormed in the accompanying laboratory. The course will contai
+n three sections: introduction to how radiation interacts wi
+th matter and radiation detection technologies; development 
+of the tools (mathematical and computational) needed for ana
+lyzing various types of radiation"
+ENGIN 24,1,"The Berkeley Seminar Program is designed to provide students
+ with the opportunity to explore an intellectual topic with 
+a faculty member in a small seminar setting. Berkeley Semina
+rs are offered in all college departments, and topics vary f
+rom department to department and semester to semester."
+ENGIN 25,1,"Development of 3-dimensional visualization skills for engine
+ering design. Sketching as a tool for design communication. 
+Presentation of 3-dimensional geometry with 2-dimensional en
+gineering drawings. This course will introduce the use of 2-
+dimensional CAD on computer workstations as a major graphica
+l analysis and design tool. A group design project is requir
+ed. Teamwork and effective communication are emphasized."
+ENGIN 26,1,"Three-dimensional modeling for engineering design. This cour
+se will emphasize the use of CAD on computer workstations as
+ a major graphical analysis and design tool. Students develo
+p design skills, and practice applying these skills. A group
+ design project is required. Hands-on creativity, teamwork, 
+and effective communication are emphasized."
+ENGIN 27,1,"Geometric dimensioning and tolerancing (GD&T), tolerance ana
+lysis for fabrication, fundamentals of manufacturing process
+es (metal cutting, welding, joining, casting, molding, and l
+ayered manufacturing)."
+ENGIN 39B,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+ENGIN 39E,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+ENGIN 39F,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+ENGIN 40,1,"Fundamental laws of thermodynamics for simple substances; ap
+plication to flow processes and to nonreacting mixtures; sta
+tistical thermodynamics of ideal gases and crystalline solid
+s; chemical and materials thermodynamics; multiphase and mul
+ticomponent equilibria in reacting systems; electrochemistry
+. Sponsoring Departments: Materials Science and Engineering 
+and Nuclear Engineering."
+ENGIN 47,1,"May be taken only with permission of the Dean of the College
+ of Engineering. Students with partial credit in a lower div
+ision engineering course may complete the work under this he
+ading."
+ENGIN 78,1,"This course introduces engineering students to elements of s
+tatistics and probability, followed by a module-based introd
+uction to select computational techniques from data science 
+and stochastic optimization. Each module is based on a conte
+mporary engineering problem of broad interest. The computati
+onal techniques presented in the course are drawn from Bayes
+ian optimization, supervised learning, neural networks, clas
+sification, and Kalman filtering."
+ENGIN 92,1,"This series of lectures provides students, especially undecl
+ared Engineering students, with information on the various e
+ngineering disciplines to guide them toward choice of major.
+ Lecturers describe research activities, how they made their
+ own career choices, and indicate future opportunities. Reco
+mmended for all Engineering Science students and required fo
+r Engineering undeclared students."
+ENGIN 93,1,"Weekly seminar with different speakers on energy-related top
+ics. The goal is to expose students to a broad range of ener
+gy issues."
+ENGIN 98,1,"Seminars for group study of selected topics, which will vary
+ from year to year. Intended for students in the lower divis
+ion."
+ENGIN 117,1,"Methods of theoretical engineering analysis; techniques for 
+analyzing partial differential equations and the use of spec
+ial functions related to engineering systems. Sponsoring Dep
+artment: Mechanical Engineering."
+ENGIN 120,1,"Economic analysis for engineering decision making: Capital f
+lows, effect of time and interest rate. Different methods of
+ evaluation of alternatives. Minimum-cost life and replaceme
+nt analysis. Depreciation and taxes. Uncertainty; preference
+ under risk; decision analysis. Capital sources and their ef
+fects. Economic studies."
+ENGIN 125,1,"How should engineers analyze and resolve the ethical issues 
+inherent in engineering? This seminar-style course provides 
+an introduction to how theories, concepts, and methods from 
+the humanities and social science can be applied to ethical 
+problems in engineering. Assignments incorporate group and i
+ndependent research designed to provide students an opportun
+ity to contribute novel findings to the emerging field of en
+gineering ethics while building"
+ENGIN 128,1,"Advanced graphics tools for engineering design. Parametric s
+olid modeling. Assembly modeling. Presentation using compute
+r animation and multimedia techniques."
+ENGIN 147,1,"May be taken only with permission of the Dean of the College
+ of Engineering. Students with partial credit in an upper di
+vision engineering course may complete the work under this h
+eading."
+ENGIN 150,1,"The course emphasizes elementary modeling, numerical methods
+ & their implementation on physical problems motivated by ph
+enomena that students are likely to encounter in their caree
+rs, involving biomechanics, heat-transfer, structural analys
+is, control theory, fluid-flow, electrical conduction, diffu
+sion, etc. This will help students develop intuition about t
+he strengths and weaknesses of a variety of modeling & numer
+ical methods, as well"
+ENGIN 157AC,1,"This course engages students at the intersection of environm
+ental justice, social justice, and engineering to explore ho
+w problems that are commonly defined in technical terms are 
+at their roots deeply socially embedded. Through partnership
+s with community-based organizations, students are trained t
+o recognize the socio-political nature of technical problems
+ so that they may approach solutions in ways that prioritize
+ social justice. Topics"
+ENGIN 177,1,"The course builds an understanding, demonstrates engineering
+ uses, and provides hand-on experience for object-oriented p
+rogramming as well as exposes a practical knowledge of advan
+ced features available in MATLAB. The course will begin with
+ a brief review of basic MATLAB features and quickly move to
+ class organization and functionality. The introduced concep
+ts are reinforced by examining the advanced graphical featur
+es of MATLAB. The material"
+ENGIN 180,1,"The course is concerned with giving students the tools to pr
+epare for the fields and jobs of the future."
+ENGIN 185,1,"This course provides engineering majors with the fundamental
+ skills for effective technical communication. During the co
+urse of the semester, students will develop communications f
+or public dissemination, covering a project or initiative wi
+thin UC Berkeley’s College of Engineering. This work will ca
+ll on students to: (a) cultivate interest in a broad range o
+f topics related to Engineering; (b) become an engaged and c
+ritical reader of academic"
+ENGIN 187,1,"The course examines the challenges of innovation beyond new 
+technology development: from the challenges of global expans
+ion, to the issues of unintended consequences of technology 
+and the ability of technology to support or hinder social ju
+stice. The course will provide examples in a variety of glob
+al locations (e.g., Latin America, Southeast Asia, Africa, C
+hina, and India), utilizing case examples (written and prese
+nted by speakers) that illustrate the challenges faced"
+ENGIN 194,1,"Students who have completed a satisfactory number of advance
+d courses may pursue original research under the direction o
+f one of the members of the staff. Final report and presenta
+tion required."
+ENGIN 198,1,Group study of selected topics.
+ENGIN 1,1,"This course provides the framework for engineering an empowe
+red life through leadership, discovery and service. The clas
+s focuses on development of self, emotional intelligence, st
+rategic thinking, problem solving, teamwork, diversity, and 
+service learning. Skills include developing of self-awarenes
+s; understanding our unique strengths; debunking the imposte
+r syndrome; creating plans of action and setting goals; givi
+ng and receiving assessments; interpreting body"
+ENGIN 7,1,"Elements of procedural and object-oriented programming. Indu
+ction, iteration, and recursion. Real functions and floating
+-point computations for engineering analysis. Introduction t
+o data structures. Representative examples are drawn from ma
+thematics, science, and engineering. The course uses the MAT
+LAB programming language. Sponsoring departments: Civil and 
+Environmental Engineering and Mechanical Engineering."
+ENGIN W7,1,"Elements of procedural and object-oriented programming. Indu
+ction, iteration, and recursion. Real functions and floating
+-point computations for engineering analysis. Introduction t
+o data structures. Representative examples are drawn from ma
+thematics, science, and engineering. The course uses the MAT
+LAB programming language."
+ENGIN 11,1,"Introduction to basic concepts in radiation detection and ra
+dioactivity, electrical circuits, and data analytics. Lectur
+es provide the theoretical foundation of the work being perf
+ormed in the accompanying laboratory. The course will contai
+n three sections: introduction to how radiation interacts wi
+th matter and radiation detection technologies; development 
+of the tools (mathematical and computational) needed for ana
+lyzing various types of radiation"
+ENGIN 24,1,"The Berkeley Seminar Program is designed to provide students
+ with the opportunity to explore an intellectual topic with 
+a faculty member in a small seminar setting. Berkeley Semina
+rs are offered in all college departments, and topics vary f
+rom department to department and semester to semester."
+ENGIN 25,1,"Development of 3-dimensional visualization skills for engine
+ering design. Sketching as a tool for design communication. 
+Presentation of 3-dimensional geometry with 2-dimensional en
+gineering drawings. This course will introduce the use of 2-
+dimensional CAD on computer workstations as a major graphica
+l analysis and design tool. A group design project is requir
+ed. Teamwork and effective communication are emphasized."
+ENGIN 26,1,"Three-dimensional modeling for engineering design. This cour
+se will emphasize the use of CAD on computer workstations as
+ a major graphical analysis and design tool. Students develo
+p design skills, and practice applying these skills. A group
+ design project is required. Hands-on creativity, teamwork, 
+and effective communication are emphasized."
+ENGIN 27,1,"Geometric dimensioning and tolerancing (GD&T), tolerance ana
+lysis for fabrication, fundamentals of manufacturing process
+es (metal cutting, welding, joining, casting, molding, and l
+ayered manufacturing)."
+ENGIN 39B,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+ENGIN 39E,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+ENGIN 39F,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+ENGIN 40,1,"Fundamental laws of thermodynamics for simple substances; ap
+plication to flow processes and to nonreacting mixtures; sta
+tistical thermodynamics of ideal gases and crystalline solid
+s; chemical and materials thermodynamics; multiphase and mul
+ticomponent equilibria in reacting systems; electrochemistry
+. Sponsoring Departments: Materials Science and Engineering 
+and Nuclear Engineering."
+ENGIN 47,1,"May be taken only with permission of the Dean of the College
+ of Engineering. Students with partial credit in a lower div
+ision engineering course may complete the work under this he
+ading."
+ENGIN 78,1,"This course introduces engineering students to elements of s
+tatistics and probability, followed by a module-based introd
+uction to select computational techniques from data science 
+and stochastic optimization. Each module is based on a conte
+mporary engineering problem of broad interest. The computati
+onal techniques presented in the course are drawn from Bayes
+ian optimization, supervised learning, neural networks, clas
+sification, and Kalman filtering."
+ENGIN 92,1,"This series of lectures provides students, especially undecl
+ared Engineering students, with information on the various e
+ngineering disciplines to guide them toward choice of major.
+ Lecturers describe research activities, how they made their
+ own career choices, and indicate future opportunities. Reco
+mmended for all Engineering Science students and required fo
+r Engineering undeclared students."
+ENGIN 93,1,"Weekly seminar with different speakers on energy-related top
+ics. The goal is to expose students to a broad range of ener
+gy issues."
+ENGIN 98,1,"Seminars for group study of selected topics, which will vary
+ from year to year. Intended for students in the lower divis
+ion."
+ENGIN 117,1,"Methods of theoretical engineering analysis; techniques for 
+analyzing partial differential equations and the use of spec
+ial functions related to engineering systems. Sponsoring Dep
+artment: Mechanical Engineering."
+ENGIN 120,1,"Economic analysis for engineering decision making: Capital f
+lows, effect of time and interest rate. Different methods of
+ evaluation of alternatives. Minimum-cost life and replaceme
+nt analysis. Depreciation and taxes. Uncertainty; preference
+ under risk; decision analysis. Capital sources and their ef
+fects. Economic studies."
+ENGIN 125,1,"How should engineers analyze and resolve the ethical issues 
+inherent in engineering? This seminar-style course provides 
+an introduction to how theories, concepts, and methods from 
+the humanities and social science can be applied to ethical 
+problems in engineering. Assignments incorporate group and i
+ndependent research designed to provide students an opportun
+ity to contribute novel findings to the emerging field of en
+gineering ethics while building"
+ENGIN 128,1,"Advanced graphics tools for engineering design. Parametric s
+olid modeling. Assembly modeling. Presentation using compute
+r animation and multimedia techniques."
+ENGIN 147,1,"May be taken only with permission of the Dean of the College
+ of Engineering. Students with partial credit in an upper di
+vision engineering course may complete the work under this h
+eading."
+ENGIN 150,1,"The course emphasizes elementary modeling, numerical methods
+ & their implementation on physical problems motivated by ph
+enomena that students are likely to encounter in their caree
+rs, involving biomechanics, heat-transfer, structural analys
+is, control theory, fluid-flow, electrical conduction, diffu
+sion, etc. This will help students develop intuition about t
+he strengths and weaknesses of a variety of modeling & numer
+ical methods, as well"
+ENGIN 157AC,1,"This course engages students at the intersection of environm
+ental justice, social justice, and engineering to explore ho
+w problems that are commonly defined in technical terms are 
+at their roots deeply socially embedded. Through partnership
+s with community-based organizations, students are trained t
+o recognize the socio-political nature of technical problems
+ so that they may approach solutions in ways that prioritize
+ social justice. Topics"
+ENGIN 177,1,"The course builds an understanding, demonstrates engineering
+ uses, and provides hand-on experience for object-oriented p
+rogramming as well as exposes a practical knowledge of advan
+ced features available in MATLAB. The course will begin with
+ a brief review of basic MATLAB features and quickly move to
+ class organization and functionality. The introduced concep
+ts are reinforced by examining the advanced graphical featur
+es of MATLAB. The material"
+ENGIN 180,1,"The course is concerned with giving students the tools to pr
+epare for the fields and jobs of the future."
+ENGIN 185,1,"This course provides engineering majors with the fundamental
+ skills for effective technical communication. During the co
+urse of the semester, students will develop communications f
+or public dissemination, covering a project or initiative wi
+thin UC Berkeley’s College of Engineering. This work will ca
+ll on students to: (a) cultivate interest in a broad range o
+f topics related to Engineering; (b) become an engaged and c
+ritical reader of academic"
+ENGIN 187,1,"The course examines the challenges of innovation beyond new 
+technology development: from the challenges of global expans
+ion, to the issues of unintended consequences of technology 
+and the ability of technology to support or hinder social ju
+stice. The course will provide examples in a variety of glob
+al locations (e.g., Latin America, Southeast Asia, Africa, C
+hina, and India), utilizing case examples (written and prese
+nted by speakers) that illustrate the challenges faced"
+ENGIN 194,1,"Students who have completed a satisfactory number of advance
+d courses may pursue original research under the direction o
+f one of the members of the staff. Final report and presenta
+tion required."
+ENGIN 198,1,Group study of selected topics.
+ENGIN 1,1,"This course provides the framework for engineering an empowe
+red life through leadership, discovery and service. The clas
+s focuses on development of self, emotional intelligence, st
+rategic thinking, problem solving, teamwork, diversity, and 
+service learning. Skills include developing of self-awarenes
+s; understanding our unique strengths; debunking the imposte
+r syndrome; creating plans of action and setting goals; givi
+ng and receiving assessments; interpreting body"
+ENGIN 7,1,"Elements of procedural and object-oriented programming. Indu
+ction, iteration, and recursion. Real functions and floating
+-point computations for engineering analysis. Introduction t
+o data structures. Representative examples are drawn from ma
+thematics, science, and engineering. The course uses the MAT
+LAB programming language. Sponsoring departments: Civil and 
+Environmental Engineering and Mechanical Engineering."
+ENGIN W7,1,"Elements of procedural and object-oriented programming. Indu
+ction, iteration, and recursion. Real functions and floating
+-point computations for engineering analysis. Introduction t
+o data structures. Representative examples are drawn from ma
+thematics, science, and engineering. The course uses the MAT
+LAB programming language."
+ENGIN 11,1,"Introduction to basic concepts in radiation detection and ra
+dioactivity, electrical circuits, and data analytics. Lectur
+es provide the theoretical foundation of the work being perf
+ormed in the accompanying laboratory. The course will contai
+n three sections: introduction to how radiation interacts wi
+th matter and radiation detection technologies; development 
+of the tools (mathematical and computational) needed for ana
+lyzing various types of radiation"
+ENGIN 24,1,"The Berkeley Seminar Program is designed to provide students
+ with the opportunity to explore an intellectual topic with 
+a faculty member in a small seminar setting. Berkeley Semina
+rs are offered in all college departments, and topics vary f
+rom department to department and semester to semester."
+ENGIN 25,1,"Development of 3-dimensional visualization skills for engine
+ering design. Sketching as a tool for design communication. 
+Presentation of 3-dimensional geometry with 2-dimensional en
+gineering drawings. This course will introduce the use of 2-
+dimensional CAD on computer workstations as a major graphica
+l analysis and design tool. A group design project is requir
+ed. Teamwork and effective communication are emphasized."
+ENGIN 26,1,"Three-dimensional modeling for engineering design. This cour
+se will emphasize the use of CAD on computer workstations as
+ a major graphical analysis and design tool. Students develo
+p design skills, and practice applying these skills. A group
+ design project is required. Hands-on creativity, teamwork, 
+and effective communication are emphasized."
+ENGIN 27,1,"Geometric dimensioning and tolerancing (GD&T), tolerance ana
+lysis for fabrication, fundamentals of manufacturing process
+es (metal cutting, welding, joining, casting, molding, and l
+ayered manufacturing)."
+ENGIN 39B,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+ENGIN 39E,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+ENGIN 39F,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+ENGIN 40,1,"Fundamental laws of thermodynamics for simple substances; ap
+plication to flow processes and to nonreacting mixtures; sta
+tistical thermodynamics of ideal gases and crystalline solid
+s; chemical and materials thermodynamics; multiphase and mul
+ticomponent equilibria in reacting systems; electrochemistry
+. Sponsoring Departments: Materials Science and Engineering 
+and Nuclear Engineering."
+ENGIN 47,1,"May be taken only with permission of the Dean of the College
+ of Engineering. Students with partial credit in a lower div
+ision engineering course may complete the work under this he
+ading."
+ENGIN 78,1,"This course introduces engineering students to elements of s
+tatistics and probability, followed by a module-based introd
+uction to select computational techniques from data science 
+and stochastic optimization. Each module is based on a conte
+mporary engineering problem of broad interest. The computati
+onal techniques presented in the course are drawn from Bayes
+ian optimization, supervised learning, neural networks, clas
+sification, and Kalman filtering."
+ENGIN 92,1,"This series of lectures provides students, especially undecl
+ared Engineering students, with information on the various e
+ngineering disciplines to guide them toward choice of major.
+ Lecturers describe research activities, how they made their
+ own career choices, and indicate future opportunities. Reco
+mmended for all Engineering Science students and required fo
+r Engineering undeclared students."
+ENGIN 93,1,"Weekly seminar with different speakers on energy-related top
+ics. The goal is to expose students to a broad range of ener
+gy issues."
+ENGIN 98,1,"Seminars for group study of selected topics, which will vary
+ from year to year. Intended for students in the lower divis
+ion."
+ENGIN 117,1,"Methods of theoretical engineering analysis; techniques for 
+analyzing partial differential equations and the use of spec
+ial functions related to engineering systems. Sponsoring Dep
+artment: Mechanical Engineering."
+ENGIN 120,1,"Economic analysis for engineering decision making: Capital f
+lows, effect of time and interest rate. Different methods of
+ evaluation of alternatives. Minimum-cost life and replaceme
+nt analysis. Depreciation and taxes. Uncertainty; preference
+ under risk; decision analysis. Capital sources and their ef
+fects. Economic studies."
+ENGIN 125,1,"How should engineers analyze and resolve the ethical issues 
+inherent in engineering? This seminar-style course provides 
+an introduction to how theories, concepts, and methods from 
+the humanities and social science can be applied to ethical 
+problems in engineering. Assignments incorporate group and i
+ndependent research designed to provide students an opportun
+ity to contribute novel findings to the emerging field of en
+gineering ethics while building"
+ENGIN 128,1,"Advanced graphics tools for engineering design. Parametric s
+olid modeling. Assembly modeling. Presentation using compute
+r animation and multimedia techniques."
+ENGIN 147,1,"May be taken only with permission of the Dean of the College
+ of Engineering. Students with partial credit in an upper di
+vision engineering course may complete the work under this h
+eading."
+ENGIN 150,1,"The course emphasizes elementary modeling, numerical methods
+ & their implementation on physical problems motivated by ph
+enomena that students are likely to encounter in their caree
+rs, involving biomechanics, heat-transfer, structural analys
+is, control theory, fluid-flow, electrical conduction, diffu
+sion, etc. This will help students develop intuition about t
+he strengths and weaknesses of a variety of modeling & numer
+ical methods, as well"
+ENGIN 157AC,1,"This course engages students at the intersection of environm
+ental justice, social justice, and engineering to explore ho
+w problems that are commonly defined in technical terms are 
+at their roots deeply socially embedded. Through partnership
+s with community-based organizations, students are trained t
+o recognize the socio-political nature of technical problems
+ so that they may approach solutions in ways that prioritize
+ social justice. Topics"
+ENGIN 177,1,"The course builds an understanding, demonstrates engineering
+ uses, and provides hand-on experience for object-oriented p
+rogramming as well as exposes a practical knowledge of advan
+ced features available in MATLAB. The course will begin with
+ a brief review of basic MATLAB features and quickly move to
+ class organization and functionality. The introduced concep
+ts are reinforced by examining the advanced graphical featur
+es of MATLAB. The material"
+ENGIN 180,1,"The course is concerned with giving students the tools to pr
+epare for the fields and jobs of the future."
+ENGIN 185,1,"This course provides engineering majors with the fundamental
+ skills for effective technical communication. During the co
+urse of the semester, students will develop communications f
+or public dissemination, covering a project or initiative wi
+thin UC Berkeley’s College of Engineering. This work will ca
+ll on students to: (a) cultivate interest in a broad range o
+f topics related to Engineering; (b) become an engaged and c
+ritical reader of academic"
+ENGIN 187,1,"The course examines the challenges of innovation beyond new 
+technology development: from the challenges of global expans
+ion, to the issues of unintended consequences of technology 
+and the ability of technology to support or hinder social ju
+stice. The course will provide examples in a variety of glob
+al locations (e.g., Latin America, Southeast Asia, Africa, C
+hina, and India), utilizing case examples (written and prese
+nted by speakers) that illustrate the challenges faced"
+ENGIN 194,1,"Students who have completed a satisfactory number of advance
+d courses may pursue original research under the direction o
+f one of the members of the staff. Final report and presenta
+tion required."
+ENGIN 198,1,Group study of selected topics.
+ENGIN 1,1,"This course provides the framework for engineering an empowe
+red life through leadership, discovery and service. The clas
+s focuses on development of self, emotional intelligence, st
+rategic thinking, problem solving, teamwork, diversity, and 
+service learning. Skills include developing of self-awarenes
+s; understanding our unique strengths; debunking the imposte
+r syndrome; creating plans of action and setting goals; givi
+ng and receiving assessments; interpreting body"
+ENGIN 7,1,"Elements of procedural and object-oriented programming. Indu
+ction, iteration, and recursion. Real functions and floating
+-point computations for engineering analysis. Introduction t
+o data structures. Representative examples are drawn from ma
+thematics, science, and engineering. The course uses the MAT
+LAB programming language. Sponsoring departments: Civil and 
+Environmental Engineering and Mechanical Engineering."
+ENGIN W7,1,"Elements of procedural and object-oriented programming. Indu
+ction, iteration, and recursion. Real functions and floating
+-point computations for engineering analysis. Introduction t
+o data structures. Representative examples are drawn from ma
+thematics, science, and engineering. The course uses the MAT
+LAB programming language."
+ENGIN 11,1,"Introduction to basic concepts in radiation detection and ra
+dioactivity, electrical circuits, and data analytics. Lectur
+es provide the theoretical foundation of the work being perf
+ormed in the accompanying laboratory. The course will contai
+n three sections: introduction to how radiation interacts wi
+th matter and radiation detection technologies; development 
+of the tools (mathematical and computational) needed for ana
+lyzing various types of radiation"
+ENGIN 24,1,"The Berkeley Seminar Program is designed to provide students
+ with the opportunity to explore an intellectual topic with 
+a faculty member in a small seminar setting. Berkeley Semina
+rs are offered in all college departments, and topics vary f
+rom department to department and semester to semester."
+ENGIN 25,1,"Development of 3-dimensional visualization skills for engine
+ering design. Sketching as a tool for design communication. 
+Presentation of 3-dimensional geometry with 2-dimensional en
+gineering drawings. This course will introduce the use of 2-
+dimensional CAD on computer workstations as a major graphica
+l analysis and design tool. A group design project is requir
+ed. Teamwork and effective communication are emphasized."
+ENGIN 26,1,"Three-dimensional modeling for engineering design. This cour
+se will emphasize the use of CAD on computer workstations as
+ a major graphical analysis and design tool. Students develo
+p design skills, and practice applying these skills. A group
+ design project is required. Hands-on creativity, teamwork, 
+and effective communication are emphasized."
+ENGIN 27,1,"Geometric dimensioning and tolerancing (GD&T), tolerance ana
+lysis for fabrication, fundamentals of manufacturing process
+es (metal cutting, welding, joining, casting, molding, and l
+ayered manufacturing)."
+ENGIN 39B,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+ENGIN 39E,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+ENGIN 39F,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+ENGIN 40,1,"Fundamental laws of thermodynamics for simple substances; ap
+plication to flow processes and to nonreacting mixtures; sta
+tistical thermodynamics of ideal gases and crystalline solid
+s; chemical and materials thermodynamics; multiphase and mul
+ticomponent equilibria in reacting systems; electrochemistry
+. Sponsoring Departments: Materials Science and Engineering 
+and Nuclear Engineering."
+ENGIN 47,1,"May be taken only with permission of the Dean of the College
+ of Engineering. Students with partial credit in a lower div
+ision engineering course may complete the work under this he
+ading."
+ENGIN 78,1,"This course introduces engineering students to elements of s
+tatistics and probability, followed by a module-based introd
+uction to select computational techniques from data science 
+and stochastic optimization. Each module is based on a conte
+mporary engineering problem of broad interest. The computati
+onal techniques presented in the course are drawn from Bayes
+ian optimization, supervised learning, neural networks, clas
+sification, and Kalman filtering."
+ENGIN 92,1,"This series of lectures provides students, especially undecl
+ared Engineering students, with information on the various e
+ngineering disciplines to guide them toward choice of major.
+ Lecturers describe research activities, how they made their
+ own career choices, and indicate future opportunities. Reco
+mmended for all Engineering Science students and required fo
+r Engineering undeclared students."
+ENGIN 93,1,"Weekly seminar with different speakers on energy-related top
+ics. The goal is to expose students to a broad range of ener
+gy issues."
+ENGIN 98,1,"Seminars for group study of selected topics, which will vary
+ from year to year. Intended for students in the lower divis
+ion."
+ENGIN 117,1,"Methods of theoretical engineering analysis; techniques for 
+analyzing partial differential equations and the use of spec
+ial functions related to engineering systems. Sponsoring Dep
+artment: Mechanical Engineering."
+ENGIN 120,1,"Economic analysis for engineering decision making: Capital f
+lows, effect of time and interest rate. Different methods of
+ evaluation of alternatives. Minimum-cost life and replaceme
+nt analysis. Depreciation and taxes. Uncertainty; preference
+ under risk; decision analysis. Capital sources and their ef
+fects. Economic studies."
+ENGIN 125,1,"How should engineers analyze and resolve the ethical issues 
+inherent in engineering? This seminar-style course provides 
+an introduction to how theories, concepts, and methods from 
+the humanities and social science can be applied to ethical 
+problems in engineering. Assignments incorporate group and i
+ndependent research designed to provide students an opportun
+ity to contribute novel findings to the emerging field of en
+gineering ethics while building"
+ENGIN 128,1,"Advanced graphics tools for engineering design. Parametric s
+olid modeling. Assembly modeling. Presentation using compute
+r animation and multimedia techniques."
+ENGIN 147,1,"May be taken only with permission of the Dean of the College
+ of Engineering. Students with partial credit in an upper di
+vision engineering course may complete the work under this h
+eading."
+ENGIN 150,1,"The course emphasizes elementary modeling, numerical methods
+ & their implementation on physical problems motivated by ph
+enomena that students are likely to encounter in their caree
+rs, involving biomechanics, heat-transfer, structural analys
+is, control theory, fluid-flow, electrical conduction, diffu
+sion, etc. This will help students develop intuition about t
+he strengths and weaknesses of a variety of modeling & numer
+ical methods, as well"
+ENGIN 157AC,1,"This course engages students at the intersection of environm
+ental justice, social justice, and engineering to explore ho
+w problems that are commonly defined in technical terms are 
+at their roots deeply socially embedded. Through partnership
+s with community-based organizations, students are trained t
+o recognize the socio-political nature of technical problems
+ so that they may approach solutions in ways that prioritize
+ social justice. Topics"
+ENGIN 177,1,"The course builds an understanding, demonstrates engineering
+ uses, and provides hand-on experience for object-oriented p
+rogramming as well as exposes a practical knowledge of advan
+ced features available in MATLAB. The course will begin with
+ a brief review of basic MATLAB features and quickly move to
+ class organization and functionality. The introduced concep
+ts are reinforced by examining the advanced graphical featur
+es of MATLAB. The material"
+ENGIN 180,1,"The course is concerned with giving students the tools to pr
+epare for the fields and jobs of the future."
+ENGIN 185,1,"This course provides engineering majors with the fundamental
+ skills for effective technical communication. During the co
+urse of the semester, students will develop communications f
+or public dissemination, covering a project or initiative wi
+thin UC Berkeley’s College of Engineering. This work will ca
+ll on students to: (a) cultivate interest in a broad range o
+f topics related to Engineering; (b) become an engaged and c
+ritical reader of academic"
+ENGIN 187,1,"The course examines the challenges of innovation beyond new 
+technology development: from the challenges of global expans
+ion, to the issues of unintended consequences of technology 
+and the ability of technology to support or hinder social ju
+stice. The course will provide examples in a variety of glob
+al locations (e.g., Latin America, Southeast Asia, Africa, C
+hina, and India), utilizing case examples (written and prese
+nted by speakers) that illustrate the challenges faced"
+ENGIN 194,1,"Students who have completed a satisfactory number of advance
+d courses may pursue original research under the direction o
+f one of the members of the staff. Final report and presenta
+tion required."
+ENGIN 198,1,Group study of selected topics.
+ENGIN 1,1,"This course provides the framework for engineering an empowe
+red life through leadership, discovery and service. The clas
+s focuses on development of self, emotional intelligence, st
+rategic thinking, problem solving, teamwork, diversity, and 
+service learning. Skills include developing of self-awarenes
+s; understanding our unique strengths; debunking the imposte
+r syndrome; creating plans of action and setting goals; givi
+ng and receiving assessments; interpreting body"
+ENGIN 7,1,"Elements of procedural and object-oriented programming. Indu
+ction, iteration, and recursion. Real functions and floating
+-point computations for engineering analysis. Introduction t
+o data structures. Representative examples are drawn from ma
+thematics, science, and engineering. The course uses the MAT
+LAB programming language. Sponsoring departments: Civil and 
+Environmental Engineering and Mechanical Engineering."
+ENGIN W7,1,"Elements of procedural and object-oriented programming. Indu
+ction, iteration, and recursion. Real functions and floating
+-point computations for engineering analysis. Introduction t
+o data structures. Representative examples are drawn from ma
+thematics, science, and engineering. The course uses the MAT
+LAB programming language."
+ENGIN 11,1,"Introduction to basic concepts in radiation detection and ra
+dioactivity, electrical circuits, and data analytics. Lectur
+es provide the theoretical foundation of the work being perf
+ormed in the accompanying laboratory. The course will contai
+n three sections: introduction to how radiation interacts wi
+th matter and radiation detection technologies; development 
+of the tools (mathematical and computational) needed for ana
+lyzing various types of radiation"
+ENGIN 24,1,"The Berkeley Seminar Program is designed to provide students
+ with the opportunity to explore an intellectual topic with 
+a faculty member in a small seminar setting. Berkeley Semina
+rs are offered in all college departments, and topics vary f
+rom department to department and semester to semester."
+ENGIN 25,1,"Development of 3-dimensional visualization skills for engine
+ering design. Sketching as a tool for design communication. 
+Presentation of 3-dimensional geometry with 2-dimensional en
+gineering drawings. This course will introduce the use of 2-
+dimensional CAD on computer workstations as a major graphica
+l analysis and design tool. A group design project is requir
+ed. Teamwork and effective communication are emphasized."
+ENGIN 26,1,"Three-dimensional modeling for engineering design. This cour
+se will emphasize the use of CAD on computer workstations as
+ a major graphical analysis and design tool. Students develo
+p design skills, and practice applying these skills. A group
+ design project is required. Hands-on creativity, teamwork, 
+and effective communication are emphasized."
+ENGIN 27,1,"Geometric dimensioning and tolerancing (GD&T), tolerance ana
+lysis for fabrication, fundamentals of manufacturing process
+es (metal cutting, welding, joining, casting, molding, and l
+ayered manufacturing)."
+ENGIN 39B,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+ENGIN 39E,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+ENGIN 39F,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 25."
+ENGIN 40,1,"Fundamental laws of thermodynamics for simple substances; ap
+plication to flow processes and to nonreacting mixtures; sta
+tistical thermodynamics of ideal gases and crystalline solid
+s; chemical and materials thermodynamics; multiphase and mul
+ticomponent equilibria in reacting systems; electrochemistry
+. Sponsoring Departments: Materials Science and Engineering 
+and Nuclear Engineering."
+ENGIN 47,1,"May be taken only with permission of the Dean of the College
+ of Engineering. Students with partial credit in a lower div
+ision engineering course may complete the work under this he
+ading."
+ENGIN 78,1,"This course introduces engineering students to elements of s
+tatistics and probability, followed by a module-based introd
+uction to select computational techniques from data science 
+and stochastic optimization. Each module is based on a conte
+mporary engineering problem of broad interest. The computati
+onal techniques presented in the course are drawn from Bayes
+ian optimization, supervised learning, neural networks, clas
+sification, and Kalman filtering."
+ENGIN 92,1,"This series of lectures provides students, especially undecl
+ared Engineering students, with information on the various e
+ngineering disciplines to guide them toward choice of major.
+ Lecturers describe research activities, how they made their
+ own career choices, and indicate future opportunities. Reco
+mmended for all Engineering Science students and required fo
+r Engineering undeclared students."
+ENGIN 93,1,"Weekly seminar with different speakers on energy-related top
+ics. The goal is to expose students to a broad range of ener
+gy issues."
+ENGIN 98,1,"Seminars for group study of selected topics, which will vary
+ from year to year. Intended for students in the lower divis
+ion."
+ENGIN 117,1,"Methods of theoretical engineering analysis; techniques for 
+analyzing partial differential equations and the use of spec
+ial functions related to engineering systems. Sponsoring Dep
+artment: Mechanical Engineering."
+ENGIN 120,1,"Economic analysis for engineering decision making: Capital f
+lows, effect of time and interest rate. Different methods of
+ evaluation of alternatives. Minimum-cost life and replaceme
+nt analysis. Depreciation and taxes. Uncertainty; preference
+ under risk; decision analysis. Capital sources and their ef
+fects. Economic studies."
+ENGIN 125,1,"How should engineers analyze and resolve the ethical issues 
+inherent in engineering? This seminar-style course provides 
+an introduction to how theories, concepts, and methods from 
+the humanities and social science can be applied to ethical 
+problems in engineering. Assignments incorporate group and i
+ndependent research designed to provide students an opportun
+ity to contribute novel findings to the emerging field of en
+gineering ethics while building"
+ENGIN 128,1,"Advanced graphics tools for engineering design. Parametric s
+olid modeling. Assembly modeling. Presentation using compute
+r animation and multimedia techniques."
+ENGIN 147,1,"May be taken only with permission of the Dean of the College
+ of Engineering. Students with partial credit in an upper di
+vision engineering course may complete the work under this h
+eading."
+ENGIN 150,1,"The course emphasizes elementary modeling, numerical methods
+ & their implementation on physical problems motivated by ph
+enomena that students are likely to encounter in their caree
+rs, involving biomechanics, heat-transfer, structural analys
+is, control theory, fluid-flow, electrical conduction, diffu
+sion, etc. This will help students develop intuition about t
+he strengths and weaknesses of a variety of modeling & numer
+ical methods, as well"
+ENGIN 157AC,1,"This course engages students at the intersection of environm
+ental justice, social justice, and engineering to explore ho
+w problems that are commonly defined in technical terms are 
+at their roots deeply socially embedded. Through partnership
+s with community-based organizations, students are trained t
+o recognize the socio-political nature of technical problems
+ so that they may approach solutions in ways that prioritize
+ social justice. Topics"
+ENGIN 177,1,"The course builds an understanding, demonstrates engineering
+ uses, and provides hand-on experience for object-oriented p
+rogramming as well as exposes a practical knowledge of advan
+ced features available in MATLAB. The course will begin with
+ a brief review of basic MATLAB features and quickly move to
+ class organization and functionality. The introduced concep
+ts are reinforced by examining the advanced graphical featur
+es of MATLAB. The material"
+ENGIN 180,1,"The course is concerned with giving students the tools to pr
+epare for the fields and jobs of the future."
+ENGIN 185,1,"This course provides engineering majors with the fundamental
+ skills for effective technical communication. During the co
+urse of the semester, students will develop communications f
+or public dissemination, covering a project or initiative wi
+thin UC Berkeley’s College of Engineering. This work will ca
+ll on students to: (a) cultivate interest in a broad range o
+f topics related to Engineering; (b) become an engaged and c
+ritical reader of academic"
+ENGIN 187,1,"The course examines the challenges of innovation beyond new 
+technology development: from the challenges of global expans
+ion, to the issues of unintended consequences of technology 
+and the ability of technology to support or hinder social ju
+stice. The course will provide examples in a variety of glob
+al locations (e.g., Latin America, Southeast Asia, Africa, C
+hina, and India), utilizing case examples (written and prese
+nted by speakers) that illustrate the challenges faced"
+ENGIN 194,1,"Students who have completed a satisfactory number of advance
+d courses may pursue original research under the direction o
+f one of the members of the staff. Final report and presenta
+tion required."
 ENGIN 198,1,Group study of selected topics.

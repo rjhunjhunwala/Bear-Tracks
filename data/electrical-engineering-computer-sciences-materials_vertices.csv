@@ -2,7 +2,8 @@ name,size,about
 EL ENG 24,1,"Terms offered: Fall 2017, Spring 2017, Spring 2016"
 EL ENG 25,1,Terms offered: Fall 2011
 EL ENG 39,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
-EL ENG 42,1,"Terms offered: Fall 2013, Summer 2013 8 Week Session, Spring 2013"
+EL ENG 42,1,"Terms offered: Fall 2013, Summer 2013 8 Week Session, Spring
+ 2013"
 EL ENG 49,1,"Terms offered: Spring 2020, Spring 2019, Fall 2018"
 EL ENG 84,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
 EL ENG 97,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
@@ -31,7 +32,8 @@ EL ENG 144,1,"Terms offered: Fall 2015, Fall 2014, Fall 2013"
 EL ENG C145B,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
 EL ENG C145L,1,"Terms offered: Fall 2014, Fall 2013, Fall 2012"
 EL ENG C145M,1,"Terms offered: Spring 2013, Spring 2012, Spring 2011"
-EL ENG C145O,1,"Terms offered: Spring 2015, Spring 2014, Spring 2013, Spring 2012"
+EL ENG C145O,1,"Terms offered: Spring 2015, Spring 2014, Spring 2013, Spring
+ 2012"
 EL ENG 146L,1,Terms offered: Spring 2015
 EL ENG 147,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
 EL ENG 192,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
@@ -41,29 +43,999 @@ EL ENG H196B,1,"Terms offered: Spring 2016, Spring 2015, Spring 2014"
 EL ENG 197,1,"Terms offered: Spring 2018, Spring 2016, Fall 2015"
 EL ENG 198,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
 EL ENG 199,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
-MAT SCI 24,1,"The Freshman Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments, and topics vary from department to department and semester to semester. Enrollment limited to 20 freshmen."
-MAT SCI 45,1,"Application of basic principles of physics and chemistry to the engineering properties of materials. Emphasis on establishing structure, property, processing, and performance interrelationships in metals, ceramics, and polymers. While core concepts are fully covered each semester, examples and contextualization in Fall editions focuses on metals, ceramics, and functional/electronic properties and in Spring editions on polymers and soft-mat"
-MAT SCI 45L,1,This course presents laboratory applications of the basic principles introduced in the lecture-based course MSE45 – Properties of Materials.
-MAT SCI 102,1,"Bonding in solids; classification of metals, semiconductors, and insulators; crystal systems; point, line, and planar defects in crystals; examples of crystallographic and defect analysis in engineering materials; relationship to physical and mechanical properties."
-MAT SCI 103,1,"The nature, mechanisms, and kinetics of phase transformations and microstructural changes in the solid state. Atom diffusion in solids. Phase transformations through the nucleation and growth of new matrix or precipitate phases. Martensitic transformations, spinodal decomposition. The use of phase transformations to control microstructure."
-MAT SCI 104,1,"This 3-unit course will cover basic principles and techniques used for the characterization of engineering materials. The course is designed to introduce undergraduate students to the basic principles of structural, chemical and property characterization techniques. The course is grounded in modern x-ray diffraction and electron microscopy techniques for characterization of the chemical and structural properties of a material. The course"
-MAT SCI 104L,1,"This 1-unit laboratory course covers X-ray diffraction (XRD), scanning electron microscopy (SEM), and transmission electron microscopy (TEM), as well as lab writeup protocols and academic integrity. Students will get hands-on experience using the XRD, SEM and TEM equipment to perform microstructural characterization of materials. Students will also design and run their own project on a topic of their choosing."
-MAT SCI 111,1,"Introduction to the physical principles underlying the electric properties of modern solids with emphasis on semiconductors; control of defects and impurities through physical purification, bulk and thin film crystal growth and doping processes, materials basis of electronic and optoelectronic devices (diodes, transistors, semiconductor lasers) and optical fibers; properties of metal and oxide superconductors and their applications."
-MAT SCI 112,1,"Electrochemical theory of corrosion. Mechanisms and rates in relation to physiochemical and metallurgical factors. Stress corrosion and mechanical influences on corrosion. Corrosion protection by design, inhibition, cathodic protection, and coatings."
-MAT SCI 113,1,"This course covers elastic and plastic deformation under static and dynamic loads. Prediction and prevention of failure by yielding, fracture, fatigue, wear and environmental factors are addressed. Design issues pertaining to materials selection for load bearing applications are discussed. Case studies of engineering failures are presented. Topics include engineering materials, structure-property relationships, materials selection for design, mechanical"
-MAT SCI 117,1,"Introduction to the physical principles underlying the dielectric and magnetic properties of solids. Processing-microstructure-property relationships of dielectric materials, including piezoelectric, pryoelectric, and ferroelectric oxides, and of magnetic materials, including hard- and soft ferromagnets, ferrites and magneto-optic and -resistive materials. The course also covers the properties of grain boundary devices (including varistors)"
-MAT SCI C118,1,"This course is intended to give students the opportunity to expand their knowledge of topics related to biomedical materials selection and design. Structure-property relationships of biomedical materials and their interaction with biological systems will be addressed. Applications of the concepts developed include blood-materials compatibility, biomimetic materials, hard and soft tissue-materials interactions, drug delivery, tissue engineering"
-MAT SCI 120,1,"Economic and technological significance of metals and other materials. Elementary geology (composition of lithosphere, mineralization). Short survey of mining and mineral processing techniques. Review of chemical thermodynamics and reaction kinetics. Principles of process engineering including material, heat, and mechanical energy balances. Elementary heat transfer, fluid flow, and mass transfer. Electrolytic production and refining of metals."
-MAT SCI 121,1,"The principles of metals processing with emphasis on the use of processing to establish microstructures which impart desirable engineering properties. The techniques discussed include solidification, thermal and mechanical processing, powder processing, welding and joining, and surface treatments."
-MAT SCI 122,1,"Powder fabrication by grinding and chemical methods, rheological behavior of powder-fluid suspensions, forming methods, drying, sintering, and grain growth. Relation of processing steps to microstructure development."
-MAT SCI 123,1,"This 4-unit course starts with a brief review of the fundamentals of solid-state physics including bands and defects in semiconductors and oxides, and then moves to bulk semiconductor crystals growth and processing including doping, diffusion and implantation, and then to thin film deposition and processing methods, and finishes with a discussion of materials analysis and characterization. Recent advances in nanomaterials research will also"
-MAT SCI 125,1,"Deposition, processing, and characterization of thin films and their technological applications. Physical and chemical vapor deposition methods. Thin-film nucleation and growth. Thermal and ion processing. Microstructural development in epitaxial, polycrystalline, and amorphous films. Thin-film characterization techniques. Applications in information storage, integrated circuits, and optoelectronic devices. Laboratory demonstrations."
-MAT SCI 130,1,"This course provides a culminating experience for students approaching completion of the materials science and engineering curriculum. Laboratory experiments are undertaken in a variety of areas from the investigations on semiconductor materials to corrosion science and elucidate the relationships among structure, processing, properties, and performance. The principles of materials selection in engineering design are reviewed."
-MAT SCI 136,1,"In many, if not all, technologies, it is materials that play a crucial, enabling role. This course examines potentially sustainable technologies, and the materials properties that enable them. The science at the basis of selected energy technologies are examined and considered in case studies."
-MAT SCI 140,1,"This course introduces the fundamental principles needed to understand the behavior of materials at the nanometer length scale and the different classes of nanomaterials with applications ranging from information technology to biotechnology. Topics include introduction to different classes of nanomaterials, synthesis and characterization of nanomaterials, and the electronic, magnetic, optical, and mechanical properties of nanomaterials."
-MAT SCI C150,1,"The application of basic chemical principles to problems in materials discovery, design, and characterization will be discussed. Topics covered will include inorganic solids, nanoscale materials, polymers, and biological materials, with specific focus on the ways in which atomic-level interactions dictate the bulk properties of matter."
-MAT SCI 151,1,"This course is designed for upper division undergraduate and graduate students to gain a fundamental understanding of the science of polymeric materials. Beginning with a treatment of ideal polymeric chain conformations, it develops the thermodynamics of polmyer blends and solutions, the modeling of polymer networks and gelations, the dynamics of polymer chains, and the morphologies of thin films and other dimensionally-restricted structures"
-MAT SCI H194,1,"Students who have completed a satisfactory number of advanced courses with a grade-point average of 3.3 or higher may pursue original research under the direction of one of the members of the staff. A maximum of 3 units of H194 may be used to fulfill technical elective requirements in the Materials Science and Engineering program or double majors (unlike 198 or 199, which do not satisfy technical elective requirements). Final report required"
-MAT SCI 195,1,"Group study of special topics in materials science and engineering. Selection of topics for further study of underlying concepts and relevent literature, in consultion with appropriate faculty members."
+MAT SCI 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to 20 freshmen."
+MAT SCI 45,1,"Application of basic principles of physics and chemistry to 
+the engineering properties of materials. Emphasis on establi
+shing structure, property, processing, and performance inter
+relationships in metals, ceramics, and polymers. While core 
+concepts are fully covered each semester, examples and conte
+xtualization in Fall editions focuses on metals, ceramics, a
+nd functional/electronic properties and in Spring editions o
+n polymers and soft-mat"
+MAT SCI 45L,1,"This course presents laboratory applications of the basic pr
+inciples introduced in the lecture-based course MSE45 – Prop
+erties of Materials."
+MAT SCI 102,1,"Bonding in solids; classification of metals, semiconductors,
+ and insulators; crystal systems; point, line, and planar de
+fects in crystals; examples of crystallographic and defect a
+nalysis in engineering materials; relationship to physical a
+nd mechanical properties."
+MAT SCI 103,1,"The nature, mechanisms, and kinetics of phase transformation
+s and microstructural changes in the solid state. Atom diffu
+sion in solids. Phase transformations through the nucleation
+ and growth of new matrix or precipitate phases. Martensitic
+ transformations, spinodal decomposition. The use of phase t
+ransformations to control microstructure."
+MAT SCI 104,1,"This 3-unit course will cover basic principles and technique
+s used for the characterization of engineering materials. Th
+e course is designed to introduce undergraduate students to 
+the basic principles of structural, chemical and property ch
+aracterization techniques. The course is grounded in modern 
+x-ray diffraction and electron microscopy techniques for cha
+racterization of the chemical and structural properties of a
+ material. The course"
+MAT SCI 104L,1,"This 1-unit laboratory course covers X-ray diffraction (XRD)
+, scanning electron microscopy (SEM), and transmission elect
+ron microscopy (TEM), as well as lab writeup protocols and a
+cademic integrity. Students will get hands-on experience usi
+ng the XRD, SEM and TEM equipment to perform microstructural
+ characterization of materials. Students will also design an
+d run their own project on a topic of their choosing."
+MAT SCI 111,1,"Introduction to the physical principles underlying the elect
+ric properties of modern solids with emphasis on semiconduct
+ors; control of defects and impurities through physical puri
+fication, bulk and thin film crystal growth and doping proce
+sses, materials basis of electronic and optoelectronic devic
+es (diodes, transistors, semiconductor lasers) and optical f
+ibers; properties of metal and oxide superconductors and the
+ir applications."
+MAT SCI 112,1,"Electrochemical theory of corrosion. Mechanisms and rates in
+ relation to physiochemical and metallurgical factors. Stres
+s corrosion and mechanical influences on corrosion. Corrosio
+n protection by design, inhibition, cathodic protection, and
+ coatings."
+MAT SCI 113,1,"This course covers elastic and plastic deformation under sta
+tic and dynamic loads. Prediction and prevention of failure 
+by yielding, fracture, fatigue, wear and environmental facto
+rs are addressed. Design issues pertaining to materials sele
+ction for load bearing applications are discussed. Case stud
+ies of engineering failures are presented. Topics include en
+gineering materials, structure-property relationships, mater
+ials selection for design, mechanical"
+MAT SCI 117,1,"Introduction to the physical principles underlying the diele
+ctric and magnetic properties of solids. Processing-microstr
+ucture-property relationships of dielectric materials, inclu
+ding piezoelectric, pryoelectric, and ferroelectric oxides, 
+and of magnetic materials, including hard- and soft ferromag
+nets, ferrites and magneto-optic and -resistive materials. T
+he course also covers the properties of grain boundary devic
+es (including varistors)"
+MAT SCI C118,1,"This course is intended to give students the opportunity to 
+expand their knowledge of topics related to biomedical mater
+ials selection and design. Structure-property relationships 
+of biomedical materials and their interaction with biologica
+l systems will be addressed. Applications of the concepts de
+veloped include blood-materials compatibility, biomimetic ma
+terials, hard and soft tissue-materials interactions, drug d
+elivery, tissue engineering"
+MAT SCI 120,1,"Economic and technological significance of metals and other 
+materials. Elementary geology (composition of lithosphere, m
+ineralization). Short survey of mining and mineral processin
+g techniques. Review of chemical thermodynamics and reaction
+ kinetics. Principles of process engineering including mater
+ial, heat, and mechanical energy balances. Elementary heat t
+ransfer, fluid flow, and mass transfer. Electrolytic product
+ion and refining of metals."
+MAT SCI 121,1,"The principles of metals processing with emphasis on the use
+ of processing to establish microstructures which impart des
+irable engineering properties. The techniques discussed incl
+ude solidification, thermal and mechanical processing, powde
+r processing, welding and joining, and surface treatments."
+MAT SCI 122,1,"Powder fabrication by grinding and chemical methods, rheolog
+ical behavior of powder-fluid suspensions, forming methods, 
+drying, sintering, and grain growth. Relation of processing 
+steps to microstructure development."
+MAT SCI 123,1,"This 4-unit course starts with a brief review of the fundame
+ntals of solid-state physics including bands and defects in 
+semiconductors and oxides, and then moves to bulk semiconduc
+tor crystals growth and processing including doping, diffusi
+on and implantation, and then to thin film deposition and pr
+ocessing methods, and finishes with a discussion of material
+s analysis and characterization. Recent advances in nanomate
+rials research will also"
+MAT SCI 125,1,"Deposition, processing, and characterization of thin films a
+nd their technological applications. Physical and chemical v
+apor deposition methods. Thin-film nucleation and growth. Th
+ermal and ion processing. Microstructural development in epi
+taxial, polycrystalline, and amorphous films. Thin-film char
+acterization techniques. Applications in information storage
+, integrated circuits, and optoelectronic devices. Laborator
+y demonstrations."
+MAT SCI 130,1,"This course provides a culminating experience for students a
+pproaching completion of the materials science and engineeri
+ng curriculum. Laboratory experiments are undertaken in a va
+riety of areas from the investigations on semiconductor mate
+rials to corrosion science and elucidate the relationships a
+mong structure, processing, properties, and performance. The
+ principles of materials selection in engineering design are
+ reviewed."
+MAT SCI 136,1,"In many, if not all, technologies, it is materials that play
+ a crucial, enabling role. This course examines potentially 
+sustainable technologies, and the materials properties that 
+enable them. The science at the basis of selected energy tec
+hnologies are examined and considered in case studies."
+MAT SCI 140,1,"This course introduces the fundamental principles needed to 
+understand the behavior of materials at the nanometer length
+ scale and the different classes of nanomaterials with appli
+cations ranging from information technology to biotechnology
+. Topics include introduction to different classes of nanoma
+terials, synthesis and characterization of nanomaterials, an
+d the electronic, magnetic, optical, and mechanical properti
+es of nanomaterials."
+MAT SCI C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+MAT SCI 151,1,"This course is designed for upper division undergraduate and
+ graduate students to gain a fundamental understanding of th
+e science of polymeric materials. Beginning with a treatment
+ of ideal polymeric chain conformations, it develops the the
+rmodynamics of polmyer blends and solutions, the modeling of
+ polymer networks and gelations, the dynamics of polymer cha
+ins, and the morphologies of thin films and other dimensiona
+lly-restricted structures"
+MAT SCI H194,1,"Students who have completed a satisfactory number of advance
+d courses with a grade-point average of 3.3 or higher may pu
+rsue original research under the direction of one of the mem
+bers of the staff. A maximum of 3 units of H194 may be used 
+to fulfill technical elective requirements in the Materials 
+Science and Engineering program or double majors (unlike 198
+ or 199, which do not satisfy technical elective requirement
+s). Final report required"
+MAT SCI 195,1,"Group study of special topics in materials science and engin
+eering. Selection of topics for further study of underlying 
+concepts and relevent literature, in consultion with appropr
+iate faculty members."
 MAT SCI 198,1,Group studies of selected topics.
-MAT SCI 199,1,Supervised independent study. Enrollment restrictions apply; see the Introduction to Courses and Curricula section of this catalog.
+MAT SCI 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the Introduction to Courses and Curricula section of th
+is catalog."
+EL ENG 24,1,"Terms offered: Fall 2017, Spring 2017, Spring 2016"
+EL ENG 25,1,Terms offered: Fall 2011
+EL ENG 39,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 42,1,"Terms offered: Fall 2013, Summer 2013 8 Week Session, Spring
+ 2013"
+EL ENG 49,1,"Terms offered: Spring 2020, Spring 2019, Fall 2018"
+EL ENG 84,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 97,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 98,1,"Terms offered: Fall 2016, Spring 2016, Fall 2015"
+EL ENG 99,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 105,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG C106A,1,"Terms offered: Fall 2017, Fall 2016, Fall 2015"
+EL ENG C106B,1,"Terms offered: Spring 2017, Spring 2016"
+EL ENG 113,1,"Terms offered: Fall 2019, Spring 2019, Spring 2018"
+EL ENG 117,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 118,1,"Terms offered: Fall 2019, Spring 2019, Fall 2017"
+EL ENG 120,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 121,1,"Terms offered: Spring 2016, Fall 2014, Fall 2013"
+EL ENG 122,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 123,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 126,1,"Terms offered: Spring 2017, Fall 2016, Spring 2016"
+EL ENG C128,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 130,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 134,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 137A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 137B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 140,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 142,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 143,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 144,1,"Terms offered: Fall 2015, Fall 2014, Fall 2013"
+EL ENG C145B,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG C145L,1,"Terms offered: Fall 2014, Fall 2013, Fall 2012"
+EL ENG C145M,1,"Terms offered: Spring 2013, Spring 2012, Spring 2011"
+EL ENG C145O,1,"Terms offered: Spring 2015, Spring 2014, Spring 2013, Spring
+ 2012"
+EL ENG 146L,1,Terms offered: Spring 2015
+EL ENG 147,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 192,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 194,1,"Terms offered: Spring 2020, Fall 2018, Spring 2018"
+EL ENG H196A,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG H196B,1,"Terms offered: Spring 2016, Spring 2015, Spring 2014"
+EL ENG 197,1,"Terms offered: Spring 2018, Spring 2016, Fall 2015"
+EL ENG 198,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+EL ENG 199,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+MAT SCI 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to 20 freshmen."
+MAT SCI 45,1,"Application of basic principles of physics and chemistry to 
+the engineering properties of materials. Emphasis on establi
+shing structure, property, processing, and performance inter
+relationships in metals, ceramics, and polymers. While core 
+concepts are fully covered each semester, examples and conte
+xtualization in Fall editions focuses on metals, ceramics, a
+nd functional/electronic properties and in Spring editions o
+n polymers and soft-mat"
+MAT SCI 45L,1,"This course presents laboratory applications of the basic pr
+inciples introduced in the lecture-based course MSE45 – Prop
+erties of Materials."
+MAT SCI 102,1,"Bonding in solids; classification of metals, semiconductors,
+ and insulators; crystal systems; point, line, and planar de
+fects in crystals; examples of crystallographic and defect a
+nalysis in engineering materials; relationship to physical a
+nd mechanical properties."
+MAT SCI 103,1,"The nature, mechanisms, and kinetics of phase transformation
+s and microstructural changes in the solid state. Atom diffu
+sion in solids. Phase transformations through the nucleation
+ and growth of new matrix or precipitate phases. Martensitic
+ transformations, spinodal decomposition. The use of phase t
+ransformations to control microstructure."
+MAT SCI 104,1,"This 3-unit course will cover basic principles and technique
+s used for the characterization of engineering materials. Th
+e course is designed to introduce undergraduate students to 
+the basic principles of structural, chemical and property ch
+aracterization techniques. The course is grounded in modern 
+x-ray diffraction and electron microscopy techniques for cha
+racterization of the chemical and structural properties of a
+ material. The course"
+MAT SCI 104L,1,"This 1-unit laboratory course covers X-ray diffraction (XRD)
+, scanning electron microscopy (SEM), and transmission elect
+ron microscopy (TEM), as well as lab writeup protocols and a
+cademic integrity. Students will get hands-on experience usi
+ng the XRD, SEM and TEM equipment to perform microstructural
+ characterization of materials. Students will also design an
+d run their own project on a topic of their choosing."
+MAT SCI 111,1,"Introduction to the physical principles underlying the elect
+ric properties of modern solids with emphasis on semiconduct
+ors; control of defects and impurities through physical puri
+fication, bulk and thin film crystal growth and doping proce
+sses, materials basis of electronic and optoelectronic devic
+es (diodes, transistors, semiconductor lasers) and optical f
+ibers; properties of metal and oxide superconductors and the
+ir applications."
+MAT SCI 112,1,"Electrochemical theory of corrosion. Mechanisms and rates in
+ relation to physiochemical and metallurgical factors. Stres
+s corrosion and mechanical influences on corrosion. Corrosio
+n protection by design, inhibition, cathodic protection, and
+ coatings."
+MAT SCI 113,1,"This course covers elastic and plastic deformation under sta
+tic and dynamic loads. Prediction and prevention of failure 
+by yielding, fracture, fatigue, wear and environmental facto
+rs are addressed. Design issues pertaining to materials sele
+ction for load bearing applications are discussed. Case stud
+ies of engineering failures are presented. Topics include en
+gineering materials, structure-property relationships, mater
+ials selection for design, mechanical"
+MAT SCI 117,1,"Introduction to the physical principles underlying the diele
+ctric and magnetic properties of solids. Processing-microstr
+ucture-property relationships of dielectric materials, inclu
+ding piezoelectric, pryoelectric, and ferroelectric oxides, 
+and of magnetic materials, including hard- and soft ferromag
+nets, ferrites and magneto-optic and -resistive materials. T
+he course also covers the properties of grain boundary devic
+es (including varistors)"
+MAT SCI C118,1,"This course is intended to give students the opportunity to 
+expand their knowledge of topics related to biomedical mater
+ials selection and design. Structure-property relationships 
+of biomedical materials and their interaction with biologica
+l systems will be addressed. Applications of the concepts de
+veloped include blood-materials compatibility, biomimetic ma
+terials, hard and soft tissue-materials interactions, drug d
+elivery, tissue engineering"
+MAT SCI 120,1,"Economic and technological significance of metals and other 
+materials. Elementary geology (composition of lithosphere, m
+ineralization). Short survey of mining and mineral processin
+g techniques. Review of chemical thermodynamics and reaction
+ kinetics. Principles of process engineering including mater
+ial, heat, and mechanical energy balances. Elementary heat t
+ransfer, fluid flow, and mass transfer. Electrolytic product
+ion and refining of metals."
+MAT SCI 121,1,"The principles of metals processing with emphasis on the use
+ of processing to establish microstructures which impart des
+irable engineering properties. The techniques discussed incl
+ude solidification, thermal and mechanical processing, powde
+r processing, welding and joining, and surface treatments."
+MAT SCI 122,1,"Powder fabrication by grinding and chemical methods, rheolog
+ical behavior of powder-fluid suspensions, forming methods, 
+drying, sintering, and grain growth. Relation of processing 
+steps to microstructure development."
+MAT SCI 123,1,"This 4-unit course starts with a brief review of the fundame
+ntals of solid-state physics including bands and defects in 
+semiconductors and oxides, and then moves to bulk semiconduc
+tor crystals growth and processing including doping, diffusi
+on and implantation, and then to thin film deposition and pr
+ocessing methods, and finishes with a discussion of material
+s analysis and characterization. Recent advances in nanomate
+rials research will also"
+MAT SCI 125,1,"Deposition, processing, and characterization of thin films a
+nd their technological applications. Physical and chemical v
+apor deposition methods. Thin-film nucleation and growth. Th
+ermal and ion processing. Microstructural development in epi
+taxial, polycrystalline, and amorphous films. Thin-film char
+acterization techniques. Applications in information storage
+, integrated circuits, and optoelectronic devices. Laborator
+y demonstrations."
+MAT SCI 130,1,"This course provides a culminating experience for students a
+pproaching completion of the materials science and engineeri
+ng curriculum. Laboratory experiments are undertaken in a va
+riety of areas from the investigations on semiconductor mate
+rials to corrosion science and elucidate the relationships a
+mong structure, processing, properties, and performance. The
+ principles of materials selection in engineering design are
+ reviewed."
+MAT SCI 136,1,"In many, if not all, technologies, it is materials that play
+ a crucial, enabling role. This course examines potentially 
+sustainable technologies, and the materials properties that 
+enable them. The science at the basis of selected energy tec
+hnologies are examined and considered in case studies."
+MAT SCI 140,1,"This course introduces the fundamental principles needed to 
+understand the behavior of materials at the nanometer length
+ scale and the different classes of nanomaterials with appli
+cations ranging from information technology to biotechnology
+. Topics include introduction to different classes of nanoma
+terials, synthesis and characterization of nanomaterials, an
+d the electronic, magnetic, optical, and mechanical properti
+es of nanomaterials."
+MAT SCI C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+MAT SCI 151,1,"This course is designed for upper division undergraduate and
+ graduate students to gain a fundamental understanding of th
+e science of polymeric materials. Beginning with a treatment
+ of ideal polymeric chain conformations, it develops the the
+rmodynamics of polmyer blends and solutions, the modeling of
+ polymer networks and gelations, the dynamics of polymer cha
+ins, and the morphologies of thin films and other dimensiona
+lly-restricted structures"
+MAT SCI H194,1,"Students who have completed a satisfactory number of advance
+d courses with a grade-point average of 3.3 or higher may pu
+rsue original research under the direction of one of the mem
+bers of the staff. A maximum of 3 units of H194 may be used 
+to fulfill technical elective requirements in the Materials 
+Science and Engineering program or double majors (unlike 198
+ or 199, which do not satisfy technical elective requirement
+s). Final report required"
+MAT SCI 195,1,"Group study of special topics in materials science and engin
+eering. Selection of topics for further study of underlying 
+concepts and relevent literature, in consultion with appropr
+iate faculty members."
+MAT SCI 198,1,Group studies of selected topics.
+MAT SCI 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the Introduction to Courses and Curricula section of th
+is catalog."
+EL ENG 24,1,"Terms offered: Fall 2017, Spring 2017, Spring 2016"
+EL ENG 25,1,Terms offered: Fall 2011
+EL ENG 39,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 42,1,"Terms offered: Fall 2013, Summer 2013 8 Week Session, Spring
+ 2013"
+EL ENG 49,1,"Terms offered: Spring 2020, Spring 2019, Fall 2018"
+EL ENG 84,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 97,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 98,1,"Terms offered: Fall 2016, Spring 2016, Fall 2015"
+EL ENG 99,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 105,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG C106A,1,"Terms offered: Fall 2017, Fall 2016, Fall 2015"
+EL ENG C106B,1,"Terms offered: Spring 2017, Spring 2016"
+EL ENG 113,1,"Terms offered: Fall 2019, Spring 2019, Spring 2018"
+EL ENG 117,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 118,1,"Terms offered: Fall 2019, Spring 2019, Fall 2017"
+EL ENG 120,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 121,1,"Terms offered: Spring 2016, Fall 2014, Fall 2013"
+EL ENG 122,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 123,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 126,1,"Terms offered: Spring 2017, Fall 2016, Spring 2016"
+EL ENG C128,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 130,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 134,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 137A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 137B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 140,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 142,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 143,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 144,1,"Terms offered: Fall 2015, Fall 2014, Fall 2013"
+EL ENG C145B,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG C145L,1,"Terms offered: Fall 2014, Fall 2013, Fall 2012"
+EL ENG C145M,1,"Terms offered: Spring 2013, Spring 2012, Spring 2011"
+EL ENG C145O,1,"Terms offered: Spring 2015, Spring 2014, Spring 2013, Spring
+ 2012"
+EL ENG 146L,1,Terms offered: Spring 2015
+EL ENG 147,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 192,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 194,1,"Terms offered: Spring 2020, Fall 2018, Spring 2018"
+EL ENG H196A,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG H196B,1,"Terms offered: Spring 2016, Spring 2015, Spring 2014"
+EL ENG 197,1,"Terms offered: Spring 2018, Spring 2016, Fall 2015"
+EL ENG 198,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+EL ENG 199,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+MAT SCI 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to 20 freshmen."
+MAT SCI 45,1,"Application of basic principles of physics and chemistry to 
+the engineering properties of materials. Emphasis on establi
+shing structure, property, processing, and performance inter
+relationships in metals, ceramics, and polymers. While core 
+concepts are fully covered each semester, examples and conte
+xtualization in Fall editions focuses on metals, ceramics, a
+nd functional/electronic properties and in Spring editions o
+n polymers and soft-mat"
+MAT SCI 45L,1,"This course presents laboratory applications of the basic pr
+inciples introduced in the lecture-based course MSE45 – Prop
+erties of Materials."
+MAT SCI 102,1,"Bonding in solids; classification of metals, semiconductors,
+ and insulators; crystal systems; point, line, and planar de
+fects in crystals; examples of crystallographic and defect a
+nalysis in engineering materials; relationship to physical a
+nd mechanical properties."
+MAT SCI 103,1,"The nature, mechanisms, and kinetics of phase transformation
+s and microstructural changes in the solid state. Atom diffu
+sion in solids. Phase transformations through the nucleation
+ and growth of new matrix or precipitate phases. Martensitic
+ transformations, spinodal decomposition. The use of phase t
+ransformations to control microstructure."
+MAT SCI 104,1,"This 3-unit course will cover basic principles and technique
+s used for the characterization of engineering materials. Th
+e course is designed to introduce undergraduate students to 
+the basic principles of structural, chemical and property ch
+aracterization techniques. The course is grounded in modern 
+x-ray diffraction and electron microscopy techniques for cha
+racterization of the chemical and structural properties of a
+ material. The course"
+MAT SCI 104L,1,"This 1-unit laboratory course covers X-ray diffraction (XRD)
+, scanning electron microscopy (SEM), and transmission elect
+ron microscopy (TEM), as well as lab writeup protocols and a
+cademic integrity. Students will get hands-on experience usi
+ng the XRD, SEM and TEM equipment to perform microstructural
+ characterization of materials. Students will also design an
+d run their own project on a topic of their choosing."
+MAT SCI 111,1,"Introduction to the physical principles underlying the elect
+ric properties of modern solids with emphasis on semiconduct
+ors; control of defects and impurities through physical puri
+fication, bulk and thin film crystal growth and doping proce
+sses, materials basis of electronic and optoelectronic devic
+es (diodes, transistors, semiconductor lasers) and optical f
+ibers; properties of metal and oxide superconductors and the
+ir applications."
+MAT SCI 112,1,"Electrochemical theory of corrosion. Mechanisms and rates in
+ relation to physiochemical and metallurgical factors. Stres
+s corrosion and mechanical influences on corrosion. Corrosio
+n protection by design, inhibition, cathodic protection, and
+ coatings."
+MAT SCI 113,1,"This course covers elastic and plastic deformation under sta
+tic and dynamic loads. Prediction and prevention of failure 
+by yielding, fracture, fatigue, wear and environmental facto
+rs are addressed. Design issues pertaining to materials sele
+ction for load bearing applications are discussed. Case stud
+ies of engineering failures are presented. Topics include en
+gineering materials, structure-property relationships, mater
+ials selection for design, mechanical"
+MAT SCI 117,1,"Introduction to the physical principles underlying the diele
+ctric and magnetic properties of solids. Processing-microstr
+ucture-property relationships of dielectric materials, inclu
+ding piezoelectric, pryoelectric, and ferroelectric oxides, 
+and of magnetic materials, including hard- and soft ferromag
+nets, ferrites and magneto-optic and -resistive materials. T
+he course also covers the properties of grain boundary devic
+es (including varistors)"
+MAT SCI C118,1,"This course is intended to give students the opportunity to 
+expand their knowledge of topics related to biomedical mater
+ials selection and design. Structure-property relationships 
+of biomedical materials and their interaction with biologica
+l systems will be addressed. Applications of the concepts de
+veloped include blood-materials compatibility, biomimetic ma
+terials, hard and soft tissue-materials interactions, drug d
+elivery, tissue engineering"
+MAT SCI 120,1,"Economic and technological significance of metals and other 
+materials. Elementary geology (composition of lithosphere, m
+ineralization). Short survey of mining and mineral processin
+g techniques. Review of chemical thermodynamics and reaction
+ kinetics. Principles of process engineering including mater
+ial, heat, and mechanical energy balances. Elementary heat t
+ransfer, fluid flow, and mass transfer. Electrolytic product
+ion and refining of metals."
+MAT SCI 121,1,"The principles of metals processing with emphasis on the use
+ of processing to establish microstructures which impart des
+irable engineering properties. The techniques discussed incl
+ude solidification, thermal and mechanical processing, powde
+r processing, welding and joining, and surface treatments."
+MAT SCI 122,1,"Powder fabrication by grinding and chemical methods, rheolog
+ical behavior of powder-fluid suspensions, forming methods, 
+drying, sintering, and grain growth. Relation of processing 
+steps to microstructure development."
+MAT SCI 123,1,"This 4-unit course starts with a brief review of the fundame
+ntals of solid-state physics including bands and defects in 
+semiconductors and oxides, and then moves to bulk semiconduc
+tor crystals growth and processing including doping, diffusi
+on and implantation, and then to thin film deposition and pr
+ocessing methods, and finishes with a discussion of material
+s analysis and characterization. Recent advances in nanomate
+rials research will also"
+MAT SCI 125,1,"Deposition, processing, and characterization of thin films a
+nd their technological applications. Physical and chemical v
+apor deposition methods. Thin-film nucleation and growth. Th
+ermal and ion processing. Microstructural development in epi
+taxial, polycrystalline, and amorphous films. Thin-film char
+acterization techniques. Applications in information storage
+, integrated circuits, and optoelectronic devices. Laborator
+y demonstrations."
+MAT SCI 130,1,"This course provides a culminating experience for students a
+pproaching completion of the materials science and engineeri
+ng curriculum. Laboratory experiments are undertaken in a va
+riety of areas from the investigations on semiconductor mate
+rials to corrosion science and elucidate the relationships a
+mong structure, processing, properties, and performance. The
+ principles of materials selection in engineering design are
+ reviewed."
+MAT SCI 136,1,"In many, if not all, technologies, it is materials that play
+ a crucial, enabling role. This course examines potentially 
+sustainable technologies, and the materials properties that 
+enable them. The science at the basis of selected energy tec
+hnologies are examined and considered in case studies."
+MAT SCI 140,1,"This course introduces the fundamental principles needed to 
+understand the behavior of materials at the nanometer length
+ scale and the different classes of nanomaterials with appli
+cations ranging from information technology to biotechnology
+. Topics include introduction to different classes of nanoma
+terials, synthesis and characterization of nanomaterials, an
+d the electronic, magnetic, optical, and mechanical properti
+es of nanomaterials."
+MAT SCI C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+MAT SCI 151,1,"This course is designed for upper division undergraduate and
+ graduate students to gain a fundamental understanding of th
+e science of polymeric materials. Beginning with a treatment
+ of ideal polymeric chain conformations, it develops the the
+rmodynamics of polmyer blends and solutions, the modeling of
+ polymer networks and gelations, the dynamics of polymer cha
+ins, and the morphologies of thin films and other dimensiona
+lly-restricted structures"
+MAT SCI H194,1,"Students who have completed a satisfactory number of advance
+d courses with a grade-point average of 3.3 or higher may pu
+rsue original research under the direction of one of the mem
+bers of the staff. A maximum of 3 units of H194 may be used 
+to fulfill technical elective requirements in the Materials 
+Science and Engineering program or double majors (unlike 198
+ or 199, which do not satisfy technical elective requirement
+s). Final report required"
+MAT SCI 195,1,"Group study of special topics in materials science and engin
+eering. Selection of topics for further study of underlying 
+concepts and relevent literature, in consultion with appropr
+iate faculty members."
+MAT SCI 198,1,Group studies of selected topics.
+MAT SCI 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the Introduction to Courses and Curricula section of th
+is catalog."
+EL ENG 24,1,"Terms offered: Fall 2017, Spring 2017, Spring 2016"
+EL ENG 25,1,Terms offered: Fall 2011
+EL ENG 39,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 42,1,"Terms offered: Fall 2013, Summer 2013 8 Week Session, Spring
+ 2013"
+EL ENG 49,1,"Terms offered: Spring 2020, Spring 2019, Fall 2018"
+EL ENG 84,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 97,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 98,1,"Terms offered: Fall 2016, Spring 2016, Fall 2015"
+EL ENG 99,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 105,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG C106A,1,"Terms offered: Fall 2017, Fall 2016, Fall 2015"
+EL ENG C106B,1,"Terms offered: Spring 2017, Spring 2016"
+EL ENG 113,1,"Terms offered: Fall 2019, Spring 2019, Spring 2018"
+EL ENG 117,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 118,1,"Terms offered: Fall 2019, Spring 2019, Fall 2017"
+EL ENG 120,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 121,1,"Terms offered: Spring 2016, Fall 2014, Fall 2013"
+EL ENG 122,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 123,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 126,1,"Terms offered: Spring 2017, Fall 2016, Spring 2016"
+EL ENG C128,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 130,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 134,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 137A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 137B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 140,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 142,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 143,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 144,1,"Terms offered: Fall 2015, Fall 2014, Fall 2013"
+EL ENG C145B,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG C145L,1,"Terms offered: Fall 2014, Fall 2013, Fall 2012"
+EL ENG C145M,1,"Terms offered: Spring 2013, Spring 2012, Spring 2011"
+EL ENG C145O,1,"Terms offered: Spring 2015, Spring 2014, Spring 2013, Spring
+ 2012"
+EL ENG 146L,1,Terms offered: Spring 2015
+EL ENG 147,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 192,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 194,1,"Terms offered: Spring 2020, Fall 2018, Spring 2018"
+EL ENG H196A,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG H196B,1,"Terms offered: Spring 2016, Spring 2015, Spring 2014"
+EL ENG 197,1,"Terms offered: Spring 2018, Spring 2016, Fall 2015"
+EL ENG 198,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+EL ENG 199,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+MAT SCI 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to 20 freshmen."
+MAT SCI 45,1,"Application of basic principles of physics and chemistry to 
+the engineering properties of materials. Emphasis on establi
+shing structure, property, processing, and performance inter
+relationships in metals, ceramics, and polymers. While core 
+concepts are fully covered each semester, examples and conte
+xtualization in Fall editions focuses on metals, ceramics, a
+nd functional/electronic properties and in Spring editions o
+n polymers and soft-mat"
+MAT SCI 45L,1,"This course presents laboratory applications of the basic pr
+inciples introduced in the lecture-based course MSE45 – Prop
+erties of Materials."
+MAT SCI 102,1,"Bonding in solids; classification of metals, semiconductors,
+ and insulators; crystal systems; point, line, and planar de
+fects in crystals; examples of crystallographic and defect a
+nalysis in engineering materials; relationship to physical a
+nd mechanical properties."
+MAT SCI 103,1,"The nature, mechanisms, and kinetics of phase transformation
+s and microstructural changes in the solid state. Atom diffu
+sion in solids. Phase transformations through the nucleation
+ and growth of new matrix or precipitate phases. Martensitic
+ transformations, spinodal decomposition. The use of phase t
+ransformations to control microstructure."
+MAT SCI 104,1,"This 3-unit course will cover basic principles and technique
+s used for the characterization of engineering materials. Th
+e course is designed to introduce undergraduate students to 
+the basic principles of structural, chemical and property ch
+aracterization techniques. The course is grounded in modern 
+x-ray diffraction and electron microscopy techniques for cha
+racterization of the chemical and structural properties of a
+ material. The course"
+MAT SCI 104L,1,"This 1-unit laboratory course covers X-ray diffraction (XRD)
+, scanning electron microscopy (SEM), and transmission elect
+ron microscopy (TEM), as well as lab writeup protocols and a
+cademic integrity. Students will get hands-on experience usi
+ng the XRD, SEM and TEM equipment to perform microstructural
+ characterization of materials. Students will also design an
+d run their own project on a topic of their choosing."
+MAT SCI 111,1,"Introduction to the physical principles underlying the elect
+ric properties of modern solids with emphasis on semiconduct
+ors; control of defects and impurities through physical puri
+fication, bulk and thin film crystal growth and doping proce
+sses, materials basis of electronic and optoelectronic devic
+es (diodes, transistors, semiconductor lasers) and optical f
+ibers; properties of metal and oxide superconductors and the
+ir applications."
+MAT SCI 112,1,"Electrochemical theory of corrosion. Mechanisms and rates in
+ relation to physiochemical and metallurgical factors. Stres
+s corrosion and mechanical influences on corrosion. Corrosio
+n protection by design, inhibition, cathodic protection, and
+ coatings."
+MAT SCI 113,1,"This course covers elastic and plastic deformation under sta
+tic and dynamic loads. Prediction and prevention of failure 
+by yielding, fracture, fatigue, wear and environmental facto
+rs are addressed. Design issues pertaining to materials sele
+ction for load bearing applications are discussed. Case stud
+ies of engineering failures are presented. Topics include en
+gineering materials, structure-property relationships, mater
+ials selection for design, mechanical"
+MAT SCI 117,1,"Introduction to the physical principles underlying the diele
+ctric and magnetic properties of solids. Processing-microstr
+ucture-property relationships of dielectric materials, inclu
+ding piezoelectric, pryoelectric, and ferroelectric oxides, 
+and of magnetic materials, including hard- and soft ferromag
+nets, ferrites and magneto-optic and -resistive materials. T
+he course also covers the properties of grain boundary devic
+es (including varistors)"
+MAT SCI C118,1,"This course is intended to give students the opportunity to 
+expand their knowledge of topics related to biomedical mater
+ials selection and design. Structure-property relationships 
+of biomedical materials and their interaction with biologica
+l systems will be addressed. Applications of the concepts de
+veloped include blood-materials compatibility, biomimetic ma
+terials, hard and soft tissue-materials interactions, drug d
+elivery, tissue engineering"
+MAT SCI 120,1,"Economic and technological significance of metals and other 
+materials. Elementary geology (composition of lithosphere, m
+ineralization). Short survey of mining and mineral processin
+g techniques. Review of chemical thermodynamics and reaction
+ kinetics. Principles of process engineering including mater
+ial, heat, and mechanical energy balances. Elementary heat t
+ransfer, fluid flow, and mass transfer. Electrolytic product
+ion and refining of metals."
+MAT SCI 121,1,"The principles of metals processing with emphasis on the use
+ of processing to establish microstructures which impart des
+irable engineering properties. The techniques discussed incl
+ude solidification, thermal and mechanical processing, powde
+r processing, welding and joining, and surface treatments."
+MAT SCI 122,1,"Powder fabrication by grinding and chemical methods, rheolog
+ical behavior of powder-fluid suspensions, forming methods, 
+drying, sintering, and grain growth. Relation of processing 
+steps to microstructure development."
+MAT SCI 123,1,"This 4-unit course starts with a brief review of the fundame
+ntals of solid-state physics including bands and defects in 
+semiconductors and oxides, and then moves to bulk semiconduc
+tor crystals growth and processing including doping, diffusi
+on and implantation, and then to thin film deposition and pr
+ocessing methods, and finishes with a discussion of material
+s analysis and characterization. Recent advances in nanomate
+rials research will also"
+MAT SCI 125,1,"Deposition, processing, and characterization of thin films a
+nd their technological applications. Physical and chemical v
+apor deposition methods. Thin-film nucleation and growth. Th
+ermal and ion processing. Microstructural development in epi
+taxial, polycrystalline, and amorphous films. Thin-film char
+acterization techniques. Applications in information storage
+, integrated circuits, and optoelectronic devices. Laborator
+y demonstrations."
+MAT SCI 130,1,"This course provides a culminating experience for students a
+pproaching completion of the materials science and engineeri
+ng curriculum. Laboratory experiments are undertaken in a va
+riety of areas from the investigations on semiconductor mate
+rials to corrosion science and elucidate the relationships a
+mong structure, processing, properties, and performance. The
+ principles of materials selection in engineering design are
+ reviewed."
+MAT SCI 136,1,"In many, if not all, technologies, it is materials that play
+ a crucial, enabling role. This course examines potentially 
+sustainable technologies, and the materials properties that 
+enable them. The science at the basis of selected energy tec
+hnologies are examined and considered in case studies."
+MAT SCI 140,1,"This course introduces the fundamental principles needed to 
+understand the behavior of materials at the nanometer length
+ scale and the different classes of nanomaterials with appli
+cations ranging from information technology to biotechnology
+. Topics include introduction to different classes of nanoma
+terials, synthesis and characterization of nanomaterials, an
+d the electronic, magnetic, optical, and mechanical properti
+es of nanomaterials."
+MAT SCI C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+MAT SCI 151,1,"This course is designed for upper division undergraduate and
+ graduate students to gain a fundamental understanding of th
+e science of polymeric materials. Beginning with a treatment
+ of ideal polymeric chain conformations, it develops the the
+rmodynamics of polmyer blends and solutions, the modeling of
+ polymer networks and gelations, the dynamics of polymer cha
+ins, and the morphologies of thin films and other dimensiona
+lly-restricted structures"
+MAT SCI H194,1,"Students who have completed a satisfactory number of advance
+d courses with a grade-point average of 3.3 or higher may pu
+rsue original research under the direction of one of the mem
+bers of the staff. A maximum of 3 units of H194 may be used 
+to fulfill technical elective requirements in the Materials 
+Science and Engineering program or double majors (unlike 198
+ or 199, which do not satisfy technical elective requirement
+s). Final report required"
+MAT SCI 195,1,"Group study of special topics in materials science and engin
+eering. Selection of topics for further study of underlying 
+concepts and relevent literature, in consultion with appropr
+iate faculty members."
+MAT SCI 198,1,Group studies of selected topics.
+MAT SCI 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the Introduction to Courses and Curricula section of th
+is catalog."
+EL ENG 24,1,"Terms offered: Fall 2017, Spring 2017, Spring 2016"
+EL ENG 25,1,Terms offered: Fall 2011
+EL ENG 39,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 42,1,"Terms offered: Fall 2013, Summer 2013 8 Week Session, Spring
+ 2013"
+EL ENG 49,1,"Terms offered: Spring 2020, Spring 2019, Fall 2018"
+EL ENG 84,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 97,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 98,1,"Terms offered: Fall 2016, Spring 2016, Fall 2015"
+EL ENG 99,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG 105,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG C106A,1,"Terms offered: Fall 2017, Fall 2016, Fall 2015"
+EL ENG C106B,1,"Terms offered: Spring 2017, Spring 2016"
+EL ENG 113,1,"Terms offered: Fall 2019, Spring 2019, Spring 2018"
+EL ENG 117,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 118,1,"Terms offered: Fall 2019, Spring 2019, Fall 2017"
+EL ENG 120,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 121,1,"Terms offered: Spring 2016, Fall 2014, Fall 2013"
+EL ENG 122,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 123,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 126,1,"Terms offered: Spring 2017, Fall 2016, Spring 2016"
+EL ENG C128,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 130,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 134,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 137A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 137B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 140,1,"Terms offered: Spring 2020, Fall 2019, Fall 2018"
+EL ENG 142,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 143,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+EL ENG 144,1,"Terms offered: Fall 2015, Fall 2014, Fall 2013"
+EL ENG C145B,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG C145L,1,"Terms offered: Fall 2014, Fall 2013, Fall 2012"
+EL ENG C145M,1,"Terms offered: Spring 2013, Spring 2012, Spring 2011"
+EL ENG C145O,1,"Terms offered: Spring 2015, Spring 2014, Spring 2013, Spring
+ 2012"
+EL ENG 146L,1,Terms offered: Spring 2015
+EL ENG 147,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+EL ENG 192,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+EL ENG 194,1,"Terms offered: Spring 2020, Fall 2018, Spring 2018"
+EL ENG H196A,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+EL ENG H196B,1,"Terms offered: Spring 2016, Spring 2015, Spring 2014"
+EL ENG 197,1,"Terms offered: Spring 2018, Spring 2016, Fall 2015"
+EL ENG 198,1,"Terms offered: Spring 2019, Fall 2018, Spring 2018"
+EL ENG 199,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+MAT SCI 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to 20 freshmen."
+MAT SCI 45,1,"Application of basic principles of physics and chemistry to 
+the engineering properties of materials. Emphasis on establi
+shing structure, property, processing, and performance inter
+relationships in metals, ceramics, and polymers. While core 
+concepts are fully covered each semester, examples and conte
+xtualization in Fall editions focuses on metals, ceramics, a
+nd functional/electronic properties and in Spring editions o
+n polymers and soft-mat"
+MAT SCI 45L,1,"This course presents laboratory applications of the basic pr
+inciples introduced in the lecture-based course MSE45 – Prop
+erties of Materials."
+MAT SCI 102,1,"Bonding in solids; classification of metals, semiconductors,
+ and insulators; crystal systems; point, line, and planar de
+fects in crystals; examples of crystallographic and defect a
+nalysis in engineering materials; relationship to physical a
+nd mechanical properties."
+MAT SCI 103,1,"The nature, mechanisms, and kinetics of phase transformation
+s and microstructural changes in the solid state. Atom diffu
+sion in solids. Phase transformations through the nucleation
+ and growth of new matrix or precipitate phases. Martensitic
+ transformations, spinodal decomposition. The use of phase t
+ransformations to control microstructure."
+MAT SCI 104,1,"This 3-unit course will cover basic principles and technique
+s used for the characterization of engineering materials. Th
+e course is designed to introduce undergraduate students to 
+the basic principles of structural, chemical and property ch
+aracterization techniques. The course is grounded in modern 
+x-ray diffraction and electron microscopy techniques for cha
+racterization of the chemical and structural properties of a
+ material. The course"
+MAT SCI 104L,1,"This 1-unit laboratory course covers X-ray diffraction (XRD)
+, scanning electron microscopy (SEM), and transmission elect
+ron microscopy (TEM), as well as lab writeup protocols and a
+cademic integrity. Students will get hands-on experience usi
+ng the XRD, SEM and TEM equipment to perform microstructural
+ characterization of materials. Students will also design an
+d run their own project on a topic of their choosing."
+MAT SCI 111,1,"Introduction to the physical principles underlying the elect
+ric properties of modern solids with emphasis on semiconduct
+ors; control of defects and impurities through physical puri
+fication, bulk and thin film crystal growth and doping proce
+sses, materials basis of electronic and optoelectronic devic
+es (diodes, transistors, semiconductor lasers) and optical f
+ibers; properties of metal and oxide superconductors and the
+ir applications."
+MAT SCI 112,1,"Electrochemical theory of corrosion. Mechanisms and rates in
+ relation to physiochemical and metallurgical factors. Stres
+s corrosion and mechanical influences on corrosion. Corrosio
+n protection by design, inhibition, cathodic protection, and
+ coatings."
+MAT SCI 113,1,"This course covers elastic and plastic deformation under sta
+tic and dynamic loads. Prediction and prevention of failure 
+by yielding, fracture, fatigue, wear and environmental facto
+rs are addressed. Design issues pertaining to materials sele
+ction for load bearing applications are discussed. Case stud
+ies of engineering failures are presented. Topics include en
+gineering materials, structure-property relationships, mater
+ials selection for design, mechanical"
+MAT SCI 117,1,"Introduction to the physical principles underlying the diele
+ctric and magnetic properties of solids. Processing-microstr
+ucture-property relationships of dielectric materials, inclu
+ding piezoelectric, pryoelectric, and ferroelectric oxides, 
+and of magnetic materials, including hard- and soft ferromag
+nets, ferrites and magneto-optic and -resistive materials. T
+he course also covers the properties of grain boundary devic
+es (including varistors)"
+MAT SCI C118,1,"This course is intended to give students the opportunity to 
+expand their knowledge of topics related to biomedical mater
+ials selection and design. Structure-property relationships 
+of biomedical materials and their interaction with biologica
+l systems will be addressed. Applications of the concepts de
+veloped include blood-materials compatibility, biomimetic ma
+terials, hard and soft tissue-materials interactions, drug d
+elivery, tissue engineering"
+MAT SCI 120,1,"Economic and technological significance of metals and other 
+materials. Elementary geology (composition of lithosphere, m
+ineralization). Short survey of mining and mineral processin
+g techniques. Review of chemical thermodynamics and reaction
+ kinetics. Principles of process engineering including mater
+ial, heat, and mechanical energy balances. Elementary heat t
+ransfer, fluid flow, and mass transfer. Electrolytic product
+ion and refining of metals."
+MAT SCI 121,1,"The principles of metals processing with emphasis on the use
+ of processing to establish microstructures which impart des
+irable engineering properties. The techniques discussed incl
+ude solidification, thermal and mechanical processing, powde
+r processing, welding and joining, and surface treatments."
+MAT SCI 122,1,"Powder fabrication by grinding and chemical methods, rheolog
+ical behavior of powder-fluid suspensions, forming methods, 
+drying, sintering, and grain growth. Relation of processing 
+steps to microstructure development."
+MAT SCI 123,1,"This 4-unit course starts with a brief review of the fundame
+ntals of solid-state physics including bands and defects in 
+semiconductors and oxides, and then moves to bulk semiconduc
+tor crystals growth and processing including doping, diffusi
+on and implantation, and then to thin film deposition and pr
+ocessing methods, and finishes with a discussion of material
+s analysis and characterization. Recent advances in nanomate
+rials research will also"
+MAT SCI 125,1,"Deposition, processing, and characterization of thin films a
+nd their technological applications. Physical and chemical v
+apor deposition methods. Thin-film nucleation and growth. Th
+ermal and ion processing. Microstructural development in epi
+taxial, polycrystalline, and amorphous films. Thin-film char
+acterization techniques. Applications in information storage
+, integrated circuits, and optoelectronic devices. Laborator
+y demonstrations."
+MAT SCI 130,1,"This course provides a culminating experience for students a
+pproaching completion of the materials science and engineeri
+ng curriculum. Laboratory experiments are undertaken in a va
+riety of areas from the investigations on semiconductor mate
+rials to corrosion science and elucidate the relationships a
+mong structure, processing, properties, and performance. The
+ principles of materials selection in engineering design are
+ reviewed."
+MAT SCI 136,1,"In many, if not all, technologies, it is materials that play
+ a crucial, enabling role. This course examines potentially 
+sustainable technologies, and the materials properties that 
+enable them. The science at the basis of selected energy tec
+hnologies are examined and considered in case studies."
+MAT SCI 140,1,"This course introduces the fundamental principles needed to 
+understand the behavior of materials at the nanometer length
+ scale and the different classes of nanomaterials with appli
+cations ranging from information technology to biotechnology
+. Topics include introduction to different classes of nanoma
+terials, synthesis and characterization of nanomaterials, an
+d the electronic, magnetic, optical, and mechanical properti
+es of nanomaterials."
+MAT SCI C150,1,"The application of basic chemical principles to problems in 
+materials discovery, design, and characterization will be di
+scussed. Topics covered will include inorganic solids, nanos
+cale materials, polymers, and biological materials, with spe
+cific focus on the ways in which atomic-level interactions d
+ictate the bulk properties of matter."
+MAT SCI 151,1,"This course is designed for upper division undergraduate and
+ graduate students to gain a fundamental understanding of th
+e science of polymeric materials. Beginning with a treatment
+ of ideal polymeric chain conformations, it develops the the
+rmodynamics of polmyer blends and solutions, the modeling of
+ polymer networks and gelations, the dynamics of polymer cha
+ins, and the morphologies of thin films and other dimensiona
+lly-restricted structures"
+MAT SCI H194,1,"Students who have completed a satisfactory number of advance
+d courses with a grade-point average of 3.3 or higher may pu
+rsue original research under the direction of one of the mem
+bers of the staff. A maximum of 3 units of H194 may be used 
+to fulfill technical elective requirements in the Materials 
+Science and Engineering program or double majors (unlike 198
+ or 199, which do not satisfy technical elective requirement
+s). Final report required"
+MAT SCI 195,1,"Group study of special topics in materials science and engin
+eering. Selection of topics for further study of underlying 
+concepts and relevent literature, in consultion with appropr
+iate faculty members."
+MAT SCI 198,1,Group studies of selected topics.
+MAT SCI 199,1,"Supervised independent study. Enrollment restrictions apply;
+ see the Introduction to Courses and Curricula section of th
+is catalog."

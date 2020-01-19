@@ -1,31 +1,861 @@
 name,size,about
-COG SCI 1,1,"This course introduces the interdisciplinary field of cognitive science. Lectures and readings will survey research from artificial intelligence, pyschology, linguistics, philosophy, and neuroscience, and will cover topics such as the nature of knowledge, thinking, remembering, vision, imagery, language, and consciousness. Sections will demonstrate some of the major methodologies."
-COG SCI 1B,1,"This course introduces the interdisciplinary field of cognitive science. Lectures and readings will survey research in such fields as artificial intelligence, psychology, linguistics, philosophy, and neuroscience, and will cover topics such as the nature of knowledge, thinking, remembering, vision, imagery, language, and consciousness."
-COG SCI N1,1,"This course introduces the interdisciplinary field of cognitive science. Lectures and readings will survey research in such fields as artificial intelligence, psychology, linguistics, philosophy, and neuroscience, and will cover topics such as the nature of knowledge, thinking, remembering, vision, imagery, language, and consciousness. Sections will demonstrate some of the major"
-COG SCI 88,1,"How does the human mind work? We explore this question by analyzing a range of data concerning such topics as human rationality and irrationality, human memory, how objects and events are represented in the mind, and the relation of language and cognition. This class provides students with critical thinking and computing skills that will allow them to work with data in cognitive science and related disciplines."
-COG SCI 98,1,Seminar for the group study of selected topics. Topics may be initiated by students subject to the approval of the major advisor.
+COG SCI 1,1,"This course introduces the interdisciplinary field of cognit
+ive science. Lectures and readings will survey research from
+ artificial intelligence, pyschology, linguistics, philosoph
+y, and neuroscience, and will cover topics such as the natur
+e of knowledge, thinking, remembering, vision, imagery, lang
+uage, and consciousness. Sections will demonstrate some of t
+he major methodologies."
+COG SCI 1B,1,"This course introduces the interdisciplinary field of cognit
+ive science. Lectures and readings will survey research in s
+uch fields as artificial intelligence, psychology, linguisti
+cs, philosophy, and neuroscience, and will cover topics such
+ as the nature of knowledge, thinking, remembering, vision, 
+imagery, language, and consciousness."
+COG SCI N1,1,"This course introduces the interdisciplinary field of cognit
+ive science. Lectures and readings will survey research in s
+uch fields as artificial intelligence, psychology, linguisti
+cs, philosophy, and neuroscience, and will cover topics such
+ as the nature of knowledge, thinking, remembering, vision, 
+imagery, language, and consciousness. Sections will demonstr
+ate some of the major"
+COG SCI 88,1,"How does the human mind work? We explore this question by an
+alyzing a range of data concerning such topics as human rati
+onality and irrationality, human memory, how objects and eve
+nts are represented in the mind, and the relation of languag
+e and cognition. This class provides students with critical 
+thinking and computing skills that will allow them to work w
+ith data in cognitive science and related disciplines."
+COG SCI 98,1,"Seminar for the group study of selected topics. Topics may b
+e initiated by students subject to the approval of the major
+ advisor."
 COG SCI 99,1,Independent study and research by arrangement with faculty.
-COG SCI C100,1,"Theoretical foundations and current controversies in cognitive science will be discussed. Basic issues in cognition--including perception, imagery, memory, categorization, thinking, judgment, and development--will be considered from the perspectives of philosophy, psychology, computer science, and physiology. Particular emphasis will be placed on the nature, implications, and limitations of the computational model of mind."
-COG SCI N100,1,"Theoretical foundations and current controversies in cognitive science will be discussed. Basic issues in cognition--including perception, imagery, memory, categorization, thinking, judgment, and development--will be considered from the perspectives of philosophy, psychology, computer science, and physiology. Particular emphasis will be placed on the nature, implications, and"
-COG SCI C101,1,"Conceptual systems and language from the perspective of cognitive science. How language gives insight into conceptual structure, reasoning, category-formation, metaphorical understanding, and the framing of experience. Cognitive versus formal linguistics. Implications from and for philosophy, anthropology, literature, artificial intelligence, and politics."
-COG SCI C102,1,"This course will examine the nature of human consciousness from the interdisciplinary perspective of cognitive science. It will cover topics from the philosophy of mind, cognitive linguistics, neuroscience, psychology, and computational models."
-COG SCI C126,1,"An introduction to principal theoretical constructs and experimental procedures in visual and auditory perception. Topics will include psychophysics; perception of color, space, shape, and motion; pattern recognition and perceptual attention."
-COG SCI C127,1,"This course will examine research investigating the neurological basis of cognition. Material covered will include the study of brain-injured patients, neurophysiological research in animals, and the study of normal cognitive processes in humans with non-invasive behavioral and physiological techniques such as functional Magnetic Resonance Imaging (fMRI), electroencephalography (EEG), and transcranial magnetic stimulation (TMS). Topics to be covered"
-COG SCI 131,1,"This course will provide advanced students in cognitive science and computer science with the skills to develop computational models of human cognition, giving insight into how people solve challenging computational problems, as well as how to bring computers closer to human performance. The course will explore three ways in which researchers have attempted to formalize cognition -- symbolic approaches, neural networks, and"
-COG SCI C131,1,"This course will provide advanced students in cognitive science and computer science with the skills to develop computational models of human cognition, giving insight into how people solve challenging computational problems, as well as how to bring computers closer to human performance. The course will explore three ways in which researchers have attempted to formalize cognition -- symbolic approaches, neural networks, and probability and statistics"
-COG SCI C140,1,An introduction to research using quantitative analysis in linguistics and cognitive science. Students will learn how to use the R programming environment for statistical analysis and data visualization.
-COG SCI C142,1,"This seminar explores the relation of language and thought. Is language uniquely human, and if so, what does this reveal about the human mind? Does the particular language you speak affect the way you think, or do human languages reflect a universal conceptual repertoire? The goal of this class is to familiarize you with a set of classic arguments on these themes, together with current research that evaluates these arguments, through weekly"
-COG SCI 144,1,"This class will explore language and the psychological and neurological processing related to language, language use, and cognition from the multidisciplinary perspective of cognitive science. This psycho-neuro-linguist approach will ask whether language is a unique system within the overall cognitive system, with its own specialized representations and operations, or whether language is more continuous with other cognition."
-COG SCI 150,1,"When something ""makes sense” or "" is organized” we are imposing or discovering order in the arrangement of concepts, events, or resources of some kind. Sensemaking and organizing are fundamental human activities that raise many multi- or trans-disciplinary questions about perception, knowledge, decision making, interaction with things and with other people, values and value creation. We will analyze sensemaking and organizing from four interrelated perspectives."
-COG SCI 170,1,"This course introduces students to the full range of brain damage causes, which are: traumatic brain injury (TBI) - civilian vs. military, chronic traumatic encephalopathy (CTE), stroke, tumors, infections, hypoxia, addiction, neurological, and congenital conditions. We understand how brain damage caused by each condition leads to localized and non-localized deficits in the key functions comprising cognition, emotion, physiology, social skills"
-COG SCI 171,1,"This course will explore genetic, environment, systems neuroscience to understand critical pathways that underlie the emergence of common diseases (Dementia), neuropathology of fear (Anxiety Disorders), neurodevelopmental disorders (ADHD, Autism), learning disabilities (e.g. Dyslexia), addiction (e.g. Alcoholism) and psychosis (Schizophrenia, Major Depressive Disorder). Seminal and current research will demonstrate how science and current technologies are transforming"
-COG SCI 172,1,"Cognitive Neuroscience has provided a paradigm shift in our understanding of brain structure and function. We have excitingly transitioned from a scientific approach to brain science that relied primarily on overt behavioral observation and making anatomical inferences based on those behaviors to probing the brain in ways that were once considered inconceivable. Scientific and technology (imaging) developments now enable neuroscientists to view, investigate, measure"
-COG SCI 180,1,"Do you have a self or are you one? How is the self related to brain structure and function? Is the self, for example, identical to some part of the brain or part of the brain’s function? Can you damage the self by damaging the brain? In this course we will look at these questions from conceptual, psychological, and neuroscientific perspectives. We will study both normal and injured brains to help"
-COG SCI 181,1,"This class is on the cognitive unconsciousness. This is the unconscious mind from a cognitive science point of view rather than one from psychoanalysis (though we will briefly touch on the psychoanalytic notions of the unconscious to clarify the distinction). The basic guide will be asking whether there is explanatory value to explaining human behavior with mental states or events that are not conscious to the person who has them. We say, for"
-COG SCI 182,1,"This class will explore cognitive psychology and some neurological processing related to cognition and the formation and use of “ideas” or “concepts.” We will discuss the modeling of idea and concept formation, the structures of memory, reasoning and problem solving, and meta-cognition, among others."
+COG SCI C100,1,"Theoretical foundations and current controversies in cogniti
+ve science will be discussed. Basic issues in cognition--inc
+luding perception, imagery, memory, categorization, thinking
+, judgment, and development--will be considered from the per
+spectives of philosophy, psychology, computer science, and p
+hysiology. Particular emphasis will be placed on the nature,
+ implications, and limitations of the computational model of
+ mind."
+COG SCI N100,1,"Theoretical foundations and current controversies in cogniti
+ve science will be discussed. Basic issues in cognition--inc
+luding perception, imagery, memory, categorization, thinking
+, judgment, and development--will be considered from the per
+spectives of philosophy, psychology, computer science, and p
+hysiology. Particular emphasis will be placed on the nature,
+ implications, and"
+COG SCI C101,1,"Conceptual systems and language from the perspective of cogn
+itive science. How language gives insight into conceptual st
+ructure, reasoning, category-formation, metaphorical underst
+anding, and the framing of experience. Cognitive versus form
+al linguistics. Implications from and for philosophy, anthro
+pology, literature, artificial intelligence, and politics."
+COG SCI C102,1,"This course will examine the nature of human consciousness f
+rom the interdisciplinary perspective of cognitive science. 
+It will cover topics from the philosophy of mind, cognitive 
+linguistics, neuroscience, psychology, and computational mod
+els."
+COG SCI C126,1,"An introduction to principal theoretical constructs and expe
+rimental procedures in visual and auditory perception. Topic
+s will include psychophysics; perception of color, space, sh
+ape, and motion; pattern recognition and perceptual attentio
+n."
+COG SCI C127,1,"This course will examine research investigating the neurolog
+ical basis of cognition. Material covered will include the s
+tudy of brain-injured patients, neurophysiological research 
+in animals, and the study of normal cognitive processes in h
+umans with non-invasive behavioral and physiological techniq
+ues such as functional Magnetic Resonance Imaging (fMRI), el
+ectroencephalography (EEG), and transcranial magnetic stimul
+ation (TMS). Topics to be covered"
+COG SCI 131,1,"This course will provide advanced students in cognitive scie
+nce and computer science with the skills to develop computat
+ional models of human cognition, giving insight into how peo
+ple solve challenging computational problems, as well as how
+ to bring computers closer to human performance. The course 
+will explore three ways in which researchers have attempted 
+to formalize cognition -- symbolic approaches, neural networ
+ks, and"
+COG SCI C131,1,"This course will provide advanced students in cognitive scie
+nce and computer science with the skills to develop computat
+ional models of human cognition, giving insight into how peo
+ple solve challenging computational problems, as well as how
+ to bring computers closer to human performance. The course 
+will explore three ways in which researchers have attempted 
+to formalize cognition -- symbolic approaches, neural networ
+ks, and probability and statistics"
+COG SCI C140,1,"An introduction to research using quantitative analysis in l
+inguistics and cognitive science. Students will learn how to
+ use the R programming environment for statistical analysis 
+and data visualization."
+COG SCI C142,1,"This seminar explores the relation of language and thought. 
+Is language uniquely human, and if so, what does this reveal
+ about the human mind? Does the particular language you spea
+k affect the way you think, or do human languages reflect a 
+universal conceptual repertoire? The goal of this class is t
+o familiarize you with a set of classic arguments on these t
+hemes, together with current research that evaluates these a
+rguments, through weekly"
+COG SCI 144,1,"This class will explore language and the psychological and n
+eurological processing related to language, language use, an
+d cognition from the multidisciplinary perspective of cognit
+ive science. This psycho-neuro-linguist approach will ask wh
+ether language is a unique system within the overall cogniti
+ve system, with its own specialized representations and oper
+ations, or whether language is more continuous with other co
+gnition."
+COG SCI 150,1,"When something ""makes sense” or "" is organized” we are impos
+ing or discovering order in the arrangement of concepts, eve
+nts, or resources of some kind. Sensemaking and organizing a
+re fundamental human activities that raise many multi- or tr
+ans-disciplinary questions about perception, knowledge, deci
+sion making, interaction with things and with other people, 
+values and value creation. We will analyze sensemaking and o
+rganizing from four interrelated perspectives."
+COG SCI 170,1,"This course introduces students to the full range of brain d
+amage causes, which are: traumatic brain injury (TBI) - civi
+lian vs. military, chronic traumatic encephalopathy (CTE), s
+troke, tumors, infections, hypoxia, addiction, neurological,
+ and congenital conditions. We understand how brain damage c
+aused by each condition leads to localized and non-localized
+ deficits in the key functions comprising cognition, emotion
+, physiology, social skills"
+COG SCI 171,1,"This course will explore genetic, environment, systems neuro
+science to understand critical pathways that underlie the em
+ergence of common diseases (Dementia), neuropathology of fea
+r (Anxiety Disorders), neurodevelopmental disorders (ADHD, A
+utism), learning disabilities (e.g. Dyslexia), addiction (e.
+g. Alcoholism) and psychosis (Schizophrenia, Major Depressiv
+e Disorder). Seminal and current research will demonstrate h
+ow science and current technologies are transforming"
+COG SCI 172,1,"Cognitive Neuroscience has provided a paradigm shift in our 
+understanding of brain structure and function. We have excit
+ingly transitioned from a scientific approach to brain scien
+ce that relied primarily on overt behavioral observation and
+ making anatomical inferences based on those behaviors to pr
+obing the brain in ways that were once considered inconceiva
+ble. Scientific and technology (imaging) developments now en
+able neuroscientists to view, investigate, measure"
+COG SCI 180,1,"Do you have a self or are you one? How is the self related t
+o brain structure and function? Is the self, for example, id
+entical to some part of the brain or part of the brain’s fun
+ction? Can you damage the self by damaging the brain? In thi
+s course we will look at these questions from conceptual, ps
+ychological, and neuroscientific perspectives. We will study
+ both normal and injured brains to help"
+COG SCI 181,1,"This class is on the cognitive unconsciousness. This is the 
+unconscious mind from a cognitive science point of view rath
+er than one from psychoanalysis (though we will briefly touc
+h on the psychoanalytic notions of the unconscious to clarif
+y the distinction). The basic guide will be asking whether t
+here is explanatory value to explaining human behavior with 
+mental states or events that are not conscious to the person
+ who has them. We say, for"
+COG SCI 182,1,"This class will explore cognitive psychology and some neurol
+ogical processing related to cognition and the formation and
+ use of “ideas” or “concepts.” We will discuss the modeling 
+of idea and concept formation, the structures of memory, rea
+soning and problem solving, and meta-cognition, among others
+."
 COG SCI 190,1,Selected topics in the study of Cognitive Science.
-COG SCI H195A,1,Independent study and preparation of an honors thesis under the supervision of a faculty member.
-COG SCI H195B,1,Independent study and preparation of an honors thesis under the supervision of a faculty member.
-COG SCI 197,1,"Academic internship credit for students pursuing an internship related to their studies in the Cognitive Science Program. Limited to Cognitive Science declared majors with at least 60 units, and a 2.0 GPA."
-COG SCI 198,1,Seminar for the group study of selected topics. Topics may be initated by students subject to the approval of the major advisor.
+COG SCI H195A,1,"Independent study and preparation of an honors thesis under 
+the supervision of a faculty member."
+COG SCI H195B,1,"Independent study and preparation of an honors thesis under 
+the supervision of a faculty member."
+COG SCI 197,1,"Academic internship credit for students pursuing an internsh
+ip related to their studies in the Cognitive Science Program
+. Limited to Cognitive Science declared majors with at least
+ 60 units, and a 2.0 GPA."
+COG SCI 198,1,"Seminar for the group study of selected topics. Topics may b
+e initated by students subject to the approval of the major 
+advisor."
+COG SCI 199,1,Independent study and research by arrangement with faculty.
+COG SCI 1,1,"This course introduces the interdisciplinary field of cognit
+ive science. Lectures and readings will survey research from
+ artificial intelligence, pyschology, linguistics, philosoph
+y, and neuroscience, and will cover topics such as the natur
+e of knowledge, thinking, remembering, vision, imagery, lang
+uage, and consciousness. Sections will demonstrate some of t
+he major methodologies."
+COG SCI 1B,1,"This course introduces the interdisciplinary field of cognit
+ive science. Lectures and readings will survey research in s
+uch fields as artificial intelligence, psychology, linguisti
+cs, philosophy, and neuroscience, and will cover topics such
+ as the nature of knowledge, thinking, remembering, vision, 
+imagery, language, and consciousness."
+COG SCI N1,1,"This course introduces the interdisciplinary field of cognit
+ive science. Lectures and readings will survey research in s
+uch fields as artificial intelligence, psychology, linguisti
+cs, philosophy, and neuroscience, and will cover topics such
+ as the nature of knowledge, thinking, remembering, vision, 
+imagery, language, and consciousness. Sections will demonstr
+ate some of the major"
+COG SCI 88,1,"How does the human mind work? We explore this question by an
+alyzing a range of data concerning such topics as human rati
+onality and irrationality, human memory, how objects and eve
+nts are represented in the mind, and the relation of languag
+e and cognition. This class provides students with critical 
+thinking and computing skills that will allow them to work w
+ith data in cognitive science and related disciplines."
+COG SCI 98,1,"Seminar for the group study of selected topics. Topics may b
+e initiated by students subject to the approval of the major
+ advisor."
+COG SCI 99,1,Independent study and research by arrangement with faculty.
+COG SCI C100,1,"Theoretical foundations and current controversies in cogniti
+ve science will be discussed. Basic issues in cognition--inc
+luding perception, imagery, memory, categorization, thinking
+, judgment, and development--will be considered from the per
+spectives of philosophy, psychology, computer science, and p
+hysiology. Particular emphasis will be placed on the nature,
+ implications, and limitations of the computational model of
+ mind."
+COG SCI N100,1,"Theoretical foundations and current controversies in cogniti
+ve science will be discussed. Basic issues in cognition--inc
+luding perception, imagery, memory, categorization, thinking
+, judgment, and development--will be considered from the per
+spectives of philosophy, psychology, computer science, and p
+hysiology. Particular emphasis will be placed on the nature,
+ implications, and"
+COG SCI C101,1,"Conceptual systems and language from the perspective of cogn
+itive science. How language gives insight into conceptual st
+ructure, reasoning, category-formation, metaphorical underst
+anding, and the framing of experience. Cognitive versus form
+al linguistics. Implications from and for philosophy, anthro
+pology, literature, artificial intelligence, and politics."
+COG SCI C102,1,"This course will examine the nature of human consciousness f
+rom the interdisciplinary perspective of cognitive science. 
+It will cover topics from the philosophy of mind, cognitive 
+linguistics, neuroscience, psychology, and computational mod
+els."
+COG SCI C126,1,"An introduction to principal theoretical constructs and expe
+rimental procedures in visual and auditory perception. Topic
+s will include psychophysics; perception of color, space, sh
+ape, and motion; pattern recognition and perceptual attentio
+n."
+COG SCI C127,1,"This course will examine research investigating the neurolog
+ical basis of cognition. Material covered will include the s
+tudy of brain-injured patients, neurophysiological research 
+in animals, and the study of normal cognitive processes in h
+umans with non-invasive behavioral and physiological techniq
+ues such as functional Magnetic Resonance Imaging (fMRI), el
+ectroencephalography (EEG), and transcranial magnetic stimul
+ation (TMS). Topics to be covered"
+COG SCI 131,1,"This course will provide advanced students in cognitive scie
+nce and computer science with the skills to develop computat
+ional models of human cognition, giving insight into how peo
+ple solve challenging computational problems, as well as how
+ to bring computers closer to human performance. The course 
+will explore three ways in which researchers have attempted 
+to formalize cognition -- symbolic approaches, neural networ
+ks, and"
+COG SCI C131,1,"This course will provide advanced students in cognitive scie
+nce and computer science with the skills to develop computat
+ional models of human cognition, giving insight into how peo
+ple solve challenging computational problems, as well as how
+ to bring computers closer to human performance. The course 
+will explore three ways in which researchers have attempted 
+to formalize cognition -- symbolic approaches, neural networ
+ks, and probability and statistics"
+COG SCI C140,1,"An introduction to research using quantitative analysis in l
+inguistics and cognitive science. Students will learn how to
+ use the R programming environment for statistical analysis 
+and data visualization."
+COG SCI C142,1,"This seminar explores the relation of language and thought. 
+Is language uniquely human, and if so, what does this reveal
+ about the human mind? Does the particular language you spea
+k affect the way you think, or do human languages reflect a 
+universal conceptual repertoire? The goal of this class is t
+o familiarize you with a set of classic arguments on these t
+hemes, together with current research that evaluates these a
+rguments, through weekly"
+COG SCI 144,1,"This class will explore language and the psychological and n
+eurological processing related to language, language use, an
+d cognition from the multidisciplinary perspective of cognit
+ive science. This psycho-neuro-linguist approach will ask wh
+ether language is a unique system within the overall cogniti
+ve system, with its own specialized representations and oper
+ations, or whether language is more continuous with other co
+gnition."
+COG SCI 150,1,"When something ""makes sense” or "" is organized” we are impos
+ing or discovering order in the arrangement of concepts, eve
+nts, or resources of some kind. Sensemaking and organizing a
+re fundamental human activities that raise many multi- or tr
+ans-disciplinary questions about perception, knowledge, deci
+sion making, interaction with things and with other people, 
+values and value creation. We will analyze sensemaking and o
+rganizing from four interrelated perspectives."
+COG SCI 170,1,"This course introduces students to the full range of brain d
+amage causes, which are: traumatic brain injury (TBI) - civi
+lian vs. military, chronic traumatic encephalopathy (CTE), s
+troke, tumors, infections, hypoxia, addiction, neurological,
+ and congenital conditions. We understand how brain damage c
+aused by each condition leads to localized and non-localized
+ deficits in the key functions comprising cognition, emotion
+, physiology, social skills"
+COG SCI 171,1,"This course will explore genetic, environment, systems neuro
+science to understand critical pathways that underlie the em
+ergence of common diseases (Dementia), neuropathology of fea
+r (Anxiety Disorders), neurodevelopmental disorders (ADHD, A
+utism), learning disabilities (e.g. Dyslexia), addiction (e.
+g. Alcoholism) and psychosis (Schizophrenia, Major Depressiv
+e Disorder). Seminal and current research will demonstrate h
+ow science and current technologies are transforming"
+COG SCI 172,1,"Cognitive Neuroscience has provided a paradigm shift in our 
+understanding of brain structure and function. We have excit
+ingly transitioned from a scientific approach to brain scien
+ce that relied primarily on overt behavioral observation and
+ making anatomical inferences based on those behaviors to pr
+obing the brain in ways that were once considered inconceiva
+ble. Scientific and technology (imaging) developments now en
+able neuroscientists to view, investigate, measure"
+COG SCI 180,1,"Do you have a self or are you one? How is the self related t
+o brain structure and function? Is the self, for example, id
+entical to some part of the brain or part of the brain’s fun
+ction? Can you damage the self by damaging the brain? In thi
+s course we will look at these questions from conceptual, ps
+ychological, and neuroscientific perspectives. We will study
+ both normal and injured brains to help"
+COG SCI 181,1,"This class is on the cognitive unconsciousness. This is the 
+unconscious mind from a cognitive science point of view rath
+er than one from psychoanalysis (though we will briefly touc
+h on the psychoanalytic notions of the unconscious to clarif
+y the distinction). The basic guide will be asking whether t
+here is explanatory value to explaining human behavior with 
+mental states or events that are not conscious to the person
+ who has them. We say, for"
+COG SCI 182,1,"This class will explore cognitive psychology and some neurol
+ogical processing related to cognition and the formation and
+ use of “ideas” or “concepts.” We will discuss the modeling 
+of idea and concept formation, the structures of memory, rea
+soning and problem solving, and meta-cognition, among others
+."
+COG SCI 190,1,Selected topics in the study of Cognitive Science.
+COG SCI H195A,1,"Independent study and preparation of an honors thesis under 
+the supervision of a faculty member."
+COG SCI H195B,1,"Independent study and preparation of an honors thesis under 
+the supervision of a faculty member."
+COG SCI 197,1,"Academic internship credit for students pursuing an internsh
+ip related to their studies in the Cognitive Science Program
+. Limited to Cognitive Science declared majors with at least
+ 60 units, and a 2.0 GPA."
+COG SCI 198,1,"Seminar for the group study of selected topics. Topics may b
+e initated by students subject to the approval of the major 
+advisor."
+COG SCI 199,1,Independent study and research by arrangement with faculty.
+COG SCI 1,1,"This course introduces the interdisciplinary field of cognit
+ive science. Lectures and readings will survey research from
+ artificial intelligence, pyschology, linguistics, philosoph
+y, and neuroscience, and will cover topics such as the natur
+e of knowledge, thinking, remembering, vision, imagery, lang
+uage, and consciousness. Sections will demonstrate some of t
+he major methodologies."
+COG SCI 1B,1,"This course introduces the interdisciplinary field of cognit
+ive science. Lectures and readings will survey research in s
+uch fields as artificial intelligence, psychology, linguisti
+cs, philosophy, and neuroscience, and will cover topics such
+ as the nature of knowledge, thinking, remembering, vision, 
+imagery, language, and consciousness."
+COG SCI N1,1,"This course introduces the interdisciplinary field of cognit
+ive science. Lectures and readings will survey research in s
+uch fields as artificial intelligence, psychology, linguisti
+cs, philosophy, and neuroscience, and will cover topics such
+ as the nature of knowledge, thinking, remembering, vision, 
+imagery, language, and consciousness. Sections will demonstr
+ate some of the major"
+COG SCI 88,1,"How does the human mind work? We explore this question by an
+alyzing a range of data concerning such topics as human rati
+onality and irrationality, human memory, how objects and eve
+nts are represented in the mind, and the relation of languag
+e and cognition. This class provides students with critical 
+thinking and computing skills that will allow them to work w
+ith data in cognitive science and related disciplines."
+COG SCI 98,1,"Seminar for the group study of selected topics. Topics may b
+e initiated by students subject to the approval of the major
+ advisor."
+COG SCI 99,1,Independent study and research by arrangement with faculty.
+COG SCI C100,1,"Theoretical foundations and current controversies in cogniti
+ve science will be discussed. Basic issues in cognition--inc
+luding perception, imagery, memory, categorization, thinking
+, judgment, and development--will be considered from the per
+spectives of philosophy, psychology, computer science, and p
+hysiology. Particular emphasis will be placed on the nature,
+ implications, and limitations of the computational model of
+ mind."
+COG SCI N100,1,"Theoretical foundations and current controversies in cogniti
+ve science will be discussed. Basic issues in cognition--inc
+luding perception, imagery, memory, categorization, thinking
+, judgment, and development--will be considered from the per
+spectives of philosophy, psychology, computer science, and p
+hysiology. Particular emphasis will be placed on the nature,
+ implications, and"
+COG SCI C101,1,"Conceptual systems and language from the perspective of cogn
+itive science. How language gives insight into conceptual st
+ructure, reasoning, category-formation, metaphorical underst
+anding, and the framing of experience. Cognitive versus form
+al linguistics. Implications from and for philosophy, anthro
+pology, literature, artificial intelligence, and politics."
+COG SCI C102,1,"This course will examine the nature of human consciousness f
+rom the interdisciplinary perspective of cognitive science. 
+It will cover topics from the philosophy of mind, cognitive 
+linguistics, neuroscience, psychology, and computational mod
+els."
+COG SCI C126,1,"An introduction to principal theoretical constructs and expe
+rimental procedures in visual and auditory perception. Topic
+s will include psychophysics; perception of color, space, sh
+ape, and motion; pattern recognition and perceptual attentio
+n."
+COG SCI C127,1,"This course will examine research investigating the neurolog
+ical basis of cognition. Material covered will include the s
+tudy of brain-injured patients, neurophysiological research 
+in animals, and the study of normal cognitive processes in h
+umans with non-invasive behavioral and physiological techniq
+ues such as functional Magnetic Resonance Imaging (fMRI), el
+ectroencephalography (EEG), and transcranial magnetic stimul
+ation (TMS). Topics to be covered"
+COG SCI 131,1,"This course will provide advanced students in cognitive scie
+nce and computer science with the skills to develop computat
+ional models of human cognition, giving insight into how peo
+ple solve challenging computational problems, as well as how
+ to bring computers closer to human performance. The course 
+will explore three ways in which researchers have attempted 
+to formalize cognition -- symbolic approaches, neural networ
+ks, and"
+COG SCI C131,1,"This course will provide advanced students in cognitive scie
+nce and computer science with the skills to develop computat
+ional models of human cognition, giving insight into how peo
+ple solve challenging computational problems, as well as how
+ to bring computers closer to human performance. The course 
+will explore three ways in which researchers have attempted 
+to formalize cognition -- symbolic approaches, neural networ
+ks, and probability and statistics"
+COG SCI C140,1,"An introduction to research using quantitative analysis in l
+inguistics and cognitive science. Students will learn how to
+ use the R programming environment for statistical analysis 
+and data visualization."
+COG SCI C142,1,"This seminar explores the relation of language and thought. 
+Is language uniquely human, and if so, what does this reveal
+ about the human mind? Does the particular language you spea
+k affect the way you think, or do human languages reflect a 
+universal conceptual repertoire? The goal of this class is t
+o familiarize you with a set of classic arguments on these t
+hemes, together with current research that evaluates these a
+rguments, through weekly"
+COG SCI 144,1,"This class will explore language and the psychological and n
+eurological processing related to language, language use, an
+d cognition from the multidisciplinary perspective of cognit
+ive science. This psycho-neuro-linguist approach will ask wh
+ether language is a unique system within the overall cogniti
+ve system, with its own specialized representations and oper
+ations, or whether language is more continuous with other co
+gnition."
+COG SCI 150,1,"When something ""makes sense” or "" is organized” we are impos
+ing or discovering order in the arrangement of concepts, eve
+nts, or resources of some kind. Sensemaking and organizing a
+re fundamental human activities that raise many multi- or tr
+ans-disciplinary questions about perception, knowledge, deci
+sion making, interaction with things and with other people, 
+values and value creation. We will analyze sensemaking and o
+rganizing from four interrelated perspectives."
+COG SCI 170,1,"This course introduces students to the full range of brain d
+amage causes, which are: traumatic brain injury (TBI) - civi
+lian vs. military, chronic traumatic encephalopathy (CTE), s
+troke, tumors, infections, hypoxia, addiction, neurological,
+ and congenital conditions. We understand how brain damage c
+aused by each condition leads to localized and non-localized
+ deficits in the key functions comprising cognition, emotion
+, physiology, social skills"
+COG SCI 171,1,"This course will explore genetic, environment, systems neuro
+science to understand critical pathways that underlie the em
+ergence of common diseases (Dementia), neuropathology of fea
+r (Anxiety Disorders), neurodevelopmental disorders (ADHD, A
+utism), learning disabilities (e.g. Dyslexia), addiction (e.
+g. Alcoholism) and psychosis (Schizophrenia, Major Depressiv
+e Disorder). Seminal and current research will demonstrate h
+ow science and current technologies are transforming"
+COG SCI 172,1,"Cognitive Neuroscience has provided a paradigm shift in our 
+understanding of brain structure and function. We have excit
+ingly transitioned from a scientific approach to brain scien
+ce that relied primarily on overt behavioral observation and
+ making anatomical inferences based on those behaviors to pr
+obing the brain in ways that were once considered inconceiva
+ble. Scientific and technology (imaging) developments now en
+able neuroscientists to view, investigate, measure"
+COG SCI 180,1,"Do you have a self or are you one? How is the self related t
+o brain structure and function? Is the self, for example, id
+entical to some part of the brain or part of the brain’s fun
+ction? Can you damage the self by damaging the brain? In thi
+s course we will look at these questions from conceptual, ps
+ychological, and neuroscientific perspectives. We will study
+ both normal and injured brains to help"
+COG SCI 181,1,"This class is on the cognitive unconsciousness. This is the 
+unconscious mind from a cognitive science point of view rath
+er than one from psychoanalysis (though we will briefly touc
+h on the psychoanalytic notions of the unconscious to clarif
+y the distinction). The basic guide will be asking whether t
+here is explanatory value to explaining human behavior with 
+mental states or events that are not conscious to the person
+ who has them. We say, for"
+COG SCI 182,1,"This class will explore cognitive psychology and some neurol
+ogical processing related to cognition and the formation and
+ use of “ideas” or “concepts.” We will discuss the modeling 
+of idea and concept formation, the structures of memory, rea
+soning and problem solving, and meta-cognition, among others
+."
+COG SCI 190,1,Selected topics in the study of Cognitive Science.
+COG SCI H195A,1,"Independent study and preparation of an honors thesis under 
+the supervision of a faculty member."
+COG SCI H195B,1,"Independent study and preparation of an honors thesis under 
+the supervision of a faculty member."
+COG SCI 197,1,"Academic internship credit for students pursuing an internsh
+ip related to their studies in the Cognitive Science Program
+. Limited to Cognitive Science declared majors with at least
+ 60 units, and a 2.0 GPA."
+COG SCI 198,1,"Seminar for the group study of selected topics. Topics may b
+e initated by students subject to the approval of the major 
+advisor."
+COG SCI 199,1,Independent study and research by arrangement with faculty.
+COG SCI 1,1,"This course introduces the interdisciplinary field of cognit
+ive science. Lectures and readings will survey research from
+ artificial intelligence, pyschology, linguistics, philosoph
+y, and neuroscience, and will cover topics such as the natur
+e of knowledge, thinking, remembering, vision, imagery, lang
+uage, and consciousness. Sections will demonstrate some of t
+he major methodologies."
+COG SCI 1B,1,"This course introduces the interdisciplinary field of cognit
+ive science. Lectures and readings will survey research in s
+uch fields as artificial intelligence, psychology, linguisti
+cs, philosophy, and neuroscience, and will cover topics such
+ as the nature of knowledge, thinking, remembering, vision, 
+imagery, language, and consciousness."
+COG SCI N1,1,"This course introduces the interdisciplinary field of cognit
+ive science. Lectures and readings will survey research in s
+uch fields as artificial intelligence, psychology, linguisti
+cs, philosophy, and neuroscience, and will cover topics such
+ as the nature of knowledge, thinking, remembering, vision, 
+imagery, language, and consciousness. Sections will demonstr
+ate some of the major"
+COG SCI 88,1,"How does the human mind work? We explore this question by an
+alyzing a range of data concerning such topics as human rati
+onality and irrationality, human memory, how objects and eve
+nts are represented in the mind, and the relation of languag
+e and cognition. This class provides students with critical 
+thinking and computing skills that will allow them to work w
+ith data in cognitive science and related disciplines."
+COG SCI 98,1,"Seminar for the group study of selected topics. Topics may b
+e initiated by students subject to the approval of the major
+ advisor."
+COG SCI 99,1,Independent study and research by arrangement with faculty.
+COG SCI C100,1,"Theoretical foundations and current controversies in cogniti
+ve science will be discussed. Basic issues in cognition--inc
+luding perception, imagery, memory, categorization, thinking
+, judgment, and development--will be considered from the per
+spectives of philosophy, psychology, computer science, and p
+hysiology. Particular emphasis will be placed on the nature,
+ implications, and limitations of the computational model of
+ mind."
+COG SCI N100,1,"Theoretical foundations and current controversies in cogniti
+ve science will be discussed. Basic issues in cognition--inc
+luding perception, imagery, memory, categorization, thinking
+, judgment, and development--will be considered from the per
+spectives of philosophy, psychology, computer science, and p
+hysiology. Particular emphasis will be placed on the nature,
+ implications, and"
+COG SCI C101,1,"Conceptual systems and language from the perspective of cogn
+itive science. How language gives insight into conceptual st
+ructure, reasoning, category-formation, metaphorical underst
+anding, and the framing of experience. Cognitive versus form
+al linguistics. Implications from and for philosophy, anthro
+pology, literature, artificial intelligence, and politics."
+COG SCI C102,1,"This course will examine the nature of human consciousness f
+rom the interdisciplinary perspective of cognitive science. 
+It will cover topics from the philosophy of mind, cognitive 
+linguistics, neuroscience, psychology, and computational mod
+els."
+COG SCI C126,1,"An introduction to principal theoretical constructs and expe
+rimental procedures in visual and auditory perception. Topic
+s will include psychophysics; perception of color, space, sh
+ape, and motion; pattern recognition and perceptual attentio
+n."
+COG SCI C127,1,"This course will examine research investigating the neurolog
+ical basis of cognition. Material covered will include the s
+tudy of brain-injured patients, neurophysiological research 
+in animals, and the study of normal cognitive processes in h
+umans with non-invasive behavioral and physiological techniq
+ues such as functional Magnetic Resonance Imaging (fMRI), el
+ectroencephalography (EEG), and transcranial magnetic stimul
+ation (TMS). Topics to be covered"
+COG SCI 131,1,"This course will provide advanced students in cognitive scie
+nce and computer science with the skills to develop computat
+ional models of human cognition, giving insight into how peo
+ple solve challenging computational problems, as well as how
+ to bring computers closer to human performance. The course 
+will explore three ways in which researchers have attempted 
+to formalize cognition -- symbolic approaches, neural networ
+ks, and"
+COG SCI C131,1,"This course will provide advanced students in cognitive scie
+nce and computer science with the skills to develop computat
+ional models of human cognition, giving insight into how peo
+ple solve challenging computational problems, as well as how
+ to bring computers closer to human performance. The course 
+will explore three ways in which researchers have attempted 
+to formalize cognition -- symbolic approaches, neural networ
+ks, and probability and statistics"
+COG SCI C140,1,"An introduction to research using quantitative analysis in l
+inguistics and cognitive science. Students will learn how to
+ use the R programming environment for statistical analysis 
+and data visualization."
+COG SCI C142,1,"This seminar explores the relation of language and thought. 
+Is language uniquely human, and if so, what does this reveal
+ about the human mind? Does the particular language you spea
+k affect the way you think, or do human languages reflect a 
+universal conceptual repertoire? The goal of this class is t
+o familiarize you with a set of classic arguments on these t
+hemes, together with current research that evaluates these a
+rguments, through weekly"
+COG SCI 144,1,"This class will explore language and the psychological and n
+eurological processing related to language, language use, an
+d cognition from the multidisciplinary perspective of cognit
+ive science. This psycho-neuro-linguist approach will ask wh
+ether language is a unique system within the overall cogniti
+ve system, with its own specialized representations and oper
+ations, or whether language is more continuous with other co
+gnition."
+COG SCI 150,1,"When something ""makes sense” or "" is organized” we are impos
+ing or discovering order in the arrangement of concepts, eve
+nts, or resources of some kind. Sensemaking and organizing a
+re fundamental human activities that raise many multi- or tr
+ans-disciplinary questions about perception, knowledge, deci
+sion making, interaction with things and with other people, 
+values and value creation. We will analyze sensemaking and o
+rganizing from four interrelated perspectives."
+COG SCI 170,1,"This course introduces students to the full range of brain d
+amage causes, which are: traumatic brain injury (TBI) - civi
+lian vs. military, chronic traumatic encephalopathy (CTE), s
+troke, tumors, infections, hypoxia, addiction, neurological,
+ and congenital conditions. We understand how brain damage c
+aused by each condition leads to localized and non-localized
+ deficits in the key functions comprising cognition, emotion
+, physiology, social skills"
+COG SCI 171,1,"This course will explore genetic, environment, systems neuro
+science to understand critical pathways that underlie the em
+ergence of common diseases (Dementia), neuropathology of fea
+r (Anxiety Disorders), neurodevelopmental disorders (ADHD, A
+utism), learning disabilities (e.g. Dyslexia), addiction (e.
+g. Alcoholism) and psychosis (Schizophrenia, Major Depressiv
+e Disorder). Seminal and current research will demonstrate h
+ow science and current technologies are transforming"
+COG SCI 172,1,"Cognitive Neuroscience has provided a paradigm shift in our 
+understanding of brain structure and function. We have excit
+ingly transitioned from a scientific approach to brain scien
+ce that relied primarily on overt behavioral observation and
+ making anatomical inferences based on those behaviors to pr
+obing the brain in ways that were once considered inconceiva
+ble. Scientific and technology (imaging) developments now en
+able neuroscientists to view, investigate, measure"
+COG SCI 180,1,"Do you have a self or are you one? How is the self related t
+o brain structure and function? Is the self, for example, id
+entical to some part of the brain or part of the brain’s fun
+ction? Can you damage the self by damaging the brain? In thi
+s course we will look at these questions from conceptual, ps
+ychological, and neuroscientific perspectives. We will study
+ both normal and injured brains to help"
+COG SCI 181,1,"This class is on the cognitive unconsciousness. This is the 
+unconscious mind from a cognitive science point of view rath
+er than one from psychoanalysis (though we will briefly touc
+h on the psychoanalytic notions of the unconscious to clarif
+y the distinction). The basic guide will be asking whether t
+here is explanatory value to explaining human behavior with 
+mental states or events that are not conscious to the person
+ who has them. We say, for"
+COG SCI 182,1,"This class will explore cognitive psychology and some neurol
+ogical processing related to cognition and the formation and
+ use of “ideas” or “concepts.” We will discuss the modeling 
+of idea and concept formation, the structures of memory, rea
+soning and problem solving, and meta-cognition, among others
+."
+COG SCI 190,1,Selected topics in the study of Cognitive Science.
+COG SCI H195A,1,"Independent study and preparation of an honors thesis under 
+the supervision of a faculty member."
+COG SCI H195B,1,"Independent study and preparation of an honors thesis under 
+the supervision of a faculty member."
+COG SCI 197,1,"Academic internship credit for students pursuing an internsh
+ip related to their studies in the Cognitive Science Program
+. Limited to Cognitive Science declared majors with at least
+ 60 units, and a 2.0 GPA."
+COG SCI 198,1,"Seminar for the group study of selected topics. Topics may b
+e initated by students subject to the approval of the major 
+advisor."
+COG SCI 199,1,Independent study and research by arrangement with faculty.
+COG SCI 1,1,"This course introduces the interdisciplinary field of cognit
+ive science. Lectures and readings will survey research from
+ artificial intelligence, pyschology, linguistics, philosoph
+y, and neuroscience, and will cover topics such as the natur
+e of knowledge, thinking, remembering, vision, imagery, lang
+uage, and consciousness. Sections will demonstrate some of t
+he major methodologies."
+COG SCI 1B,1,"This course introduces the interdisciplinary field of cognit
+ive science. Lectures and readings will survey research in s
+uch fields as artificial intelligence, psychology, linguisti
+cs, philosophy, and neuroscience, and will cover topics such
+ as the nature of knowledge, thinking, remembering, vision, 
+imagery, language, and consciousness."
+COG SCI N1,1,"This course introduces the interdisciplinary field of cognit
+ive science. Lectures and readings will survey research in s
+uch fields as artificial intelligence, psychology, linguisti
+cs, philosophy, and neuroscience, and will cover topics such
+ as the nature of knowledge, thinking, remembering, vision, 
+imagery, language, and consciousness. Sections will demonstr
+ate some of the major"
+COG SCI 88,1,"How does the human mind work? We explore this question by an
+alyzing a range of data concerning such topics as human rati
+onality and irrationality, human memory, how objects and eve
+nts are represented in the mind, and the relation of languag
+e and cognition. This class provides students with critical 
+thinking and computing skills that will allow them to work w
+ith data in cognitive science and related disciplines."
+COG SCI 98,1,"Seminar for the group study of selected topics. Topics may b
+e initiated by students subject to the approval of the major
+ advisor."
+COG SCI 99,1,Independent study and research by arrangement with faculty.
+COG SCI C100,1,"Theoretical foundations and current controversies in cogniti
+ve science will be discussed. Basic issues in cognition--inc
+luding perception, imagery, memory, categorization, thinking
+, judgment, and development--will be considered from the per
+spectives of philosophy, psychology, computer science, and p
+hysiology. Particular emphasis will be placed on the nature,
+ implications, and limitations of the computational model of
+ mind."
+COG SCI N100,1,"Theoretical foundations and current controversies in cogniti
+ve science will be discussed. Basic issues in cognition--inc
+luding perception, imagery, memory, categorization, thinking
+, judgment, and development--will be considered from the per
+spectives of philosophy, psychology, computer science, and p
+hysiology. Particular emphasis will be placed on the nature,
+ implications, and"
+COG SCI C101,1,"Conceptual systems and language from the perspective of cogn
+itive science. How language gives insight into conceptual st
+ructure, reasoning, category-formation, metaphorical underst
+anding, and the framing of experience. Cognitive versus form
+al linguistics. Implications from and for philosophy, anthro
+pology, literature, artificial intelligence, and politics."
+COG SCI C102,1,"This course will examine the nature of human consciousness f
+rom the interdisciplinary perspective of cognitive science. 
+It will cover topics from the philosophy of mind, cognitive 
+linguistics, neuroscience, psychology, and computational mod
+els."
+COG SCI C126,1,"An introduction to principal theoretical constructs and expe
+rimental procedures in visual and auditory perception. Topic
+s will include psychophysics; perception of color, space, sh
+ape, and motion; pattern recognition and perceptual attentio
+n."
+COG SCI C127,1,"This course will examine research investigating the neurolog
+ical basis of cognition. Material covered will include the s
+tudy of brain-injured patients, neurophysiological research 
+in animals, and the study of normal cognitive processes in h
+umans with non-invasive behavioral and physiological techniq
+ues such as functional Magnetic Resonance Imaging (fMRI), el
+ectroencephalography (EEG), and transcranial magnetic stimul
+ation (TMS). Topics to be covered"
+COG SCI 131,1,"This course will provide advanced students in cognitive scie
+nce and computer science with the skills to develop computat
+ional models of human cognition, giving insight into how peo
+ple solve challenging computational problems, as well as how
+ to bring computers closer to human performance. The course 
+will explore three ways in which researchers have attempted 
+to formalize cognition -- symbolic approaches, neural networ
+ks, and"
+COG SCI C131,1,"This course will provide advanced students in cognitive scie
+nce and computer science with the skills to develop computat
+ional models of human cognition, giving insight into how peo
+ple solve challenging computational problems, as well as how
+ to bring computers closer to human performance. The course 
+will explore three ways in which researchers have attempted 
+to formalize cognition -- symbolic approaches, neural networ
+ks, and probability and statistics"
+COG SCI C140,1,"An introduction to research using quantitative analysis in l
+inguistics and cognitive science. Students will learn how to
+ use the R programming environment for statistical analysis 
+and data visualization."
+COG SCI C142,1,"This seminar explores the relation of language and thought. 
+Is language uniquely human, and if so, what does this reveal
+ about the human mind? Does the particular language you spea
+k affect the way you think, or do human languages reflect a 
+universal conceptual repertoire? The goal of this class is t
+o familiarize you with a set of classic arguments on these t
+hemes, together with current research that evaluates these a
+rguments, through weekly"
+COG SCI 144,1,"This class will explore language and the psychological and n
+eurological processing related to language, language use, an
+d cognition from the multidisciplinary perspective of cognit
+ive science. This psycho-neuro-linguist approach will ask wh
+ether language is a unique system within the overall cogniti
+ve system, with its own specialized representations and oper
+ations, or whether language is more continuous with other co
+gnition."
+COG SCI 150,1,"When something ""makes sense” or "" is organized” we are impos
+ing or discovering order in the arrangement of concepts, eve
+nts, or resources of some kind. Sensemaking and organizing a
+re fundamental human activities that raise many multi- or tr
+ans-disciplinary questions about perception, knowledge, deci
+sion making, interaction with things and with other people, 
+values and value creation. We will analyze sensemaking and o
+rganizing from four interrelated perspectives."
+COG SCI 170,1,"This course introduces students to the full range of brain d
+amage causes, which are: traumatic brain injury (TBI) - civi
+lian vs. military, chronic traumatic encephalopathy (CTE), s
+troke, tumors, infections, hypoxia, addiction, neurological,
+ and congenital conditions. We understand how brain damage c
+aused by each condition leads to localized and non-localized
+ deficits in the key functions comprising cognition, emotion
+, physiology, social skills"
+COG SCI 171,1,"This course will explore genetic, environment, systems neuro
+science to understand critical pathways that underlie the em
+ergence of common diseases (Dementia), neuropathology of fea
+r (Anxiety Disorders), neurodevelopmental disorders (ADHD, A
+utism), learning disabilities (e.g. Dyslexia), addiction (e.
+g. Alcoholism) and psychosis (Schizophrenia, Major Depressiv
+e Disorder). Seminal and current research will demonstrate h
+ow science and current technologies are transforming"
+COG SCI 172,1,"Cognitive Neuroscience has provided a paradigm shift in our 
+understanding of brain structure and function. We have excit
+ingly transitioned from a scientific approach to brain scien
+ce that relied primarily on overt behavioral observation and
+ making anatomical inferences based on those behaviors to pr
+obing the brain in ways that were once considered inconceiva
+ble. Scientific and technology (imaging) developments now en
+able neuroscientists to view, investigate, measure"
+COG SCI 180,1,"Do you have a self or are you one? How is the self related t
+o brain structure and function? Is the self, for example, id
+entical to some part of the brain or part of the brain’s fun
+ction? Can you damage the self by damaging the brain? In thi
+s course we will look at these questions from conceptual, ps
+ychological, and neuroscientific perspectives. We will study
+ both normal and injured brains to help"
+COG SCI 181,1,"This class is on the cognitive unconsciousness. This is the 
+unconscious mind from a cognitive science point of view rath
+er than one from psychoanalysis (though we will briefly touc
+h on the psychoanalytic notions of the unconscious to clarif
+y the distinction). The basic guide will be asking whether t
+here is explanatory value to explaining human behavior with 
+mental states or events that are not conscious to the person
+ who has them. We say, for"
+COG SCI 182,1,"This class will explore cognitive psychology and some neurol
+ogical processing related to cognition and the formation and
+ use of “ideas” or “concepts.” We will discuss the modeling 
+of idea and concept formation, the structures of memory, rea
+soning and problem solving, and meta-cognition, among others
+."
+COG SCI 190,1,Selected topics in the study of Cognitive Science.
+COG SCI H195A,1,"Independent study and preparation of an honors thesis under 
+the supervision of a faculty member."
+COG SCI H195B,1,"Independent study and preparation of an honors thesis under 
+the supervision of a faculty member."
+COG SCI 197,1,"Academic internship credit for students pursuing an internsh
+ip related to their studies in the Cognitive Science Program
+. Limited to Cognitive Science declared majors with at least
+ 60 units, and a 2.0 GPA."
+COG SCI 198,1,"Seminar for the group study of selected topics. Topics may b
+e initated by students subject to the approval of the major 
+advisor."
 COG SCI 199,1,Independent study and research by arrangement with faculty.

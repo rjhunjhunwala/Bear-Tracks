@@ -1,23 +1,2071 @@
 name,size,about
-SSEASN 24,1,The Freshman Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments and topics vary from department to department and semester to semester. Enrollment limited to 15 freshmen.
-SSEASN 39,1,"Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester. Enrollment limits are set by the faculty, but the suggested limit is 18."
-SSEASN 84,1,"Sophomore seminars are small interactive courses offered by faculty members in departments all across the campus. Sophomore seminars offer opportunity for close, regular intellectual contact between faculty members and students in the crucial second year. The topics vary from department to department and semester to semester. Enrollment limited to 15 sophomores."
-SSEASN 120,1,Designed to permit regular faculty and visitors to explore special topics not normally covered in the curriculum. Focus and readings will change in response to current research interests of instructors and teaching needs of the department.
-SSEASN 149,1,Directed study of South and Southeast Asian Languages. This course will provide intensive language training in languages not regularly taught by the Department. Language may vary each semester based on instructor availability.
-SSEASN 190,1,"Designed primarily to give majors sustained and intensive training in reading, writing, and analysis in the discipline. Independent research and a substantial essay required. Topics will vary in accord with faculty and student interests."
-SSEASN H195A,1,"To be eligible for admission for the honors program, students must have and maintain a minimum GPA 3.5 in all courses completed for the major. In addition, the student must enroll in the final semester of the senior year in H195, a course of supervised research to be guided by an instructor chosen in consultation with the major adviser. On the basis of this research the student will prepare and submit an honors"
-SSEASN H195B,1,"To be eligible for admission for the honors program, students must have and maintain a minimum GPA 3.5 in all courses completed for the major. In addition, the student must enroll in the final semester of the senior year in H195, a course of supervised research to be guided by an instructor chosen in consultation with the major adviser. On the basis of this research the student will prepare and submit an honors thesis for evaluation."
-SSEASN H195C,1,"To be eligible for admission for the honors program, students must have and maintain a minimum GPA 3.5 in all courses completed for the major. In addition, the student must enroll in the final semester of the senior year in H195, a course of supervised research to be guided by an instructor chosen in consultation with the major adviser. On the basis of this research the student will prepare and submit an honors thesis for evaluation."
-SSEASN H195E,1,"To be eligible for admission for the honors program, students must have and maintain a minimum GPA 3.5 in all courses completed for the major. In addition, the student must enroll in the final semester of the senior year in H195, a course of supervised research to be guided by an instructor chosen in consultation with the major adviser. On the basis of this research the student will prepare and submit an honors thesis for evaluation."
-SSEASN H195F,1,"To be eligible for admission for the honors program, students must have and maintain a minimum GPA 3.5 in all courses completed for the major. In addition, the student must enroll in the final semester of the senior year in H195, a course of supervised research to be guided by an instructor chosen in consultation with the major adviser. On the basis of this research the student will prepare and submit an honors thesis for evaluation."
-SSEASN 198A,1,Tutorial instruction in areas not covered by regularly scheduled courses. Four-unit limit per term.
-SSEASN 198B,1,Tutorial instruction in areas not covered by regularly scheduled courses. Four-unit limit per term.
-SSEASN 198C,1,Tutorial instruction in areas not covered by regularly scheduled courses. Four-unit limit per term.
-SSEASN 198D,1,Tutorial instruction in areas not covered by regularly scheduled courses. Four-unit limit per term.
-SSEASN 198E,1,Tutorial instruction in areas not covered by regularly scheduled courses. Four-unit limit per term.
-SSEASN 198F,1,Tutorial instruction in areas not covered by regularly scheduled courses. Four-unit limit per term.
+SSEASN 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments and topic
+s vary from department to department and semester to semeste
+r. Enrollment limited to 15 freshmen."
+SSEASN 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 18."
+SSEASN 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+SSEASN 120,1,"Designed to permit regular faculty and visitors to explore s
+pecial topics not normally covered in the curriculum. Focus 
+and readings will change in response to current research int
+erests of instructors and teaching needs of the department."
+SSEASN 149,1,"Directed study of South and Southeast Asian Languages. This 
+course will provide intensive language training in languages
+ not regularly taught by the Department. Language may vary e
+ach semester based on instructor availability."
+SSEASN 190,1,"Designed primarily to give majors sustained and intensive tr
+aining in reading, writing, and analysis in the discipline. 
+Independent research and a substantial essay required. Topic
+s will vary in accord with faculty and student interests."
+SSEASN H195A,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors"
+SSEASN H195B,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN H195C,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN H195E,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN H195F,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN 198A,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198B,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198C,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198D,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198E,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198F,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
 SSEASN 199,1,Four-unit limit per term.
 SSEASN 199A,1,Four-unit limit per term.
 SSEASN 199B,1,Four-unit limit per term.
 SSEASN 199C,1,Four-unit limit per term.
 SSEASN 199F,1,Four-unit limit per term.
+SEASIAN R5A,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019"
+SEASIAN R5B,1,"Terms offered: Spring 2020, Spring 2019"
+SEASIAN 10A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+SEASIAN 10B,1,"Terms offered: Spring 2020, Spring 2019, Summer 2018 Second 
+6 Week Session"
+SEASIAN 128,1,"Terms offered: Fall 2014, Fall 2011, Fall 2009"
+SEASIAN 129,1,"Terms offered: Spring 2020, Spring 2018, Spring 2015"
+SEASIAN 130,1,"Terms offered: Fall 2016, Spring 2014, Fall 2012"
+SEASIAN 137,1,"Terms offered: Fall 2016, Fall 2014, Fall 2013"
+SEASIAN 138,1,"Terms offered: Fall 2010, Fall 2008, Fall 2006"
+SEASIAN 148,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Summer 2019 First 6 Week Session"
+SEASIAN 150,1,Terms offered: Fall 2019
+SEASIAN 152,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ Second 6 Week Session"
+SEASIAN 154,1,"Terms offered: Summer 2020 Second 6 Week Session, Summer 201
+9"
+SEASIAN 160,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ First 6 Week Session"
+SEASIAN C164,1,"Terms offered: Spring 2018, Spring 2014, Spring 2010"
+SASIAN 1A,1,"This course offers a broad historical, political, ethnograph
+ical and and cultural survey of the civilizations of the Ind
+ian subcontinent from the earliest period known to archaeolo
+gy to the advent of Islam as a major cultural and political 
+force around the 13th century CE. Lectures, readings, and cl
+ass discussions will center on seminal texts that have influ
+enced South Asian civilizations from the earliest antiquity 
+to the late medieval period."
+SASIAN 1B,1,"This course offers a broad historical and cultural survey of
+ the civilizations of the Indian subcontinent from the 12th 
+century to Partition in 1947. Attention will be paid to the 
+geography and ethnography of the region, its political histo
+ry, and the religious, philosophical, literary, and artistic
+ movements that have shaped it and contributed to its develo
+pment as a unique, diverse, and fascinating world civilizati
+on. Lectures, readings"
+SASIAN R5A,1,"Reading and composition based on 10 classic works of Indian 
+literature ranging from the ancient Sanskrit epics to modern
+ novels by Indian and western authors. Weekly composition on
+ texts and topics read and discussed in class. Satisfies the
+ first half of the Reading and Composition requirement."
+SASIAN R5B,1,"Reading and composition in connection with eastern and weste
+rn representations of India, and other Asian cultures, in gr
+eat works of modern literature. Satisfies the second half of
+ the reading and composition requirement."
+SASIAN 110,1,"The course will provide through lecture, discussion and cour
+se readings a comprehensive introduction to the major texts,
+ doctrines, beliefs and practices of classical Hinduism from
+ antiquity to modernity. Special emphasis will be placed on 
+Vedic and Āgamic traditions and on the rise and development 
+of the major Hindu saṃpradāyas, including those of Vaiṣṇavis
+m, Śaivism, Śaktism and Tantrism. Attention will be paid to 
+Hinduism's relationships with non Hindu"
+SASIAN C113,1,"This course is an advanced introduction to the major teachin
+gs of Indian Buddhism and their philosophical elaborations. 
+We will cover the core tenets attributed to the Buddha, and 
+the later doctrinal and scholastic developments that turned 
+Buddhism into one of the principal philosophical traditions 
+of India. For this we will read select primary sources—in pr
+inciple, extracts of the scriptures and later treatises—and 
+academic articles and book"
+SASIAN C114,1,"This course is a broad introduction to the history, doctrine
+, and culture of the Buddhism of Tibet. We will begin with t
+he introduction of Buddhism to Tibet in the eighth century a
+nd move on to the evolution of the major schools of Tibetan 
+Buddhism, Tibetan Buddhist literature, ritual and monastic p
+ractice, the place of Buddhism in Tibetan political history,
+ and the contemporary situation of Tibetan Buddhism both ins
+ide and outside of Tibet."
+SASIAN 121,1,"Literary works of ancient India are read in English translat
+ion and studied critically. The course aims at giving a comp
+rehensive picture of many important areas of the Indian lite
+rary heritage."
+SASIAN 122,1,"Lecture and discussion on the novel as it arose on the India
+n subcontinent during the 19th and 20th centuries, using Eng
+lish translations and original works in English. Critical di
+scussion of the novel as a modern genre adapted to local con
+ditions and coexisting with older traditions of writing. Exa
+mines the novel as a window on Indian modernities. Interpret
+ation of Indian society, culture, and history through litera
+ture."
+SASIAN 123,1,"The period between 600 and 1600 C.E. witnessed the growth of
+ a number of religious traditions that challenged prevailing
+ orthodoxies and reshaped South Asian society and culture. T
+his course will examine the major developments within Hindu 
+traditions, focusing on popular traditions known as bhakti (
+devotion). Examines the growth and spread of Islam (particul
+arly, Sufism) and the emergence of Sikhism. The focus of rea
+dings is on primary sources – poetry, extracts"
+SASIAN 124,1,"Lectures and discussion of 19th and 20th century Indian lite
+rature through English translations and original works in En
+glish. Interpretation of Indian society and culture through 
+literature."
+SASIAN 128,1,"This course considers the co-option, reinterpretation and di
+ssemination of sacred texts and religious practices in vario
+us political and cultural projects in India during the colon
+ial and post-colonial periods. Students will be introduced t
+o religious “reform” movements, cross-cultural debates durin
+g the colonial period, and how the concept of a secular stat
+e in post-Independence India has shaped and continues to sha
+pe religious practice and"
+SASIAN 130,1,"This course will examine the role of film, visual media and 
+spectatorship practices in the construction and narration of
+ modern South Asia. In particular, this course will interrog
+ate how modern South Asia has been produced and represented 
+in different visual aesthetic forms such as popular film, ar
+thouse cinema, documentaries, the graphic novel and contempo
+rary digital media spaces such as YouTube. The course will i
+ntroduce visual and media theories that frame"
+SASIAN 136,1,"Tamil is a Dravidian language that is spoken by approximatel
+y 77 million speakers around the world. Used as an official 
+language in Sri Lanka and Singapore, Tamil’s classical statu
+s makes it an exciting language through which diverse modes 
+of ethnic and linguistic belonging can be studied in South A
+sia. This course is meant to study global Tamil societies th
+rough the interdisciplinary lenses of literary and cultural 
+studies; knowledge of the Tamil language is not"
+SASIAN 140,1,"Literary and religious aspects of Hindu myths. Reading of se
+lected mythological texts in translation."
+SASIAN 142,1,"The course entails substantial selected readings from the gr
+eat Sanskirt epic poems--the Mahabharata and the Ramayana in
+ translation, selected readings from the corpus of secondary
+ literature on Indian epic studies as well as lectures on sa
+lient issues in both. Discussion will focus on a variety of 
+historical and theoretical approaches to the study of the po
+ems and their extraordinary influence on Indian culture. Rea
+dings will be supplemented"
+SASIAN 144,1,"The aim of this course on the culture and history of Muslim 
+communities and institutions in South Asia is to introduce s
+tudents to the broad historical currents of the expansion of
+ Islam in the Indian subcontinent, the nature of Muslim poli
+tical authority, the interaction between religious communiti
+es, Islamic aesthetics and contributions to material culture
+, the varied engagements and reactions of Muslims to colonia
+l rule, and the contemporary"
+SASIAN 146,1,"This course provides a dual chronological and thematic appro
+ach to the study of one of the greatest empires in human civ
+ilization: the Mughal Empire. Although the bulk of this cour
+se will focus on the political, social and economic aspects 
+of Mughal Empire during its heyday between the 1550s and the
+ early 1700s, careful attention will also be paid to the lar
+ger historical and geographical contexts that both enabled t
+he emergence and, ultimately"
+SASIAN 147,1,"Whenever Pakistan comes up as a subject of sustained convers
+ation in the US it usually is for all the wrong reasons: the
+ worst nuclear proliferator in recent history, the refuge of
+ Osama bin Laden, a major source of regional instability in 
+South and Central Asia. Although Pakistan may be viewed with
+ deep mistrust by US policy planners and the American public
+ alike, this course seeks to remind us that it is also a cou
+ntry of great political, economic, religious"
+SASIAN C154,1,"Tibetan Buddhists view the moment of death as a rare opportu
+nity for transformation. This course examines how Tibetans h
+ave used death and dying in the path to enlightenment. Readi
+ngs will address how Tibetan funerary rituals work to assist
+ the dying toward this end, and how Buddhist practitioners p
+repare for this crucial moment through tantric meditation, i
+maginative rehearsals, and explorations of the dream state."
+BANGLA 1A,1,"Terms offered: Fall 2019, Fall 2017, Fall 2015"
+BANGLA 1B,1,"Terms offered: Spring 2020, Spring 2018, Spring 2016"
+BANGLA 101A,1,"Terms offered: Fall 2018, Spring 2018, Fall 2016"
+BANGLA 101B,1,"Terms offered: Spring 2019, Spring 2017, Spring 2015"
+BURMESE 1A,1,"Terms offered: Fall 2019, Fall 2017, Fall 2016"
+BURMESE 1B,1,"Terms offered: Spring 2020, Spring 2018, Spring 2017"
+BURMESE 100A,1,Terms offered: Fall 2018
+BURMESE 100B,1,Terms offered: Spring 2019
+FILIPN 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN W1X,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN W1Y,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN 15,1,Terms offered: Summer 2012 8 Week Session
+FILIPN W15X,1,Terms offered: Summer 2018 10 Week Session
+FILIPN 100A,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, 
+Fall 2018"
+FILIPN 100AB,1,"Terms offered: Summer 2019 8 Week Session, Summer 2018 8 Wee
+k Session"
+FILIPN 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN W100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN W100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN 101B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN W101A,1,"Terms offered: Fall 2016, Fall 2015"
+FILIPN W101B,1,Terms offered: Spring 2017
+FILIPN W120A,1,Terms offered: Prior to 2007
+FILIPN W120B,1,Terms offered: Prior to 2007
+HINDI 1A,1,"This course emphasizes development of the full range of Hind
+i language skills: reading, listening, comprehension, the us
+e of grammatical structures, and oral and written communicat
+ion—through a variety of learning themes. Individual and sma
+ll group activities, interactive work and multimedia-based a
+ctivities reinforce language skills and provide the platform
+ for adapting the curriculum to specific student learning go
+als. Use of graded exercises and readings drawn from"
+HINDI 1B,1,"Hindi writing systems. Survey of grammar. Graded exercises a
+nd readings drawn from Hindi literature, leading to mastery 
+of grammatical structures and essential vocabulary and achie
+vement of basic reading and writing competence."
+HINDI 15,1,"A comprehensive introduction to modern standard Hindi. The H
+indi (Devanagari) writing system; pronunciation; acquisition
+ of grammar and basic vocabulary through graded exercises an
+d readings; special emphasis on the ability to speak and und
+erstand Hindi (and spoken Urdu)."
+HINDI 100A,1,"Intermediate language course will focus on expanding all lan
+guage skills (reading, writing, speaking), mastering grammar
+ patterns and new vocabulary through authentic readings from
+ classical and contemporary Hindi literature, epics, mytholo
+gy and current events. This course acquaints students with r
+epresentative readings from Hindi texts on pivotal cultural 
+issues from a wide variety of sources, to enable them to acq
+uire cultural competence in the language. Systematic"
+HINDI 100B,1,"This course acquaints students with representative readings 
+from Hindi texts on pivotal cultural issues from a wide vari
+ety of sources, to enable them to acquire cultural competenc
+e in the language. Systematic training in advanced grammar a
+nd syntax, reinforced by exercises in composition, both oral
+ and written. Special attention to developing communication 
+skills."
+HINDI 101A,1,"This course, conducted entirely in Hindi, is for students wh
+o have achieved an intermediate level of proficiency in spea
+king, reading, and writing. Its objective is to move student
+s toward a greater level of fluency in each of these key are
+as and to acquire language skills sufficient to approach lit
+erary texts on their own. Students use written assignments a
+nd discussions to explore contemporary literary genres inclu
+ding short stories, poems, and dramatic sketches from"
+HINDI 101B,1,"This course, conducted entirely in Hindi, is for students wh
+o have achieved an intermediate level of proficiency in spea
+king, reading, and writing. Its objective is to move student
+s toward a greater level of fluency in each of these key are
+as and to acquire language skills sufficient to approach lit
+erary texts on their own. Students use written assignments a
+nd discussions to explore contemporary literary genres inclu
+ding short stories, poems, and dramatic sketches"
+KHMER 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+KHMER 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+KHMER 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+KHMER 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+KHMER 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+KHMER 101B,1,"Terms offered: Spring 2018, Spring 2017, Spring 2016"
+INDONES 1A,1,"Survey of grammar, graded exercises, and readings drawn from
+ Indonesian texts, leading to a mastery of basic language pa
+tterns, essential vocabulary, and to achievement of basic re
+ading, writing, and conversational competence. Emphasis on d
+eveloping communicative skills."
+INDONES 1B,1,"Survey of grammar, graded exercises, and readings drawn from
+ Indonesian texts, leading to a mastery of basic language pa
+tterns, essential vocabulary, and to achievement of basic re
+ading, writing, and conversational competence. Emphasis on d
+eveloping communicative skills."
+INDONES 100A,1,"Readings in Indonesian texts, including newspapers, journals
+, and literature exploring a variety of styles. Systematic s
+tudy of grammatical and lexical problems arising from these 
+readings. Advanced exercises in composition, oral and writte
+n communicative skills, and cultural competence."
+INDONES 100B,1,"Readings in Indonesian texts, including newspapers, journals
+, and literature exploring a variety of styles. Systematic s
+tudy of grammatical and lexical problems arising from these 
+readings. Advanced exercises in composition, oral and writte
+n communicative skills, and cultural competence."
+PUNJABI 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+PUNJABI 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+PUNJABI 15,1,"Terms offered: Summer 2000 10 Week Session, Summer 1998 10 W
+eek Session, Summer 1997 10 Week Session"
+PUNJABI 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+PUNJABI 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+SANSKR 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+SANSKR 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+SANSKR 101A,1,"Terms offered: Fall 2019, Spring 2018, Fall 2016"
+SANSKR 101B,1,"Terms offered: Spring 2020, Fall 2018, Spring 2017"
+SANSKR 101C,1,"Terms offered: Spring 2019, Fall 2017, Spring 2016"
+TAMIL 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+TAMIL 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+TAMIL 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+TAMIL 101B,1,"Terms offered: Spring 2018, Spring 2017, Spring 2016"
+TELUGU 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+TELUGU 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+THAI 1A,1,"Terms offered: Fall 2018, Fall 2017, Fall 2016"
+THAI 1B,1,"Terms offered: Spring 2019, Spring 2018, Spring 2017"
+THAI 100A,1,"Terms offered: Fall 2019, Fall 2017, Fall 2016"
+THAI 100B,1,"Terms offered: Spring 2020, Spring 2018, Spring 2016"
+THAI 101A,1,"Terms offered: Fall 2018, Fall 2016, Fall 2015"
+THAI 101B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2017"
+URDU 1A,1,"The course concentrates on developing skills in reading, wri
+ting, speaking, and aural comprehension. Evaluation is based
+ on attendance, written homework assignments, quizzes, dicta
+tions, and examinations. Conventional teaching materials may
+ be supplemented by popular songs and clips from contemporar
+y Indian cinema."
+URDU 1B,1,"The course concentrates on developing skills in reading, wri
+ting, speaking, and aural comprehension. Evaluation is based
+ on attendance, written homework assignments, quizzes, dicta
+tions, and examinations. Conventional teaching materials may
+ be supplemented by popular songs and clips from contemporar
+y Indian cinema."
+URDU 100A,1,"Introduces various types of written and spoken Urdu; vocabul
+ary building, idioms, and problems of syntax; and conversati
+on. Reading of selected fiction and nonfiction in modern Urd
+u, including fables, short stories, and poetry. Exercises in
+ grammar, conversation, and composition."
+URDU 100B,1,"Introduces various types of written and spoken Urdu; vocabul
+ary building, idioms, and problems of syntax; and conversati
+on. Reading of selected fiction and nonfiction in modern Urd
+u, including fables, short stories, and poetry. Exercises in
+ grammar, conversation, and composition."
+URDU 101A,1,"Reading of Urdu prose and poetry in a variety of literary an
+d scholarly styles; composition. Topics in advanced grammar;
+ designed to improve proficiency in speaking, listening, rea
+ding, and writing. Students will be expected to converse in 
+a clearly participatory fashion, initiate, sustain, and brin
+g to closure a wide variety of communicative tasks using div
+erse language strategies."
+URDU 101B,1,"Reading of Urdu prose and poetry in a variety of literary an
+d scholarly styles; composition. Topics in advanced grammar;
+ designed to improve proficiency in speaking, listening, rea
+ding, and writing. Students will be expected to converse in 
+a clearly participatory fashion, initiate, sustain, and brin
+g to closure a wide variety of communicative tasks using div
+erse language strategies."
+VIETNMS 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+VIETNMS 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+VIETNMS 15,1,"Terms offered: Summer 2016 8 Week Session, Summer 2012 10 We
+ek Session, Summer 2012 8 Week Session"
+VIETNMS 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+VIETNMS 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+VIETNMS 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+VIETNMS 101B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+SSEASN 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments and topic
+s vary from department to department and semester to semeste
+r. Enrollment limited to 15 freshmen."
+SSEASN 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 18."
+SSEASN 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+SSEASN 120,1,"Designed to permit regular faculty and visitors to explore s
+pecial topics not normally covered in the curriculum. Focus 
+and readings will change in response to current research int
+erests of instructors and teaching needs of the department."
+SSEASN 149,1,"Directed study of South and Southeast Asian Languages. This 
+course will provide intensive language training in languages
+ not regularly taught by the Department. Language may vary e
+ach semester based on instructor availability."
+SSEASN 190,1,"Designed primarily to give majors sustained and intensive tr
+aining in reading, writing, and analysis in the discipline. 
+Independent research and a substantial essay required. Topic
+s will vary in accord with faculty and student interests."
+SSEASN H195A,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors"
+SSEASN H195B,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN H195C,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN H195E,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN H195F,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN 198A,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198B,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198C,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198D,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198E,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198F,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 199,1,Four-unit limit per term.
+SSEASN 199A,1,Four-unit limit per term.
+SSEASN 199B,1,Four-unit limit per term.
+SSEASN 199C,1,Four-unit limit per term.
+SSEASN 199F,1,Four-unit limit per term.
+SEASIAN R5A,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019"
+SEASIAN R5B,1,"Terms offered: Spring 2020, Spring 2019"
+SEASIAN 10A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+SEASIAN 10B,1,"Terms offered: Spring 2020, Spring 2019, Summer 2018 Second 
+6 Week Session"
+SEASIAN 128,1,"Terms offered: Fall 2014, Fall 2011, Fall 2009"
+SEASIAN 129,1,"Terms offered: Spring 2020, Spring 2018, Spring 2015"
+SEASIAN 130,1,"Terms offered: Fall 2016, Spring 2014, Fall 2012"
+SEASIAN 137,1,"Terms offered: Fall 2016, Fall 2014, Fall 2013"
+SEASIAN 138,1,"Terms offered: Fall 2010, Fall 2008, Fall 2006"
+SEASIAN 148,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Summer 2019 First 6 Week Session"
+SEASIAN 150,1,Terms offered: Fall 2019
+SEASIAN 152,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ Second 6 Week Session"
+SEASIAN 154,1,"Terms offered: Summer 2020 Second 6 Week Session, Summer 201
+9"
+SEASIAN 160,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ First 6 Week Session"
+SEASIAN C164,1,"Terms offered: Spring 2018, Spring 2014, Spring 2010"
+SASIAN 1A,1,"This course offers a broad historical, political, ethnograph
+ical and and cultural survey of the civilizations of the Ind
+ian subcontinent from the earliest period known to archaeolo
+gy to the advent of Islam as a major cultural and political 
+force around the 13th century CE. Lectures, readings, and cl
+ass discussions will center on seminal texts that have influ
+enced South Asian civilizations from the earliest antiquity 
+to the late medieval period."
+SASIAN 1B,1,"This course offers a broad historical and cultural survey of
+ the civilizations of the Indian subcontinent from the 12th 
+century to Partition in 1947. Attention will be paid to the 
+geography and ethnography of the region, its political histo
+ry, and the religious, philosophical, literary, and artistic
+ movements that have shaped it and contributed to its develo
+pment as a unique, diverse, and fascinating world civilizati
+on. Lectures, readings"
+SASIAN R5A,1,"Reading and composition based on 10 classic works of Indian 
+literature ranging from the ancient Sanskrit epics to modern
+ novels by Indian and western authors. Weekly composition on
+ texts and topics read and discussed in class. Satisfies the
+ first half of the Reading and Composition requirement."
+SASIAN R5B,1,"Reading and composition in connection with eastern and weste
+rn representations of India, and other Asian cultures, in gr
+eat works of modern literature. Satisfies the second half of
+ the reading and composition requirement."
+SASIAN 110,1,"The course will provide through lecture, discussion and cour
+se readings a comprehensive introduction to the major texts,
+ doctrines, beliefs and practices of classical Hinduism from
+ antiquity to modernity. Special emphasis will be placed on 
+Vedic and Āgamic traditions and on the rise and development 
+of the major Hindu saṃpradāyas, including those of Vaiṣṇavis
+m, Śaivism, Śaktism and Tantrism. Attention will be paid to 
+Hinduism's relationships with non Hindu"
+SASIAN C113,1,"This course is an advanced introduction to the major teachin
+gs of Indian Buddhism and their philosophical elaborations. 
+We will cover the core tenets attributed to the Buddha, and 
+the later doctrinal and scholastic developments that turned 
+Buddhism into one of the principal philosophical traditions 
+of India. For this we will read select primary sources—in pr
+inciple, extracts of the scriptures and later treatises—and 
+academic articles and book"
+SASIAN C114,1,"This course is a broad introduction to the history, doctrine
+, and culture of the Buddhism of Tibet. We will begin with t
+he introduction of Buddhism to Tibet in the eighth century a
+nd move on to the evolution of the major schools of Tibetan 
+Buddhism, Tibetan Buddhist literature, ritual and monastic p
+ractice, the place of Buddhism in Tibetan political history,
+ and the contemporary situation of Tibetan Buddhism both ins
+ide and outside of Tibet."
+SASIAN 121,1,"Literary works of ancient India are read in English translat
+ion and studied critically. The course aims at giving a comp
+rehensive picture of many important areas of the Indian lite
+rary heritage."
+SASIAN 122,1,"Lecture and discussion on the novel as it arose on the India
+n subcontinent during the 19th and 20th centuries, using Eng
+lish translations and original works in English. Critical di
+scussion of the novel as a modern genre adapted to local con
+ditions and coexisting with older traditions of writing. Exa
+mines the novel as a window on Indian modernities. Interpret
+ation of Indian society, culture, and history through litera
+ture."
+SASIAN 123,1,"The period between 600 and 1600 C.E. witnessed the growth of
+ a number of religious traditions that challenged prevailing
+ orthodoxies and reshaped South Asian society and culture. T
+his course will examine the major developments within Hindu 
+traditions, focusing on popular traditions known as bhakti (
+devotion). Examines the growth and spread of Islam (particul
+arly, Sufism) and the emergence of Sikhism. The focus of rea
+dings is on primary sources – poetry, extracts"
+SASIAN 124,1,"Lectures and discussion of 19th and 20th century Indian lite
+rature through English translations and original works in En
+glish. Interpretation of Indian society and culture through 
+literature."
+SASIAN 128,1,"This course considers the co-option, reinterpretation and di
+ssemination of sacred texts and religious practices in vario
+us political and cultural projects in India during the colon
+ial and post-colonial periods. Students will be introduced t
+o religious “reform” movements, cross-cultural debates durin
+g the colonial period, and how the concept of a secular stat
+e in post-Independence India has shaped and continues to sha
+pe religious practice and"
+SASIAN 130,1,"This course will examine the role of film, visual media and 
+spectatorship practices in the construction and narration of
+ modern South Asia. In particular, this course will interrog
+ate how modern South Asia has been produced and represented 
+in different visual aesthetic forms such as popular film, ar
+thouse cinema, documentaries, the graphic novel and contempo
+rary digital media spaces such as YouTube. The course will i
+ntroduce visual and media theories that frame"
+SASIAN 136,1,"Tamil is a Dravidian language that is spoken by approximatel
+y 77 million speakers around the world. Used as an official 
+language in Sri Lanka and Singapore, Tamil’s classical statu
+s makes it an exciting language through which diverse modes 
+of ethnic and linguistic belonging can be studied in South A
+sia. This course is meant to study global Tamil societies th
+rough the interdisciplinary lenses of literary and cultural 
+studies; knowledge of the Tamil language is not"
+SASIAN 140,1,"Literary and religious aspects of Hindu myths. Reading of se
+lected mythological texts in translation."
+SASIAN 142,1,"The course entails substantial selected readings from the gr
+eat Sanskirt epic poems--the Mahabharata and the Ramayana in
+ translation, selected readings from the corpus of secondary
+ literature on Indian epic studies as well as lectures on sa
+lient issues in both. Discussion will focus on a variety of 
+historical and theoretical approaches to the study of the po
+ems and their extraordinary influence on Indian culture. Rea
+dings will be supplemented"
+SASIAN 144,1,"The aim of this course on the culture and history of Muslim 
+communities and institutions in South Asia is to introduce s
+tudents to the broad historical currents of the expansion of
+ Islam in the Indian subcontinent, the nature of Muslim poli
+tical authority, the interaction between religious communiti
+es, Islamic aesthetics and contributions to material culture
+, the varied engagements and reactions of Muslims to colonia
+l rule, and the contemporary"
+SASIAN 146,1,"This course provides a dual chronological and thematic appro
+ach to the study of one of the greatest empires in human civ
+ilization: the Mughal Empire. Although the bulk of this cour
+se will focus on the political, social and economic aspects 
+of Mughal Empire during its heyday between the 1550s and the
+ early 1700s, careful attention will also be paid to the lar
+ger historical and geographical contexts that both enabled t
+he emergence and, ultimately"
+SASIAN 147,1,"Whenever Pakistan comes up as a subject of sustained convers
+ation in the US it usually is for all the wrong reasons: the
+ worst nuclear proliferator in recent history, the refuge of
+ Osama bin Laden, a major source of regional instability in 
+South and Central Asia. Although Pakistan may be viewed with
+ deep mistrust by US policy planners and the American public
+ alike, this course seeks to remind us that it is also a cou
+ntry of great political, economic, religious"
+SASIAN C154,1,"Tibetan Buddhists view the moment of death as a rare opportu
+nity for transformation. This course examines how Tibetans h
+ave used death and dying in the path to enlightenment. Readi
+ngs will address how Tibetan funerary rituals work to assist
+ the dying toward this end, and how Buddhist practitioners p
+repare for this crucial moment through tantric meditation, i
+maginative rehearsals, and explorations of the dream state."
+BANGLA 1A,1,"Terms offered: Fall 2019, Fall 2017, Fall 2015"
+BANGLA 1B,1,"Terms offered: Spring 2020, Spring 2018, Spring 2016"
+BANGLA 101A,1,"Terms offered: Fall 2018, Spring 2018, Fall 2016"
+BANGLA 101B,1,"Terms offered: Spring 2019, Spring 2017, Spring 2015"
+BURMESE 1A,1,"Terms offered: Fall 2019, Fall 2017, Fall 2016"
+BURMESE 1B,1,"Terms offered: Spring 2020, Spring 2018, Spring 2017"
+BURMESE 100A,1,Terms offered: Fall 2018
+BURMESE 100B,1,Terms offered: Spring 2019
+FILIPN 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN W1X,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN W1Y,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN 15,1,Terms offered: Summer 2012 8 Week Session
+FILIPN W15X,1,Terms offered: Summer 2018 10 Week Session
+FILIPN 100A,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, 
+Fall 2018"
+FILIPN 100AB,1,"Terms offered: Summer 2019 8 Week Session, Summer 2018 8 Wee
+k Session"
+FILIPN 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN W100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN W100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN 101B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN W101A,1,"Terms offered: Fall 2016, Fall 2015"
+FILIPN W101B,1,Terms offered: Spring 2017
+FILIPN W120A,1,Terms offered: Prior to 2007
+FILIPN W120B,1,Terms offered: Prior to 2007
+HINDI 1A,1,"This course emphasizes development of the full range of Hind
+i language skills: reading, listening, comprehension, the us
+e of grammatical structures, and oral and written communicat
+ion—through a variety of learning themes. Individual and sma
+ll group activities, interactive work and multimedia-based a
+ctivities reinforce language skills and provide the platform
+ for adapting the curriculum to specific student learning go
+als. Use of graded exercises and readings drawn from"
+HINDI 1B,1,"Hindi writing systems. Survey of grammar. Graded exercises a
+nd readings drawn from Hindi literature, leading to mastery 
+of grammatical structures and essential vocabulary and achie
+vement of basic reading and writing competence."
+HINDI 15,1,"A comprehensive introduction to modern standard Hindi. The H
+indi (Devanagari) writing system; pronunciation; acquisition
+ of grammar and basic vocabulary through graded exercises an
+d readings; special emphasis on the ability to speak and und
+erstand Hindi (and spoken Urdu)."
+HINDI 100A,1,"Intermediate language course will focus on expanding all lan
+guage skills (reading, writing, speaking), mastering grammar
+ patterns and new vocabulary through authentic readings from
+ classical and contemporary Hindi literature, epics, mytholo
+gy and current events. This course acquaints students with r
+epresentative readings from Hindi texts on pivotal cultural 
+issues from a wide variety of sources, to enable them to acq
+uire cultural competence in the language. Systematic"
+HINDI 100B,1,"This course acquaints students with representative readings 
+from Hindi texts on pivotal cultural issues from a wide vari
+ety of sources, to enable them to acquire cultural competenc
+e in the language. Systematic training in advanced grammar a
+nd syntax, reinforced by exercises in composition, both oral
+ and written. Special attention to developing communication 
+skills."
+HINDI 101A,1,"This course, conducted entirely in Hindi, is for students wh
+o have achieved an intermediate level of proficiency in spea
+king, reading, and writing. Its objective is to move student
+s toward a greater level of fluency in each of these key are
+as and to acquire language skills sufficient to approach lit
+erary texts on their own. Students use written assignments a
+nd discussions to explore contemporary literary genres inclu
+ding short stories, poems, and dramatic sketches from"
+HINDI 101B,1,"This course, conducted entirely in Hindi, is for students wh
+o have achieved an intermediate level of proficiency in spea
+king, reading, and writing. Its objective is to move student
+s toward a greater level of fluency in each of these key are
+as and to acquire language skills sufficient to approach lit
+erary texts on their own. Students use written assignments a
+nd discussions to explore contemporary literary genres inclu
+ding short stories, poems, and dramatic sketches"
+KHMER 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+KHMER 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+KHMER 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+KHMER 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+KHMER 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+KHMER 101B,1,"Terms offered: Spring 2018, Spring 2017, Spring 2016"
+INDONES 1A,1,"Survey of grammar, graded exercises, and readings drawn from
+ Indonesian texts, leading to a mastery of basic language pa
+tterns, essential vocabulary, and to achievement of basic re
+ading, writing, and conversational competence. Emphasis on d
+eveloping communicative skills."
+INDONES 1B,1,"Survey of grammar, graded exercises, and readings drawn from
+ Indonesian texts, leading to a mastery of basic language pa
+tterns, essential vocabulary, and to achievement of basic re
+ading, writing, and conversational competence. Emphasis on d
+eveloping communicative skills."
+INDONES 100A,1,"Readings in Indonesian texts, including newspapers, journals
+, and literature exploring a variety of styles. Systematic s
+tudy of grammatical and lexical problems arising from these 
+readings. Advanced exercises in composition, oral and writte
+n communicative skills, and cultural competence."
+INDONES 100B,1,"Readings in Indonesian texts, including newspapers, journals
+, and literature exploring a variety of styles. Systematic s
+tudy of grammatical and lexical problems arising from these 
+readings. Advanced exercises in composition, oral and writte
+n communicative skills, and cultural competence."
+PUNJABI 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+PUNJABI 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+PUNJABI 15,1,"Terms offered: Summer 2000 10 Week Session, Summer 1998 10 W
+eek Session, Summer 1997 10 Week Session"
+PUNJABI 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+PUNJABI 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+SANSKR 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+SANSKR 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+SANSKR 101A,1,"Terms offered: Fall 2019, Spring 2018, Fall 2016"
+SANSKR 101B,1,"Terms offered: Spring 2020, Fall 2018, Spring 2017"
+SANSKR 101C,1,"Terms offered: Spring 2019, Fall 2017, Spring 2016"
+TAMIL 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+TAMIL 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+TAMIL 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+TAMIL 101B,1,"Terms offered: Spring 2018, Spring 2017, Spring 2016"
+TELUGU 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+TELUGU 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+THAI 1A,1,"Terms offered: Fall 2018, Fall 2017, Fall 2016"
+THAI 1B,1,"Terms offered: Spring 2019, Spring 2018, Spring 2017"
+THAI 100A,1,"Terms offered: Fall 2019, Fall 2017, Fall 2016"
+THAI 100B,1,"Terms offered: Spring 2020, Spring 2018, Spring 2016"
+THAI 101A,1,"Terms offered: Fall 2018, Fall 2016, Fall 2015"
+THAI 101B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2017"
+URDU 1A,1,"The course concentrates on developing skills in reading, wri
+ting, speaking, and aural comprehension. Evaluation is based
+ on attendance, written homework assignments, quizzes, dicta
+tions, and examinations. Conventional teaching materials may
+ be supplemented by popular songs and clips from contemporar
+y Indian cinema."
+URDU 1B,1,"The course concentrates on developing skills in reading, wri
+ting, speaking, and aural comprehension. Evaluation is based
+ on attendance, written homework assignments, quizzes, dicta
+tions, and examinations. Conventional teaching materials may
+ be supplemented by popular songs and clips from contemporar
+y Indian cinema."
+URDU 100A,1,"Introduces various types of written and spoken Urdu; vocabul
+ary building, idioms, and problems of syntax; and conversati
+on. Reading of selected fiction and nonfiction in modern Urd
+u, including fables, short stories, and poetry. Exercises in
+ grammar, conversation, and composition."
+URDU 100B,1,"Introduces various types of written and spoken Urdu; vocabul
+ary building, idioms, and problems of syntax; and conversati
+on. Reading of selected fiction and nonfiction in modern Urd
+u, including fables, short stories, and poetry. Exercises in
+ grammar, conversation, and composition."
+URDU 101A,1,"Reading of Urdu prose and poetry in a variety of literary an
+d scholarly styles; composition. Topics in advanced grammar;
+ designed to improve proficiency in speaking, listening, rea
+ding, and writing. Students will be expected to converse in 
+a clearly participatory fashion, initiate, sustain, and brin
+g to closure a wide variety of communicative tasks using div
+erse language strategies."
+URDU 101B,1,"Reading of Urdu prose and poetry in a variety of literary an
+d scholarly styles; composition. Topics in advanced grammar;
+ designed to improve proficiency in speaking, listening, rea
+ding, and writing. Students will be expected to converse in 
+a clearly participatory fashion, initiate, sustain, and brin
+g to closure a wide variety of communicative tasks using div
+erse language strategies."
+VIETNMS 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+VIETNMS 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+VIETNMS 15,1,"Terms offered: Summer 2016 8 Week Session, Summer 2012 10 We
+ek Session, Summer 2012 8 Week Session"
+VIETNMS 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+VIETNMS 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+VIETNMS 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+VIETNMS 101B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+SSEASN 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments and topic
+s vary from department to department and semester to semeste
+r. Enrollment limited to 15 freshmen."
+SSEASN 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 18."
+SSEASN 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+SSEASN 120,1,"Designed to permit regular faculty and visitors to explore s
+pecial topics not normally covered in the curriculum. Focus 
+and readings will change in response to current research int
+erests of instructors and teaching needs of the department."
+SSEASN 149,1,"Directed study of South and Southeast Asian Languages. This 
+course will provide intensive language training in languages
+ not regularly taught by the Department. Language may vary e
+ach semester based on instructor availability."
+SSEASN 190,1,"Designed primarily to give majors sustained and intensive tr
+aining in reading, writing, and analysis in the discipline. 
+Independent research and a substantial essay required. Topic
+s will vary in accord with faculty and student interests."
+SSEASN H195A,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors"
+SSEASN H195B,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN H195C,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN H195E,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN H195F,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN 198A,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198B,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198C,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198D,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198E,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198F,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 199,1,Four-unit limit per term.
+SSEASN 199A,1,Four-unit limit per term.
+SSEASN 199B,1,Four-unit limit per term.
+SSEASN 199C,1,Four-unit limit per term.
+SSEASN 199F,1,Four-unit limit per term.
+SEASIAN R5A,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019"
+SEASIAN R5B,1,"Terms offered: Spring 2020, Spring 2019"
+SEASIAN 10A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+SEASIAN 10B,1,"Terms offered: Spring 2020, Spring 2019, Summer 2018 Second 
+6 Week Session"
+SEASIAN 128,1,"Terms offered: Fall 2014, Fall 2011, Fall 2009"
+SEASIAN 129,1,"Terms offered: Spring 2020, Spring 2018, Spring 2015"
+SEASIAN 130,1,"Terms offered: Fall 2016, Spring 2014, Fall 2012"
+SEASIAN 137,1,"Terms offered: Fall 2016, Fall 2014, Fall 2013"
+SEASIAN 138,1,"Terms offered: Fall 2010, Fall 2008, Fall 2006"
+SEASIAN 148,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Summer 2019 First 6 Week Session"
+SEASIAN 150,1,Terms offered: Fall 2019
+SEASIAN 152,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ Second 6 Week Session"
+SEASIAN 154,1,"Terms offered: Summer 2020 Second 6 Week Session, Summer 201
+9"
+SEASIAN 160,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ First 6 Week Session"
+SEASIAN C164,1,"Terms offered: Spring 2018, Spring 2014, Spring 2010"
+SASIAN 1A,1,"This course offers a broad historical, political, ethnograph
+ical and and cultural survey of the civilizations of the Ind
+ian subcontinent from the earliest period known to archaeolo
+gy to the advent of Islam as a major cultural and political 
+force around the 13th century CE. Lectures, readings, and cl
+ass discussions will center on seminal texts that have influ
+enced South Asian civilizations from the earliest antiquity 
+to the late medieval period."
+SASIAN 1B,1,"This course offers a broad historical and cultural survey of
+ the civilizations of the Indian subcontinent from the 12th 
+century to Partition in 1947. Attention will be paid to the 
+geography and ethnography of the region, its political histo
+ry, and the religious, philosophical, literary, and artistic
+ movements that have shaped it and contributed to its develo
+pment as a unique, diverse, and fascinating world civilizati
+on. Lectures, readings"
+SASIAN R5A,1,"Reading and composition based on 10 classic works of Indian 
+literature ranging from the ancient Sanskrit epics to modern
+ novels by Indian and western authors. Weekly composition on
+ texts and topics read and discussed in class. Satisfies the
+ first half of the Reading and Composition requirement."
+SASIAN R5B,1,"Reading and composition in connection with eastern and weste
+rn representations of India, and other Asian cultures, in gr
+eat works of modern literature. Satisfies the second half of
+ the reading and composition requirement."
+SASIAN 110,1,"The course will provide through lecture, discussion and cour
+se readings a comprehensive introduction to the major texts,
+ doctrines, beliefs and practices of classical Hinduism from
+ antiquity to modernity. Special emphasis will be placed on 
+Vedic and Āgamic traditions and on the rise and development 
+of the major Hindu saṃpradāyas, including those of Vaiṣṇavis
+m, Śaivism, Śaktism and Tantrism. Attention will be paid to 
+Hinduism's relationships with non Hindu"
+SASIAN C113,1,"This course is an advanced introduction to the major teachin
+gs of Indian Buddhism and their philosophical elaborations. 
+We will cover the core tenets attributed to the Buddha, and 
+the later doctrinal and scholastic developments that turned 
+Buddhism into one of the principal philosophical traditions 
+of India. For this we will read select primary sources—in pr
+inciple, extracts of the scriptures and later treatises—and 
+academic articles and book"
+SASIAN C114,1,"This course is a broad introduction to the history, doctrine
+, and culture of the Buddhism of Tibet. We will begin with t
+he introduction of Buddhism to Tibet in the eighth century a
+nd move on to the evolution of the major schools of Tibetan 
+Buddhism, Tibetan Buddhist literature, ritual and monastic p
+ractice, the place of Buddhism in Tibetan political history,
+ and the contemporary situation of Tibetan Buddhism both ins
+ide and outside of Tibet."
+SASIAN 121,1,"Literary works of ancient India are read in English translat
+ion and studied critically. The course aims at giving a comp
+rehensive picture of many important areas of the Indian lite
+rary heritage."
+SASIAN 122,1,"Lecture and discussion on the novel as it arose on the India
+n subcontinent during the 19th and 20th centuries, using Eng
+lish translations and original works in English. Critical di
+scussion of the novel as a modern genre adapted to local con
+ditions and coexisting with older traditions of writing. Exa
+mines the novel as a window on Indian modernities. Interpret
+ation of Indian society, culture, and history through litera
+ture."
+SASIAN 123,1,"The period between 600 and 1600 C.E. witnessed the growth of
+ a number of religious traditions that challenged prevailing
+ orthodoxies and reshaped South Asian society and culture. T
+his course will examine the major developments within Hindu 
+traditions, focusing on popular traditions known as bhakti (
+devotion). Examines the growth and spread of Islam (particul
+arly, Sufism) and the emergence of Sikhism. The focus of rea
+dings is on primary sources – poetry, extracts"
+SASIAN 124,1,"Lectures and discussion of 19th and 20th century Indian lite
+rature through English translations and original works in En
+glish. Interpretation of Indian society and culture through 
+literature."
+SASIAN 128,1,"This course considers the co-option, reinterpretation and di
+ssemination of sacred texts and religious practices in vario
+us political and cultural projects in India during the colon
+ial and post-colonial periods. Students will be introduced t
+o religious “reform” movements, cross-cultural debates durin
+g the colonial period, and how the concept of a secular stat
+e in post-Independence India has shaped and continues to sha
+pe religious practice and"
+SASIAN 130,1,"This course will examine the role of film, visual media and 
+spectatorship practices in the construction and narration of
+ modern South Asia. In particular, this course will interrog
+ate how modern South Asia has been produced and represented 
+in different visual aesthetic forms such as popular film, ar
+thouse cinema, documentaries, the graphic novel and contempo
+rary digital media spaces such as YouTube. The course will i
+ntroduce visual and media theories that frame"
+SASIAN 136,1,"Tamil is a Dravidian language that is spoken by approximatel
+y 77 million speakers around the world. Used as an official 
+language in Sri Lanka and Singapore, Tamil’s classical statu
+s makes it an exciting language through which diverse modes 
+of ethnic and linguistic belonging can be studied in South A
+sia. This course is meant to study global Tamil societies th
+rough the interdisciplinary lenses of literary and cultural 
+studies; knowledge of the Tamil language is not"
+SASIAN 140,1,"Literary and religious aspects of Hindu myths. Reading of se
+lected mythological texts in translation."
+SASIAN 142,1,"The course entails substantial selected readings from the gr
+eat Sanskirt epic poems--the Mahabharata and the Ramayana in
+ translation, selected readings from the corpus of secondary
+ literature on Indian epic studies as well as lectures on sa
+lient issues in both. Discussion will focus on a variety of 
+historical and theoretical approaches to the study of the po
+ems and their extraordinary influence on Indian culture. Rea
+dings will be supplemented"
+SASIAN 144,1,"The aim of this course on the culture and history of Muslim 
+communities and institutions in South Asia is to introduce s
+tudents to the broad historical currents of the expansion of
+ Islam in the Indian subcontinent, the nature of Muslim poli
+tical authority, the interaction between religious communiti
+es, Islamic aesthetics and contributions to material culture
+, the varied engagements and reactions of Muslims to colonia
+l rule, and the contemporary"
+SASIAN 146,1,"This course provides a dual chronological and thematic appro
+ach to the study of one of the greatest empires in human civ
+ilization: the Mughal Empire. Although the bulk of this cour
+se will focus on the political, social and economic aspects 
+of Mughal Empire during its heyday between the 1550s and the
+ early 1700s, careful attention will also be paid to the lar
+ger historical and geographical contexts that both enabled t
+he emergence and, ultimately"
+SASIAN 147,1,"Whenever Pakistan comes up as a subject of sustained convers
+ation in the US it usually is for all the wrong reasons: the
+ worst nuclear proliferator in recent history, the refuge of
+ Osama bin Laden, a major source of regional instability in 
+South and Central Asia. Although Pakistan may be viewed with
+ deep mistrust by US policy planners and the American public
+ alike, this course seeks to remind us that it is also a cou
+ntry of great political, economic, religious"
+SASIAN C154,1,"Tibetan Buddhists view the moment of death as a rare opportu
+nity for transformation. This course examines how Tibetans h
+ave used death and dying in the path to enlightenment. Readi
+ngs will address how Tibetan funerary rituals work to assist
+ the dying toward this end, and how Buddhist practitioners p
+repare for this crucial moment through tantric meditation, i
+maginative rehearsals, and explorations of the dream state."
+BANGLA 1A,1,"Terms offered: Fall 2019, Fall 2017, Fall 2015"
+BANGLA 1B,1,"Terms offered: Spring 2020, Spring 2018, Spring 2016"
+BANGLA 101A,1,"Terms offered: Fall 2018, Spring 2018, Fall 2016"
+BANGLA 101B,1,"Terms offered: Spring 2019, Spring 2017, Spring 2015"
+BURMESE 1A,1,"Terms offered: Fall 2019, Fall 2017, Fall 2016"
+BURMESE 1B,1,"Terms offered: Spring 2020, Spring 2018, Spring 2017"
+BURMESE 100A,1,Terms offered: Fall 2018
+BURMESE 100B,1,Terms offered: Spring 2019
+FILIPN 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN W1X,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN W1Y,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN 15,1,Terms offered: Summer 2012 8 Week Session
+FILIPN W15X,1,Terms offered: Summer 2018 10 Week Session
+FILIPN 100A,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, 
+Fall 2018"
+FILIPN 100AB,1,"Terms offered: Summer 2019 8 Week Session, Summer 2018 8 Wee
+k Session"
+FILIPN 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN W100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN W100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN 101B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN W101A,1,"Terms offered: Fall 2016, Fall 2015"
+FILIPN W101B,1,Terms offered: Spring 2017
+FILIPN W120A,1,Terms offered: Prior to 2007
+FILIPN W120B,1,Terms offered: Prior to 2007
+HINDI 1A,1,"This course emphasizes development of the full range of Hind
+i language skills: reading, listening, comprehension, the us
+e of grammatical structures, and oral and written communicat
+ion—through a variety of learning themes. Individual and sma
+ll group activities, interactive work and multimedia-based a
+ctivities reinforce language skills and provide the platform
+ for adapting the curriculum to specific student learning go
+als. Use of graded exercises and readings drawn from"
+HINDI 1B,1,"Hindi writing systems. Survey of grammar. Graded exercises a
+nd readings drawn from Hindi literature, leading to mastery 
+of grammatical structures and essential vocabulary and achie
+vement of basic reading and writing competence."
+HINDI 15,1,"A comprehensive introduction to modern standard Hindi. The H
+indi (Devanagari) writing system; pronunciation; acquisition
+ of grammar and basic vocabulary through graded exercises an
+d readings; special emphasis on the ability to speak and und
+erstand Hindi (and spoken Urdu)."
+HINDI 100A,1,"Intermediate language course will focus on expanding all lan
+guage skills (reading, writing, speaking), mastering grammar
+ patterns and new vocabulary through authentic readings from
+ classical and contemporary Hindi literature, epics, mytholo
+gy and current events. This course acquaints students with r
+epresentative readings from Hindi texts on pivotal cultural 
+issues from a wide variety of sources, to enable them to acq
+uire cultural competence in the language. Systematic"
+HINDI 100B,1,"This course acquaints students with representative readings 
+from Hindi texts on pivotal cultural issues from a wide vari
+ety of sources, to enable them to acquire cultural competenc
+e in the language. Systematic training in advanced grammar a
+nd syntax, reinforced by exercises in composition, both oral
+ and written. Special attention to developing communication 
+skills."
+HINDI 101A,1,"This course, conducted entirely in Hindi, is for students wh
+o have achieved an intermediate level of proficiency in spea
+king, reading, and writing. Its objective is to move student
+s toward a greater level of fluency in each of these key are
+as and to acquire language skills sufficient to approach lit
+erary texts on their own. Students use written assignments a
+nd discussions to explore contemporary literary genres inclu
+ding short stories, poems, and dramatic sketches from"
+HINDI 101B,1,"This course, conducted entirely in Hindi, is for students wh
+o have achieved an intermediate level of proficiency in spea
+king, reading, and writing. Its objective is to move student
+s toward a greater level of fluency in each of these key are
+as and to acquire language skills sufficient to approach lit
+erary texts on their own. Students use written assignments a
+nd discussions to explore contemporary literary genres inclu
+ding short stories, poems, and dramatic sketches"
+KHMER 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+KHMER 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+KHMER 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+KHMER 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+KHMER 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+KHMER 101B,1,"Terms offered: Spring 2018, Spring 2017, Spring 2016"
+INDONES 1A,1,"Survey of grammar, graded exercises, and readings drawn from
+ Indonesian texts, leading to a mastery of basic language pa
+tterns, essential vocabulary, and to achievement of basic re
+ading, writing, and conversational competence. Emphasis on d
+eveloping communicative skills."
+INDONES 1B,1,"Survey of grammar, graded exercises, and readings drawn from
+ Indonesian texts, leading to a mastery of basic language pa
+tterns, essential vocabulary, and to achievement of basic re
+ading, writing, and conversational competence. Emphasis on d
+eveloping communicative skills."
+INDONES 100A,1,"Readings in Indonesian texts, including newspapers, journals
+, and literature exploring a variety of styles. Systematic s
+tudy of grammatical and lexical problems arising from these 
+readings. Advanced exercises in composition, oral and writte
+n communicative skills, and cultural competence."
+INDONES 100B,1,"Readings in Indonesian texts, including newspapers, journals
+, and literature exploring a variety of styles. Systematic s
+tudy of grammatical and lexical problems arising from these 
+readings. Advanced exercises in composition, oral and writte
+n communicative skills, and cultural competence."
+PUNJABI 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+PUNJABI 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+PUNJABI 15,1,"Terms offered: Summer 2000 10 Week Session, Summer 1998 10 W
+eek Session, Summer 1997 10 Week Session"
+PUNJABI 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+PUNJABI 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+SANSKR 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+SANSKR 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+SANSKR 101A,1,"Terms offered: Fall 2019, Spring 2018, Fall 2016"
+SANSKR 101B,1,"Terms offered: Spring 2020, Fall 2018, Spring 2017"
+SANSKR 101C,1,"Terms offered: Spring 2019, Fall 2017, Spring 2016"
+TAMIL 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+TAMIL 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+TAMIL 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+TAMIL 101B,1,"Terms offered: Spring 2018, Spring 2017, Spring 2016"
+TELUGU 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+TELUGU 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+THAI 1A,1,"Terms offered: Fall 2018, Fall 2017, Fall 2016"
+THAI 1B,1,"Terms offered: Spring 2019, Spring 2018, Spring 2017"
+THAI 100A,1,"Terms offered: Fall 2019, Fall 2017, Fall 2016"
+THAI 100B,1,"Terms offered: Spring 2020, Spring 2018, Spring 2016"
+THAI 101A,1,"Terms offered: Fall 2018, Fall 2016, Fall 2015"
+THAI 101B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2017"
+URDU 1A,1,"The course concentrates on developing skills in reading, wri
+ting, speaking, and aural comprehension. Evaluation is based
+ on attendance, written homework assignments, quizzes, dicta
+tions, and examinations. Conventional teaching materials may
+ be supplemented by popular songs and clips from contemporar
+y Indian cinema."
+URDU 1B,1,"The course concentrates on developing skills in reading, wri
+ting, speaking, and aural comprehension. Evaluation is based
+ on attendance, written homework assignments, quizzes, dicta
+tions, and examinations. Conventional teaching materials may
+ be supplemented by popular songs and clips from contemporar
+y Indian cinema."
+URDU 100A,1,"Introduces various types of written and spoken Urdu; vocabul
+ary building, idioms, and problems of syntax; and conversati
+on. Reading of selected fiction and nonfiction in modern Urd
+u, including fables, short stories, and poetry. Exercises in
+ grammar, conversation, and composition."
+URDU 100B,1,"Introduces various types of written and spoken Urdu; vocabul
+ary building, idioms, and problems of syntax; and conversati
+on. Reading of selected fiction and nonfiction in modern Urd
+u, including fables, short stories, and poetry. Exercises in
+ grammar, conversation, and composition."
+URDU 101A,1,"Reading of Urdu prose and poetry in a variety of literary an
+d scholarly styles; composition. Topics in advanced grammar;
+ designed to improve proficiency in speaking, listening, rea
+ding, and writing. Students will be expected to converse in 
+a clearly participatory fashion, initiate, sustain, and brin
+g to closure a wide variety of communicative tasks using div
+erse language strategies."
+URDU 101B,1,"Reading of Urdu prose and poetry in a variety of literary an
+d scholarly styles; composition. Topics in advanced grammar;
+ designed to improve proficiency in speaking, listening, rea
+ding, and writing. Students will be expected to converse in 
+a clearly participatory fashion, initiate, sustain, and brin
+g to closure a wide variety of communicative tasks using div
+erse language strategies."
+VIETNMS 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+VIETNMS 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+VIETNMS 15,1,"Terms offered: Summer 2016 8 Week Session, Summer 2012 10 We
+ek Session, Summer 2012 8 Week Session"
+VIETNMS 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+VIETNMS 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+VIETNMS 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+VIETNMS 101B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+SSEASN 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments and topic
+s vary from department to department and semester to semeste
+r. Enrollment limited to 15 freshmen."
+SSEASN 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 18."
+SSEASN 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+SSEASN 120,1,"Designed to permit regular faculty and visitors to explore s
+pecial topics not normally covered in the curriculum. Focus 
+and readings will change in response to current research int
+erests of instructors and teaching needs of the department."
+SSEASN 149,1,"Directed study of South and Southeast Asian Languages. This 
+course will provide intensive language training in languages
+ not regularly taught by the Department. Language may vary e
+ach semester based on instructor availability."
+SSEASN 190,1,"Designed primarily to give majors sustained and intensive tr
+aining in reading, writing, and analysis in the discipline. 
+Independent research and a substantial essay required. Topic
+s will vary in accord with faculty and student interests."
+SSEASN H195A,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors"
+SSEASN H195B,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN H195C,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN H195E,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN H195F,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN 198A,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198B,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198C,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198D,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198E,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198F,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 199,1,Four-unit limit per term.
+SSEASN 199A,1,Four-unit limit per term.
+SSEASN 199B,1,Four-unit limit per term.
+SSEASN 199C,1,Four-unit limit per term.
+SSEASN 199F,1,Four-unit limit per term.
+SEASIAN R5A,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019"
+SEASIAN R5B,1,"Terms offered: Spring 2020, Spring 2019"
+SEASIAN 10A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+SEASIAN 10B,1,"Terms offered: Spring 2020, Spring 2019, Summer 2018 Second 
+6 Week Session"
+SEASIAN 128,1,"Terms offered: Fall 2014, Fall 2011, Fall 2009"
+SEASIAN 129,1,"Terms offered: Spring 2020, Spring 2018, Spring 2015"
+SEASIAN 130,1,"Terms offered: Fall 2016, Spring 2014, Fall 2012"
+SEASIAN 137,1,"Terms offered: Fall 2016, Fall 2014, Fall 2013"
+SEASIAN 138,1,"Terms offered: Fall 2010, Fall 2008, Fall 2006"
+SEASIAN 148,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Summer 2019 First 6 Week Session"
+SEASIAN 150,1,Terms offered: Fall 2019
+SEASIAN 152,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ Second 6 Week Session"
+SEASIAN 154,1,"Terms offered: Summer 2020 Second 6 Week Session, Summer 201
+9"
+SEASIAN 160,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ First 6 Week Session"
+SEASIAN C164,1,"Terms offered: Spring 2018, Spring 2014, Spring 2010"
+SASIAN 1A,1,"This course offers a broad historical, political, ethnograph
+ical and and cultural survey of the civilizations of the Ind
+ian subcontinent from the earliest period known to archaeolo
+gy to the advent of Islam as a major cultural and political 
+force around the 13th century CE. Lectures, readings, and cl
+ass discussions will center on seminal texts that have influ
+enced South Asian civilizations from the earliest antiquity 
+to the late medieval period."
+SASIAN 1B,1,"This course offers a broad historical and cultural survey of
+ the civilizations of the Indian subcontinent from the 12th 
+century to Partition in 1947. Attention will be paid to the 
+geography and ethnography of the region, its political histo
+ry, and the religious, philosophical, literary, and artistic
+ movements that have shaped it and contributed to its develo
+pment as a unique, diverse, and fascinating world civilizati
+on. Lectures, readings"
+SASIAN R5A,1,"Reading and composition based on 10 classic works of Indian 
+literature ranging from the ancient Sanskrit epics to modern
+ novels by Indian and western authors. Weekly composition on
+ texts and topics read and discussed in class. Satisfies the
+ first half of the Reading and Composition requirement."
+SASIAN R5B,1,"Reading and composition in connection with eastern and weste
+rn representations of India, and other Asian cultures, in gr
+eat works of modern literature. Satisfies the second half of
+ the reading and composition requirement."
+SASIAN 110,1,"The course will provide through lecture, discussion and cour
+se readings a comprehensive introduction to the major texts,
+ doctrines, beliefs and practices of classical Hinduism from
+ antiquity to modernity. Special emphasis will be placed on 
+Vedic and Āgamic traditions and on the rise and development 
+of the major Hindu saṃpradāyas, including those of Vaiṣṇavis
+m, Śaivism, Śaktism and Tantrism. Attention will be paid to 
+Hinduism's relationships with non Hindu"
+SASIAN C113,1,"This course is an advanced introduction to the major teachin
+gs of Indian Buddhism and their philosophical elaborations. 
+We will cover the core tenets attributed to the Buddha, and 
+the later doctrinal and scholastic developments that turned 
+Buddhism into one of the principal philosophical traditions 
+of India. For this we will read select primary sources—in pr
+inciple, extracts of the scriptures and later treatises—and 
+academic articles and book"
+SASIAN C114,1,"This course is a broad introduction to the history, doctrine
+, and culture of the Buddhism of Tibet. We will begin with t
+he introduction of Buddhism to Tibet in the eighth century a
+nd move on to the evolution of the major schools of Tibetan 
+Buddhism, Tibetan Buddhist literature, ritual and monastic p
+ractice, the place of Buddhism in Tibetan political history,
+ and the contemporary situation of Tibetan Buddhism both ins
+ide and outside of Tibet."
+SASIAN 121,1,"Literary works of ancient India are read in English translat
+ion and studied critically. The course aims at giving a comp
+rehensive picture of many important areas of the Indian lite
+rary heritage."
+SASIAN 122,1,"Lecture and discussion on the novel as it arose on the India
+n subcontinent during the 19th and 20th centuries, using Eng
+lish translations and original works in English. Critical di
+scussion of the novel as a modern genre adapted to local con
+ditions and coexisting with older traditions of writing. Exa
+mines the novel as a window on Indian modernities. Interpret
+ation of Indian society, culture, and history through litera
+ture."
+SASIAN 123,1,"The period between 600 and 1600 C.E. witnessed the growth of
+ a number of religious traditions that challenged prevailing
+ orthodoxies and reshaped South Asian society and culture. T
+his course will examine the major developments within Hindu 
+traditions, focusing on popular traditions known as bhakti (
+devotion). Examines the growth and spread of Islam (particul
+arly, Sufism) and the emergence of Sikhism. The focus of rea
+dings is on primary sources – poetry, extracts"
+SASIAN 124,1,"Lectures and discussion of 19th and 20th century Indian lite
+rature through English translations and original works in En
+glish. Interpretation of Indian society and culture through 
+literature."
+SASIAN 128,1,"This course considers the co-option, reinterpretation and di
+ssemination of sacred texts and religious practices in vario
+us political and cultural projects in India during the colon
+ial and post-colonial periods. Students will be introduced t
+o religious “reform” movements, cross-cultural debates durin
+g the colonial period, and how the concept of a secular stat
+e in post-Independence India has shaped and continues to sha
+pe religious practice and"
+SASIAN 130,1,"This course will examine the role of film, visual media and 
+spectatorship practices in the construction and narration of
+ modern South Asia. In particular, this course will interrog
+ate how modern South Asia has been produced and represented 
+in different visual aesthetic forms such as popular film, ar
+thouse cinema, documentaries, the graphic novel and contempo
+rary digital media spaces such as YouTube. The course will i
+ntroduce visual and media theories that frame"
+SASIAN 136,1,"Tamil is a Dravidian language that is spoken by approximatel
+y 77 million speakers around the world. Used as an official 
+language in Sri Lanka and Singapore, Tamil’s classical statu
+s makes it an exciting language through which diverse modes 
+of ethnic and linguistic belonging can be studied in South A
+sia. This course is meant to study global Tamil societies th
+rough the interdisciplinary lenses of literary and cultural 
+studies; knowledge of the Tamil language is not"
+SASIAN 140,1,"Literary and religious aspects of Hindu myths. Reading of se
+lected mythological texts in translation."
+SASIAN 142,1,"The course entails substantial selected readings from the gr
+eat Sanskirt epic poems--the Mahabharata and the Ramayana in
+ translation, selected readings from the corpus of secondary
+ literature on Indian epic studies as well as lectures on sa
+lient issues in both. Discussion will focus on a variety of 
+historical and theoretical approaches to the study of the po
+ems and their extraordinary influence on Indian culture. Rea
+dings will be supplemented"
+SASIAN 144,1,"The aim of this course on the culture and history of Muslim 
+communities and institutions in South Asia is to introduce s
+tudents to the broad historical currents of the expansion of
+ Islam in the Indian subcontinent, the nature of Muslim poli
+tical authority, the interaction between religious communiti
+es, Islamic aesthetics and contributions to material culture
+, the varied engagements and reactions of Muslims to colonia
+l rule, and the contemporary"
+SASIAN 146,1,"This course provides a dual chronological and thematic appro
+ach to the study of one of the greatest empires in human civ
+ilization: the Mughal Empire. Although the bulk of this cour
+se will focus on the political, social and economic aspects 
+of Mughal Empire during its heyday between the 1550s and the
+ early 1700s, careful attention will also be paid to the lar
+ger historical and geographical contexts that both enabled t
+he emergence and, ultimately"
+SASIAN 147,1,"Whenever Pakistan comes up as a subject of sustained convers
+ation in the US it usually is for all the wrong reasons: the
+ worst nuclear proliferator in recent history, the refuge of
+ Osama bin Laden, a major source of regional instability in 
+South and Central Asia. Although Pakistan may be viewed with
+ deep mistrust by US policy planners and the American public
+ alike, this course seeks to remind us that it is also a cou
+ntry of great political, economic, religious"
+SASIAN C154,1,"Tibetan Buddhists view the moment of death as a rare opportu
+nity for transformation. This course examines how Tibetans h
+ave used death and dying in the path to enlightenment. Readi
+ngs will address how Tibetan funerary rituals work to assist
+ the dying toward this end, and how Buddhist practitioners p
+repare for this crucial moment through tantric meditation, i
+maginative rehearsals, and explorations of the dream state."
+BANGLA 1A,1,"Terms offered: Fall 2019, Fall 2017, Fall 2015"
+BANGLA 1B,1,"Terms offered: Spring 2020, Spring 2018, Spring 2016"
+BANGLA 101A,1,"Terms offered: Fall 2018, Spring 2018, Fall 2016"
+BANGLA 101B,1,"Terms offered: Spring 2019, Spring 2017, Spring 2015"
+BURMESE 1A,1,"Terms offered: Fall 2019, Fall 2017, Fall 2016"
+BURMESE 1B,1,"Terms offered: Spring 2020, Spring 2018, Spring 2017"
+BURMESE 100A,1,Terms offered: Fall 2018
+BURMESE 100B,1,Terms offered: Spring 2019
+FILIPN 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN W1X,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN W1Y,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN 15,1,Terms offered: Summer 2012 8 Week Session
+FILIPN W15X,1,Terms offered: Summer 2018 10 Week Session
+FILIPN 100A,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, 
+Fall 2018"
+FILIPN 100AB,1,"Terms offered: Summer 2019 8 Week Session, Summer 2018 8 Wee
+k Session"
+FILIPN 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN W100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN W100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN 101B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN W101A,1,"Terms offered: Fall 2016, Fall 2015"
+FILIPN W101B,1,Terms offered: Spring 2017
+FILIPN W120A,1,Terms offered: Prior to 2007
+FILIPN W120B,1,Terms offered: Prior to 2007
+HINDI 1A,1,"This course emphasizes development of the full range of Hind
+i language skills: reading, listening, comprehension, the us
+e of grammatical structures, and oral and written communicat
+ion—through a variety of learning themes. Individual and sma
+ll group activities, interactive work and multimedia-based a
+ctivities reinforce language skills and provide the platform
+ for adapting the curriculum to specific student learning go
+als. Use of graded exercises and readings drawn from"
+HINDI 1B,1,"Hindi writing systems. Survey of grammar. Graded exercises a
+nd readings drawn from Hindi literature, leading to mastery 
+of grammatical structures and essential vocabulary and achie
+vement of basic reading and writing competence."
+HINDI 15,1,"A comprehensive introduction to modern standard Hindi. The H
+indi (Devanagari) writing system; pronunciation; acquisition
+ of grammar and basic vocabulary through graded exercises an
+d readings; special emphasis on the ability to speak and und
+erstand Hindi (and spoken Urdu)."
+HINDI 100A,1,"Intermediate language course will focus on expanding all lan
+guage skills (reading, writing, speaking), mastering grammar
+ patterns and new vocabulary through authentic readings from
+ classical and contemporary Hindi literature, epics, mytholo
+gy and current events. This course acquaints students with r
+epresentative readings from Hindi texts on pivotal cultural 
+issues from a wide variety of sources, to enable them to acq
+uire cultural competence in the language. Systematic"
+HINDI 100B,1,"This course acquaints students with representative readings 
+from Hindi texts on pivotal cultural issues from a wide vari
+ety of sources, to enable them to acquire cultural competenc
+e in the language. Systematic training in advanced grammar a
+nd syntax, reinforced by exercises in composition, both oral
+ and written. Special attention to developing communication 
+skills."
+HINDI 101A,1,"This course, conducted entirely in Hindi, is for students wh
+o have achieved an intermediate level of proficiency in spea
+king, reading, and writing. Its objective is to move student
+s toward a greater level of fluency in each of these key are
+as and to acquire language skills sufficient to approach lit
+erary texts on their own. Students use written assignments a
+nd discussions to explore contemporary literary genres inclu
+ding short stories, poems, and dramatic sketches from"
+HINDI 101B,1,"This course, conducted entirely in Hindi, is for students wh
+o have achieved an intermediate level of proficiency in spea
+king, reading, and writing. Its objective is to move student
+s toward a greater level of fluency in each of these key are
+as and to acquire language skills sufficient to approach lit
+erary texts on their own. Students use written assignments a
+nd discussions to explore contemporary literary genres inclu
+ding short stories, poems, and dramatic sketches"
+KHMER 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+KHMER 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+KHMER 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+KHMER 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+KHMER 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+KHMER 101B,1,"Terms offered: Spring 2018, Spring 2017, Spring 2016"
+INDONES 1A,1,"Survey of grammar, graded exercises, and readings drawn from
+ Indonesian texts, leading to a mastery of basic language pa
+tterns, essential vocabulary, and to achievement of basic re
+ading, writing, and conversational competence. Emphasis on d
+eveloping communicative skills."
+INDONES 1B,1,"Survey of grammar, graded exercises, and readings drawn from
+ Indonesian texts, leading to a mastery of basic language pa
+tterns, essential vocabulary, and to achievement of basic re
+ading, writing, and conversational competence. Emphasis on d
+eveloping communicative skills."
+INDONES 100A,1,"Readings in Indonesian texts, including newspapers, journals
+, and literature exploring a variety of styles. Systematic s
+tudy of grammatical and lexical problems arising from these 
+readings. Advanced exercises in composition, oral and writte
+n communicative skills, and cultural competence."
+INDONES 100B,1,"Readings in Indonesian texts, including newspapers, journals
+, and literature exploring a variety of styles. Systematic s
+tudy of grammatical and lexical problems arising from these 
+readings. Advanced exercises in composition, oral and writte
+n communicative skills, and cultural competence."
+PUNJABI 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+PUNJABI 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+PUNJABI 15,1,"Terms offered: Summer 2000 10 Week Session, Summer 1998 10 W
+eek Session, Summer 1997 10 Week Session"
+PUNJABI 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+PUNJABI 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+SANSKR 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+SANSKR 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+SANSKR 101A,1,"Terms offered: Fall 2019, Spring 2018, Fall 2016"
+SANSKR 101B,1,"Terms offered: Spring 2020, Fall 2018, Spring 2017"
+SANSKR 101C,1,"Terms offered: Spring 2019, Fall 2017, Spring 2016"
+TAMIL 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+TAMIL 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+TAMIL 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+TAMIL 101B,1,"Terms offered: Spring 2018, Spring 2017, Spring 2016"
+TELUGU 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+TELUGU 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+THAI 1A,1,"Terms offered: Fall 2018, Fall 2017, Fall 2016"
+THAI 1B,1,"Terms offered: Spring 2019, Spring 2018, Spring 2017"
+THAI 100A,1,"Terms offered: Fall 2019, Fall 2017, Fall 2016"
+THAI 100B,1,"Terms offered: Spring 2020, Spring 2018, Spring 2016"
+THAI 101A,1,"Terms offered: Fall 2018, Fall 2016, Fall 2015"
+THAI 101B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2017"
+URDU 1A,1,"The course concentrates on developing skills in reading, wri
+ting, speaking, and aural comprehension. Evaluation is based
+ on attendance, written homework assignments, quizzes, dicta
+tions, and examinations. Conventional teaching materials may
+ be supplemented by popular songs and clips from contemporar
+y Indian cinema."
+URDU 1B,1,"The course concentrates on developing skills in reading, wri
+ting, speaking, and aural comprehension. Evaluation is based
+ on attendance, written homework assignments, quizzes, dicta
+tions, and examinations. Conventional teaching materials may
+ be supplemented by popular songs and clips from contemporar
+y Indian cinema."
+URDU 100A,1,"Introduces various types of written and spoken Urdu; vocabul
+ary building, idioms, and problems of syntax; and conversati
+on. Reading of selected fiction and nonfiction in modern Urd
+u, including fables, short stories, and poetry. Exercises in
+ grammar, conversation, and composition."
+URDU 100B,1,"Introduces various types of written and spoken Urdu; vocabul
+ary building, idioms, and problems of syntax; and conversati
+on. Reading of selected fiction and nonfiction in modern Urd
+u, including fables, short stories, and poetry. Exercises in
+ grammar, conversation, and composition."
+URDU 101A,1,"Reading of Urdu prose and poetry in a variety of literary an
+d scholarly styles; composition. Topics in advanced grammar;
+ designed to improve proficiency in speaking, listening, rea
+ding, and writing. Students will be expected to converse in 
+a clearly participatory fashion, initiate, sustain, and brin
+g to closure a wide variety of communicative tasks using div
+erse language strategies."
+URDU 101B,1,"Reading of Urdu prose and poetry in a variety of literary an
+d scholarly styles; composition. Topics in advanced grammar;
+ designed to improve proficiency in speaking, listening, rea
+ding, and writing. Students will be expected to converse in 
+a clearly participatory fashion, initiate, sustain, and brin
+g to closure a wide variety of communicative tasks using div
+erse language strategies."
+VIETNMS 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+VIETNMS 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+VIETNMS 15,1,"Terms offered: Summer 2016 8 Week Session, Summer 2012 10 We
+ek Session, Summer 2012 8 Week Session"
+VIETNMS 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+VIETNMS 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+VIETNMS 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+VIETNMS 101B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+SSEASN 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments and topic
+s vary from department to department and semester to semeste
+r. Enrollment limited to 15 freshmen."
+SSEASN 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester. Enrollment limits are set by the faculty, but the s
+uggested limit is 18."
+SSEASN 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+SSEASN 120,1,"Designed to permit regular faculty and visitors to explore s
+pecial topics not normally covered in the curriculum. Focus 
+and readings will change in response to current research int
+erests of instructors and teaching needs of the department."
+SSEASN 149,1,"Directed study of South and Southeast Asian Languages. This 
+course will provide intensive language training in languages
+ not regularly taught by the Department. Language may vary e
+ach semester based on instructor availability."
+SSEASN 190,1,"Designed primarily to give majors sustained and intensive tr
+aining in reading, writing, and analysis in the discipline. 
+Independent research and a substantial essay required. Topic
+s will vary in accord with faculty and student interests."
+SSEASN H195A,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors"
+SSEASN H195B,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN H195C,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN H195E,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN H195F,1,"To be eligible for admission for the honors program, student
+s must have and maintain a minimum GPA 3.5 in all courses co
+mpleted for the major. In addition, the student must enroll 
+in the final semester of the senior year in H195, a course o
+f supervised research to be guided by an instructor chosen i
+n consultation with the major adviser. On the basis of this 
+research the student will prepare and submit an honors thesi
+s for evaluation."
+SSEASN 198A,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198B,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198C,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198D,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198E,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 198F,1,"Tutorial instruction in areas not covered by regularly sched
+uled courses. Four-unit limit per term."
+SSEASN 199,1,Four-unit limit per term.
+SSEASN 199A,1,Four-unit limit per term.
+SSEASN 199B,1,Four-unit limit per term.
+SSEASN 199C,1,Four-unit limit per term.
+SSEASN 199F,1,Four-unit limit per term.
+SEASIAN R5A,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019"
+SEASIAN R5B,1,"Terms offered: Spring 2020, Spring 2019"
+SEASIAN 10A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+SEASIAN 10B,1,"Terms offered: Spring 2020, Spring 2019, Summer 2018 Second 
+6 Week Session"
+SEASIAN 128,1,"Terms offered: Fall 2014, Fall 2011, Fall 2009"
+SEASIAN 129,1,"Terms offered: Spring 2020, Spring 2018, Spring 2015"
+SEASIAN 130,1,"Terms offered: Fall 2016, Spring 2014, Fall 2012"
+SEASIAN 137,1,"Terms offered: Fall 2016, Fall 2014, Fall 2013"
+SEASIAN 138,1,"Terms offered: Fall 2010, Fall 2008, Fall 2006"
+SEASIAN 148,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Summer 2019 First 6 Week Session"
+SEASIAN 150,1,Terms offered: Fall 2019
+SEASIAN 152,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ Second 6 Week Session"
+SEASIAN 154,1,"Terms offered: Summer 2020 Second 6 Week Session, Summer 201
+9"
+SEASIAN 160,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ First 6 Week Session"
+SEASIAN C164,1,"Terms offered: Spring 2018, Spring 2014, Spring 2010"
+SASIAN 1A,1,"This course offers a broad historical, political, ethnograph
+ical and and cultural survey of the civilizations of the Ind
+ian subcontinent from the earliest period known to archaeolo
+gy to the advent of Islam as a major cultural and political 
+force around the 13th century CE. Lectures, readings, and cl
+ass discussions will center on seminal texts that have influ
+enced South Asian civilizations from the earliest antiquity 
+to the late medieval period."
+SASIAN 1B,1,"This course offers a broad historical and cultural survey of
+ the civilizations of the Indian subcontinent from the 12th 
+century to Partition in 1947. Attention will be paid to the 
+geography and ethnography of the region, its political histo
+ry, and the religious, philosophical, literary, and artistic
+ movements that have shaped it and contributed to its develo
+pment as a unique, diverse, and fascinating world civilizati
+on. Lectures, readings"
+SASIAN R5A,1,"Reading and composition based on 10 classic works of Indian 
+literature ranging from the ancient Sanskrit epics to modern
+ novels by Indian and western authors. Weekly composition on
+ texts and topics read and discussed in class. Satisfies the
+ first half of the Reading and Composition requirement."
+SASIAN R5B,1,"Reading and composition in connection with eastern and weste
+rn representations of India, and other Asian cultures, in gr
+eat works of modern literature. Satisfies the second half of
+ the reading and composition requirement."
+SASIAN 110,1,"The course will provide through lecture, discussion and cour
+se readings a comprehensive introduction to the major texts,
+ doctrines, beliefs and practices of classical Hinduism from
+ antiquity to modernity. Special emphasis will be placed on 
+Vedic and Āgamic traditions and on the rise and development 
+of the major Hindu saṃpradāyas, including those of Vaiṣṇavis
+m, Śaivism, Śaktism and Tantrism. Attention will be paid to 
+Hinduism's relationships with non Hindu"
+SASIAN C113,1,"This course is an advanced introduction to the major teachin
+gs of Indian Buddhism and their philosophical elaborations. 
+We will cover the core tenets attributed to the Buddha, and 
+the later doctrinal and scholastic developments that turned 
+Buddhism into one of the principal philosophical traditions 
+of India. For this we will read select primary sources—in pr
+inciple, extracts of the scriptures and later treatises—and 
+academic articles and book"
+SASIAN C114,1,"This course is a broad introduction to the history, doctrine
+, and culture of the Buddhism of Tibet. We will begin with t
+he introduction of Buddhism to Tibet in the eighth century a
+nd move on to the evolution of the major schools of Tibetan 
+Buddhism, Tibetan Buddhist literature, ritual and monastic p
+ractice, the place of Buddhism in Tibetan political history,
+ and the contemporary situation of Tibetan Buddhism both ins
+ide and outside of Tibet."
+SASIAN 121,1,"Literary works of ancient India are read in English translat
+ion and studied critically. The course aims at giving a comp
+rehensive picture of many important areas of the Indian lite
+rary heritage."
+SASIAN 122,1,"Lecture and discussion on the novel as it arose on the India
+n subcontinent during the 19th and 20th centuries, using Eng
+lish translations and original works in English. Critical di
+scussion of the novel as a modern genre adapted to local con
+ditions and coexisting with older traditions of writing. Exa
+mines the novel as a window on Indian modernities. Interpret
+ation of Indian society, culture, and history through litera
+ture."
+SASIAN 123,1,"The period between 600 and 1600 C.E. witnessed the growth of
+ a number of religious traditions that challenged prevailing
+ orthodoxies and reshaped South Asian society and culture. T
+his course will examine the major developments within Hindu 
+traditions, focusing on popular traditions known as bhakti (
+devotion). Examines the growth and spread of Islam (particul
+arly, Sufism) and the emergence of Sikhism. The focus of rea
+dings is on primary sources – poetry, extracts"
+SASIAN 124,1,"Lectures and discussion of 19th and 20th century Indian lite
+rature through English translations and original works in En
+glish. Interpretation of Indian society and culture through 
+literature."
+SASIAN 128,1,"This course considers the co-option, reinterpretation and di
+ssemination of sacred texts and religious practices in vario
+us political and cultural projects in India during the colon
+ial and post-colonial periods. Students will be introduced t
+o religious “reform” movements, cross-cultural debates durin
+g the colonial period, and how the concept of a secular stat
+e in post-Independence India has shaped and continues to sha
+pe religious practice and"
+SASIAN 130,1,"This course will examine the role of film, visual media and 
+spectatorship practices in the construction and narration of
+ modern South Asia. In particular, this course will interrog
+ate how modern South Asia has been produced and represented 
+in different visual aesthetic forms such as popular film, ar
+thouse cinema, documentaries, the graphic novel and contempo
+rary digital media spaces such as YouTube. The course will i
+ntroduce visual and media theories that frame"
+SASIAN 136,1,"Tamil is a Dravidian language that is spoken by approximatel
+y 77 million speakers around the world. Used as an official 
+language in Sri Lanka and Singapore, Tamil’s classical statu
+s makes it an exciting language through which diverse modes 
+of ethnic and linguistic belonging can be studied in South A
+sia. This course is meant to study global Tamil societies th
+rough the interdisciplinary lenses of literary and cultural 
+studies; knowledge of the Tamil language is not"
+SASIAN 140,1,"Literary and religious aspects of Hindu myths. Reading of se
+lected mythological texts in translation."
+SASIAN 142,1,"The course entails substantial selected readings from the gr
+eat Sanskirt epic poems--the Mahabharata and the Ramayana in
+ translation, selected readings from the corpus of secondary
+ literature on Indian epic studies as well as lectures on sa
+lient issues in both. Discussion will focus on a variety of 
+historical and theoretical approaches to the study of the po
+ems and their extraordinary influence on Indian culture. Rea
+dings will be supplemented"
+SASIAN 144,1,"The aim of this course on the culture and history of Muslim 
+communities and institutions in South Asia is to introduce s
+tudents to the broad historical currents of the expansion of
+ Islam in the Indian subcontinent, the nature of Muslim poli
+tical authority, the interaction between religious communiti
+es, Islamic aesthetics and contributions to material culture
+, the varied engagements and reactions of Muslims to colonia
+l rule, and the contemporary"
+SASIAN 146,1,"This course provides a dual chronological and thematic appro
+ach to the study of one of the greatest empires in human civ
+ilization: the Mughal Empire. Although the bulk of this cour
+se will focus on the political, social and economic aspects 
+of Mughal Empire during its heyday between the 1550s and the
+ early 1700s, careful attention will also be paid to the lar
+ger historical and geographical contexts that both enabled t
+he emergence and, ultimately"
+SASIAN 147,1,"Whenever Pakistan comes up as a subject of sustained convers
+ation in the US it usually is for all the wrong reasons: the
+ worst nuclear proliferator in recent history, the refuge of
+ Osama bin Laden, a major source of regional instability in 
+South and Central Asia. Although Pakistan may be viewed with
+ deep mistrust by US policy planners and the American public
+ alike, this course seeks to remind us that it is also a cou
+ntry of great political, economic, religious"
+SASIAN C154,1,"Tibetan Buddhists view the moment of death as a rare opportu
+nity for transformation. This course examines how Tibetans h
+ave used death and dying in the path to enlightenment. Readi
+ngs will address how Tibetan funerary rituals work to assist
+ the dying toward this end, and how Buddhist practitioners p
+repare for this crucial moment through tantric meditation, i
+maginative rehearsals, and explorations of the dream state."
+BANGLA 1A,1,"Terms offered: Fall 2019, Fall 2017, Fall 2015"
+BANGLA 1B,1,"Terms offered: Spring 2020, Spring 2018, Spring 2016"
+BANGLA 101A,1,"Terms offered: Fall 2018, Spring 2018, Fall 2016"
+BANGLA 101B,1,"Terms offered: Spring 2019, Spring 2017, Spring 2015"
+BURMESE 1A,1,"Terms offered: Fall 2019, Fall 2017, Fall 2016"
+BURMESE 1B,1,"Terms offered: Spring 2020, Spring 2018, Spring 2017"
+BURMESE 100A,1,Terms offered: Fall 2018
+BURMESE 100B,1,Terms offered: Spring 2019
+FILIPN 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN W1X,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN W1Y,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN 15,1,Terms offered: Summer 2012 8 Week Session
+FILIPN W15X,1,Terms offered: Summer 2018 10 Week Session
+FILIPN 100A,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, 
+Fall 2018"
+FILIPN 100AB,1,"Terms offered: Summer 2019 8 Week Session, Summer 2018 8 Wee
+k Session"
+FILIPN 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN W100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN W100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+FILIPN 101B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+FILIPN W101A,1,"Terms offered: Fall 2016, Fall 2015"
+FILIPN W101B,1,Terms offered: Spring 2017
+FILIPN W120A,1,Terms offered: Prior to 2007
+FILIPN W120B,1,Terms offered: Prior to 2007
+HINDI 1A,1,"This course emphasizes development of the full range of Hind
+i language skills: reading, listening, comprehension, the us
+e of grammatical structures, and oral and written communicat
+ion—through a variety of learning themes. Individual and sma
+ll group activities, interactive work and multimedia-based a
+ctivities reinforce language skills and provide the platform
+ for adapting the curriculum to specific student learning go
+als. Use of graded exercises and readings drawn from"
+HINDI 1B,1,"Hindi writing systems. Survey of grammar. Graded exercises a
+nd readings drawn from Hindi literature, leading to mastery 
+of grammatical structures and essential vocabulary and achie
+vement of basic reading and writing competence."
+HINDI 15,1,"A comprehensive introduction to modern standard Hindi. The H
+indi (Devanagari) writing system; pronunciation; acquisition
+ of grammar and basic vocabulary through graded exercises an
+d readings; special emphasis on the ability to speak and und
+erstand Hindi (and spoken Urdu)."
+HINDI 100A,1,"Intermediate language course will focus on expanding all lan
+guage skills (reading, writing, speaking), mastering grammar
+ patterns and new vocabulary through authentic readings from
+ classical and contemporary Hindi literature, epics, mytholo
+gy and current events. This course acquaints students with r
+epresentative readings from Hindi texts on pivotal cultural 
+issues from a wide variety of sources, to enable them to acq
+uire cultural competence in the language. Systematic"
+HINDI 100B,1,"This course acquaints students with representative readings 
+from Hindi texts on pivotal cultural issues from a wide vari
+ety of sources, to enable them to acquire cultural competenc
+e in the language. Systematic training in advanced grammar a
+nd syntax, reinforced by exercises in composition, both oral
+ and written. Special attention to developing communication 
+skills."
+HINDI 101A,1,"This course, conducted entirely in Hindi, is for students wh
+o have achieved an intermediate level of proficiency in spea
+king, reading, and writing. Its objective is to move student
+s toward a greater level of fluency in each of these key are
+as and to acquire language skills sufficient to approach lit
+erary texts on their own. Students use written assignments a
+nd discussions to explore contemporary literary genres inclu
+ding short stories, poems, and dramatic sketches from"
+HINDI 101B,1,"This course, conducted entirely in Hindi, is for students wh
+o have achieved an intermediate level of proficiency in spea
+king, reading, and writing. Its objective is to move student
+s toward a greater level of fluency in each of these key are
+as and to acquire language skills sufficient to approach lit
+erary texts on their own. Students use written assignments a
+nd discussions to explore contemporary literary genres inclu
+ding short stories, poems, and dramatic sketches"
+KHMER 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+KHMER 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+KHMER 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+KHMER 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+KHMER 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+KHMER 101B,1,"Terms offered: Spring 2018, Spring 2017, Spring 2016"
+INDONES 1A,1,"Survey of grammar, graded exercises, and readings drawn from
+ Indonesian texts, leading to a mastery of basic language pa
+tterns, essential vocabulary, and to achievement of basic re
+ading, writing, and conversational competence. Emphasis on d
+eveloping communicative skills."
+INDONES 1B,1,"Survey of grammar, graded exercises, and readings drawn from
+ Indonesian texts, leading to a mastery of basic language pa
+tterns, essential vocabulary, and to achievement of basic re
+ading, writing, and conversational competence. Emphasis on d
+eveloping communicative skills."
+INDONES 100A,1,"Readings in Indonesian texts, including newspapers, journals
+, and literature exploring a variety of styles. Systematic s
+tudy of grammatical and lexical problems arising from these 
+readings. Advanced exercises in composition, oral and writte
+n communicative skills, and cultural competence."
+INDONES 100B,1,"Readings in Indonesian texts, including newspapers, journals
+, and literature exploring a variety of styles. Systematic s
+tudy of grammatical and lexical problems arising from these 
+readings. Advanced exercises in composition, oral and writte
+n communicative skills, and cultural competence."
+PUNJABI 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+PUNJABI 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+PUNJABI 15,1,"Terms offered: Summer 2000 10 Week Session, Summer 1998 10 W
+eek Session, Summer 1997 10 Week Session"
+PUNJABI 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+PUNJABI 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+SANSKR 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+SANSKR 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+SANSKR 101A,1,"Terms offered: Fall 2019, Spring 2018, Fall 2016"
+SANSKR 101B,1,"Terms offered: Spring 2020, Fall 2018, Spring 2017"
+SANSKR 101C,1,"Terms offered: Spring 2019, Fall 2017, Spring 2016"
+TAMIL 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+TAMIL 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+TAMIL 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+TAMIL 101B,1,"Terms offered: Spring 2018, Spring 2017, Spring 2016"
+TELUGU 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+TELUGU 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+THAI 1A,1,"Terms offered: Fall 2018, Fall 2017, Fall 2016"
+THAI 1B,1,"Terms offered: Spring 2019, Spring 2018, Spring 2017"
+THAI 100A,1,"Terms offered: Fall 2019, Fall 2017, Fall 2016"
+THAI 100B,1,"Terms offered: Spring 2020, Spring 2018, Spring 2016"
+THAI 101A,1,"Terms offered: Fall 2018, Fall 2016, Fall 2015"
+THAI 101B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2017"
+URDU 1A,1,"The course concentrates on developing skills in reading, wri
+ting, speaking, and aural comprehension. Evaluation is based
+ on attendance, written homework assignments, quizzes, dicta
+tions, and examinations. Conventional teaching materials may
+ be supplemented by popular songs and clips from contemporar
+y Indian cinema."
+URDU 1B,1,"The course concentrates on developing skills in reading, wri
+ting, speaking, and aural comprehension. Evaluation is based
+ on attendance, written homework assignments, quizzes, dicta
+tions, and examinations. Conventional teaching materials may
+ be supplemented by popular songs and clips from contemporar
+y Indian cinema."
+URDU 100A,1,"Introduces various types of written and spoken Urdu; vocabul
+ary building, idioms, and problems of syntax; and conversati
+on. Reading of selected fiction and nonfiction in modern Urd
+u, including fables, short stories, and poetry. Exercises in
+ grammar, conversation, and composition."
+URDU 100B,1,"Introduces various types of written and spoken Urdu; vocabul
+ary building, idioms, and problems of syntax; and conversati
+on. Reading of selected fiction and nonfiction in modern Urd
+u, including fables, short stories, and poetry. Exercises in
+ grammar, conversation, and composition."
+URDU 101A,1,"Reading of Urdu prose and poetry in a variety of literary an
+d scholarly styles; composition. Topics in advanced grammar;
+ designed to improve proficiency in speaking, listening, rea
+ding, and writing. Students will be expected to converse in 
+a clearly participatory fashion, initiate, sustain, and brin
+g to closure a wide variety of communicative tasks using div
+erse language strategies."
+URDU 101B,1,"Reading of Urdu prose and poetry in a variety of literary an
+d scholarly styles; composition. Topics in advanced grammar;
+ designed to improve proficiency in speaking, listening, rea
+ding, and writing. Students will be expected to converse in 
+a clearly participatory fashion, initiate, sustain, and brin
+g to closure a wide variety of communicative tasks using div
+erse language strategies."
+VIETNMS 1A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+VIETNMS 1B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+VIETNMS 15,1,"Terms offered: Summer 2016 8 Week Session, Summer 2012 10 We
+ek Session, Summer 2012 8 Week Session"
+VIETNMS 100A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+VIETNMS 100B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+VIETNMS 101A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+VIETNMS 101B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"

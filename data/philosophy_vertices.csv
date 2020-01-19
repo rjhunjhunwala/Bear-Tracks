@@ -1,82 +1,1681 @@
 name,size,about
-PHILOS R1B,1,Training in writing expository prose in conjunction with reading philosophical texts. Satisfies the second half of the Reading and Composition requirement.
+PHILOS R1B,1,"Training in writing expository prose in conjunction with rea
+ding philosophical texts. Satisfies the second half of the R
+eading and Composition requirement."
 PHILOS 2,1,Introduction to ethical and political philosophy.
-PHILOS 3,1,Introduction to the philosophy of mind. Topics to be considered may include the relation between mind and body; the structure of action; the nature of desires and beliefs; the role of the unconscious.
+PHILOS 3,1,"Introduction to the philosophy of mind. Topics to be conside
+red may include the relation between mind and body; the stru
+cture of action; the nature of desires and beliefs; the role
+ of the unconscious."
 PHILOS 4,1,Introduction to the theory of knowledge.
 PHILOS 5,1,Introduction to the Philosophy of Science.
-PHILOS 6,1,"Philosophical issues as expressed in poetry, drama, and the novel. This course will compare and contrast the Greek, Medieval, and modern worlds, as reflected in their greatest literature, with special emphasis on the role of the community in reconciling conflicts between sub-groups in society and the individual's ability to understand and control his own life. We will also follow man's realization that the changing answers"
-PHILOS 7,1,"Christian, agnostic, and atheistic existentialism as expressed in the works of Dostoyevsky, Melville, Kafka, Antonioni, Goddard, etc."
-PHILOS 10,1,"A comparative study of topics in Chinese and Western ethical traditions. Topics include love, compassion, benevolence; rituals, filial obligations, the individual and the family; pride, shame, guilt; conscientiousness, courage, wisdom; trustworthiness, forms of integrity; concepts of the self; self-cultivation; human nature, destiny, the cosmic order; the concept of morality, morality and tradition. The course will conclude with a discussion of metaethical issues concerning"
-PHILOS 11,1,"A survey of basic issues in contemporary philosophy of religion, exploring arguments about God's existence, the status of religious experiences and beliefs, how souls might interact with bodies, and the relationship of God to morality."
-PHILOS 12A,1,"Syntax, semantics, and proof theory of sentential and predicate logic."
-PHILOS W12A,1,"Intended as a first course in logic for students with no previous exposure to the subject, the course treats symbolic logic. Students will learn to formalize reasoning in symbolic languages with precisely defined meanings and rules of inference. Symbolic logic is by nature a mathematical subject, but the course does not presuppose any prior coursework in mathematics—only an openness to mathematical"
-PHILOS 13,1,"This course addresses the nature of ethical motivation and agency, with special attention to the individual's role in a business organization. Topics include theories of ethical motivation; individual character and organizational culture; personal integrity; corporate agency; corporate responsibility to society."
-PHILOS 16,1,"This course is an introduction to some of the traditional questions in metaphysics--the study of what there is in the world and how what there is is structured. Topics will include free will and determinism, the mind-body problem, and personal identity. If time permits, we will also examine arguments for the existence of God."
-PHILOS 17,1,"In any culture, the way we act implies some view of what it is to be a person, and indeed what it is to be a particular kind of person, e.g., black or white, male or female, citizen or non-citizen. This view determines what roles and privileges are available to specific individuals and how these individuals will think of themselves and evaluate their actions and obligations. We will focus on works of philosophy, literature and film which have had a powerful and"
-PHILOS 18,1,"The teachings of Confucius (6th to 5th century B.C.) have had a profound influence on Chinese and East Asian cultures, and have attracted significant interest throughout the world. In what ways are they still of relevance to life in the twenty-first century? The course will consider the contemporary implications of Confucius’ teachings for such topics as: family, rituals, life and death, fate, contentment and anxiety, anger and resentment, courage"
-PHILOS 24,1,"The Freshman Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Freshman seminars are offered in all campus departments, and topics vary from department to department and semester to semester. Enrollment is limited to 15 freshmen."
-PHILOS 25A,1,"The history of ancient philosophy with special emphasis on the Presocratics, Plato, and Aristotle."
-PHILOS 25B,1,The history of modern philosophy from Descartes through Kant.
-PHILOS 39,1,Study of various fields of philosophy of special interest to freshman. Topics will vary from semester to semester and will be individually announced. Freshman seminars are restricted to fifteen students each.
-PHILOS 84,1,"Sophomore seminars are small interactive courses offered by faculty members in departments all across the campus. Sophomore seminars offer opportunity for close, regular intellectual contact between faculty members and students in the crucial second year. The topics vary from department to department and semester to semester. Enrollment limited to 15 sophomores."
+PHILOS 6,1,"Philosophical issues as expressed in poetry, drama, and the 
+novel. This course will compare and contrast the Greek, Medi
+eval, and modern worlds, as reflected in their greatest lite
+rature, with special emphasis on the role of the community i
+n reconciling conflicts between sub-groups in society and th
+e individual's ability to understand and control his own lif
+e. We will also follow man's realization that the changing a
+nswers"
+PHILOS 7,1,"Christian, agnostic, and atheistic existentialism as express
+ed in the works of Dostoyevsky, Melville, Kafka, Antonioni, 
+Goddard, etc."
+PHILOS 10,1,"A comparative study of topics in Chinese and Western ethical
+ traditions. Topics include love, compassion, benevolence; r
+ituals, filial obligations, the individual and the family; p
+ride, shame, guilt; conscientiousness, courage, wisdom; trus
+tworthiness, forms of integrity; concepts of the self; self-
+cultivation; human nature, destiny, the cosmic order; the co
+ncept of morality, morality and tradition. The course will c
+onclude with a discussion of metaethical issues concerning"
+PHILOS 11,1,"A survey of basic issues in contemporary philosophy of relig
+ion, exploring arguments about God's existence, the status o
+f religious experiences and beliefs, how souls might interac
+t with bodies, and the relationship of God to morality."
+PHILOS 12A,1,"Syntax, semantics, and proof theory of sentential and predic
+ate logic."
+PHILOS W12A,1,"Intended as a first course in logic for students with no pre
+vious exposure to the subject, the course treats symbolic lo
+gic. Students will learn to formalize reasoning in symbolic 
+languages with precisely defined meanings and rules of infer
+ence. Symbolic logic is by nature a mathematical subject, bu
+t the course does not presuppose any prior coursework in mat
+hematics—only an openness to mathematical"
+PHILOS 13,1,"This course addresses the nature of ethical motivation and a
+gency, with special attention to the individual's role in a 
+business organization. Topics include theories of ethical mo
+tivation; individual character and organizational culture; p
+ersonal integrity; corporate agency; corporate responsibilit
+y to society."
+PHILOS 16,1,"This course is an introduction to some of the traditional qu
+estions in metaphysics--the study of what there is in the wo
+rld and how what there is is structured. Topics will include
+ free will and determinism, the mind-body problem, and perso
+nal identity. If time permits, we will also examine argument
+s for the existence of God."
+PHILOS 17,1,"In any culture, the way we act implies some view of what it 
+is to be a person, and indeed what it is to be a particular 
+kind of person, e.g., black or white, male or female, citize
+n or non-citizen. This view determines what roles and privil
+eges are available to specific individuals and how these ind
+ividuals will think of themselves and evaluate their actions
+ and obligations. We will focus on works of philosophy, lite
+rature and film which have had a powerful and"
+PHILOS 18,1,"The teachings of Confucius (6th to 5th century B.C.) have ha
+d a profound influence on Chinese and East Asian cultures, a
+nd have attracted significant interest throughout the world.
+ In what ways are they still of relevance to life in the twe
+nty-first century? The course will consider the contemporary
+ implications of Confucius’ teachings for such topics as: fa
+mily, rituals, life and death, fate, contentment and anxiety
+, anger and resentment, courage"
+PHILOS 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment is limited to 15 freshmen."
+PHILOS 25A,1,"The history of ancient philosophy with special emphasis on t
+he Presocratics, Plato, and Aristotle."
+PHILOS 25B,1,"The history of modern philosophy from Descartes through Kant
+."
+PHILOS 39,1,"Study of various fields of philosophy of special interest to
+ freshman. Topics will vary from semester to semester and wi
+ll be individually announced. Freshman seminars are restrict
+ed to fifteen students each."
+PHILOS 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
 PHILOS 98,1,Directed study on special topics.
-PHILOS 98BC,1,"Berkeley Connect is a mentoring program, offered through various academic departments, that helps students build intellectual community. Over the course of a semester, enrolled students participate in regular small-group discussions facilitated by a graduate student mentor (following a faculty-directed curriculum), meet with their graduate student mentor for one-on-one academic advising, attend lectures and panel discussions featuring department"
-PHILOS 100,1,"The course is designed to acquaint students with the techniques of philosophical reasoning through detailed study of selected philosophical texts and through extensive training in philosophical writing, based on those texts. Should be taken as early as possible after declaring the major."
-PHILOS 104,1,The fundamental concepts and problems of morality examined through the study of classical and contemporary philosophical theories of ethics.
-PHILOS 107,1,"An investigation of central issues in moral psychology, such as: free will, weakness of will, self-deception, moral motivation, emotions, virtues, moral education."
-PHILOS 108,1,"This course will be devoted to in-depth discussion of a variety of problems in moral philosophy raised by real-life questions of individual conduct and social policy. Its contents will vary from occasion to occasion. Possible topics include philosophical problems posed by affirmative action, abortion, euthanasia, capital punishment, terrorism, war, poverty, and climate change."
-PHILOS 109,1,"A systematic examination of freedom and responsibility. The following topics will be addressed (among others): the relations between freedom of will, freedom of action, and autonomy; moral responsibility and its conditions; naturalism, determinism, and their relevance for human freedom; practical deliberation and the structure of the will; weakness and strength of will. Readings may be drawn from both"
-PHILOS 110,1,"Visual arts/literature and music. Form, expression, representation style; interpretation and evaluation."
-PHILOS 112,1,"This course is intended to allow a more focused exploration of particular topics in aesthetics than is possible in Philosophy 110. Its contents will vary from occasion to occasion. Topics may include philosophical questions arising for particular art forms such as painting, music, or dance; questions about form, expression, representation, and emotion in aesthetic experience; or the ideas of particular aesthetic movements or schools of thought."
-PHILOS 114,1,"A survey of the major political philosophers, including some or all of Plato, Aristotle, Hobbes, Locke, Rousseau, Kant, Bentham, Mill, and Marx."
+PHILOS 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHILOS 100,1,"The course is designed to acquaint students with the techniq
+ues of philosophical reasoning through detailed study of sel
+ected philosophical texts and through extensive training in 
+philosophical writing, based on those texts. Should be taken
+ as early as possible after declaring the major."
+PHILOS 104,1,"The fundamental concepts and problems of morality examined t
+hrough the study of classical and contemporary philosophical
+ theories of ethics."
+PHILOS 107,1,"An investigation of central issues in moral psychology, such
+ as: free will, weakness of will, self-deception, moral moti
+vation, emotions, virtues, moral education."
+PHILOS 108,1,"This course will be devoted to in-depth discussion of a vari
+ety of problems in moral philosophy raised by real-life ques
+tions of individual conduct and social policy. Its contents 
+will vary from occasion to occasion. Possible topics include
+ philosophical problems posed by affirmative action, abortio
+n, euthanasia, capital punishment, terrorism, war, poverty, 
+and climate change."
+PHILOS 109,1,"A systematic examination of freedom and responsibility. The 
+following topics will be addressed (among others): the relat
+ions between freedom of will, freedom of action, and autonom
+y; moral responsibility and its conditions; naturalism, dete
+rminism, and their relevance for human freedom; practical de
+liberation and the structure of the will; weakness and stren
+gth of will. Readings may be drawn from both"
+PHILOS 110,1,"Visual arts/literature and music. Form, expression, represen
+tation style; interpretation and evaluation."
+PHILOS 112,1,"This course is intended to allow a more focused exploration 
+of particular topics in aesthetics than is possible in Philo
+sophy 110. Its contents will vary from occasion to occasion.
+ Topics may include philosophical questions arising for part
+icular art forms such as painting, music, or dance; question
+s about form, expression, representation, and emotion in aes
+thetic experience; or the ideas of particular aesthetic move
+ments or schools of thought."
+PHILOS 114,1,"A survey of the major political philosophers, including some
+ or all of Plato, Aristotle, Hobbes, Locke, Rousseau, Kant, 
+Bentham, Mill, and Marx."
 PHILOS 115,1,Analysis of political obligation and related problems.
-PHILOS 116,1,"This course is designed to deal with a variety of topics in political philosophy. Its contents will vary from occasion to occasion. Possible topics include problems in liberal theory; justice, desert, and responsibility; communitarianism, nationalism, and cosmopolitanism."
-PHILOS 117AC,1,"This course explores philosophical questions of race, ethnicity, and citizenship, with special attention to the experiences of African Americans, Asian Americans, Latino Americans, and indigenous peoples of the United States. Topics include the meaning of “race,” “ethnicity,” and “citizenship,” border control and immigration, reparations for past wrongs, discrimination and affirmative action, civic"
-PHILOS 119,1,This course will introduce students to a range of historical and contemporary feminist issues.
-PHILOS 121,1,"This course explores, from a philosophical perspective, ethical questions arising from collecting, drawing inferences from, and acting on data, especially when these activities are automated and at a large scale. Topics include: bias, fairness, discrimination, interpretability, privacy, paternalism, freedom of speech, and democracy. Three hours of lecture and one hour of discussion per week."
+PHILOS 116,1,"This course is designed to deal with a variety of topics in 
+political philosophy. Its contents will vary from occasion t
+o occasion. Possible topics include problems in liberal theo
+ry; justice, desert, and responsibility; communitarianism, n
+ationalism, and cosmopolitanism."
+PHILOS 117AC,1,"This course explores philosophical questions of race, ethnic
+ity, and citizenship, with special attention to the experien
+ces of African Americans, Asian Americans, Latino Americans,
+ and indigenous peoples of the United States. Topics include
+ the meaning of “race,” “ethnicity,” and “citizenship,” bord
+er control and immigration, reparations for past wrongs, dis
+crimination and affirmative action, civic"
+PHILOS 119,1,"This course will introduce students to a range of historical
+ and contemporary feminist issues."
+PHILOS 121,1,"This course explores, from a philosophical perspective, ethi
+cal questions arising from collecting, drawing inferences fr
+om, and acting on data, especially when these activities are
+ automated and at a large scale. Topics include: bias, fairn
+ess, discrimination, interpretability, privacy, paternalism,
+ freedom of speech, and democracy. Three hours of lecture an
+d one hour of discussion per week."
 PHILOS 122,1, 
-PHILOS 125,1,"An advanced introduction to contemporary metaphysics, focusing on the ideas of objectivity, existence, naturalness, identity, time, causation, and possibility."
-PHILOS 127,1,"Science is often regarded as preeminently rational. Yet recent work in philosophy, history and sociology of science suggests that scientific knowledge is no more rationally established than other sorts of knowledge, and that scientists' convictions are driven more by party loyalty and ego than by a pureminded pursuit of truth. This course will consider the case for and against the rationality of science. It will also consider the recent controversy concerning ""scientific"""
-PHILOS 128,1,A survey of main topics in the logic of science and of other issues coming under the general heading of philosophy of science.
+PHILOS 125,1,"An advanced introduction to contemporary metaphysics, focusi
+ng on the ideas of objectivity, existence, naturalness, iden
+tity, time, causation, and possibility."
+PHILOS 127,1,"Science is often regarded as preeminently rational. Yet rece
+nt work in philosophy, history and sociology of science sugg
+ests that scientific knowledge is no more rationally establi
+shed than other sorts of knowledge, and that scientists' con
+victions are driven more by party loyalty and ego than by a 
+pureminded pursuit of truth. This course will consider the c
+ase for and against the rationality of science. It will also
+ consider the recent controversy concerning ""scientific"""
+PHILOS 128,1,"A survey of main topics in the logic of science and of other
+ issues coming under the general heading of philosophy of sc
+ience."
 PHILOS 132,1,"Mind and matter; other minds; the concept ""person."""
 PHILOS C132,1,"Mind and matter; other minds; the concept of ""person."""
-PHILOS 133,1,"An introduction to central topics in the philosophy of language, for example the nature of linguistic meaning, the relation of meaning to truth and reference, knowledge of language, the relation of language to thought, pragmatic aspects of linguistic communication, and skepticism about linguistic meaning. Some previous background in philosophy and logic is required."
-PHILOS 134,1,"How is the meaning of a whole sentence determined by the meanings of its parts, and by its structure? This question is addressed in empirical semantic theories for natural language. The character and content of such theories has been a central concern both of the philosophy of language and of recent linguistics, and it is the central focus of this course."
-PHILOS 135,1,"Language as social behavior. Language compared to other sign systems. The foundations of semantics, truth, meaning, reference. Issues of logical form in belief sentences, indirect discourse, sentences about causality, events, actions. Relations between thought and language."
-PHILOS 136,1,The philosophy of perception is a microcosm of the metaphysics of mind. Its central problems - What is perception? What is the nature of perceptual consciousness? How can one fit an account of perceptual experience into a broader account of the nature of the mind and the world? - are problems at the heart of metaphysics. It is often justifiably said that the theory of perception (and especially vision) is the area of psychology and neuroscience
-PHILOS 138,1,This course deals with the ontology of society and thus provides a foundation for the social sciences. The main questions discussed are: 1) What is the mode of existence of social reality? 2) How does it relate to psychological and physical reality? 3) What implications does social ontology have for social explanations?
-PHILOS 140A,1,"Major concepts, results, and techniques of modern logic. Basic set theoretic tools. Model theoretic treatment of propositional and first-order logic (completeness, compactness, Lowenheim-Skolem). Philosophical implcations of these results."
-PHILOS 140B,1,"Major concepts, results, and techniques of modern logic. Turing machines, computability theory, undecidability of first-order logic, proof theory, Godel's first and second inompleteness theorms. Philosophical implications of these results."
-PHILOS 141,1,An exploration of how game theory and rational choice theory shed light on traditional philosophical problems; and of new paradoxes and problems introduced by these theories.
-PHILOS 142,1,"The course aims at introducing students to the basic topics in philosophy of logic. Among the topics to be treated are the notions of validity, truth and truth functionality, quantification, and necessity."
-PHILOS 143,1,"An introduction to the logical study of modality in its many forms: reasoning about necessity, knowledge, obligation, time, counterfactuals, provability, and other modal notions. Covers core concepts and basic metatheory of propositional modal logic, including relations to first-order logic; basics of quantified modal logic; selected philosophical applications ranging from epistomology to ethics, metaphysics to mathematics."
-PHILOS 146,1,"Foundations of mathematics: logicism, intuitionism, formalism. Set theoretical parardoxes, definition of numbers, problems of continuum."
-PHILOS 149,1,This course is conceived in analogy with Philosophy 129 (Special Topics in Philosophy of Science). It is supposed to allow the class to focus on more specific problems in philosophy of logic or mathematics than can be treated in a broad introductory course such as Philosophy of Mathematics (Philosophy 146) or Philosophical Logic (Philosophy 142).
-PHILOS 151,1,"An examination of early Chinese thought via a study of representative thinkers and texts. Topics include: pre-Ch'in Confucianism and Taoism, development of Confucian thought in Han dynasty and of Taoist thought in the Wei-Chin dynasties, development of Buddhist thought."
-PHILOS 153,1,"The course focuses on certain central topics in Chinese philosophy, though a survey of the history of Chinese thought is also included. The topics emphasized vary from occasion to occasion, and may include: the Confucian ethical tradition; classical Chinese philosophy; a comparative study of Confucianism, Taoism and Buddism."
-PHILOS 155,1,"A study of some of the major philosophical texts from the medieval period with a focus on issues in metaphysics and epistemology. Topics may include universals, individuation, the nature and existence of God, faith and reason, skepticism, freedom, language, human nature and human cognition."
-PHILOS 156A,1,"The work of Gottlob Frege with special emphasis on his contributions to logic, the philosophy of mathematics, and the philosophy of language."
+PHILOS 133,1,"An introduction to central topics in the philosophy of langu
+age, for example the nature of linguistic meaning, the relat
+ion of meaning to truth and reference, knowledge of language
+, the relation of language to thought, pragmatic aspects of 
+linguistic communication, and skepticism about linguistic me
+aning. Some previous background in philosophy and logic is r
+equired."
+PHILOS 134,1,"How is the meaning of a whole sentence determined by the mea
+nings of its parts, and by its structure? This question is a
+ddressed in empirical semantic theories for natural language
+. The character and content of such theories has been a cent
+ral concern both of the philosophy of language and of recent
+ linguistics, and it is the central focus of this course."
+PHILOS 135,1,"Language as social behavior. Language compared to other sign
+ systems. The foundations of semantics, truth, meaning, refe
+rence. Issues of logical form in belief sentences, indirect 
+discourse, sentences about causality, events, actions. Relat
+ions between thought and language."
+PHILOS 136,1,"The philosophy of perception is a microcosm of the metaphysi
+cs of mind. Its central problems - What is perception? What 
+is the nature of perceptual consciousness? How can one fit a
+n account of perceptual experience into a broader account of
+ the nature of the mind and the world? - are problems at the
+ heart of metaphysics. It is often justifiably said that the
+ theory of perception (and especially vision) is the area of
+ psychology and neuroscience"
+PHILOS 138,1,"This course deals with the ontology of society and thus prov
+ides a foundation for the social sciences. The main question
+s discussed are: 1) What is the mode of existence of social 
+reality? 2) How does it relate to psychological and physical
+ reality? 3) What implications does social ontology have for
+ social explanations?"
+PHILOS 140A,1,"Major concepts, results, and techniques of modern logic. Bas
+ic set theoretic tools. Model theoretic treatment of proposi
+tional and first-order logic (completeness, compactness, Low
+enheim-Skolem). Philosophical implcations of these results."
+PHILOS 140B,1,"Major concepts, results, and techniques of modern logic. Tur
+ing machines, computability theory, undecidability of first-
+order logic, proof theory, Godel's first and second inomplet
+eness theorms. Philosophical implications of these results."
+PHILOS 141,1,"An exploration of how game theory and rational choice theory
+ shed light on traditional philosophical problems; and of ne
+w paradoxes and problems introduced by these theories."
+PHILOS 142,1,"The course aims at introducing students to the basic topics 
+in philosophy of logic. Among the topics to be treated are t
+he notions of validity, truth and truth functionality, quant
+ification, and necessity."
+PHILOS 143,1,"An introduction to the logical study of modality in its many
+ forms: reasoning about necessity, knowledge, obligation, ti
+me, counterfactuals, provability, and other modal notions. C
+overs core concepts and basic metatheory of propositional mo
+dal logic, including relations to first-order logic; basics 
+of quantified modal logic; selected philosophical applicatio
+ns ranging from epistomology to ethics, metaphysics to mathe
+matics."
+PHILOS 146,1,"Foundations of mathematics: logicism, intuitionism, formalis
+m. Set theoretical parardoxes, definition of numbers, proble
+ms of continuum."
+PHILOS 149,1,"This course is conceived in analogy with Philosophy 129 (Spe
+cial Topics in Philosophy of Science). It is supposed to all
+ow the class to focus on more specific problems in philosoph
+y of logic or mathematics than can be treated in a broad int
+roductory course such as Philosophy of Mathematics (Philosop
+hy 146) or Philosophical Logic (Philosophy 142)."
+PHILOS 151,1,"An examination of early Chinese thought via a study of repre
+sentative thinkers and texts. Topics include: pre-Ch'in Conf
+ucianism and Taoism, development of Confucian thought in Han
+ dynasty and of Taoist thought in the Wei-Chin dynasties, de
+velopment of Buddhist thought."
+PHILOS 153,1,"The course focuses on certain central topics in Chinese phil
+osophy, though a survey of the history of Chinese thought is
+ also included. The topics emphasized vary from occasion to 
+occasion, and may include: the Confucian ethical tradition; 
+classical Chinese philosophy; a comparative study of Confuci
+anism, Taoism and Buddism."
+PHILOS 155,1,"A study of some of the major philosophical texts from the me
+dieval period with a focus on issues in metaphysics and epis
+temology. Topics may include universals, individuation, the 
+nature and existence of God, faith and reason, skepticism, f
+reedom, language, human nature and human cognition."
+PHILOS 156A,1,"The work of Gottlob Frege with special emphasis on his contr
+ibutions to logic, the philosophy of mathematics, and the ph
+ilosophy of language."
 PHILOS 160,1, 
 PHILOS 161,1, 
-PHILOS 163,1,"The course is designed to deal with a variety of topics in Greek philosophy. Its contents will vary from occasion to occasion. Possible topics are: the close study of one or more of Plato's dialogues, the reading of one of Aristotle's texts, stoicism, scepticism, and neo-platonism."
-PHILOS 170,1,"An intensive introduction to Descartes’s views on physics, metaphysics and epistemology through examination of Descartes’ early works on method, physics and physiology. This includes an in-depth study of the Meditations, focusing on both Descartes’ epistemological project and his anti-scholastic metaphysics supplemented by readings from the Objections and Replies, the Principles, and several important pieces of secondary"
+PHILOS 163,1,"The course is designed to deal with a variety of topics in G
+reek philosophy. Its contents will vary from occasion to occ
+asion. Possible topics are: the close study of one or more o
+f Plato's dialogues, the reading of one of Aristotle's texts
+, stoicism, scepticism, and neo-platonism."
+PHILOS 170,1,"An intensive introduction to Descartes’s views on physics, m
+etaphysics and epistemology through examination of Descartes
+’ early works on method, physics and physiology. This includ
+es an in-depth study of the Meditations, focusing on both De
+scartes’ epistemological project and his anti-scholastic met
+aphysics supplemented by readings from the Objections and Re
+plies, the Principles, and several important pieces of secon
+dary"
 PHILOS 171,1, 
 PHILOS 172,1, 
-PHILOS 173,1,"This course will be a detailed examination of several central works of the 17th century philosopher G.W. Leibniz, with an emphasis on his metaphysical views. Topics will include Leibniz’s views on the relation between mind and body, the nature of space and time, the relation between our representations of the world and the world as it is in itself, the nature of substance and material reality, the relation between God and creation, the nature"
+PHILOS 173,1,"This course will be a detailed examination of several centra
+l works of the 17th century philosopher G.W. Leibniz, with a
+n emphasis on his metaphysical views. Topics will include Le
+ibniz’s views on the relation between mind and body, the nat
+ure of space and time, the relation between our representati
+ons of the world and the world as it is in itself, the natur
+e of substance and material reality, the relation between Go
+d and creation, the nature"
 PHILOS 176,1, 
 PHILOS 178,1, 
 PHILOS 181,1, 
-PHILOS 183,1,An examination of the philosophy of Schopenhauer and Nietzsche.
-PHILOS 184,1,This course is a critical examination of the work of Friedrich Nietzche.
+PHILOS 183,1,"An examination of the philosophy of Schopenhauer and Nietzsc
+he."
+PHILOS 184,1,"This course is a critical examination of the work of Friedri
+ch Nietzche."
 PHILOS 185,1,A study of Heidegger's .
-PHILOS 186B,1,A close reading and extended discussion of central parts of Wittgenstein's Philosophical Investigations.
-PHILOS 187,1,"The course’s specific content will vary from occasion to occasion but will focus on the work of a single philosopher, or several significantly linked philosophers, active before the second half of the twentieth century."
-PHILOS 188,1,Backgrounds of phenomenology and existentialism. Husserl and Merleau-Ponty.
-PHILOS N188,1,Backgrounds of phenomenology and existentialism. Husserl and Merleau-Ponty.
-PHILOS 189,1,"The course is designed to deal with a variety of topics in recent European philosophy. Its contents will vary from occasion to occasion. Possible topics include: further work in phenomenology and existentialism, the study of a particular text by an important figure in contemporary European philosophy, current French and German philosophy."
-PHILOS 190,1,"A seminar-style exploration of some topic in philosophy. The students and insturctor will investigate the topic in a collaborative way, through discussion rather than lecture. Topics vary from semester to semester. Enrollment is limited to 15 undergraduate philosophy majors."
-PHILOS H195,1,"The department will designate a tutor, under whose guidance the student will seek to satisfy the thesis requirement of the Honors Program."
-PHILOS H196,1,"A collaborative writing workshop. Students in the honors program will develop their thesis, which they will have started to write in the fall in Philos H195. Other students will develop a paper from a previous course into a form suitable for a writing sample for applying to graduate school. Students will present drafts, followed by comments by an assigned respondent, and open discussion. As time permits, philosophical background for the work"
+PHILOS 186B,1,"A close reading and extended discussion of central parts of 
+Wittgenstein's Philosophical Investigations."
+PHILOS 187,1,"The course’s specific content will vary from occasion to occ
+asion but will focus on the work of a single philosopher, or
+ several significantly linked philosophers, active before th
+e second half of the twentieth century."
+PHILOS 188,1,"Backgrounds of phenomenology and existentialism. Husserl and
+ Merleau-Ponty."
+PHILOS N188,1,"Backgrounds of phenomenology and existentialism. Husserl and
+ Merleau-Ponty."
+PHILOS 189,1,"The course is designed to deal with a variety of topics in r
+ecent European philosophy. Its contents will vary from occas
+ion to occasion. Possible topics include: further work in ph
+enomenology and existentialism, the study of a particular te
+xt by an important figure in contemporary European philosoph
+y, current French and German philosophy."
+PHILOS 190,1,"A seminar-style exploration of some topic in philosophy. The
+ students and insturctor will investigate the topic in a col
+laborative way, through discussion rather than lecture. Topi
+cs vary from semester to semester. Enrollment is limited to 
+15 undergraduate philosophy majors."
+PHILOS H195,1,"The department will designate a tutor, under whose guidance 
+the student will seek to satisfy the thesis requirement of t
+he Honors Program."
+PHILOS H196,1,"A collaborative writing workshop. Students in the honors pro
+gram will develop their thesis, which they will have started
+ to write in the fall in Philos H195. Other students will de
+velop a paper from a previous course into a form suitable fo
+r a writing sample for applying to graduate school. Students
+ will present drafts, followed by comments by an assigned re
+spondent, and open discussion. As time permits, philosophica
+l background for the work"
 PHILOS 198,1,Directed study on special topics.
-PHILOS 198BC,1,"Berkeley Connect is a mentoring program, offered through various academic departments, that helps students build intellectual community. Over the course of a semester, enrolled students participate in regular small-group discussions facilitated by a graduate student mentor (following a faculty-directed curriculum), meet with their graduate student mentor for one-on-one academic advising, attend lectures and panel discussions featuring department"
-PHILOS 199,1,Enrollment restrictions apply; see the Introduction to Courses and Curricula section in this catalog.
+PHILOS 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHILOS 199,1,"Enrollment restrictions apply; see the Introduction to Cours
+es and Curricula section in this catalog."
+PHILOS R1B,1,"Training in writing expository prose in conjunction with rea
+ding philosophical texts. Satisfies the second half of the R
+eading and Composition requirement."
+PHILOS 2,1,Introduction to ethical and political philosophy.
+PHILOS 3,1,"Introduction to the philosophy of mind. Topics to be conside
+red may include the relation between mind and body; the stru
+cture of action; the nature of desires and beliefs; the role
+ of the unconscious."
+PHILOS 4,1,Introduction to the theory of knowledge.
+PHILOS 5,1,Introduction to the Philosophy of Science.
+PHILOS 6,1,"Philosophical issues as expressed in poetry, drama, and the 
+novel. This course will compare and contrast the Greek, Medi
+eval, and modern worlds, as reflected in their greatest lite
+rature, with special emphasis on the role of the community i
+n reconciling conflicts between sub-groups in society and th
+e individual's ability to understand and control his own lif
+e. We will also follow man's realization that the changing a
+nswers"
+PHILOS 7,1,"Christian, agnostic, and atheistic existentialism as express
+ed in the works of Dostoyevsky, Melville, Kafka, Antonioni, 
+Goddard, etc."
+PHILOS 10,1,"A comparative study of topics in Chinese and Western ethical
+ traditions. Topics include love, compassion, benevolence; r
+ituals, filial obligations, the individual and the family; p
+ride, shame, guilt; conscientiousness, courage, wisdom; trus
+tworthiness, forms of integrity; concepts of the self; self-
+cultivation; human nature, destiny, the cosmic order; the co
+ncept of morality, morality and tradition. The course will c
+onclude with a discussion of metaethical issues concerning"
+PHILOS 11,1,"A survey of basic issues in contemporary philosophy of relig
+ion, exploring arguments about God's existence, the status o
+f religious experiences and beliefs, how souls might interac
+t with bodies, and the relationship of God to morality."
+PHILOS 12A,1,"Syntax, semantics, and proof theory of sentential and predic
+ate logic."
+PHILOS W12A,1,"Intended as a first course in logic for students with no pre
+vious exposure to the subject, the course treats symbolic lo
+gic. Students will learn to formalize reasoning in symbolic 
+languages with precisely defined meanings and rules of infer
+ence. Symbolic logic is by nature a mathematical subject, bu
+t the course does not presuppose any prior coursework in mat
+hematics—only an openness to mathematical"
+PHILOS 13,1,"This course addresses the nature of ethical motivation and a
+gency, with special attention to the individual's role in a 
+business organization. Topics include theories of ethical mo
+tivation; individual character and organizational culture; p
+ersonal integrity; corporate agency; corporate responsibilit
+y to society."
+PHILOS 16,1,"This course is an introduction to some of the traditional qu
+estions in metaphysics--the study of what there is in the wo
+rld and how what there is is structured. Topics will include
+ free will and determinism, the mind-body problem, and perso
+nal identity. If time permits, we will also examine argument
+s for the existence of God."
+PHILOS 17,1,"In any culture, the way we act implies some view of what it 
+is to be a person, and indeed what it is to be a particular 
+kind of person, e.g., black or white, male or female, citize
+n or non-citizen. This view determines what roles and privil
+eges are available to specific individuals and how these ind
+ividuals will think of themselves and evaluate their actions
+ and obligations. We will focus on works of philosophy, lite
+rature and film which have had a powerful and"
+PHILOS 18,1,"The teachings of Confucius (6th to 5th century B.C.) have ha
+d a profound influence on Chinese and East Asian cultures, a
+nd have attracted significant interest throughout the world.
+ In what ways are they still of relevance to life in the twe
+nty-first century? The course will consider the contemporary
+ implications of Confucius’ teachings for such topics as: fa
+mily, rituals, life and death, fate, contentment and anxiety
+, anger and resentment, courage"
+PHILOS 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment is limited to 15 freshmen."
+PHILOS 25A,1,"The history of ancient philosophy with special emphasis on t
+he Presocratics, Plato, and Aristotle."
+PHILOS 25B,1,"The history of modern philosophy from Descartes through Kant
+."
+PHILOS 39,1,"Study of various fields of philosophy of special interest to
+ freshman. Topics will vary from semester to semester and wi
+ll be individually announced. Freshman seminars are restrict
+ed to fifteen students each."
+PHILOS 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+PHILOS 98,1,Directed study on special topics.
+PHILOS 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHILOS 100,1,"The course is designed to acquaint students with the techniq
+ues of philosophical reasoning through detailed study of sel
+ected philosophical texts and through extensive training in 
+philosophical writing, based on those texts. Should be taken
+ as early as possible after declaring the major."
+PHILOS 104,1,"The fundamental concepts and problems of morality examined t
+hrough the study of classical and contemporary philosophical
+ theories of ethics."
+PHILOS 107,1,"An investigation of central issues in moral psychology, such
+ as: free will, weakness of will, self-deception, moral moti
+vation, emotions, virtues, moral education."
+PHILOS 108,1,"This course will be devoted to in-depth discussion of a vari
+ety of problems in moral philosophy raised by real-life ques
+tions of individual conduct and social policy. Its contents 
+will vary from occasion to occasion. Possible topics include
+ philosophical problems posed by affirmative action, abortio
+n, euthanasia, capital punishment, terrorism, war, poverty, 
+and climate change."
+PHILOS 109,1,"A systematic examination of freedom and responsibility. The 
+following topics will be addressed (among others): the relat
+ions between freedom of will, freedom of action, and autonom
+y; moral responsibility and its conditions; naturalism, dete
+rminism, and their relevance for human freedom; practical de
+liberation and the structure of the will; weakness and stren
+gth of will. Readings may be drawn from both"
+PHILOS 110,1,"Visual arts/literature and music. Form, expression, represen
+tation style; interpretation and evaluation."
+PHILOS 112,1,"This course is intended to allow a more focused exploration 
+of particular topics in aesthetics than is possible in Philo
+sophy 110. Its contents will vary from occasion to occasion.
+ Topics may include philosophical questions arising for part
+icular art forms such as painting, music, or dance; question
+s about form, expression, representation, and emotion in aes
+thetic experience; or the ideas of particular aesthetic move
+ments or schools of thought."
+PHILOS 114,1,"A survey of the major political philosophers, including some
+ or all of Plato, Aristotle, Hobbes, Locke, Rousseau, Kant, 
+Bentham, Mill, and Marx."
+PHILOS 115,1,Analysis of political obligation and related problems.
+PHILOS 116,1,"This course is designed to deal with a variety of topics in 
+political philosophy. Its contents will vary from occasion t
+o occasion. Possible topics include problems in liberal theo
+ry; justice, desert, and responsibility; communitarianism, n
+ationalism, and cosmopolitanism."
+PHILOS 117AC,1,"This course explores philosophical questions of race, ethnic
+ity, and citizenship, with special attention to the experien
+ces of African Americans, Asian Americans, Latino Americans,
+ and indigenous peoples of the United States. Topics include
+ the meaning of “race,” “ethnicity,” and “citizenship,” bord
+er control and immigration, reparations for past wrongs, dis
+crimination and affirmative action, civic"
+PHILOS 119,1,"This course will introduce students to a range of historical
+ and contemporary feminist issues."
+PHILOS 121,1,"This course explores, from a philosophical perspective, ethi
+cal questions arising from collecting, drawing inferences fr
+om, and acting on data, especially when these activities are
+ automated and at a large scale. Topics include: bias, fairn
+ess, discrimination, interpretability, privacy, paternalism,
+ freedom of speech, and democracy. Three hours of lecture an
+d one hour of discussion per week."
+PHILOS 122,1, 
+PHILOS 125,1,"An advanced introduction to contemporary metaphysics, focusi
+ng on the ideas of objectivity, existence, naturalness, iden
+tity, time, causation, and possibility."
+PHILOS 127,1,"Science is often regarded as preeminently rational. Yet rece
+nt work in philosophy, history and sociology of science sugg
+ests that scientific knowledge is no more rationally establi
+shed than other sorts of knowledge, and that scientists' con
+victions are driven more by party loyalty and ego than by a 
+pureminded pursuit of truth. This course will consider the c
+ase for and against the rationality of science. It will also
+ consider the recent controversy concerning ""scientific"""
+PHILOS 128,1,"A survey of main topics in the logic of science and of other
+ issues coming under the general heading of philosophy of sc
+ience."
+PHILOS 132,1,"Mind and matter; other minds; the concept ""person."""
+PHILOS C132,1,"Mind and matter; other minds; the concept of ""person."""
+PHILOS 133,1,"An introduction to central topics in the philosophy of langu
+age, for example the nature of linguistic meaning, the relat
+ion of meaning to truth and reference, knowledge of language
+, the relation of language to thought, pragmatic aspects of 
+linguistic communication, and skepticism about linguistic me
+aning. Some previous background in philosophy and logic is r
+equired."
+PHILOS 134,1,"How is the meaning of a whole sentence determined by the mea
+nings of its parts, and by its structure? This question is a
+ddressed in empirical semantic theories for natural language
+. The character and content of such theories has been a cent
+ral concern both of the philosophy of language and of recent
+ linguistics, and it is the central focus of this course."
+PHILOS 135,1,"Language as social behavior. Language compared to other sign
+ systems. The foundations of semantics, truth, meaning, refe
+rence. Issues of logical form in belief sentences, indirect 
+discourse, sentences about causality, events, actions. Relat
+ions between thought and language."
+PHILOS 136,1,"The philosophy of perception is a microcosm of the metaphysi
+cs of mind. Its central problems - What is perception? What 
+is the nature of perceptual consciousness? How can one fit a
+n account of perceptual experience into a broader account of
+ the nature of the mind and the world? - are problems at the
+ heart of metaphysics. It is often justifiably said that the
+ theory of perception (and especially vision) is the area of
+ psychology and neuroscience"
+PHILOS 138,1,"This course deals with the ontology of society and thus prov
+ides a foundation for the social sciences. The main question
+s discussed are: 1) What is the mode of existence of social 
+reality? 2) How does it relate to psychological and physical
+ reality? 3) What implications does social ontology have for
+ social explanations?"
+PHILOS 140A,1,"Major concepts, results, and techniques of modern logic. Bas
+ic set theoretic tools. Model theoretic treatment of proposi
+tional and first-order logic (completeness, compactness, Low
+enheim-Skolem). Philosophical implcations of these results."
+PHILOS 140B,1,"Major concepts, results, and techniques of modern logic. Tur
+ing machines, computability theory, undecidability of first-
+order logic, proof theory, Godel's first and second inomplet
+eness theorms. Philosophical implications of these results."
+PHILOS 141,1,"An exploration of how game theory and rational choice theory
+ shed light on traditional philosophical problems; and of ne
+w paradoxes and problems introduced by these theories."
+PHILOS 142,1,"The course aims at introducing students to the basic topics 
+in philosophy of logic. Among the topics to be treated are t
+he notions of validity, truth and truth functionality, quant
+ification, and necessity."
+PHILOS 143,1,"An introduction to the logical study of modality in its many
+ forms: reasoning about necessity, knowledge, obligation, ti
+me, counterfactuals, provability, and other modal notions. C
+overs core concepts and basic metatheory of propositional mo
+dal logic, including relations to first-order logic; basics 
+of quantified modal logic; selected philosophical applicatio
+ns ranging from epistomology to ethics, metaphysics to mathe
+matics."
+PHILOS 146,1,"Foundations of mathematics: logicism, intuitionism, formalis
+m. Set theoretical parardoxes, definition of numbers, proble
+ms of continuum."
+PHILOS 149,1,"This course is conceived in analogy with Philosophy 129 (Spe
+cial Topics in Philosophy of Science). It is supposed to all
+ow the class to focus on more specific problems in philosoph
+y of logic or mathematics than can be treated in a broad int
+roductory course such as Philosophy of Mathematics (Philosop
+hy 146) or Philosophical Logic (Philosophy 142)."
+PHILOS 151,1,"An examination of early Chinese thought via a study of repre
+sentative thinkers and texts. Topics include: pre-Ch'in Conf
+ucianism and Taoism, development of Confucian thought in Han
+ dynasty and of Taoist thought in the Wei-Chin dynasties, de
+velopment of Buddhist thought."
+PHILOS 153,1,"The course focuses on certain central topics in Chinese phil
+osophy, though a survey of the history of Chinese thought is
+ also included. The topics emphasized vary from occasion to 
+occasion, and may include: the Confucian ethical tradition; 
+classical Chinese philosophy; a comparative study of Confuci
+anism, Taoism and Buddism."
+PHILOS 155,1,"A study of some of the major philosophical texts from the me
+dieval period with a focus on issues in metaphysics and epis
+temology. Topics may include universals, individuation, the 
+nature and existence of God, faith and reason, skepticism, f
+reedom, language, human nature and human cognition."
+PHILOS 156A,1,"The work of Gottlob Frege with special emphasis on his contr
+ibutions to logic, the philosophy of mathematics, and the ph
+ilosophy of language."
+PHILOS 160,1, 
+PHILOS 161,1, 
+PHILOS 163,1,"The course is designed to deal with a variety of topics in G
+reek philosophy. Its contents will vary from occasion to occ
+asion. Possible topics are: the close study of one or more o
+f Plato's dialogues, the reading of one of Aristotle's texts
+, stoicism, scepticism, and neo-platonism."
+PHILOS 170,1,"An intensive introduction to Descartes’s views on physics, m
+etaphysics and epistemology through examination of Descartes
+’ early works on method, physics and physiology. This includ
+es an in-depth study of the Meditations, focusing on both De
+scartes’ epistemological project and his anti-scholastic met
+aphysics supplemented by readings from the Objections and Re
+plies, the Principles, and several important pieces of secon
+dary"
+PHILOS 171,1, 
+PHILOS 172,1, 
+PHILOS 173,1,"This course will be a detailed examination of several centra
+l works of the 17th century philosopher G.W. Leibniz, with a
+n emphasis on his metaphysical views. Topics will include Le
+ibniz’s views on the relation between mind and body, the nat
+ure of space and time, the relation between our representati
+ons of the world and the world as it is in itself, the natur
+e of substance and material reality, the relation between Go
+d and creation, the nature"
+PHILOS 176,1, 
+PHILOS 178,1, 
+PHILOS 181,1, 
+PHILOS 183,1,"An examination of the philosophy of Schopenhauer and Nietzsc
+he."
+PHILOS 184,1,"This course is a critical examination of the work of Friedri
+ch Nietzche."
+PHILOS 185,1,A study of Heidegger's .
+PHILOS 186B,1,"A close reading and extended discussion of central parts of 
+Wittgenstein's Philosophical Investigations."
+PHILOS 187,1,"The course’s specific content will vary from occasion to occ
+asion but will focus on the work of a single philosopher, or
+ several significantly linked philosophers, active before th
+e second half of the twentieth century."
+PHILOS 188,1,"Backgrounds of phenomenology and existentialism. Husserl and
+ Merleau-Ponty."
+PHILOS N188,1,"Backgrounds of phenomenology and existentialism. Husserl and
+ Merleau-Ponty."
+PHILOS 189,1,"The course is designed to deal with a variety of topics in r
+ecent European philosophy. Its contents will vary from occas
+ion to occasion. Possible topics include: further work in ph
+enomenology and existentialism, the study of a particular te
+xt by an important figure in contemporary European philosoph
+y, current French and German philosophy."
+PHILOS 190,1,"A seminar-style exploration of some topic in philosophy. The
+ students and insturctor will investigate the topic in a col
+laborative way, through discussion rather than lecture. Topi
+cs vary from semester to semester. Enrollment is limited to 
+15 undergraduate philosophy majors."
+PHILOS H195,1,"The department will designate a tutor, under whose guidance 
+the student will seek to satisfy the thesis requirement of t
+he Honors Program."
+PHILOS H196,1,"A collaborative writing workshop. Students in the honors pro
+gram will develop their thesis, which they will have started
+ to write in the fall in Philos H195. Other students will de
+velop a paper from a previous course into a form suitable fo
+r a writing sample for applying to graduate school. Students
+ will present drafts, followed by comments by an assigned re
+spondent, and open discussion. As time permits, philosophica
+l background for the work"
+PHILOS 198,1,Directed study on special topics.
+PHILOS 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHILOS 199,1,"Enrollment restrictions apply; see the Introduction to Cours
+es and Curricula section in this catalog."
+PHILOS R1B,1,"Training in writing expository prose in conjunction with rea
+ding philosophical texts. Satisfies the second half of the R
+eading and Composition requirement."
+PHILOS 2,1,Introduction to ethical and political philosophy.
+PHILOS 3,1,"Introduction to the philosophy of mind. Topics to be conside
+red may include the relation between mind and body; the stru
+cture of action; the nature of desires and beliefs; the role
+ of the unconscious."
+PHILOS 4,1,Introduction to the theory of knowledge.
+PHILOS 5,1,Introduction to the Philosophy of Science.
+PHILOS 6,1,"Philosophical issues as expressed in poetry, drama, and the 
+novel. This course will compare and contrast the Greek, Medi
+eval, and modern worlds, as reflected in their greatest lite
+rature, with special emphasis on the role of the community i
+n reconciling conflicts between sub-groups in society and th
+e individual's ability to understand and control his own lif
+e. We will also follow man's realization that the changing a
+nswers"
+PHILOS 7,1,"Christian, agnostic, and atheistic existentialism as express
+ed in the works of Dostoyevsky, Melville, Kafka, Antonioni, 
+Goddard, etc."
+PHILOS 10,1,"A comparative study of topics in Chinese and Western ethical
+ traditions. Topics include love, compassion, benevolence; r
+ituals, filial obligations, the individual and the family; p
+ride, shame, guilt; conscientiousness, courage, wisdom; trus
+tworthiness, forms of integrity; concepts of the self; self-
+cultivation; human nature, destiny, the cosmic order; the co
+ncept of morality, morality and tradition. The course will c
+onclude with a discussion of metaethical issues concerning"
+PHILOS 11,1,"A survey of basic issues in contemporary philosophy of relig
+ion, exploring arguments about God's existence, the status o
+f religious experiences and beliefs, how souls might interac
+t with bodies, and the relationship of God to morality."
+PHILOS 12A,1,"Syntax, semantics, and proof theory of sentential and predic
+ate logic."
+PHILOS W12A,1,"Intended as a first course in logic for students with no pre
+vious exposure to the subject, the course treats symbolic lo
+gic. Students will learn to formalize reasoning in symbolic 
+languages with precisely defined meanings and rules of infer
+ence. Symbolic logic is by nature a mathematical subject, bu
+t the course does not presuppose any prior coursework in mat
+hematics—only an openness to mathematical"
+PHILOS 13,1,"This course addresses the nature of ethical motivation and a
+gency, with special attention to the individual's role in a 
+business organization. Topics include theories of ethical mo
+tivation; individual character and organizational culture; p
+ersonal integrity; corporate agency; corporate responsibilit
+y to society."
+PHILOS 16,1,"This course is an introduction to some of the traditional qu
+estions in metaphysics--the study of what there is in the wo
+rld and how what there is is structured. Topics will include
+ free will and determinism, the mind-body problem, and perso
+nal identity. If time permits, we will also examine argument
+s for the existence of God."
+PHILOS 17,1,"In any culture, the way we act implies some view of what it 
+is to be a person, and indeed what it is to be a particular 
+kind of person, e.g., black or white, male or female, citize
+n or non-citizen. This view determines what roles and privil
+eges are available to specific individuals and how these ind
+ividuals will think of themselves and evaluate their actions
+ and obligations. We will focus on works of philosophy, lite
+rature and film which have had a powerful and"
+PHILOS 18,1,"The teachings of Confucius (6th to 5th century B.C.) have ha
+d a profound influence on Chinese and East Asian cultures, a
+nd have attracted significant interest throughout the world.
+ In what ways are they still of relevance to life in the twe
+nty-first century? The course will consider the contemporary
+ implications of Confucius’ teachings for such topics as: fa
+mily, rituals, life and death, fate, contentment and anxiety
+, anger and resentment, courage"
+PHILOS 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment is limited to 15 freshmen."
+PHILOS 25A,1,"The history of ancient philosophy with special emphasis on t
+he Presocratics, Plato, and Aristotle."
+PHILOS 25B,1,"The history of modern philosophy from Descartes through Kant
+."
+PHILOS 39,1,"Study of various fields of philosophy of special interest to
+ freshman. Topics will vary from semester to semester and wi
+ll be individually announced. Freshman seminars are restrict
+ed to fifteen students each."
+PHILOS 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+PHILOS 98,1,Directed study on special topics.
+PHILOS 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHILOS 100,1,"The course is designed to acquaint students with the techniq
+ues of philosophical reasoning through detailed study of sel
+ected philosophical texts and through extensive training in 
+philosophical writing, based on those texts. Should be taken
+ as early as possible after declaring the major."
+PHILOS 104,1,"The fundamental concepts and problems of morality examined t
+hrough the study of classical and contemporary philosophical
+ theories of ethics."
+PHILOS 107,1,"An investigation of central issues in moral psychology, such
+ as: free will, weakness of will, self-deception, moral moti
+vation, emotions, virtues, moral education."
+PHILOS 108,1,"This course will be devoted to in-depth discussion of a vari
+ety of problems in moral philosophy raised by real-life ques
+tions of individual conduct and social policy. Its contents 
+will vary from occasion to occasion. Possible topics include
+ philosophical problems posed by affirmative action, abortio
+n, euthanasia, capital punishment, terrorism, war, poverty, 
+and climate change."
+PHILOS 109,1,"A systematic examination of freedom and responsibility. The 
+following topics will be addressed (among others): the relat
+ions between freedom of will, freedom of action, and autonom
+y; moral responsibility and its conditions; naturalism, dete
+rminism, and their relevance for human freedom; practical de
+liberation and the structure of the will; weakness and stren
+gth of will. Readings may be drawn from both"
+PHILOS 110,1,"Visual arts/literature and music. Form, expression, represen
+tation style; interpretation and evaluation."
+PHILOS 112,1,"This course is intended to allow a more focused exploration 
+of particular topics in aesthetics than is possible in Philo
+sophy 110. Its contents will vary from occasion to occasion.
+ Topics may include philosophical questions arising for part
+icular art forms such as painting, music, or dance; question
+s about form, expression, representation, and emotion in aes
+thetic experience; or the ideas of particular aesthetic move
+ments or schools of thought."
+PHILOS 114,1,"A survey of the major political philosophers, including some
+ or all of Plato, Aristotle, Hobbes, Locke, Rousseau, Kant, 
+Bentham, Mill, and Marx."
+PHILOS 115,1,Analysis of political obligation and related problems.
+PHILOS 116,1,"This course is designed to deal with a variety of topics in 
+political philosophy. Its contents will vary from occasion t
+o occasion. Possible topics include problems in liberal theo
+ry; justice, desert, and responsibility; communitarianism, n
+ationalism, and cosmopolitanism."
+PHILOS 117AC,1,"This course explores philosophical questions of race, ethnic
+ity, and citizenship, with special attention to the experien
+ces of African Americans, Asian Americans, Latino Americans,
+ and indigenous peoples of the United States. Topics include
+ the meaning of “race,” “ethnicity,” and “citizenship,” bord
+er control and immigration, reparations for past wrongs, dis
+crimination and affirmative action, civic"
+PHILOS 119,1,"This course will introduce students to a range of historical
+ and contemporary feminist issues."
+PHILOS 121,1,"This course explores, from a philosophical perspective, ethi
+cal questions arising from collecting, drawing inferences fr
+om, and acting on data, especially when these activities are
+ automated and at a large scale. Topics include: bias, fairn
+ess, discrimination, interpretability, privacy, paternalism,
+ freedom of speech, and democracy. Three hours of lecture an
+d one hour of discussion per week."
+PHILOS 122,1, 
+PHILOS 125,1,"An advanced introduction to contemporary metaphysics, focusi
+ng on the ideas of objectivity, existence, naturalness, iden
+tity, time, causation, and possibility."
+PHILOS 127,1,"Science is often regarded as preeminently rational. Yet rece
+nt work in philosophy, history and sociology of science sugg
+ests that scientific knowledge is no more rationally establi
+shed than other sorts of knowledge, and that scientists' con
+victions are driven more by party loyalty and ego than by a 
+pureminded pursuit of truth. This course will consider the c
+ase for and against the rationality of science. It will also
+ consider the recent controversy concerning ""scientific"""
+PHILOS 128,1,"A survey of main topics in the logic of science and of other
+ issues coming under the general heading of philosophy of sc
+ience."
+PHILOS 132,1,"Mind and matter; other minds; the concept ""person."""
+PHILOS C132,1,"Mind and matter; other minds; the concept of ""person."""
+PHILOS 133,1,"An introduction to central topics in the philosophy of langu
+age, for example the nature of linguistic meaning, the relat
+ion of meaning to truth and reference, knowledge of language
+, the relation of language to thought, pragmatic aspects of 
+linguistic communication, and skepticism about linguistic me
+aning. Some previous background in philosophy and logic is r
+equired."
+PHILOS 134,1,"How is the meaning of a whole sentence determined by the mea
+nings of its parts, and by its structure? This question is a
+ddressed in empirical semantic theories for natural language
+. The character and content of such theories has been a cent
+ral concern both of the philosophy of language and of recent
+ linguistics, and it is the central focus of this course."
+PHILOS 135,1,"Language as social behavior. Language compared to other sign
+ systems. The foundations of semantics, truth, meaning, refe
+rence. Issues of logical form in belief sentences, indirect 
+discourse, sentences about causality, events, actions. Relat
+ions between thought and language."
+PHILOS 136,1,"The philosophy of perception is a microcosm of the metaphysi
+cs of mind. Its central problems - What is perception? What 
+is the nature of perceptual consciousness? How can one fit a
+n account of perceptual experience into a broader account of
+ the nature of the mind and the world? - are problems at the
+ heart of metaphysics. It is often justifiably said that the
+ theory of perception (and especially vision) is the area of
+ psychology and neuroscience"
+PHILOS 138,1,"This course deals with the ontology of society and thus prov
+ides a foundation for the social sciences. The main question
+s discussed are: 1) What is the mode of existence of social 
+reality? 2) How does it relate to psychological and physical
+ reality? 3) What implications does social ontology have for
+ social explanations?"
+PHILOS 140A,1,"Major concepts, results, and techniques of modern logic. Bas
+ic set theoretic tools. Model theoretic treatment of proposi
+tional and first-order logic (completeness, compactness, Low
+enheim-Skolem). Philosophical implcations of these results."
+PHILOS 140B,1,"Major concepts, results, and techniques of modern logic. Tur
+ing machines, computability theory, undecidability of first-
+order logic, proof theory, Godel's first and second inomplet
+eness theorms. Philosophical implications of these results."
+PHILOS 141,1,"An exploration of how game theory and rational choice theory
+ shed light on traditional philosophical problems; and of ne
+w paradoxes and problems introduced by these theories."
+PHILOS 142,1,"The course aims at introducing students to the basic topics 
+in philosophy of logic. Among the topics to be treated are t
+he notions of validity, truth and truth functionality, quant
+ification, and necessity."
+PHILOS 143,1,"An introduction to the logical study of modality in its many
+ forms: reasoning about necessity, knowledge, obligation, ti
+me, counterfactuals, provability, and other modal notions. C
+overs core concepts and basic metatheory of propositional mo
+dal logic, including relations to first-order logic; basics 
+of quantified modal logic; selected philosophical applicatio
+ns ranging from epistomology to ethics, metaphysics to mathe
+matics."
+PHILOS 146,1,"Foundations of mathematics: logicism, intuitionism, formalis
+m. Set theoretical parardoxes, definition of numbers, proble
+ms of continuum."
+PHILOS 149,1,"This course is conceived in analogy with Philosophy 129 (Spe
+cial Topics in Philosophy of Science). It is supposed to all
+ow the class to focus on more specific problems in philosoph
+y of logic or mathematics than can be treated in a broad int
+roductory course such as Philosophy of Mathematics (Philosop
+hy 146) or Philosophical Logic (Philosophy 142)."
+PHILOS 151,1,"An examination of early Chinese thought via a study of repre
+sentative thinkers and texts. Topics include: pre-Ch'in Conf
+ucianism and Taoism, development of Confucian thought in Han
+ dynasty and of Taoist thought in the Wei-Chin dynasties, de
+velopment of Buddhist thought."
+PHILOS 153,1,"The course focuses on certain central topics in Chinese phil
+osophy, though a survey of the history of Chinese thought is
+ also included. The topics emphasized vary from occasion to 
+occasion, and may include: the Confucian ethical tradition; 
+classical Chinese philosophy; a comparative study of Confuci
+anism, Taoism and Buddism."
+PHILOS 155,1,"A study of some of the major philosophical texts from the me
+dieval period with a focus on issues in metaphysics and epis
+temology. Topics may include universals, individuation, the 
+nature and existence of God, faith and reason, skepticism, f
+reedom, language, human nature and human cognition."
+PHILOS 156A,1,"The work of Gottlob Frege with special emphasis on his contr
+ibutions to logic, the philosophy of mathematics, and the ph
+ilosophy of language."
+PHILOS 160,1, 
+PHILOS 161,1, 
+PHILOS 163,1,"The course is designed to deal with a variety of topics in G
+reek philosophy. Its contents will vary from occasion to occ
+asion. Possible topics are: the close study of one or more o
+f Plato's dialogues, the reading of one of Aristotle's texts
+, stoicism, scepticism, and neo-platonism."
+PHILOS 170,1,"An intensive introduction to Descartes’s views on physics, m
+etaphysics and epistemology through examination of Descartes
+’ early works on method, physics and physiology. This includ
+es an in-depth study of the Meditations, focusing on both De
+scartes’ epistemological project and his anti-scholastic met
+aphysics supplemented by readings from the Objections and Re
+plies, the Principles, and several important pieces of secon
+dary"
+PHILOS 171,1, 
+PHILOS 172,1, 
+PHILOS 173,1,"This course will be a detailed examination of several centra
+l works of the 17th century philosopher G.W. Leibniz, with a
+n emphasis on his metaphysical views. Topics will include Le
+ibniz’s views on the relation between mind and body, the nat
+ure of space and time, the relation between our representati
+ons of the world and the world as it is in itself, the natur
+e of substance and material reality, the relation between Go
+d and creation, the nature"
+PHILOS 176,1, 
+PHILOS 178,1, 
+PHILOS 181,1, 
+PHILOS 183,1,"An examination of the philosophy of Schopenhauer and Nietzsc
+he."
+PHILOS 184,1,"This course is a critical examination of the work of Friedri
+ch Nietzche."
+PHILOS 185,1,A study of Heidegger's .
+PHILOS 186B,1,"A close reading and extended discussion of central parts of 
+Wittgenstein's Philosophical Investigations."
+PHILOS 187,1,"The course’s specific content will vary from occasion to occ
+asion but will focus on the work of a single philosopher, or
+ several significantly linked philosophers, active before th
+e second half of the twentieth century."
+PHILOS 188,1,"Backgrounds of phenomenology and existentialism. Husserl and
+ Merleau-Ponty."
+PHILOS N188,1,"Backgrounds of phenomenology and existentialism. Husserl and
+ Merleau-Ponty."
+PHILOS 189,1,"The course is designed to deal with a variety of topics in r
+ecent European philosophy. Its contents will vary from occas
+ion to occasion. Possible topics include: further work in ph
+enomenology and existentialism, the study of a particular te
+xt by an important figure in contemporary European philosoph
+y, current French and German philosophy."
+PHILOS 190,1,"A seminar-style exploration of some topic in philosophy. The
+ students and insturctor will investigate the topic in a col
+laborative way, through discussion rather than lecture. Topi
+cs vary from semester to semester. Enrollment is limited to 
+15 undergraduate philosophy majors."
+PHILOS H195,1,"The department will designate a tutor, under whose guidance 
+the student will seek to satisfy the thesis requirement of t
+he Honors Program."
+PHILOS H196,1,"A collaborative writing workshop. Students in the honors pro
+gram will develop their thesis, which they will have started
+ to write in the fall in Philos H195. Other students will de
+velop a paper from a previous course into a form suitable fo
+r a writing sample for applying to graduate school. Students
+ will present drafts, followed by comments by an assigned re
+spondent, and open discussion. As time permits, philosophica
+l background for the work"
+PHILOS 198,1,Directed study on special topics.
+PHILOS 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHILOS 199,1,"Enrollment restrictions apply; see the Introduction to Cours
+es and Curricula section in this catalog."
+PHILOS R1B,1,"Training in writing expository prose in conjunction with rea
+ding philosophical texts. Satisfies the second half of the R
+eading and Composition requirement."
+PHILOS 2,1,Introduction to ethical and political philosophy.
+PHILOS 3,1,"Introduction to the philosophy of mind. Topics to be conside
+red may include the relation between mind and body; the stru
+cture of action; the nature of desires and beliefs; the role
+ of the unconscious."
+PHILOS 4,1,Introduction to the theory of knowledge.
+PHILOS 5,1,Introduction to the Philosophy of Science.
+PHILOS 6,1,"Philosophical issues as expressed in poetry, drama, and the 
+novel. This course will compare and contrast the Greek, Medi
+eval, and modern worlds, as reflected in their greatest lite
+rature, with special emphasis on the role of the community i
+n reconciling conflicts between sub-groups in society and th
+e individual's ability to understand and control his own lif
+e. We will also follow man's realization that the changing a
+nswers"
+PHILOS 7,1,"Christian, agnostic, and atheistic existentialism as express
+ed in the works of Dostoyevsky, Melville, Kafka, Antonioni, 
+Goddard, etc."
+PHILOS 10,1,"A comparative study of topics in Chinese and Western ethical
+ traditions. Topics include love, compassion, benevolence; r
+ituals, filial obligations, the individual and the family; p
+ride, shame, guilt; conscientiousness, courage, wisdom; trus
+tworthiness, forms of integrity; concepts of the self; self-
+cultivation; human nature, destiny, the cosmic order; the co
+ncept of morality, morality and tradition. The course will c
+onclude with a discussion of metaethical issues concerning"
+PHILOS 11,1,"A survey of basic issues in contemporary philosophy of relig
+ion, exploring arguments about God's existence, the status o
+f religious experiences and beliefs, how souls might interac
+t with bodies, and the relationship of God to morality."
+PHILOS 12A,1,"Syntax, semantics, and proof theory of sentential and predic
+ate logic."
+PHILOS W12A,1,"Intended as a first course in logic for students with no pre
+vious exposure to the subject, the course treats symbolic lo
+gic. Students will learn to formalize reasoning in symbolic 
+languages with precisely defined meanings and rules of infer
+ence. Symbolic logic is by nature a mathematical subject, bu
+t the course does not presuppose any prior coursework in mat
+hematics—only an openness to mathematical"
+PHILOS 13,1,"This course addresses the nature of ethical motivation and a
+gency, with special attention to the individual's role in a 
+business organization. Topics include theories of ethical mo
+tivation; individual character and organizational culture; p
+ersonal integrity; corporate agency; corporate responsibilit
+y to society."
+PHILOS 16,1,"This course is an introduction to some of the traditional qu
+estions in metaphysics--the study of what there is in the wo
+rld and how what there is is structured. Topics will include
+ free will and determinism, the mind-body problem, and perso
+nal identity. If time permits, we will also examine argument
+s for the existence of God."
+PHILOS 17,1,"In any culture, the way we act implies some view of what it 
+is to be a person, and indeed what it is to be a particular 
+kind of person, e.g., black or white, male or female, citize
+n or non-citizen. This view determines what roles and privil
+eges are available to specific individuals and how these ind
+ividuals will think of themselves and evaluate their actions
+ and obligations. We will focus on works of philosophy, lite
+rature and film which have had a powerful and"
+PHILOS 18,1,"The teachings of Confucius (6th to 5th century B.C.) have ha
+d a profound influence on Chinese and East Asian cultures, a
+nd have attracted significant interest throughout the world.
+ In what ways are they still of relevance to life in the twe
+nty-first century? The course will consider the contemporary
+ implications of Confucius’ teachings for such topics as: fa
+mily, rituals, life and death, fate, contentment and anxiety
+, anger and resentment, courage"
+PHILOS 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment is limited to 15 freshmen."
+PHILOS 25A,1,"The history of ancient philosophy with special emphasis on t
+he Presocratics, Plato, and Aristotle."
+PHILOS 25B,1,"The history of modern philosophy from Descartes through Kant
+."
+PHILOS 39,1,"Study of various fields of philosophy of special interest to
+ freshman. Topics will vary from semester to semester and wi
+ll be individually announced. Freshman seminars are restrict
+ed to fifteen students each."
+PHILOS 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+PHILOS 98,1,Directed study on special topics.
+PHILOS 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHILOS 100,1,"The course is designed to acquaint students with the techniq
+ues of philosophical reasoning through detailed study of sel
+ected philosophical texts and through extensive training in 
+philosophical writing, based on those texts. Should be taken
+ as early as possible after declaring the major."
+PHILOS 104,1,"The fundamental concepts and problems of morality examined t
+hrough the study of classical and contemporary philosophical
+ theories of ethics."
+PHILOS 107,1,"An investigation of central issues in moral psychology, such
+ as: free will, weakness of will, self-deception, moral moti
+vation, emotions, virtues, moral education."
+PHILOS 108,1,"This course will be devoted to in-depth discussion of a vari
+ety of problems in moral philosophy raised by real-life ques
+tions of individual conduct and social policy. Its contents 
+will vary from occasion to occasion. Possible topics include
+ philosophical problems posed by affirmative action, abortio
+n, euthanasia, capital punishment, terrorism, war, poverty, 
+and climate change."
+PHILOS 109,1,"A systematic examination of freedom and responsibility. The 
+following topics will be addressed (among others): the relat
+ions between freedom of will, freedom of action, and autonom
+y; moral responsibility and its conditions; naturalism, dete
+rminism, and their relevance for human freedom; practical de
+liberation and the structure of the will; weakness and stren
+gth of will. Readings may be drawn from both"
+PHILOS 110,1,"Visual arts/literature and music. Form, expression, represen
+tation style; interpretation and evaluation."
+PHILOS 112,1,"This course is intended to allow a more focused exploration 
+of particular topics in aesthetics than is possible in Philo
+sophy 110. Its contents will vary from occasion to occasion.
+ Topics may include philosophical questions arising for part
+icular art forms such as painting, music, or dance; question
+s about form, expression, representation, and emotion in aes
+thetic experience; or the ideas of particular aesthetic move
+ments or schools of thought."
+PHILOS 114,1,"A survey of the major political philosophers, including some
+ or all of Plato, Aristotle, Hobbes, Locke, Rousseau, Kant, 
+Bentham, Mill, and Marx."
+PHILOS 115,1,Analysis of political obligation and related problems.
+PHILOS 116,1,"This course is designed to deal with a variety of topics in 
+political philosophy. Its contents will vary from occasion t
+o occasion. Possible topics include problems in liberal theo
+ry; justice, desert, and responsibility; communitarianism, n
+ationalism, and cosmopolitanism."
+PHILOS 117AC,1,"This course explores philosophical questions of race, ethnic
+ity, and citizenship, with special attention to the experien
+ces of African Americans, Asian Americans, Latino Americans,
+ and indigenous peoples of the United States. Topics include
+ the meaning of “race,” “ethnicity,” and “citizenship,” bord
+er control and immigration, reparations for past wrongs, dis
+crimination and affirmative action, civic"
+PHILOS 119,1,"This course will introduce students to a range of historical
+ and contemporary feminist issues."
+PHILOS 121,1,"This course explores, from a philosophical perspective, ethi
+cal questions arising from collecting, drawing inferences fr
+om, and acting on data, especially when these activities are
+ automated and at a large scale. Topics include: bias, fairn
+ess, discrimination, interpretability, privacy, paternalism,
+ freedom of speech, and democracy. Three hours of lecture an
+d one hour of discussion per week."
+PHILOS 122,1, 
+PHILOS 125,1,"An advanced introduction to contemporary metaphysics, focusi
+ng on the ideas of objectivity, existence, naturalness, iden
+tity, time, causation, and possibility."
+PHILOS 127,1,"Science is often regarded as preeminently rational. Yet rece
+nt work in philosophy, history and sociology of science sugg
+ests that scientific knowledge is no more rationally establi
+shed than other sorts of knowledge, and that scientists' con
+victions are driven more by party loyalty and ego than by a 
+pureminded pursuit of truth. This course will consider the c
+ase for and against the rationality of science. It will also
+ consider the recent controversy concerning ""scientific"""
+PHILOS 128,1,"A survey of main topics in the logic of science and of other
+ issues coming under the general heading of philosophy of sc
+ience."
+PHILOS 132,1,"Mind and matter; other minds; the concept ""person."""
+PHILOS C132,1,"Mind and matter; other minds; the concept of ""person."""
+PHILOS 133,1,"An introduction to central topics in the philosophy of langu
+age, for example the nature of linguistic meaning, the relat
+ion of meaning to truth and reference, knowledge of language
+, the relation of language to thought, pragmatic aspects of 
+linguistic communication, and skepticism about linguistic me
+aning. Some previous background in philosophy and logic is r
+equired."
+PHILOS 134,1,"How is the meaning of a whole sentence determined by the mea
+nings of its parts, and by its structure? This question is a
+ddressed in empirical semantic theories for natural language
+. The character and content of such theories has been a cent
+ral concern both of the philosophy of language and of recent
+ linguistics, and it is the central focus of this course."
+PHILOS 135,1,"Language as social behavior. Language compared to other sign
+ systems. The foundations of semantics, truth, meaning, refe
+rence. Issues of logical form in belief sentences, indirect 
+discourse, sentences about causality, events, actions. Relat
+ions between thought and language."
+PHILOS 136,1,"The philosophy of perception is a microcosm of the metaphysi
+cs of mind. Its central problems - What is perception? What 
+is the nature of perceptual consciousness? How can one fit a
+n account of perceptual experience into a broader account of
+ the nature of the mind and the world? - are problems at the
+ heart of metaphysics. It is often justifiably said that the
+ theory of perception (and especially vision) is the area of
+ psychology and neuroscience"
+PHILOS 138,1,"This course deals with the ontology of society and thus prov
+ides a foundation for the social sciences. The main question
+s discussed are: 1) What is the mode of existence of social 
+reality? 2) How does it relate to psychological and physical
+ reality? 3) What implications does social ontology have for
+ social explanations?"
+PHILOS 140A,1,"Major concepts, results, and techniques of modern logic. Bas
+ic set theoretic tools. Model theoretic treatment of proposi
+tional and first-order logic (completeness, compactness, Low
+enheim-Skolem). Philosophical implcations of these results."
+PHILOS 140B,1,"Major concepts, results, and techniques of modern logic. Tur
+ing machines, computability theory, undecidability of first-
+order logic, proof theory, Godel's first and second inomplet
+eness theorms. Philosophical implications of these results."
+PHILOS 141,1,"An exploration of how game theory and rational choice theory
+ shed light on traditional philosophical problems; and of ne
+w paradoxes and problems introduced by these theories."
+PHILOS 142,1,"The course aims at introducing students to the basic topics 
+in philosophy of logic. Among the topics to be treated are t
+he notions of validity, truth and truth functionality, quant
+ification, and necessity."
+PHILOS 143,1,"An introduction to the logical study of modality in its many
+ forms: reasoning about necessity, knowledge, obligation, ti
+me, counterfactuals, provability, and other modal notions. C
+overs core concepts and basic metatheory of propositional mo
+dal logic, including relations to first-order logic; basics 
+of quantified modal logic; selected philosophical applicatio
+ns ranging from epistomology to ethics, metaphysics to mathe
+matics."
+PHILOS 146,1,"Foundations of mathematics: logicism, intuitionism, formalis
+m. Set theoretical parardoxes, definition of numbers, proble
+ms of continuum."
+PHILOS 149,1,"This course is conceived in analogy with Philosophy 129 (Spe
+cial Topics in Philosophy of Science). It is supposed to all
+ow the class to focus on more specific problems in philosoph
+y of logic or mathematics than can be treated in a broad int
+roductory course such as Philosophy of Mathematics (Philosop
+hy 146) or Philosophical Logic (Philosophy 142)."
+PHILOS 151,1,"An examination of early Chinese thought via a study of repre
+sentative thinkers and texts. Topics include: pre-Ch'in Conf
+ucianism and Taoism, development of Confucian thought in Han
+ dynasty and of Taoist thought in the Wei-Chin dynasties, de
+velopment of Buddhist thought."
+PHILOS 153,1,"The course focuses on certain central topics in Chinese phil
+osophy, though a survey of the history of Chinese thought is
+ also included. The topics emphasized vary from occasion to 
+occasion, and may include: the Confucian ethical tradition; 
+classical Chinese philosophy; a comparative study of Confuci
+anism, Taoism and Buddism."
+PHILOS 155,1,"A study of some of the major philosophical texts from the me
+dieval period with a focus on issues in metaphysics and epis
+temology. Topics may include universals, individuation, the 
+nature and existence of God, faith and reason, skepticism, f
+reedom, language, human nature and human cognition."
+PHILOS 156A,1,"The work of Gottlob Frege with special emphasis on his contr
+ibutions to logic, the philosophy of mathematics, and the ph
+ilosophy of language."
+PHILOS 160,1, 
+PHILOS 161,1, 
+PHILOS 163,1,"The course is designed to deal with a variety of topics in G
+reek philosophy. Its contents will vary from occasion to occ
+asion. Possible topics are: the close study of one or more o
+f Plato's dialogues, the reading of one of Aristotle's texts
+, stoicism, scepticism, and neo-platonism."
+PHILOS 170,1,"An intensive introduction to Descartes’s views on physics, m
+etaphysics and epistemology through examination of Descartes
+’ early works on method, physics and physiology. This includ
+es an in-depth study of the Meditations, focusing on both De
+scartes’ epistemological project and his anti-scholastic met
+aphysics supplemented by readings from the Objections and Re
+plies, the Principles, and several important pieces of secon
+dary"
+PHILOS 171,1, 
+PHILOS 172,1, 
+PHILOS 173,1,"This course will be a detailed examination of several centra
+l works of the 17th century philosopher G.W. Leibniz, with a
+n emphasis on his metaphysical views. Topics will include Le
+ibniz’s views on the relation between mind and body, the nat
+ure of space and time, the relation between our representati
+ons of the world and the world as it is in itself, the natur
+e of substance and material reality, the relation between Go
+d and creation, the nature"
+PHILOS 176,1, 
+PHILOS 178,1, 
+PHILOS 181,1, 
+PHILOS 183,1,"An examination of the philosophy of Schopenhauer and Nietzsc
+he."
+PHILOS 184,1,"This course is a critical examination of the work of Friedri
+ch Nietzche."
+PHILOS 185,1,A study of Heidegger's .
+PHILOS 186B,1,"A close reading and extended discussion of central parts of 
+Wittgenstein's Philosophical Investigations."
+PHILOS 187,1,"The course’s specific content will vary from occasion to occ
+asion but will focus on the work of a single philosopher, or
+ several significantly linked philosophers, active before th
+e second half of the twentieth century."
+PHILOS 188,1,"Backgrounds of phenomenology and existentialism. Husserl and
+ Merleau-Ponty."
+PHILOS N188,1,"Backgrounds of phenomenology and existentialism. Husserl and
+ Merleau-Ponty."
+PHILOS 189,1,"The course is designed to deal with a variety of topics in r
+ecent European philosophy. Its contents will vary from occas
+ion to occasion. Possible topics include: further work in ph
+enomenology and existentialism, the study of a particular te
+xt by an important figure in contemporary European philosoph
+y, current French and German philosophy."
+PHILOS 190,1,"A seminar-style exploration of some topic in philosophy. The
+ students and insturctor will investigate the topic in a col
+laborative way, through discussion rather than lecture. Topi
+cs vary from semester to semester. Enrollment is limited to 
+15 undergraduate philosophy majors."
+PHILOS H195,1,"The department will designate a tutor, under whose guidance 
+the student will seek to satisfy the thesis requirement of t
+he Honors Program."
+PHILOS H196,1,"A collaborative writing workshop. Students in the honors pro
+gram will develop their thesis, which they will have started
+ to write in the fall in Philos H195. Other students will de
+velop a paper from a previous course into a form suitable fo
+r a writing sample for applying to graduate school. Students
+ will present drafts, followed by comments by an assigned re
+spondent, and open discussion. As time permits, philosophica
+l background for the work"
+PHILOS 198,1,Directed study on special topics.
+PHILOS 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHILOS 199,1,"Enrollment restrictions apply; see the Introduction to Cours
+es and Curricula section in this catalog."
+PHILOS R1B,1,"Training in writing expository prose in conjunction with rea
+ding philosophical texts. Satisfies the second half of the R
+eading and Composition requirement."
+PHILOS 2,1,Introduction to ethical and political philosophy.
+PHILOS 3,1,"Introduction to the philosophy of mind. Topics to be conside
+red may include the relation between mind and body; the stru
+cture of action; the nature of desires and beliefs; the role
+ of the unconscious."
+PHILOS 4,1,Introduction to the theory of knowledge.
+PHILOS 5,1,Introduction to the Philosophy of Science.
+PHILOS 6,1,"Philosophical issues as expressed in poetry, drama, and the 
+novel. This course will compare and contrast the Greek, Medi
+eval, and modern worlds, as reflected in their greatest lite
+rature, with special emphasis on the role of the community i
+n reconciling conflicts between sub-groups in society and th
+e individual's ability to understand and control his own lif
+e. We will also follow man's realization that the changing a
+nswers"
+PHILOS 7,1,"Christian, agnostic, and atheistic existentialism as express
+ed in the works of Dostoyevsky, Melville, Kafka, Antonioni, 
+Goddard, etc."
+PHILOS 10,1,"A comparative study of topics in Chinese and Western ethical
+ traditions. Topics include love, compassion, benevolence; r
+ituals, filial obligations, the individual and the family; p
+ride, shame, guilt; conscientiousness, courage, wisdom; trus
+tworthiness, forms of integrity; concepts of the self; self-
+cultivation; human nature, destiny, the cosmic order; the co
+ncept of morality, morality and tradition. The course will c
+onclude with a discussion of metaethical issues concerning"
+PHILOS 11,1,"A survey of basic issues in contemporary philosophy of relig
+ion, exploring arguments about God's existence, the status o
+f religious experiences and beliefs, how souls might interac
+t with bodies, and the relationship of God to morality."
+PHILOS 12A,1,"Syntax, semantics, and proof theory of sentential and predic
+ate logic."
+PHILOS W12A,1,"Intended as a first course in logic for students with no pre
+vious exposure to the subject, the course treats symbolic lo
+gic. Students will learn to formalize reasoning in symbolic 
+languages with precisely defined meanings and rules of infer
+ence. Symbolic logic is by nature a mathematical subject, bu
+t the course does not presuppose any prior coursework in mat
+hematics—only an openness to mathematical"
+PHILOS 13,1,"This course addresses the nature of ethical motivation and a
+gency, with special attention to the individual's role in a 
+business organization. Topics include theories of ethical mo
+tivation; individual character and organizational culture; p
+ersonal integrity; corporate agency; corporate responsibilit
+y to society."
+PHILOS 16,1,"This course is an introduction to some of the traditional qu
+estions in metaphysics--the study of what there is in the wo
+rld and how what there is is structured. Topics will include
+ free will and determinism, the mind-body problem, and perso
+nal identity. If time permits, we will also examine argument
+s for the existence of God."
+PHILOS 17,1,"In any culture, the way we act implies some view of what it 
+is to be a person, and indeed what it is to be a particular 
+kind of person, e.g., black or white, male or female, citize
+n or non-citizen. This view determines what roles and privil
+eges are available to specific individuals and how these ind
+ividuals will think of themselves and evaluate their actions
+ and obligations. We will focus on works of philosophy, lite
+rature and film which have had a powerful and"
+PHILOS 18,1,"The teachings of Confucius (6th to 5th century B.C.) have ha
+d a profound influence on Chinese and East Asian cultures, a
+nd have attracted significant interest throughout the world.
+ In what ways are they still of relevance to life in the twe
+nty-first century? The course will consider the contemporary
+ implications of Confucius’ teachings for such topics as: fa
+mily, rituals, life and death, fate, contentment and anxiety
+, anger and resentment, courage"
+PHILOS 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Fresh
+man seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment is limited to 15 freshmen."
+PHILOS 25A,1,"The history of ancient philosophy with special emphasis on t
+he Presocratics, Plato, and Aristotle."
+PHILOS 25B,1,"The history of modern philosophy from Descartes through Kant
+."
+PHILOS 39,1,"Study of various fields of philosophy of special interest to
+ freshman. Topics will vary from semester to semester and wi
+ll be individually announced. Freshman seminars are restrict
+ed to fifteen students each."
+PHILOS 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+PHILOS 98,1,Directed study on special topics.
+PHILOS 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHILOS 100,1,"The course is designed to acquaint students with the techniq
+ues of philosophical reasoning through detailed study of sel
+ected philosophical texts and through extensive training in 
+philosophical writing, based on those texts. Should be taken
+ as early as possible after declaring the major."
+PHILOS 104,1,"The fundamental concepts and problems of morality examined t
+hrough the study of classical and contemporary philosophical
+ theories of ethics."
+PHILOS 107,1,"An investigation of central issues in moral psychology, such
+ as: free will, weakness of will, self-deception, moral moti
+vation, emotions, virtues, moral education."
+PHILOS 108,1,"This course will be devoted to in-depth discussion of a vari
+ety of problems in moral philosophy raised by real-life ques
+tions of individual conduct and social policy. Its contents 
+will vary from occasion to occasion. Possible topics include
+ philosophical problems posed by affirmative action, abortio
+n, euthanasia, capital punishment, terrorism, war, poverty, 
+and climate change."
+PHILOS 109,1,"A systematic examination of freedom and responsibility. The 
+following topics will be addressed (among others): the relat
+ions between freedom of will, freedom of action, and autonom
+y; moral responsibility and its conditions; naturalism, dete
+rminism, and their relevance for human freedom; practical de
+liberation and the structure of the will; weakness and stren
+gth of will. Readings may be drawn from both"
+PHILOS 110,1,"Visual arts/literature and music. Form, expression, represen
+tation style; interpretation and evaluation."
+PHILOS 112,1,"This course is intended to allow a more focused exploration 
+of particular topics in aesthetics than is possible in Philo
+sophy 110. Its contents will vary from occasion to occasion.
+ Topics may include philosophical questions arising for part
+icular art forms such as painting, music, or dance; question
+s about form, expression, representation, and emotion in aes
+thetic experience; or the ideas of particular aesthetic move
+ments or schools of thought."
+PHILOS 114,1,"A survey of the major political philosophers, including some
+ or all of Plato, Aristotle, Hobbes, Locke, Rousseau, Kant, 
+Bentham, Mill, and Marx."
+PHILOS 115,1,Analysis of political obligation and related problems.
+PHILOS 116,1,"This course is designed to deal with a variety of topics in 
+political philosophy. Its contents will vary from occasion t
+o occasion. Possible topics include problems in liberal theo
+ry; justice, desert, and responsibility; communitarianism, n
+ationalism, and cosmopolitanism."
+PHILOS 117AC,1,"This course explores philosophical questions of race, ethnic
+ity, and citizenship, with special attention to the experien
+ces of African Americans, Asian Americans, Latino Americans,
+ and indigenous peoples of the United States. Topics include
+ the meaning of “race,” “ethnicity,” and “citizenship,” bord
+er control and immigration, reparations for past wrongs, dis
+crimination and affirmative action, civic"
+PHILOS 119,1,"This course will introduce students to a range of historical
+ and contemporary feminist issues."
+PHILOS 121,1,"This course explores, from a philosophical perspective, ethi
+cal questions arising from collecting, drawing inferences fr
+om, and acting on data, especially when these activities are
+ automated and at a large scale. Topics include: bias, fairn
+ess, discrimination, interpretability, privacy, paternalism,
+ freedom of speech, and democracy. Three hours of lecture an
+d one hour of discussion per week."
+PHILOS 122,1, 
+PHILOS 125,1,"An advanced introduction to contemporary metaphysics, focusi
+ng on the ideas of objectivity, existence, naturalness, iden
+tity, time, causation, and possibility."
+PHILOS 127,1,"Science is often regarded as preeminently rational. Yet rece
+nt work in philosophy, history and sociology of science sugg
+ests that scientific knowledge is no more rationally establi
+shed than other sorts of knowledge, and that scientists' con
+victions are driven more by party loyalty and ego than by a 
+pureminded pursuit of truth. This course will consider the c
+ase for and against the rationality of science. It will also
+ consider the recent controversy concerning ""scientific"""
+PHILOS 128,1,"A survey of main topics in the logic of science and of other
+ issues coming under the general heading of philosophy of sc
+ience."
+PHILOS 132,1,"Mind and matter; other minds; the concept ""person."""
+PHILOS C132,1,"Mind and matter; other minds; the concept of ""person."""
+PHILOS 133,1,"An introduction to central topics in the philosophy of langu
+age, for example the nature of linguistic meaning, the relat
+ion of meaning to truth and reference, knowledge of language
+, the relation of language to thought, pragmatic aspects of 
+linguistic communication, and skepticism about linguistic me
+aning. Some previous background in philosophy and logic is r
+equired."
+PHILOS 134,1,"How is the meaning of a whole sentence determined by the mea
+nings of its parts, and by its structure? This question is a
+ddressed in empirical semantic theories for natural language
+. The character and content of such theories has been a cent
+ral concern both of the philosophy of language and of recent
+ linguistics, and it is the central focus of this course."
+PHILOS 135,1,"Language as social behavior. Language compared to other sign
+ systems. The foundations of semantics, truth, meaning, refe
+rence. Issues of logical form in belief sentences, indirect 
+discourse, sentences about causality, events, actions. Relat
+ions between thought and language."
+PHILOS 136,1,"The philosophy of perception is a microcosm of the metaphysi
+cs of mind. Its central problems - What is perception? What 
+is the nature of perceptual consciousness? How can one fit a
+n account of perceptual experience into a broader account of
+ the nature of the mind and the world? - are problems at the
+ heart of metaphysics. It is often justifiably said that the
+ theory of perception (and especially vision) is the area of
+ psychology and neuroscience"
+PHILOS 138,1,"This course deals with the ontology of society and thus prov
+ides a foundation for the social sciences. The main question
+s discussed are: 1) What is the mode of existence of social 
+reality? 2) How does it relate to psychological and physical
+ reality? 3) What implications does social ontology have for
+ social explanations?"
+PHILOS 140A,1,"Major concepts, results, and techniques of modern logic. Bas
+ic set theoretic tools. Model theoretic treatment of proposi
+tional and first-order logic (completeness, compactness, Low
+enheim-Skolem). Philosophical implcations of these results."
+PHILOS 140B,1,"Major concepts, results, and techniques of modern logic. Tur
+ing machines, computability theory, undecidability of first-
+order logic, proof theory, Godel's first and second inomplet
+eness theorms. Philosophical implications of these results."
+PHILOS 141,1,"An exploration of how game theory and rational choice theory
+ shed light on traditional philosophical problems; and of ne
+w paradoxes and problems introduced by these theories."
+PHILOS 142,1,"The course aims at introducing students to the basic topics 
+in philosophy of logic. Among the topics to be treated are t
+he notions of validity, truth and truth functionality, quant
+ification, and necessity."
+PHILOS 143,1,"An introduction to the logical study of modality in its many
+ forms: reasoning about necessity, knowledge, obligation, ti
+me, counterfactuals, provability, and other modal notions. C
+overs core concepts and basic metatheory of propositional mo
+dal logic, including relations to first-order logic; basics 
+of quantified modal logic; selected philosophical applicatio
+ns ranging from epistomology to ethics, metaphysics to mathe
+matics."
+PHILOS 146,1,"Foundations of mathematics: logicism, intuitionism, formalis
+m. Set theoretical parardoxes, definition of numbers, proble
+ms of continuum."
+PHILOS 149,1,"This course is conceived in analogy with Philosophy 129 (Spe
+cial Topics in Philosophy of Science). It is supposed to all
+ow the class to focus on more specific problems in philosoph
+y of logic or mathematics than can be treated in a broad int
+roductory course such as Philosophy of Mathematics (Philosop
+hy 146) or Philosophical Logic (Philosophy 142)."
+PHILOS 151,1,"An examination of early Chinese thought via a study of repre
+sentative thinkers and texts. Topics include: pre-Ch'in Conf
+ucianism and Taoism, development of Confucian thought in Han
+ dynasty and of Taoist thought in the Wei-Chin dynasties, de
+velopment of Buddhist thought."
+PHILOS 153,1,"The course focuses on certain central topics in Chinese phil
+osophy, though a survey of the history of Chinese thought is
+ also included. The topics emphasized vary from occasion to 
+occasion, and may include: the Confucian ethical tradition; 
+classical Chinese philosophy; a comparative study of Confuci
+anism, Taoism and Buddism."
+PHILOS 155,1,"A study of some of the major philosophical texts from the me
+dieval period with a focus on issues in metaphysics and epis
+temology. Topics may include universals, individuation, the 
+nature and existence of God, faith and reason, skepticism, f
+reedom, language, human nature and human cognition."
+PHILOS 156A,1,"The work of Gottlob Frege with special emphasis on his contr
+ibutions to logic, the philosophy of mathematics, and the ph
+ilosophy of language."
+PHILOS 160,1, 
+PHILOS 161,1, 
+PHILOS 163,1,"The course is designed to deal with a variety of topics in G
+reek philosophy. Its contents will vary from occasion to occ
+asion. Possible topics are: the close study of one or more o
+f Plato's dialogues, the reading of one of Aristotle's texts
+, stoicism, scepticism, and neo-platonism."
+PHILOS 170,1,"An intensive introduction to Descartes’s views on physics, m
+etaphysics and epistemology through examination of Descartes
+’ early works on method, physics and physiology. This includ
+es an in-depth study of the Meditations, focusing on both De
+scartes’ epistemological project and his anti-scholastic met
+aphysics supplemented by readings from the Objections and Re
+plies, the Principles, and several important pieces of secon
+dary"
+PHILOS 171,1, 
+PHILOS 172,1, 
+PHILOS 173,1,"This course will be a detailed examination of several centra
+l works of the 17th century philosopher G.W. Leibniz, with a
+n emphasis on his metaphysical views. Topics will include Le
+ibniz’s views on the relation between mind and body, the nat
+ure of space and time, the relation between our representati
+ons of the world and the world as it is in itself, the natur
+e of substance and material reality, the relation between Go
+d and creation, the nature"
+PHILOS 176,1, 
+PHILOS 178,1, 
+PHILOS 181,1, 
+PHILOS 183,1,"An examination of the philosophy of Schopenhauer and Nietzsc
+he."
+PHILOS 184,1,"This course is a critical examination of the work of Friedri
+ch Nietzche."
+PHILOS 185,1,A study of Heidegger's .
+PHILOS 186B,1,"A close reading and extended discussion of central parts of 
+Wittgenstein's Philosophical Investigations."
+PHILOS 187,1,"The course’s specific content will vary from occasion to occ
+asion but will focus on the work of a single philosopher, or
+ several significantly linked philosophers, active before th
+e second half of the twentieth century."
+PHILOS 188,1,"Backgrounds of phenomenology and existentialism. Husserl and
+ Merleau-Ponty."
+PHILOS N188,1,"Backgrounds of phenomenology and existentialism. Husserl and
+ Merleau-Ponty."
+PHILOS 189,1,"The course is designed to deal with a variety of topics in r
+ecent European philosophy. Its contents will vary from occas
+ion to occasion. Possible topics include: further work in ph
+enomenology and existentialism, the study of a particular te
+xt by an important figure in contemporary European philosoph
+y, current French and German philosophy."
+PHILOS 190,1,"A seminar-style exploration of some topic in philosophy. The
+ students and insturctor will investigate the topic in a col
+laborative way, through discussion rather than lecture. Topi
+cs vary from semester to semester. Enrollment is limited to 
+15 undergraduate philosophy majors."
+PHILOS H195,1,"The department will designate a tutor, under whose guidance 
+the student will seek to satisfy the thesis requirement of t
+he Honors Program."
+PHILOS H196,1,"A collaborative writing workshop. Students in the honors pro
+gram will develop their thesis, which they will have started
+ to write in the fall in Philos H195. Other students will de
+velop a paper from a previous course into a form suitable fo
+r a writing sample for applying to graduate school. Students
+ will present drafts, followed by comments by an assigned re
+spondent, and open discussion. As time permits, philosophica
+l background for the work"
+PHILOS 198,1,Directed study on special topics.
+PHILOS 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+PHILOS 199,1,"Enrollment restrictions apply; see the Introduction to Cours
+es and Curricula section in this catalog."

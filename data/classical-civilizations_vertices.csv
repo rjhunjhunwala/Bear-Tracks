@@ -1,56 +1,1426 @@
 name,size,about
-CLASSIC 10A,1,"Study of the major developments, achievements, and contradictions in Greek culture from the Bronze Age to the 4th century BCE. Key works of literature, history, and philosophy (read in English translation) will be examined in their political and social context, and in relation both to other ancient Mediterranean cultures and to subsequent developments in Western civilization."
-CLASSIC 10B,1,"Investigation of the main achievements and tensions in Roman culture from Romulus to the High Empire. Key sources for literature, history, and material culture are studied in order to reveal Roman civilization in its political and social context. All materials are read in English."
-CLASSIC 17A,1,"The physical remains of the Greek world from the Bronze Age to 323 BCE will be studied, with emphasis on its artistic triumphs, as a means of understanding the culture of ancient Greece."
-CLASSIC 17B,1,This course provides a broad-based introduction to the archaeology of the ancient Romans from Rome’s origins in the Iron Age down to the disintegration of the Roman empire in the sixth century A.D. It aims to
-CLASSIC 24,1,"The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley Seminars are offered in all campus departments, and topics vary from department to department and semester to semester."
-CLASSIC 28,1,"The society, culture, values and outlook on life of the ancient Greeks as expressed in their mythology; their views on life, birth, marriage, death, sex and sexuality; on culture and civilization, the origin and meaning of the world. Their use of myth to think about, and give order to human experience. The course includes some of the most important works of Western literature in English translation (the 'Odyssey', the 'Theogony', twelve plays"
-CLASSIC N28,1,"The society, culture, values and outlook on life of the ancient Greeks as expressed in their mythology; their views on life, birth, marriage, death, sex and sexuality; on culture and civilization, the origin and meaning of the world. Their use of myth to think about, and give order to human experience. The course includes some of the most important works of Western literature"
-CLASSIC 29,1,"This course will focus on ideas about magic in the Greek and Roman worlds from about 750 BCE through 400 CE. Topics will include witches, holy men, love spells, necromancy, spirits, and mystery religions. We will examine how magic was represented in high literature (by authors like Homer, Ovid, Apuleius, and Lucian). as well as the more practical evidence of curse tablets and the Greek Magical Papyri. Consideration will be given"
+CLASSIC 10A,1,"Study of the major developments, achievements, and contradic
+tions in Greek culture from the Bronze Age to the 4th centur
+y BCE. Key works of literature, history, and philosophy (rea
+d in English translation) will be examined in their politica
+l and social context, and in relation both to other ancient 
+Mediterranean cultures and to subsequent developments in Wes
+tern civilization."
+CLASSIC 10B,1,"Investigation of the main achievements and tensions in Roman
+ culture from Romulus to the High Empire. Key sources for li
+terature, history, and material culture are studied in order
+ to reveal Roman civilization in its political and social co
+ntext. All materials are read in English."
+CLASSIC 17A,1,"The physical remains of the Greek world from the Bronze Age 
+to 323 BCE will be studied, with emphasis on its artistic tr
+iumphs, as a means of understanding the culture of ancient G
+reece."
+CLASSIC 17B,1,"This course provides a broad-based introduction to the archa
+eology of the ancient Romans from Rome’s origins in the Iron
+ Age down to the disintegration of the Roman empire in the s
+ixth century A.D. It aims to"
+CLASSIC 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CLASSIC 28,1,"The society, culture, values and outlook on life of the anci
+ent Greeks as expressed in their mythology; their views on l
+ife, birth, marriage, death, sex and sexuality; on culture a
+nd civilization, the origin and meaning of the world. Their 
+use of myth to think about, and give order to human experien
+ce. The course includes some of the most important works of 
+Western literature in English translation (the 'Odyssey', th
+e 'Theogony', twelve plays"
+CLASSIC N28,1,"The society, culture, values and outlook on life of the anci
+ent Greeks as expressed in their mythology; their views on l
+ife, birth, marriage, death, sex and sexuality; on culture a
+nd civilization, the origin and meaning of the world. Their 
+use of myth to think about, and give order to human experien
+ce. The course includes some of the most important works of 
+Western literature"
+CLASSIC 29,1,"This course will focus on ideas about magic in the Greek and
+ Roman worlds from about 750 BCE through 400 CE. Topics will
+ include witches, holy men, love spells, necromancy, spirits
+, and mystery religions. We will examine how magic was repre
+sented in high literature (by authors like Homer, Ovid, Apul
+eius, and Lucian). as well as the more practical evidence of
+ curse tablets and the Greek Magical Papyri. Consideration w
+ill be given"
 CLASSIC 34,1,"Greek and Roman epics including the , , ."
-CLASSIC 35,1,"Greek tragedy with readings of Aeschylus, Sophocles, and Euripides."
-CLASSIC 36,1,"Introduction to the philosophies of Socrates, Plato and Aristotle."
-CLASSIC 39A,1,"Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. In this seminar we shall scrutinize and discuss representations of the Ptolemaic queen Cleopatra from Antiquity to the present day; our sources will include monuments, literature, art, movies, and advertising. The only prerequisites for the course are interests"
-CLASSIC 39B,1,"This seminar-style class allows lower division students to explore comic texts from the Greco-Roman world, with special emphasis on the social meanings of comedy. Readings include stage comedy, satire, novels, fables, and other genres, from authors such as Aristophanes, Plautus, Terence, Horace, Petronius, and Apuleius. Students will be introduced to historical and theoretical contexts that will deepen their understanding of the literary readings and"
-CLASSIC 39D,1,"Freshman and sophomore seminars offer lower division students an opportunity to explore intellectual topics with a faculty member and peers in a seminar setting. In this course we will examine utopian literature from its classical beginnings, in Plato's Republic, and in his Timaeus and Critias (which tell the story of the lost world of Atlantis), as well as in some plays of Aristophanes. We will also consider later developments, in Thomas More's"
-CLASSIC 39K,1,"Examination of how people moved both themselves and objects from one place to another in the ancient Greek and Roman worlds. Drawing on archaeological, literary, and pictorial evidence we consider an array of topics, including transport technology & infrastructure, the organization & costs of travel & transport, routes & travel times, banking, dining & overnighting on the road, packaging, labelling, & handling of cargoes, the roles"
-CLASSIC R44,1,"This course covers Homeric and Classical Greece, Rome in its transition from republic to empire, and the world of the Old Testament. Lectures, discussions, and reading assignments will involve interdisciplinary approaches with an emphasis on the development of skill in writing. Satisfies either half of the Reading and Composition requirement plus one of the following Letters and Science breath requirements: Arts and Literature, Historical Studies"
+CLASSIC 35,1,"Greek tragedy with readings of Aeschylus, Sophocles, and Eur
+ipides."
+CLASSIC 36,1,"Introduction to the philosophies of Socrates, Plato and Aris
+totle."
+CLASSIC 39A,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. In this seminar we shall scrutinize and discuss representa
+tions of the Ptolemaic queen Cleopatra from Antiquity to the
+ present day; our sources will include monuments, literature
+, art, movies, and advertising. The only prerequisites for t
+he course are interests"
+CLASSIC 39B,1,"This seminar-style class allows lower division students to e
+xplore comic texts from the Greco-Roman world, with special 
+emphasis on the social meanings of comedy. Readings include 
+stage comedy, satire, novels, fables, and other genres, from
+ authors such as Aristophanes, Plautus, Terence, Horace, Pet
+ronius, and Apuleius. Students will be introduced to histori
+cal and theoretical contexts that will deepen their understa
+nding of the literary readings and"
+CLASSIC 39D,1,"Freshman and sophomore seminars offer lower division student
+s an opportunity to explore intellectual topics with a facul
+ty member and peers in a seminar setting. In this course we 
+will examine utopian literature from its classical beginning
+s, in Plato's Republic, and in his Timaeus and Critias (whic
+h tell the story of the lost world of Atlantis), as well as 
+in some plays of Aristophanes. We will also consider later d
+evelopments, in Thomas More's"
+CLASSIC 39K,1,"Examination of how people moved both themselves and objects 
+from one place to another in the ancient Greek and Roman wor
+lds. Drawing on archaeological, literary, and pictorial evid
+ence we consider an array of topics, including transport tec
+hnology & infrastructure, the organization & costs of travel
+ & transport, routes & travel times, banking, dining & overn
+ighting on the road, packaging, labelling, & handling of car
+goes, the roles"
+CLASSIC R44,1,"This course covers Homeric and Classical Greece, Rome in its
+ transition from republic to empire, and the world of the Ol
+d Testament. Lectures, discussions, and reading assignments 
+will involve interdisciplinary approaches with an emphasis o
+n the development of skill in writing. Satisfies either half
+ of the Reading and Composition requirement plus one of the 
+following Letters and Science breath requirements: Arts and 
+Literature, Historical Studies"
 CLASSIC 50,1,
 CLASSIC 98,1, 
 CLASSIC 99,1, 
-CLASSIC 121,1,"The ancient Mediterranean world was a world full of gods: from the poems of Homer to the small towns of the Roman empire, we can find people constantly interacting with and thinking about the gods. Myth, ritual, oracles, mystery cults, magic, philosophy: these were all ways that Greeks and Romans engaged with the divine. War, peace, health, sickness, hope, fear: these were some of the reasons for these engagements. This course explores the polytheism"
-CLASSIC 124,1,"Study of a selection (in English translation) of the most important works of classical antiquity that theorize about literature and of the works of some post-classical authors who wrote on similar themes under the influence of their classical predecessors. Authors studied may include Plato, Aristotle, Horace, Longinus, Augustine, Sidney, Pope, and Lessing."
-CLASSIC 130,1,Topic to vary from year to year. No knowledge of Greek or Latin required; but provision will be made for students who wish to study some of the readings in the original language. Enrollment limited.
-CLASSIC 130A,1,"This course presents a comparative overview of epics and sagas from Greco-Roman antiquity and medieval north-west Europe (England, Iceland, and Ireland). No knowledge of Greek or Latin required."
-CLASSIC 130B,1,"This course examines the origins of Rome, the quintessential city in the Western experience. It considers both the literary and archaeological evidence for the earliest periods of the city’s occupation, and the challenges involved in using and combining these two quite different forms of evidence. Particular attention will be given to recent archaeological discoveries and the ways in which these are transforming our understanding of early Rome. The course also examines"
-CLASSIC 130C,1,In this course we will investigate the political thought of ancient Greece by discussing some of its most important and influential texts. All texts are to be read in translation.
-CLASSIC 130D,1,"This course is designed to provide advanced undergraduates with a broad overview of the economy of the Roman Empire. It is organized around a series of weekly topics that will be explored through readings selected to provide students with exposure to the theory, evidence, and methods currently being employed by historians and archaeologists to investigate that particular aspect of the Roman economy. No knowledge of Greek or Latin required."
-CLASSIC 130E,1,"This course will explore the evidence for the Trojan War, one of the greatest stories ever told: literary, historical, visual and archaeological. The history of the search for the reality behind Homer's epic and its scholarship will be examined as well as detailed analyses of the theories currently in play. Through reading, visual analysis, discussion and writing - students will discover for themselves the ancient world of the heroes and their legends. Was there"
-CLASSIC 130F,1,"In this course we will examine the history of ideas about the soul’s postmortem fate in the ancient Mediterranean world. We will focus on epic poets and philosophers from ancient Greece and Rome, but also"
-CLASSIC 130G,1,"Classical literature is full of mythological plots involving gods and monsters, heroes and kings. Less prominent are the kind of plots we are used to from modern literature, especially novels: plots that revolve around fictional characters invented to look like people in the street. Although these latter forms of literature are distanced from the prestigious genres of epic and tragedy, they still constitute an important"
-CLASSIC 130H,1,"Religion and literature are two conceptual systems through which people and societies organize disparate experiences into meaningful wholes. In the ancient pagan societies of Greece and Rome, where a shared experience of both religion and literature was a defining element of the community, these two systems were particularly interdependent. In this course we will read a variety of texts (e.g. epic, philosophy, tragedy) and examine the complex ways that literary"
-CLASSIC 130I,1,"This course aims to explore the development of classical Greek rhetoric from the fifth century through the end of the fourth century BCE. In light of Plato’s and Aristotle’s analyses of the subject, we tend to view rhetoric as an art (technê) consisting of a set of methodically organized principles or norms for the production of persuasive speech. The use of rhetorical techniques, however, was widespread in the Greek speaking world well before Plato and Aristotle"
-CLASSIC 130J,1,"Egypt: No other region of the Graeco-Roman world provides us with as much information about the daily lives of its inhabitants, and no body of ancient evidence is more inclusive in its coverage. In this course, we will read selections from this corpus of evidence closely, focusing on documentary papyri, but also looking at literature, inscriptions, and other cultural objects (as well as some later comparative material). We will discuss what this material contributes"
-CLASSIC 130K,1,"In this course, we will look at ancient Greek ideas and practices concerning the nature, sources, psychological effects, and social functions of music (including singing, instrumental music, and dance), during the Archaic and Classical periods (ca. 800-350 BCE). Taking an ethnomusicological approach, we will examine Greek musical culture as a whole, focusing especially on differences of gender, ethnicity, regionalism, class/status (e.g., free vs. slave), and even"
-CLASSIC 130L,1,"This course will focus on ideas about magic in the Greek and Roman worlds from about 750 BCE through 400 CE. Topics will include witches, holy men, love spells, necromancy, spirits, and mystery religions.We will examine how magic was represented in high literature (by authors like Homer, Ovid, Apuleius and Lucian) as well as the more practical evidence of curse tablets and the Greek Magical Papyri. Consideration will be given to analyzing the relationship between"
-CLASSIC 130M,1,"Slavery was one of the central institutions of life in classical Greece and Rome and had a profound affect on the ways these societies represented themselves and their world. In this course we will first spend some time learning about the historical condition of slavery in these two societies, then read a variety of works that show some of the ways that slaves and slavery operated in the intellectual and imaginative life of ancient authors. The three genres we will"
-CLASSIC 130N,1,"Important individuals in Greek and Roman society were commemorated both in honorific portraits and in biographies written to record for posterity their lives and achievements. In this class we will be reading a selection of Greek and Latin biographical texts (in translation) and comparing them with statuary monuments that represent the same individuals. We will be seeking to elicit the points of contact between the two commemorative traditions, visual and literary"
-CLASSIC 130P,1,"What time is it? How old is the earth? Where are we located in history? For us these questions may have simple answers: we can look at a watch or a calendar or a timeline. But ancient people thought very differently about these questions. The aim of this class is to see how. We will look at a variety of ancient evidence, including literature (in translation) and archaeology, to discover how Greeks and Romans thought about the deep past (mythic time), how they understood"
-CLASSIC 161,1,"Study of topics in gender, feminism, and sexuality in ancient cultures. Topics vary from year to year."
-CLASSIC 163,1,"The course is designed to deal with a single topic or selection of topics in Greek philosophy studied in translation. Possible topics are: the close study of one or more of Plato's or Aristotle's texts, Hellenistic philosophy, neo-Platonism."
+CLASSIC 121,1,"The ancient Mediterranean world was a world full of gods: fr
+om the poems of Homer to the small towns of the Roman empire
+, we can find people constantly interacting with and thinkin
+g about the gods. Myth, ritual, oracles, mystery cults, magi
+c, philosophy: these were all ways that Greeks and Romans en
+gaged with the divine. War, peace, health, sickness, hope, f
+ear: these were some of the reasons for these engagements. T
+his course explores the polytheism"
+CLASSIC 124,1,"Study of a selection (in English translation) of the most im
+portant works of classical antiquity that theorize about lit
+erature and of the works of some post-classical authors who 
+wrote on similar themes under the influence of their classic
+al predecessors. Authors studied may include Plato, Aristotl
+e, Horace, Longinus, Augustine, Sidney, Pope, and Lessing."
+CLASSIC 130,1,"Topic to vary from year to year. No knowledge of Greek or La
+tin required; but provision will be made for students who wi
+sh to study some of the readings in the original language. E
+nrollment limited."
+CLASSIC 130A,1,"This course presents a comparative overview of epics and sag
+as from Greco-Roman antiquity and medieval north-west Europe
+ (England, Iceland, and Ireland). No knowledge of Greek or L
+atin required."
+CLASSIC 130B,1,"This course examines the origins of Rome, the quintessential
+ city in the Western experience. It considers both the liter
+ary and archaeological evidence for the earliest periods of 
+the city’s occupation, and the challenges involved in using 
+and combining these two quite different forms of evidence. P
+articular attention will be given to recent archaeological d
+iscoveries and the ways in which these are transforming our 
+understanding of early Rome. The course also examines"
+CLASSIC 130C,1,"In this course we will investigate the political thought of 
+ancient Greece by discussing some of its most important and 
+influential texts. All texts are to be read in translation."
+CLASSIC 130D,1,"This course is designed to provide advanced undergraduates w
+ith a broad overview of the economy of the Roman Empire. It 
+is organized around a series of weekly topics that will be e
+xplored through readings selected to provide students with e
+xposure to the theory, evidence, and methods currently being
+ employed by historians and archaeologists to investigate th
+at particular aspect of the Roman economy. No knowledge of G
+reek or Latin required."
+CLASSIC 130E,1,"This course will explore the evidence for the Trojan War, on
+e of the greatest stories ever told: literary, historical, v
+isual and archaeological. The history of the search for the 
+reality behind Homer's epic and its scholarship will be exam
+ined as well as detailed analyses of the theories currently 
+in play. Through reading, visual analysis, discussion and wr
+iting - students will discover for themselves the ancient wo
+rld of the heroes and their legends. Was there"
+CLASSIC 130F,1,"In this course we will examine the history of ideas about th
+e soul’s postmortem fate in the ancient Mediterranean world.
+ We will focus on epic poets and philosophers from ancient G
+reece and Rome, but also"
+CLASSIC 130G,1,"Classical literature is full of mythological plots involving
+ gods and monsters, heroes and kings. Less prominent are the
+ kind of plots we are used to from modern literature, especi
+ally novels: plots that revolve around fictional characters 
+invented to look like people in the street. Although these l
+atter forms of literature are distanced from the prestigious
+ genres of epic and tragedy, they still constitute an import
+ant"
+CLASSIC 130H,1,"Religion and literature are two conceptual systems through w
+hich people and societies organize disparate experiences int
+o meaningful wholes. In the ancient pagan societies of Greec
+e and Rome, where a shared experience of both religion and l
+iterature was a defining element of the community, these two
+ systems were particularly interdependent. In this course we
+ will read a variety of texts (e.g. epic, philosophy, traged
+y) and examine the complex ways that literary"
+CLASSIC 130I,1,"This course aims to explore the development of classical Gre
+ek rhetoric from the fifth century through the end of the fo
+urth century BCE. In light of Plato’s and Aristotle’s analys
+es of the subject, we tend to view rhetoric as an art (techn
+ê) consisting of a set of methodically organized principles 
+or norms for the production of persuasive speech. The use of
+ rhetorical techniques, however, was widespread in the Greek
+ speaking world well before Plato and Aristotle"
+CLASSIC 130J,1,"Egypt: No other region of the Graeco-Roman world provides us
+ with as much information about the daily lives of its inhab
+itants, and no body of ancient evidence is more inclusive in
+ its coverage. In this course, we will read selections from 
+this corpus of evidence closely, focusing on documentary pap
+yri, but also looking at literature, inscriptions, and other
+ cultural objects (as well as some later comparative materia
+l). We will discuss what this material contributes"
+CLASSIC 130K,1,"In this course, we will look at ancient Greek ideas and prac
+tices concerning the nature, sources, psychological effects,
+ and social functions of music (including singing, instrumen
+tal music, and dance), during the Archaic and Classical peri
+ods (ca. 800-350 BCE). Taking an ethnomusicological approach
+, we will examine Greek musical culture as a whole, focusing
+ especially on differences of gender, ethnicity, regionalism
+, class/status (e.g., free vs. slave), and even"
+CLASSIC 130L,1,"This course will focus on ideas about magic in the Greek and
+ Roman worlds from about 750 BCE through 400 CE. Topics will
+ include witches, holy men, love spells, necromancy, spirits
+, and mystery religions.We will examine how magic was repres
+ented in high literature (by authors like Homer, Ovid, Apule
+ius and Lucian) as well as the more practical evidence of cu
+rse tablets and the Greek Magical Papyri. Consideration will
+ be given to analyzing the relationship between"
+CLASSIC 130M,1,"Slavery was one of the central institutions of life in class
+ical Greece and Rome and had a profound affect on the ways t
+hese societies represented themselves and their world. In th
+is course we will first spend some time learning about the h
+istorical condition of slavery in these two societies, then 
+read a variety of works that show some of the ways that slav
+es and slavery operated in the intellectual and imaginative 
+life of ancient authors. The three genres we will"
+CLASSIC 130N,1,"Important individuals in Greek and Roman society were commem
+orated both in honorific portraits and in biographies writte
+n to record for posterity their lives and achievements. In t
+his class we will be reading a selection of Greek and Latin 
+biographical texts (in translation) and comparing them with 
+statuary monuments that represent the same individuals. We w
+ill be seeking to elicit the points of contact between the t
+wo commemorative traditions, visual and literary"
+CLASSIC 130P,1,"What time is it? How old is the earth? Where are we located 
+in history? For us these questions may have simple answers: 
+we can look at a watch or a calendar or a timeline. But anci
+ent people thought very differently about these questions. T
+he aim of this class is to see how. We will look at a variet
+y of ancient evidence, including literature (in translation)
+ and archaeology, to discover how Greeks and Romans thought 
+about the deep past (mythic time), how they understood"
+CLASSIC 161,1,"Study of topics in gender, feminism, and sexuality in ancien
+t cultures. Topics vary from year to year."
+CLASSIC 163,1,"The course is designed to deal with a single topic or select
+ion of topics in Greek philosophy studied in translation. Po
+ssible topics are: the close study of one or more of Plato's
+ or Aristotle's texts, Hellenistic philosophy, neo-Platonism
+."
 CLASSIC 170A,1, 
 CLASSIC 170C,1, 
 CLASSIC 170D,1, 
-CLASSIC 172,1,"Introductory overview of the art and archaeology of ancient civilizations of the Bronze Age (3000-1100 BCE) Aegean: Crete, Cyclades, Mainland Greece, and Western Anatolia. Intended to expose to the sites, monuments, art, and artifacts of these cultures and understand the way a variety of evidence is used to reconstruct history. Emphasis also is placed on comparison of enigmatic and evocative cultures and material evidence to see how each evolved and to"
-CLASSIC N172A,1,"Through this field school students will participate in archaeological excavation and museum study in Greece at the site of Nemea and the Classical Sanctuary of Zeus. Through extensive travel and hands-on work, students will learn all major elements of methodology and analysis currently used in classical archaeology. The goal is to teach practical skills in a real research environment"
-CLASSIC N172B,1,"Through this field school students will participate in archaeological excavation and museum study in Greece at the Bronze Age site of Mycenae (Petsas House). Through extensive travel and hands-on work, students will learn all major elements of methodology and analysis currently used in classical archaeology. The goal is to teach practical skills in a real research environment and"
+CLASSIC 172,1,"Introductory overview of the art and archaeology of ancient 
+civilizations of the Bronze Age (3000-1100 BCE) Aegean: Cret
+e, Cyclades, Mainland Greece, and Western Anatolia. Intended
+ to expose to the sites, monuments, art, and artifacts of th
+ese cultures and understand the way a variety of evidence is
+ used to reconstruct history. Emphasis also is placed on com
+parison of enigmatic and evocative cultures and material evi
+dence to see how each evolved and to"
+CLASSIC N172A,1,"Through this field school students will participate in archa
+eological excavation and museum study in Greece at the site 
+of Nemea and the Classical Sanctuary of Zeus. Through extens
+ive travel and hands-on work, students will learn all major 
+elements of methodology and analysis currently used in class
+ical archaeology. The goal is to teach practical skills in a
+ real research environment"
+CLASSIC N172B,1,"Through this field school students will participate in archa
+eological excavation and museum study in Greece at the Bronz
+e Age site of Mycenae (Petsas House). Through extensive trav
+el and hands-on work, students will learn all major elements
+ of methodology and analysis currently used in classical arc
+haeology. The goal is to teach practical skills in a real re
+search environment and"
 CLASSIC 175A,1, 
 CLASSIC 175D,1, 
 CLASSIC 175F,1, 
 CLASSIC 175G,1, 
-CLASSIC C175F,1,"This course presents surviving evidence of pictorial representation in the Roman world. Including the earliest remains from the city of Rome; the suites of painted rooms in the houses of Pompeii and Herculaneum on the Bay of Naples; and Roman mosaics from Italy, North Africa, and the eastern Mediterranean."
-CLASSIC 180,1,"Study of ancient athletics and athletes including athletic training, facilities, competitions, and the role of athletics in Greek and Roman society."
-CLASSIC H195A,1,"This is a two-semester Honors course [H195A-B]. The work for the Honors course may either build on work in a previous upper division course used in fulfillment of the Classical Languages or Classical Civilizations major or may be a newly conceived project. The work will result in the writing of a thesis, to be evaluated by an Honors committee of three members. Written thesis due the Monday of the 13th week of the semester in which the course is"
-CLASSIC H195B,1,"This is a two-semester Honors course [H195A-B]. The work for the Honors course may either build on work in a previous upper division course used in fulfillment of the Classical Civilizations or Classical Languages major or may be a newly conceived project. The work will result in the writing of a thesis, to be evaluated by an Honors committee of three members. Written thesis due the Monday of the 13th week of the semester in which the course"
+CLASSIC C175F,1,"This course presents surviving evidence of pictorial represe
+ntation in the Roman world. Including the earliest remains f
+rom the city of Rome; the suites of painted rooms in the hou
+ses of Pompeii and Herculaneum on the Bay of Naples; and Rom
+an mosaics from Italy, North Africa, and the eastern Mediter
+ranean."
+CLASSIC 180,1,"Study of ancient athletics and athletes including athletic t
+raining, facilities, competitions, and the role of athletics
+ in Greek and Roman society."
+CLASSIC H195A,1,"This is a two-semester Honors course [H195A-B]. The work for
+ the Honors course may either build on work in a previous up
+per division course used in fulfillment of the Classical Lan
+guages or Classical Civilizations major or may be a newly co
+nceived project. The work will result in the writing of a th
+esis, to be evaluated by an Honors committee of three member
+s. Written thesis due the Monday of the 13th week of the sem
+ester in which the course is"
+CLASSIC H195B,1,"This is a two-semester Honors course [H195A-B]. The work for
+ the Honors course may either build on work in a previous up
+per division course used in fulfillment of the Classical Civ
+ilizations or Classical Languages major or may be a newly co
+nceived project. The work will result in the writing of a th
+esis, to be evaluated by an Honors committee of three member
+s. Written thesis due the Monday of the 13th week of the sem
+ester in which the course"
+CLASSIC 198,1, 
+CLASSIC 199,1, 
+CLASSIC 10A,1,"Study of the major developments, achievements, and contradic
+tions in Greek culture from the Bronze Age to the 4th centur
+y BCE. Key works of literature, history, and philosophy (rea
+d in English translation) will be examined in their politica
+l and social context, and in relation both to other ancient 
+Mediterranean cultures and to subsequent developments in Wes
+tern civilization."
+CLASSIC 10B,1,"Investigation of the main achievements and tensions in Roman
+ culture from Romulus to the High Empire. Key sources for li
+terature, history, and material culture are studied in order
+ to reveal Roman civilization in its political and social co
+ntext. All materials are read in English."
+CLASSIC 17A,1,"The physical remains of the Greek world from the Bronze Age 
+to 323 BCE will be studied, with emphasis on its artistic tr
+iumphs, as a means of understanding the culture of ancient G
+reece."
+CLASSIC 17B,1,"This course provides a broad-based introduction to the archa
+eology of the ancient Romans from Rome’s origins in the Iron
+ Age down to the disintegration of the Roman empire in the s
+ixth century A.D. It aims to"
+CLASSIC 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CLASSIC 28,1,"The society, culture, values and outlook on life of the anci
+ent Greeks as expressed in their mythology; their views on l
+ife, birth, marriage, death, sex and sexuality; on culture a
+nd civilization, the origin and meaning of the world. Their 
+use of myth to think about, and give order to human experien
+ce. The course includes some of the most important works of 
+Western literature in English translation (the 'Odyssey', th
+e 'Theogony', twelve plays"
+CLASSIC N28,1,"The society, culture, values and outlook on life of the anci
+ent Greeks as expressed in their mythology; their views on l
+ife, birth, marriage, death, sex and sexuality; on culture a
+nd civilization, the origin and meaning of the world. Their 
+use of myth to think about, and give order to human experien
+ce. The course includes some of the most important works of 
+Western literature"
+CLASSIC 29,1,"This course will focus on ideas about magic in the Greek and
+ Roman worlds from about 750 BCE through 400 CE. Topics will
+ include witches, holy men, love spells, necromancy, spirits
+, and mystery religions. We will examine how magic was repre
+sented in high literature (by authors like Homer, Ovid, Apul
+eius, and Lucian). as well as the more practical evidence of
+ curse tablets and the Greek Magical Papyri. Consideration w
+ill be given"
+CLASSIC 34,1,"Greek and Roman epics including the , , ."
+CLASSIC 35,1,"Greek tragedy with readings of Aeschylus, Sophocles, and Eur
+ipides."
+CLASSIC 36,1,"Introduction to the philosophies of Socrates, Plato and Aris
+totle."
+CLASSIC 39A,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. In this seminar we shall scrutinize and discuss representa
+tions of the Ptolemaic queen Cleopatra from Antiquity to the
+ present day; our sources will include monuments, literature
+, art, movies, and advertising. The only prerequisites for t
+he course are interests"
+CLASSIC 39B,1,"This seminar-style class allows lower division students to e
+xplore comic texts from the Greco-Roman world, with special 
+emphasis on the social meanings of comedy. Readings include 
+stage comedy, satire, novels, fables, and other genres, from
+ authors such as Aristophanes, Plautus, Terence, Horace, Pet
+ronius, and Apuleius. Students will be introduced to histori
+cal and theoretical contexts that will deepen their understa
+nding of the literary readings and"
+CLASSIC 39D,1,"Freshman and sophomore seminars offer lower division student
+s an opportunity to explore intellectual topics with a facul
+ty member and peers in a seminar setting. In this course we 
+will examine utopian literature from its classical beginning
+s, in Plato's Republic, and in his Timaeus and Critias (whic
+h tell the story of the lost world of Atlantis), as well as 
+in some plays of Aristophanes. We will also consider later d
+evelopments, in Thomas More's"
+CLASSIC 39K,1,"Examination of how people moved both themselves and objects 
+from one place to another in the ancient Greek and Roman wor
+lds. Drawing on archaeological, literary, and pictorial evid
+ence we consider an array of topics, including transport tec
+hnology & infrastructure, the organization & costs of travel
+ & transport, routes & travel times, banking, dining & overn
+ighting on the road, packaging, labelling, & handling of car
+goes, the roles"
+CLASSIC R44,1,"This course covers Homeric and Classical Greece, Rome in its
+ transition from republic to empire, and the world of the Ol
+d Testament. Lectures, discussions, and reading assignments 
+will involve interdisciplinary approaches with an emphasis o
+n the development of skill in writing. Satisfies either half
+ of the Reading and Composition requirement plus one of the 
+following Letters and Science breath requirements: Arts and 
+Literature, Historical Studies"
+CLASSIC 50,1,
+CLASSIC 98,1, 
+CLASSIC 99,1, 
+CLASSIC 121,1,"The ancient Mediterranean world was a world full of gods: fr
+om the poems of Homer to the small towns of the Roman empire
+, we can find people constantly interacting with and thinkin
+g about the gods. Myth, ritual, oracles, mystery cults, magi
+c, philosophy: these were all ways that Greeks and Romans en
+gaged with the divine. War, peace, health, sickness, hope, f
+ear: these were some of the reasons for these engagements. T
+his course explores the polytheism"
+CLASSIC 124,1,"Study of a selection (in English translation) of the most im
+portant works of classical antiquity that theorize about lit
+erature and of the works of some post-classical authors who 
+wrote on similar themes under the influence of their classic
+al predecessors. Authors studied may include Plato, Aristotl
+e, Horace, Longinus, Augustine, Sidney, Pope, and Lessing."
+CLASSIC 130,1,"Topic to vary from year to year. No knowledge of Greek or La
+tin required; but provision will be made for students who wi
+sh to study some of the readings in the original language. E
+nrollment limited."
+CLASSIC 130A,1,"This course presents a comparative overview of epics and sag
+as from Greco-Roman antiquity and medieval north-west Europe
+ (England, Iceland, and Ireland). No knowledge of Greek or L
+atin required."
+CLASSIC 130B,1,"This course examines the origins of Rome, the quintessential
+ city in the Western experience. It considers both the liter
+ary and archaeological evidence for the earliest periods of 
+the city’s occupation, and the challenges involved in using 
+and combining these two quite different forms of evidence. P
+articular attention will be given to recent archaeological d
+iscoveries and the ways in which these are transforming our 
+understanding of early Rome. The course also examines"
+CLASSIC 130C,1,"In this course we will investigate the political thought of 
+ancient Greece by discussing some of its most important and 
+influential texts. All texts are to be read in translation."
+CLASSIC 130D,1,"This course is designed to provide advanced undergraduates w
+ith a broad overview of the economy of the Roman Empire. It 
+is organized around a series of weekly topics that will be e
+xplored through readings selected to provide students with e
+xposure to the theory, evidence, and methods currently being
+ employed by historians and archaeologists to investigate th
+at particular aspect of the Roman economy. No knowledge of G
+reek or Latin required."
+CLASSIC 130E,1,"This course will explore the evidence for the Trojan War, on
+e of the greatest stories ever told: literary, historical, v
+isual and archaeological. The history of the search for the 
+reality behind Homer's epic and its scholarship will be exam
+ined as well as detailed analyses of the theories currently 
+in play. Through reading, visual analysis, discussion and wr
+iting - students will discover for themselves the ancient wo
+rld of the heroes and their legends. Was there"
+CLASSIC 130F,1,"In this course we will examine the history of ideas about th
+e soul’s postmortem fate in the ancient Mediterranean world.
+ We will focus on epic poets and philosophers from ancient G
+reece and Rome, but also"
+CLASSIC 130G,1,"Classical literature is full of mythological plots involving
+ gods and monsters, heroes and kings. Less prominent are the
+ kind of plots we are used to from modern literature, especi
+ally novels: plots that revolve around fictional characters 
+invented to look like people in the street. Although these l
+atter forms of literature are distanced from the prestigious
+ genres of epic and tragedy, they still constitute an import
+ant"
+CLASSIC 130H,1,"Religion and literature are two conceptual systems through w
+hich people and societies organize disparate experiences int
+o meaningful wholes. In the ancient pagan societies of Greec
+e and Rome, where a shared experience of both religion and l
+iterature was a defining element of the community, these two
+ systems were particularly interdependent. In this course we
+ will read a variety of texts (e.g. epic, philosophy, traged
+y) and examine the complex ways that literary"
+CLASSIC 130I,1,"This course aims to explore the development of classical Gre
+ek rhetoric from the fifth century through the end of the fo
+urth century BCE. In light of Plato’s and Aristotle’s analys
+es of the subject, we tend to view rhetoric as an art (techn
+ê) consisting of a set of methodically organized principles 
+or norms for the production of persuasive speech. The use of
+ rhetorical techniques, however, was widespread in the Greek
+ speaking world well before Plato and Aristotle"
+CLASSIC 130J,1,"Egypt: No other region of the Graeco-Roman world provides us
+ with as much information about the daily lives of its inhab
+itants, and no body of ancient evidence is more inclusive in
+ its coverage. In this course, we will read selections from 
+this corpus of evidence closely, focusing on documentary pap
+yri, but also looking at literature, inscriptions, and other
+ cultural objects (as well as some later comparative materia
+l). We will discuss what this material contributes"
+CLASSIC 130K,1,"In this course, we will look at ancient Greek ideas and prac
+tices concerning the nature, sources, psychological effects,
+ and social functions of music (including singing, instrumen
+tal music, and dance), during the Archaic and Classical peri
+ods (ca. 800-350 BCE). Taking an ethnomusicological approach
+, we will examine Greek musical culture as a whole, focusing
+ especially on differences of gender, ethnicity, regionalism
+, class/status (e.g., free vs. slave), and even"
+CLASSIC 130L,1,"This course will focus on ideas about magic in the Greek and
+ Roman worlds from about 750 BCE through 400 CE. Topics will
+ include witches, holy men, love spells, necromancy, spirits
+, and mystery religions.We will examine how magic was repres
+ented in high literature (by authors like Homer, Ovid, Apule
+ius and Lucian) as well as the more practical evidence of cu
+rse tablets and the Greek Magical Papyri. Consideration will
+ be given to analyzing the relationship between"
+CLASSIC 130M,1,"Slavery was one of the central institutions of life in class
+ical Greece and Rome and had a profound affect on the ways t
+hese societies represented themselves and their world. In th
+is course we will first spend some time learning about the h
+istorical condition of slavery in these two societies, then 
+read a variety of works that show some of the ways that slav
+es and slavery operated in the intellectual and imaginative 
+life of ancient authors. The three genres we will"
+CLASSIC 130N,1,"Important individuals in Greek and Roman society were commem
+orated both in honorific portraits and in biographies writte
+n to record for posterity their lives and achievements. In t
+his class we will be reading a selection of Greek and Latin 
+biographical texts (in translation) and comparing them with 
+statuary monuments that represent the same individuals. We w
+ill be seeking to elicit the points of contact between the t
+wo commemorative traditions, visual and literary"
+CLASSIC 130P,1,"What time is it? How old is the earth? Where are we located 
+in history? For us these questions may have simple answers: 
+we can look at a watch or a calendar or a timeline. But anci
+ent people thought very differently about these questions. T
+he aim of this class is to see how. We will look at a variet
+y of ancient evidence, including literature (in translation)
+ and archaeology, to discover how Greeks and Romans thought 
+about the deep past (mythic time), how they understood"
+CLASSIC 161,1,"Study of topics in gender, feminism, and sexuality in ancien
+t cultures. Topics vary from year to year."
+CLASSIC 163,1,"The course is designed to deal with a single topic or select
+ion of topics in Greek philosophy studied in translation. Po
+ssible topics are: the close study of one or more of Plato's
+ or Aristotle's texts, Hellenistic philosophy, neo-Platonism
+."
+CLASSIC 170A,1, 
+CLASSIC 170C,1, 
+CLASSIC 170D,1, 
+CLASSIC 172,1,"Introductory overview of the art and archaeology of ancient 
+civilizations of the Bronze Age (3000-1100 BCE) Aegean: Cret
+e, Cyclades, Mainland Greece, and Western Anatolia. Intended
+ to expose to the sites, monuments, art, and artifacts of th
+ese cultures and understand the way a variety of evidence is
+ used to reconstruct history. Emphasis also is placed on com
+parison of enigmatic and evocative cultures and material evi
+dence to see how each evolved and to"
+CLASSIC N172A,1,"Through this field school students will participate in archa
+eological excavation and museum study in Greece at the site 
+of Nemea and the Classical Sanctuary of Zeus. Through extens
+ive travel and hands-on work, students will learn all major 
+elements of methodology and analysis currently used in class
+ical archaeology. The goal is to teach practical skills in a
+ real research environment"
+CLASSIC N172B,1,"Through this field school students will participate in archa
+eological excavation and museum study in Greece at the Bronz
+e Age site of Mycenae (Petsas House). Through extensive trav
+el and hands-on work, students will learn all major elements
+ of methodology and analysis currently used in classical arc
+haeology. The goal is to teach practical skills in a real re
+search environment and"
+CLASSIC 175A,1, 
+CLASSIC 175D,1, 
+CLASSIC 175F,1, 
+CLASSIC 175G,1, 
+CLASSIC C175F,1,"This course presents surviving evidence of pictorial represe
+ntation in the Roman world. Including the earliest remains f
+rom the city of Rome; the suites of painted rooms in the hou
+ses of Pompeii and Herculaneum on the Bay of Naples; and Rom
+an mosaics from Italy, North Africa, and the eastern Mediter
+ranean."
+CLASSIC 180,1,"Study of ancient athletics and athletes including athletic t
+raining, facilities, competitions, and the role of athletics
+ in Greek and Roman society."
+CLASSIC H195A,1,"This is a two-semester Honors course [H195A-B]. The work for
+ the Honors course may either build on work in a previous up
+per division course used in fulfillment of the Classical Lan
+guages or Classical Civilizations major or may be a newly co
+nceived project. The work will result in the writing of a th
+esis, to be evaluated by an Honors committee of three member
+s. Written thesis due the Monday of the 13th week of the sem
+ester in which the course is"
+CLASSIC H195B,1,"This is a two-semester Honors course [H195A-B]. The work for
+ the Honors course may either build on work in a previous up
+per division course used in fulfillment of the Classical Civ
+ilizations or Classical Languages major or may be a newly co
+nceived project. The work will result in the writing of a th
+esis, to be evaluated by an Honors committee of three member
+s. Written thesis due the Monday of the 13th week of the sem
+ester in which the course"
+CLASSIC 198,1, 
+CLASSIC 199,1, 
+CLASSIC 10A,1,"Study of the major developments, achievements, and contradic
+tions in Greek culture from the Bronze Age to the 4th centur
+y BCE. Key works of literature, history, and philosophy (rea
+d in English translation) will be examined in their politica
+l and social context, and in relation both to other ancient 
+Mediterranean cultures and to subsequent developments in Wes
+tern civilization."
+CLASSIC 10B,1,"Investigation of the main achievements and tensions in Roman
+ culture from Romulus to the High Empire. Key sources for li
+terature, history, and material culture are studied in order
+ to reveal Roman civilization in its political and social co
+ntext. All materials are read in English."
+CLASSIC 17A,1,"The physical remains of the Greek world from the Bronze Age 
+to 323 BCE will be studied, with emphasis on its artistic tr
+iumphs, as a means of understanding the culture of ancient G
+reece."
+CLASSIC 17B,1,"This course provides a broad-based introduction to the archa
+eology of the ancient Romans from Rome’s origins in the Iron
+ Age down to the disintegration of the Roman empire in the s
+ixth century A.D. It aims to"
+CLASSIC 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CLASSIC 28,1,"The society, culture, values and outlook on life of the anci
+ent Greeks as expressed in their mythology; their views on l
+ife, birth, marriage, death, sex and sexuality; on culture a
+nd civilization, the origin and meaning of the world. Their 
+use of myth to think about, and give order to human experien
+ce. The course includes some of the most important works of 
+Western literature in English translation (the 'Odyssey', th
+e 'Theogony', twelve plays"
+CLASSIC N28,1,"The society, culture, values and outlook on life of the anci
+ent Greeks as expressed in their mythology; their views on l
+ife, birth, marriage, death, sex and sexuality; on culture a
+nd civilization, the origin and meaning of the world. Their 
+use of myth to think about, and give order to human experien
+ce. The course includes some of the most important works of 
+Western literature"
+CLASSIC 29,1,"This course will focus on ideas about magic in the Greek and
+ Roman worlds from about 750 BCE through 400 CE. Topics will
+ include witches, holy men, love spells, necromancy, spirits
+, and mystery religions. We will examine how magic was repre
+sented in high literature (by authors like Homer, Ovid, Apul
+eius, and Lucian). as well as the more practical evidence of
+ curse tablets and the Greek Magical Papyri. Consideration w
+ill be given"
+CLASSIC 34,1,"Greek and Roman epics including the , , ."
+CLASSIC 35,1,"Greek tragedy with readings of Aeschylus, Sophocles, and Eur
+ipides."
+CLASSIC 36,1,"Introduction to the philosophies of Socrates, Plato and Aris
+totle."
+CLASSIC 39A,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. In this seminar we shall scrutinize and discuss representa
+tions of the Ptolemaic queen Cleopatra from Antiquity to the
+ present day; our sources will include monuments, literature
+, art, movies, and advertising. The only prerequisites for t
+he course are interests"
+CLASSIC 39B,1,"This seminar-style class allows lower division students to e
+xplore comic texts from the Greco-Roman world, with special 
+emphasis on the social meanings of comedy. Readings include 
+stage comedy, satire, novels, fables, and other genres, from
+ authors such as Aristophanes, Plautus, Terence, Horace, Pet
+ronius, and Apuleius. Students will be introduced to histori
+cal and theoretical contexts that will deepen their understa
+nding of the literary readings and"
+CLASSIC 39D,1,"Freshman and sophomore seminars offer lower division student
+s an opportunity to explore intellectual topics with a facul
+ty member and peers in a seminar setting. In this course we 
+will examine utopian literature from its classical beginning
+s, in Plato's Republic, and in his Timaeus and Critias (whic
+h tell the story of the lost world of Atlantis), as well as 
+in some plays of Aristophanes. We will also consider later d
+evelopments, in Thomas More's"
+CLASSIC 39K,1,"Examination of how people moved both themselves and objects 
+from one place to another in the ancient Greek and Roman wor
+lds. Drawing on archaeological, literary, and pictorial evid
+ence we consider an array of topics, including transport tec
+hnology & infrastructure, the organization & costs of travel
+ & transport, routes & travel times, banking, dining & overn
+ighting on the road, packaging, labelling, & handling of car
+goes, the roles"
+CLASSIC R44,1,"This course covers Homeric and Classical Greece, Rome in its
+ transition from republic to empire, and the world of the Ol
+d Testament. Lectures, discussions, and reading assignments 
+will involve interdisciplinary approaches with an emphasis o
+n the development of skill in writing. Satisfies either half
+ of the Reading and Composition requirement plus one of the 
+following Letters and Science breath requirements: Arts and 
+Literature, Historical Studies"
+CLASSIC 50,1,
+CLASSIC 98,1, 
+CLASSIC 99,1, 
+CLASSIC 121,1,"The ancient Mediterranean world was a world full of gods: fr
+om the poems of Homer to the small towns of the Roman empire
+, we can find people constantly interacting with and thinkin
+g about the gods. Myth, ritual, oracles, mystery cults, magi
+c, philosophy: these were all ways that Greeks and Romans en
+gaged with the divine. War, peace, health, sickness, hope, f
+ear: these were some of the reasons for these engagements. T
+his course explores the polytheism"
+CLASSIC 124,1,"Study of a selection (in English translation) of the most im
+portant works of classical antiquity that theorize about lit
+erature and of the works of some post-classical authors who 
+wrote on similar themes under the influence of their classic
+al predecessors. Authors studied may include Plato, Aristotl
+e, Horace, Longinus, Augustine, Sidney, Pope, and Lessing."
+CLASSIC 130,1,"Topic to vary from year to year. No knowledge of Greek or La
+tin required; but provision will be made for students who wi
+sh to study some of the readings in the original language. E
+nrollment limited."
+CLASSIC 130A,1,"This course presents a comparative overview of epics and sag
+as from Greco-Roman antiquity and medieval north-west Europe
+ (England, Iceland, and Ireland). No knowledge of Greek or L
+atin required."
+CLASSIC 130B,1,"This course examines the origins of Rome, the quintessential
+ city in the Western experience. It considers both the liter
+ary and archaeological evidence for the earliest periods of 
+the city’s occupation, and the challenges involved in using 
+and combining these two quite different forms of evidence. P
+articular attention will be given to recent archaeological d
+iscoveries and the ways in which these are transforming our 
+understanding of early Rome. The course also examines"
+CLASSIC 130C,1,"In this course we will investigate the political thought of 
+ancient Greece by discussing some of its most important and 
+influential texts. All texts are to be read in translation."
+CLASSIC 130D,1,"This course is designed to provide advanced undergraduates w
+ith a broad overview of the economy of the Roman Empire. It 
+is organized around a series of weekly topics that will be e
+xplored through readings selected to provide students with e
+xposure to the theory, evidence, and methods currently being
+ employed by historians and archaeologists to investigate th
+at particular aspect of the Roman economy. No knowledge of G
+reek or Latin required."
+CLASSIC 130E,1,"This course will explore the evidence for the Trojan War, on
+e of the greatest stories ever told: literary, historical, v
+isual and archaeological. The history of the search for the 
+reality behind Homer's epic and its scholarship will be exam
+ined as well as detailed analyses of the theories currently 
+in play. Through reading, visual analysis, discussion and wr
+iting - students will discover for themselves the ancient wo
+rld of the heroes and their legends. Was there"
+CLASSIC 130F,1,"In this course we will examine the history of ideas about th
+e soul’s postmortem fate in the ancient Mediterranean world.
+ We will focus on epic poets and philosophers from ancient G
+reece and Rome, but also"
+CLASSIC 130G,1,"Classical literature is full of mythological plots involving
+ gods and monsters, heroes and kings. Less prominent are the
+ kind of plots we are used to from modern literature, especi
+ally novels: plots that revolve around fictional characters 
+invented to look like people in the street. Although these l
+atter forms of literature are distanced from the prestigious
+ genres of epic and tragedy, they still constitute an import
+ant"
+CLASSIC 130H,1,"Religion and literature are two conceptual systems through w
+hich people and societies organize disparate experiences int
+o meaningful wholes. In the ancient pagan societies of Greec
+e and Rome, where a shared experience of both religion and l
+iterature was a defining element of the community, these two
+ systems were particularly interdependent. In this course we
+ will read a variety of texts (e.g. epic, philosophy, traged
+y) and examine the complex ways that literary"
+CLASSIC 130I,1,"This course aims to explore the development of classical Gre
+ek rhetoric from the fifth century through the end of the fo
+urth century BCE. In light of Plato’s and Aristotle’s analys
+es of the subject, we tend to view rhetoric as an art (techn
+ê) consisting of a set of methodically organized principles 
+or norms for the production of persuasive speech. The use of
+ rhetorical techniques, however, was widespread in the Greek
+ speaking world well before Plato and Aristotle"
+CLASSIC 130J,1,"Egypt: No other region of the Graeco-Roman world provides us
+ with as much information about the daily lives of its inhab
+itants, and no body of ancient evidence is more inclusive in
+ its coverage. In this course, we will read selections from 
+this corpus of evidence closely, focusing on documentary pap
+yri, but also looking at literature, inscriptions, and other
+ cultural objects (as well as some later comparative materia
+l). We will discuss what this material contributes"
+CLASSIC 130K,1,"In this course, we will look at ancient Greek ideas and prac
+tices concerning the nature, sources, psychological effects,
+ and social functions of music (including singing, instrumen
+tal music, and dance), during the Archaic and Classical peri
+ods (ca. 800-350 BCE). Taking an ethnomusicological approach
+, we will examine Greek musical culture as a whole, focusing
+ especially on differences of gender, ethnicity, regionalism
+, class/status (e.g., free vs. slave), and even"
+CLASSIC 130L,1,"This course will focus on ideas about magic in the Greek and
+ Roman worlds from about 750 BCE through 400 CE. Topics will
+ include witches, holy men, love spells, necromancy, spirits
+, and mystery religions.We will examine how magic was repres
+ented in high literature (by authors like Homer, Ovid, Apule
+ius and Lucian) as well as the more practical evidence of cu
+rse tablets and the Greek Magical Papyri. Consideration will
+ be given to analyzing the relationship between"
+CLASSIC 130M,1,"Slavery was one of the central institutions of life in class
+ical Greece and Rome and had a profound affect on the ways t
+hese societies represented themselves and their world. In th
+is course we will first spend some time learning about the h
+istorical condition of slavery in these two societies, then 
+read a variety of works that show some of the ways that slav
+es and slavery operated in the intellectual and imaginative 
+life of ancient authors. The three genres we will"
+CLASSIC 130N,1,"Important individuals in Greek and Roman society were commem
+orated both in honorific portraits and in biographies writte
+n to record for posterity their lives and achievements. In t
+his class we will be reading a selection of Greek and Latin 
+biographical texts (in translation) and comparing them with 
+statuary monuments that represent the same individuals. We w
+ill be seeking to elicit the points of contact between the t
+wo commemorative traditions, visual and literary"
+CLASSIC 130P,1,"What time is it? How old is the earth? Where are we located 
+in history? For us these questions may have simple answers: 
+we can look at a watch or a calendar or a timeline. But anci
+ent people thought very differently about these questions. T
+he aim of this class is to see how. We will look at a variet
+y of ancient evidence, including literature (in translation)
+ and archaeology, to discover how Greeks and Romans thought 
+about the deep past (mythic time), how they understood"
+CLASSIC 161,1,"Study of topics in gender, feminism, and sexuality in ancien
+t cultures. Topics vary from year to year."
+CLASSIC 163,1,"The course is designed to deal with a single topic or select
+ion of topics in Greek philosophy studied in translation. Po
+ssible topics are: the close study of one or more of Plato's
+ or Aristotle's texts, Hellenistic philosophy, neo-Platonism
+."
+CLASSIC 170A,1, 
+CLASSIC 170C,1, 
+CLASSIC 170D,1, 
+CLASSIC 172,1,"Introductory overview of the art and archaeology of ancient 
+civilizations of the Bronze Age (3000-1100 BCE) Aegean: Cret
+e, Cyclades, Mainland Greece, and Western Anatolia. Intended
+ to expose to the sites, monuments, art, and artifacts of th
+ese cultures and understand the way a variety of evidence is
+ used to reconstruct history. Emphasis also is placed on com
+parison of enigmatic and evocative cultures and material evi
+dence to see how each evolved and to"
+CLASSIC N172A,1,"Through this field school students will participate in archa
+eological excavation and museum study in Greece at the site 
+of Nemea and the Classical Sanctuary of Zeus. Through extens
+ive travel and hands-on work, students will learn all major 
+elements of methodology and analysis currently used in class
+ical archaeology. The goal is to teach practical skills in a
+ real research environment"
+CLASSIC N172B,1,"Through this field school students will participate in archa
+eological excavation and museum study in Greece at the Bronz
+e Age site of Mycenae (Petsas House). Through extensive trav
+el and hands-on work, students will learn all major elements
+ of methodology and analysis currently used in classical arc
+haeology. The goal is to teach practical skills in a real re
+search environment and"
+CLASSIC 175A,1, 
+CLASSIC 175D,1, 
+CLASSIC 175F,1, 
+CLASSIC 175G,1, 
+CLASSIC C175F,1,"This course presents surviving evidence of pictorial represe
+ntation in the Roman world. Including the earliest remains f
+rom the city of Rome; the suites of painted rooms in the hou
+ses of Pompeii and Herculaneum on the Bay of Naples; and Rom
+an mosaics from Italy, North Africa, and the eastern Mediter
+ranean."
+CLASSIC 180,1,"Study of ancient athletics and athletes including athletic t
+raining, facilities, competitions, and the role of athletics
+ in Greek and Roman society."
+CLASSIC H195A,1,"This is a two-semester Honors course [H195A-B]. The work for
+ the Honors course may either build on work in a previous up
+per division course used in fulfillment of the Classical Lan
+guages or Classical Civilizations major or may be a newly co
+nceived project. The work will result in the writing of a th
+esis, to be evaluated by an Honors committee of three member
+s. Written thesis due the Monday of the 13th week of the sem
+ester in which the course is"
+CLASSIC H195B,1,"This is a two-semester Honors course [H195A-B]. The work for
+ the Honors course may either build on work in a previous up
+per division course used in fulfillment of the Classical Civ
+ilizations or Classical Languages major or may be a newly co
+nceived project. The work will result in the writing of a th
+esis, to be evaluated by an Honors committee of three member
+s. Written thesis due the Monday of the 13th week of the sem
+ester in which the course"
+CLASSIC 198,1, 
+CLASSIC 199,1, 
+CLASSIC 10A,1,"Study of the major developments, achievements, and contradic
+tions in Greek culture from the Bronze Age to the 4th centur
+y BCE. Key works of literature, history, and philosophy (rea
+d in English translation) will be examined in their politica
+l and social context, and in relation both to other ancient 
+Mediterranean cultures and to subsequent developments in Wes
+tern civilization."
+CLASSIC 10B,1,"Investigation of the main achievements and tensions in Roman
+ culture from Romulus to the High Empire. Key sources for li
+terature, history, and material culture are studied in order
+ to reveal Roman civilization in its political and social co
+ntext. All materials are read in English."
+CLASSIC 17A,1,"The physical remains of the Greek world from the Bronze Age 
+to 323 BCE will be studied, with emphasis on its artistic tr
+iumphs, as a means of understanding the culture of ancient G
+reece."
+CLASSIC 17B,1,"This course provides a broad-based introduction to the archa
+eology of the ancient Romans from Rome’s origins in the Iron
+ Age down to the disintegration of the Roman empire in the s
+ixth century A.D. It aims to"
+CLASSIC 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CLASSIC 28,1,"The society, culture, values and outlook on life of the anci
+ent Greeks as expressed in their mythology; their views on l
+ife, birth, marriage, death, sex and sexuality; on culture a
+nd civilization, the origin and meaning of the world. Their 
+use of myth to think about, and give order to human experien
+ce. The course includes some of the most important works of 
+Western literature in English translation (the 'Odyssey', th
+e 'Theogony', twelve plays"
+CLASSIC N28,1,"The society, culture, values and outlook on life of the anci
+ent Greeks as expressed in their mythology; their views on l
+ife, birth, marriage, death, sex and sexuality; on culture a
+nd civilization, the origin and meaning of the world. Their 
+use of myth to think about, and give order to human experien
+ce. The course includes some of the most important works of 
+Western literature"
+CLASSIC 29,1,"This course will focus on ideas about magic in the Greek and
+ Roman worlds from about 750 BCE through 400 CE. Topics will
+ include witches, holy men, love spells, necromancy, spirits
+, and mystery religions. We will examine how magic was repre
+sented in high literature (by authors like Homer, Ovid, Apul
+eius, and Lucian). as well as the more practical evidence of
+ curse tablets and the Greek Magical Papyri. Consideration w
+ill be given"
+CLASSIC 34,1,"Greek and Roman epics including the , , ."
+CLASSIC 35,1,"Greek tragedy with readings of Aeschylus, Sophocles, and Eur
+ipides."
+CLASSIC 36,1,"Introduction to the philosophies of Socrates, Plato and Aris
+totle."
+CLASSIC 39A,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. In this seminar we shall scrutinize and discuss representa
+tions of the Ptolemaic queen Cleopatra from Antiquity to the
+ present day; our sources will include monuments, literature
+, art, movies, and advertising. The only prerequisites for t
+he course are interests"
+CLASSIC 39B,1,"This seminar-style class allows lower division students to e
+xplore comic texts from the Greco-Roman world, with special 
+emphasis on the social meanings of comedy. Readings include 
+stage comedy, satire, novels, fables, and other genres, from
+ authors such as Aristophanes, Plautus, Terence, Horace, Pet
+ronius, and Apuleius. Students will be introduced to histori
+cal and theoretical contexts that will deepen their understa
+nding of the literary readings and"
+CLASSIC 39D,1,"Freshman and sophomore seminars offer lower division student
+s an opportunity to explore intellectual topics with a facul
+ty member and peers in a seminar setting. In this course we 
+will examine utopian literature from its classical beginning
+s, in Plato's Republic, and in his Timaeus and Critias (whic
+h tell the story of the lost world of Atlantis), as well as 
+in some plays of Aristophanes. We will also consider later d
+evelopments, in Thomas More's"
+CLASSIC 39K,1,"Examination of how people moved both themselves and objects 
+from one place to another in the ancient Greek and Roman wor
+lds. Drawing on archaeological, literary, and pictorial evid
+ence we consider an array of topics, including transport tec
+hnology & infrastructure, the organization & costs of travel
+ & transport, routes & travel times, banking, dining & overn
+ighting on the road, packaging, labelling, & handling of car
+goes, the roles"
+CLASSIC R44,1,"This course covers Homeric and Classical Greece, Rome in its
+ transition from republic to empire, and the world of the Ol
+d Testament. Lectures, discussions, and reading assignments 
+will involve interdisciplinary approaches with an emphasis o
+n the development of skill in writing. Satisfies either half
+ of the Reading and Composition requirement plus one of the 
+following Letters and Science breath requirements: Arts and 
+Literature, Historical Studies"
+CLASSIC 50,1,
+CLASSIC 98,1, 
+CLASSIC 99,1, 
+CLASSIC 121,1,"The ancient Mediterranean world was a world full of gods: fr
+om the poems of Homer to the small towns of the Roman empire
+, we can find people constantly interacting with and thinkin
+g about the gods. Myth, ritual, oracles, mystery cults, magi
+c, philosophy: these were all ways that Greeks and Romans en
+gaged with the divine. War, peace, health, sickness, hope, f
+ear: these were some of the reasons for these engagements. T
+his course explores the polytheism"
+CLASSIC 124,1,"Study of a selection (in English translation) of the most im
+portant works of classical antiquity that theorize about lit
+erature and of the works of some post-classical authors who 
+wrote on similar themes under the influence of their classic
+al predecessors. Authors studied may include Plato, Aristotl
+e, Horace, Longinus, Augustine, Sidney, Pope, and Lessing."
+CLASSIC 130,1,"Topic to vary from year to year. No knowledge of Greek or La
+tin required; but provision will be made for students who wi
+sh to study some of the readings in the original language. E
+nrollment limited."
+CLASSIC 130A,1,"This course presents a comparative overview of epics and sag
+as from Greco-Roman antiquity and medieval north-west Europe
+ (England, Iceland, and Ireland). No knowledge of Greek or L
+atin required."
+CLASSIC 130B,1,"This course examines the origins of Rome, the quintessential
+ city in the Western experience. It considers both the liter
+ary and archaeological evidence for the earliest periods of 
+the city’s occupation, and the challenges involved in using 
+and combining these two quite different forms of evidence. P
+articular attention will be given to recent archaeological d
+iscoveries and the ways in which these are transforming our 
+understanding of early Rome. The course also examines"
+CLASSIC 130C,1,"In this course we will investigate the political thought of 
+ancient Greece by discussing some of its most important and 
+influential texts. All texts are to be read in translation."
+CLASSIC 130D,1,"This course is designed to provide advanced undergraduates w
+ith a broad overview of the economy of the Roman Empire. It 
+is organized around a series of weekly topics that will be e
+xplored through readings selected to provide students with e
+xposure to the theory, evidence, and methods currently being
+ employed by historians and archaeologists to investigate th
+at particular aspect of the Roman economy. No knowledge of G
+reek or Latin required."
+CLASSIC 130E,1,"This course will explore the evidence for the Trojan War, on
+e of the greatest stories ever told: literary, historical, v
+isual and archaeological. The history of the search for the 
+reality behind Homer's epic and its scholarship will be exam
+ined as well as detailed analyses of the theories currently 
+in play. Through reading, visual analysis, discussion and wr
+iting - students will discover for themselves the ancient wo
+rld of the heroes and their legends. Was there"
+CLASSIC 130F,1,"In this course we will examine the history of ideas about th
+e soul’s postmortem fate in the ancient Mediterranean world.
+ We will focus on epic poets and philosophers from ancient G
+reece and Rome, but also"
+CLASSIC 130G,1,"Classical literature is full of mythological plots involving
+ gods and monsters, heroes and kings. Less prominent are the
+ kind of plots we are used to from modern literature, especi
+ally novels: plots that revolve around fictional characters 
+invented to look like people in the street. Although these l
+atter forms of literature are distanced from the prestigious
+ genres of epic and tragedy, they still constitute an import
+ant"
+CLASSIC 130H,1,"Religion and literature are two conceptual systems through w
+hich people and societies organize disparate experiences int
+o meaningful wholes. In the ancient pagan societies of Greec
+e and Rome, where a shared experience of both religion and l
+iterature was a defining element of the community, these two
+ systems were particularly interdependent. In this course we
+ will read a variety of texts (e.g. epic, philosophy, traged
+y) and examine the complex ways that literary"
+CLASSIC 130I,1,"This course aims to explore the development of classical Gre
+ek rhetoric from the fifth century through the end of the fo
+urth century BCE. In light of Plato’s and Aristotle’s analys
+es of the subject, we tend to view rhetoric as an art (techn
+ê) consisting of a set of methodically organized principles 
+or norms for the production of persuasive speech. The use of
+ rhetorical techniques, however, was widespread in the Greek
+ speaking world well before Plato and Aristotle"
+CLASSIC 130J,1,"Egypt: No other region of the Graeco-Roman world provides us
+ with as much information about the daily lives of its inhab
+itants, and no body of ancient evidence is more inclusive in
+ its coverage. In this course, we will read selections from 
+this corpus of evidence closely, focusing on documentary pap
+yri, but also looking at literature, inscriptions, and other
+ cultural objects (as well as some later comparative materia
+l). We will discuss what this material contributes"
+CLASSIC 130K,1,"In this course, we will look at ancient Greek ideas and prac
+tices concerning the nature, sources, psychological effects,
+ and social functions of music (including singing, instrumen
+tal music, and dance), during the Archaic and Classical peri
+ods (ca. 800-350 BCE). Taking an ethnomusicological approach
+, we will examine Greek musical culture as a whole, focusing
+ especially on differences of gender, ethnicity, regionalism
+, class/status (e.g., free vs. slave), and even"
+CLASSIC 130L,1,"This course will focus on ideas about magic in the Greek and
+ Roman worlds from about 750 BCE through 400 CE. Topics will
+ include witches, holy men, love spells, necromancy, spirits
+, and mystery religions.We will examine how magic was repres
+ented in high literature (by authors like Homer, Ovid, Apule
+ius and Lucian) as well as the more practical evidence of cu
+rse tablets and the Greek Magical Papyri. Consideration will
+ be given to analyzing the relationship between"
+CLASSIC 130M,1,"Slavery was one of the central institutions of life in class
+ical Greece and Rome and had a profound affect on the ways t
+hese societies represented themselves and their world. In th
+is course we will first spend some time learning about the h
+istorical condition of slavery in these two societies, then 
+read a variety of works that show some of the ways that slav
+es and slavery operated in the intellectual and imaginative 
+life of ancient authors. The three genres we will"
+CLASSIC 130N,1,"Important individuals in Greek and Roman society were commem
+orated both in honorific portraits and in biographies writte
+n to record for posterity their lives and achievements. In t
+his class we will be reading a selection of Greek and Latin 
+biographical texts (in translation) and comparing them with 
+statuary monuments that represent the same individuals. We w
+ill be seeking to elicit the points of contact between the t
+wo commemorative traditions, visual and literary"
+CLASSIC 130P,1,"What time is it? How old is the earth? Where are we located 
+in history? For us these questions may have simple answers: 
+we can look at a watch or a calendar or a timeline. But anci
+ent people thought very differently about these questions. T
+he aim of this class is to see how. We will look at a variet
+y of ancient evidence, including literature (in translation)
+ and archaeology, to discover how Greeks and Romans thought 
+about the deep past (mythic time), how they understood"
+CLASSIC 161,1,"Study of topics in gender, feminism, and sexuality in ancien
+t cultures. Topics vary from year to year."
+CLASSIC 163,1,"The course is designed to deal with a single topic or select
+ion of topics in Greek philosophy studied in translation. Po
+ssible topics are: the close study of one or more of Plato's
+ or Aristotle's texts, Hellenistic philosophy, neo-Platonism
+."
+CLASSIC 170A,1, 
+CLASSIC 170C,1, 
+CLASSIC 170D,1, 
+CLASSIC 172,1,"Introductory overview of the art and archaeology of ancient 
+civilizations of the Bronze Age (3000-1100 BCE) Aegean: Cret
+e, Cyclades, Mainland Greece, and Western Anatolia. Intended
+ to expose to the sites, monuments, art, and artifacts of th
+ese cultures and understand the way a variety of evidence is
+ used to reconstruct history. Emphasis also is placed on com
+parison of enigmatic and evocative cultures and material evi
+dence to see how each evolved and to"
+CLASSIC N172A,1,"Through this field school students will participate in archa
+eological excavation and museum study in Greece at the site 
+of Nemea and the Classical Sanctuary of Zeus. Through extens
+ive travel and hands-on work, students will learn all major 
+elements of methodology and analysis currently used in class
+ical archaeology. The goal is to teach practical skills in a
+ real research environment"
+CLASSIC N172B,1,"Through this field school students will participate in archa
+eological excavation and museum study in Greece at the Bronz
+e Age site of Mycenae (Petsas House). Through extensive trav
+el and hands-on work, students will learn all major elements
+ of methodology and analysis currently used in classical arc
+haeology. The goal is to teach practical skills in a real re
+search environment and"
+CLASSIC 175A,1, 
+CLASSIC 175D,1, 
+CLASSIC 175F,1, 
+CLASSIC 175G,1, 
+CLASSIC C175F,1,"This course presents surviving evidence of pictorial represe
+ntation in the Roman world. Including the earliest remains f
+rom the city of Rome; the suites of painted rooms in the hou
+ses of Pompeii and Herculaneum on the Bay of Naples; and Rom
+an mosaics from Italy, North Africa, and the eastern Mediter
+ranean."
+CLASSIC 180,1,"Study of ancient athletics and athletes including athletic t
+raining, facilities, competitions, and the role of athletics
+ in Greek and Roman society."
+CLASSIC H195A,1,"This is a two-semester Honors course [H195A-B]. The work for
+ the Honors course may either build on work in a previous up
+per division course used in fulfillment of the Classical Lan
+guages or Classical Civilizations major or may be a newly co
+nceived project. The work will result in the writing of a th
+esis, to be evaluated by an Honors committee of three member
+s. Written thesis due the Monday of the 13th week of the sem
+ester in which the course is"
+CLASSIC H195B,1,"This is a two-semester Honors course [H195A-B]. The work for
+ the Honors course may either build on work in a previous up
+per division course used in fulfillment of the Classical Civ
+ilizations or Classical Languages major or may be a newly co
+nceived project. The work will result in the writing of a th
+esis, to be evaluated by an Honors committee of three member
+s. Written thesis due the Monday of the 13th week of the sem
+ester in which the course"
+CLASSIC 198,1, 
+CLASSIC 199,1, 
+CLASSIC 10A,1,"Study of the major developments, achievements, and contradic
+tions in Greek culture from the Bronze Age to the 4th centur
+y BCE. Key works of literature, history, and philosophy (rea
+d in English translation) will be examined in their politica
+l and social context, and in relation both to other ancient 
+Mediterranean cultures and to subsequent developments in Wes
+tern civilization."
+CLASSIC 10B,1,"Investigation of the main achievements and tensions in Roman
+ culture from Romulus to the High Empire. Key sources for li
+terature, history, and material culture are studied in order
+ to reveal Roman civilization in its political and social co
+ntext. All materials are read in English."
+CLASSIC 17A,1,"The physical remains of the Greek world from the Bronze Age 
+to 323 BCE will be studied, with emphasis on its artistic tr
+iumphs, as a means of understanding the culture of ancient G
+reece."
+CLASSIC 17B,1,"This course provides a broad-based introduction to the archa
+eology of the ancient Romans from Rome’s origins in the Iron
+ Age down to the disintegration of the Roman empire in the s
+ixth century A.D. It aims to"
+CLASSIC 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CLASSIC 28,1,"The society, culture, values and outlook on life of the anci
+ent Greeks as expressed in their mythology; their views on l
+ife, birth, marriage, death, sex and sexuality; on culture a
+nd civilization, the origin and meaning of the world. Their 
+use of myth to think about, and give order to human experien
+ce. The course includes some of the most important works of 
+Western literature in English translation (the 'Odyssey', th
+e 'Theogony', twelve plays"
+CLASSIC N28,1,"The society, culture, values and outlook on life of the anci
+ent Greeks as expressed in their mythology; their views on l
+ife, birth, marriage, death, sex and sexuality; on culture a
+nd civilization, the origin and meaning of the world. Their 
+use of myth to think about, and give order to human experien
+ce. The course includes some of the most important works of 
+Western literature"
+CLASSIC 29,1,"This course will focus on ideas about magic in the Greek and
+ Roman worlds from about 750 BCE through 400 CE. Topics will
+ include witches, holy men, love spells, necromancy, spirits
+, and mystery religions. We will examine how magic was repre
+sented in high literature (by authors like Homer, Ovid, Apul
+eius, and Lucian). as well as the more practical evidence of
+ curse tablets and the Greek Magical Papyri. Consideration w
+ill be given"
+CLASSIC 34,1,"Greek and Roman epics including the , , ."
+CLASSIC 35,1,"Greek tragedy with readings of Aeschylus, Sophocles, and Eur
+ipides."
+CLASSIC 36,1,"Introduction to the philosophies of Socrates, Plato and Aris
+totle."
+CLASSIC 39A,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. In this seminar we shall scrutinize and discuss representa
+tions of the Ptolemaic queen Cleopatra from Antiquity to the
+ present day; our sources will include monuments, literature
+, art, movies, and advertising. The only prerequisites for t
+he course are interests"
+CLASSIC 39B,1,"This seminar-style class allows lower division students to e
+xplore comic texts from the Greco-Roman world, with special 
+emphasis on the social meanings of comedy. Readings include 
+stage comedy, satire, novels, fables, and other genres, from
+ authors such as Aristophanes, Plautus, Terence, Horace, Pet
+ronius, and Apuleius. Students will be introduced to histori
+cal and theoretical contexts that will deepen their understa
+nding of the literary readings and"
+CLASSIC 39D,1,"Freshman and sophomore seminars offer lower division student
+s an opportunity to explore intellectual topics with a facul
+ty member and peers in a seminar setting. In this course we 
+will examine utopian literature from its classical beginning
+s, in Plato's Republic, and in his Timaeus and Critias (whic
+h tell the story of the lost world of Atlantis), as well as 
+in some plays of Aristophanes. We will also consider later d
+evelopments, in Thomas More's"
+CLASSIC 39K,1,"Examination of how people moved both themselves and objects 
+from one place to another in the ancient Greek and Roman wor
+lds. Drawing on archaeological, literary, and pictorial evid
+ence we consider an array of topics, including transport tec
+hnology & infrastructure, the organization & costs of travel
+ & transport, routes & travel times, banking, dining & overn
+ighting on the road, packaging, labelling, & handling of car
+goes, the roles"
+CLASSIC R44,1,"This course covers Homeric and Classical Greece, Rome in its
+ transition from republic to empire, and the world of the Ol
+d Testament. Lectures, discussions, and reading assignments 
+will involve interdisciplinary approaches with an emphasis o
+n the development of skill in writing. Satisfies either half
+ of the Reading and Composition requirement plus one of the 
+following Letters and Science breath requirements: Arts and 
+Literature, Historical Studies"
+CLASSIC 50,1,
+CLASSIC 98,1, 
+CLASSIC 99,1, 
+CLASSIC 121,1,"The ancient Mediterranean world was a world full of gods: fr
+om the poems of Homer to the small towns of the Roman empire
+, we can find people constantly interacting with and thinkin
+g about the gods. Myth, ritual, oracles, mystery cults, magi
+c, philosophy: these were all ways that Greeks and Romans en
+gaged with the divine. War, peace, health, sickness, hope, f
+ear: these were some of the reasons for these engagements. T
+his course explores the polytheism"
+CLASSIC 124,1,"Study of a selection (in English translation) of the most im
+portant works of classical antiquity that theorize about lit
+erature and of the works of some post-classical authors who 
+wrote on similar themes under the influence of their classic
+al predecessors. Authors studied may include Plato, Aristotl
+e, Horace, Longinus, Augustine, Sidney, Pope, and Lessing."
+CLASSIC 130,1,"Topic to vary from year to year. No knowledge of Greek or La
+tin required; but provision will be made for students who wi
+sh to study some of the readings in the original language. E
+nrollment limited."
+CLASSIC 130A,1,"This course presents a comparative overview of epics and sag
+as from Greco-Roman antiquity and medieval north-west Europe
+ (England, Iceland, and Ireland). No knowledge of Greek or L
+atin required."
+CLASSIC 130B,1,"This course examines the origins of Rome, the quintessential
+ city in the Western experience. It considers both the liter
+ary and archaeological evidence for the earliest periods of 
+the city’s occupation, and the challenges involved in using 
+and combining these two quite different forms of evidence. P
+articular attention will be given to recent archaeological d
+iscoveries and the ways in which these are transforming our 
+understanding of early Rome. The course also examines"
+CLASSIC 130C,1,"In this course we will investigate the political thought of 
+ancient Greece by discussing some of its most important and 
+influential texts. All texts are to be read in translation."
+CLASSIC 130D,1,"This course is designed to provide advanced undergraduates w
+ith a broad overview of the economy of the Roman Empire. It 
+is organized around a series of weekly topics that will be e
+xplored through readings selected to provide students with e
+xposure to the theory, evidence, and methods currently being
+ employed by historians and archaeologists to investigate th
+at particular aspect of the Roman economy. No knowledge of G
+reek or Latin required."
+CLASSIC 130E,1,"This course will explore the evidence for the Trojan War, on
+e of the greatest stories ever told: literary, historical, v
+isual and archaeological. The history of the search for the 
+reality behind Homer's epic and its scholarship will be exam
+ined as well as detailed analyses of the theories currently 
+in play. Through reading, visual analysis, discussion and wr
+iting - students will discover for themselves the ancient wo
+rld of the heroes and their legends. Was there"
+CLASSIC 130F,1,"In this course we will examine the history of ideas about th
+e soul’s postmortem fate in the ancient Mediterranean world.
+ We will focus on epic poets and philosophers from ancient G
+reece and Rome, but also"
+CLASSIC 130G,1,"Classical literature is full of mythological plots involving
+ gods and monsters, heroes and kings. Less prominent are the
+ kind of plots we are used to from modern literature, especi
+ally novels: plots that revolve around fictional characters 
+invented to look like people in the street. Although these l
+atter forms of literature are distanced from the prestigious
+ genres of epic and tragedy, they still constitute an import
+ant"
+CLASSIC 130H,1,"Religion and literature are two conceptual systems through w
+hich people and societies organize disparate experiences int
+o meaningful wholes. In the ancient pagan societies of Greec
+e and Rome, where a shared experience of both religion and l
+iterature was a defining element of the community, these two
+ systems were particularly interdependent. In this course we
+ will read a variety of texts (e.g. epic, philosophy, traged
+y) and examine the complex ways that literary"
+CLASSIC 130I,1,"This course aims to explore the development of classical Gre
+ek rhetoric from the fifth century through the end of the fo
+urth century BCE. In light of Plato’s and Aristotle’s analys
+es of the subject, we tend to view rhetoric as an art (techn
+ê) consisting of a set of methodically organized principles 
+or norms for the production of persuasive speech. The use of
+ rhetorical techniques, however, was widespread in the Greek
+ speaking world well before Plato and Aristotle"
+CLASSIC 130J,1,"Egypt: No other region of the Graeco-Roman world provides us
+ with as much information about the daily lives of its inhab
+itants, and no body of ancient evidence is more inclusive in
+ its coverage. In this course, we will read selections from 
+this corpus of evidence closely, focusing on documentary pap
+yri, but also looking at literature, inscriptions, and other
+ cultural objects (as well as some later comparative materia
+l). We will discuss what this material contributes"
+CLASSIC 130K,1,"In this course, we will look at ancient Greek ideas and prac
+tices concerning the nature, sources, psychological effects,
+ and social functions of music (including singing, instrumen
+tal music, and dance), during the Archaic and Classical peri
+ods (ca. 800-350 BCE). Taking an ethnomusicological approach
+, we will examine Greek musical culture as a whole, focusing
+ especially on differences of gender, ethnicity, regionalism
+, class/status (e.g., free vs. slave), and even"
+CLASSIC 130L,1,"This course will focus on ideas about magic in the Greek and
+ Roman worlds from about 750 BCE through 400 CE. Topics will
+ include witches, holy men, love spells, necromancy, spirits
+, and mystery religions.We will examine how magic was repres
+ented in high literature (by authors like Homer, Ovid, Apule
+ius and Lucian) as well as the more practical evidence of cu
+rse tablets and the Greek Magical Papyri. Consideration will
+ be given to analyzing the relationship between"
+CLASSIC 130M,1,"Slavery was one of the central institutions of life in class
+ical Greece and Rome and had a profound affect on the ways t
+hese societies represented themselves and their world. In th
+is course we will first spend some time learning about the h
+istorical condition of slavery in these two societies, then 
+read a variety of works that show some of the ways that slav
+es and slavery operated in the intellectual and imaginative 
+life of ancient authors. The three genres we will"
+CLASSIC 130N,1,"Important individuals in Greek and Roman society were commem
+orated both in honorific portraits and in biographies writte
+n to record for posterity their lives and achievements. In t
+his class we will be reading a selection of Greek and Latin 
+biographical texts (in translation) and comparing them with 
+statuary monuments that represent the same individuals. We w
+ill be seeking to elicit the points of contact between the t
+wo commemorative traditions, visual and literary"
+CLASSIC 130P,1,"What time is it? How old is the earth? Where are we located 
+in history? For us these questions may have simple answers: 
+we can look at a watch or a calendar or a timeline. But anci
+ent people thought very differently about these questions. T
+he aim of this class is to see how. We will look at a variet
+y of ancient evidence, including literature (in translation)
+ and archaeology, to discover how Greeks and Romans thought 
+about the deep past (mythic time), how they understood"
+CLASSIC 161,1,"Study of topics in gender, feminism, and sexuality in ancien
+t cultures. Topics vary from year to year."
+CLASSIC 163,1,"The course is designed to deal with a single topic or select
+ion of topics in Greek philosophy studied in translation. Po
+ssible topics are: the close study of one or more of Plato's
+ or Aristotle's texts, Hellenistic philosophy, neo-Platonism
+."
+CLASSIC 170A,1, 
+CLASSIC 170C,1, 
+CLASSIC 170D,1, 
+CLASSIC 172,1,"Introductory overview of the art and archaeology of ancient 
+civilizations of the Bronze Age (3000-1100 BCE) Aegean: Cret
+e, Cyclades, Mainland Greece, and Western Anatolia. Intended
+ to expose to the sites, monuments, art, and artifacts of th
+ese cultures and understand the way a variety of evidence is
+ used to reconstruct history. Emphasis also is placed on com
+parison of enigmatic and evocative cultures and material evi
+dence to see how each evolved and to"
+CLASSIC N172A,1,"Through this field school students will participate in archa
+eological excavation and museum study in Greece at the site 
+of Nemea and the Classical Sanctuary of Zeus. Through extens
+ive travel and hands-on work, students will learn all major 
+elements of methodology and analysis currently used in class
+ical archaeology. The goal is to teach practical skills in a
+ real research environment"
+CLASSIC N172B,1,"Through this field school students will participate in archa
+eological excavation and museum study in Greece at the Bronz
+e Age site of Mycenae (Petsas House). Through extensive trav
+el and hands-on work, students will learn all major elements
+ of methodology and analysis currently used in classical arc
+haeology. The goal is to teach practical skills in a real re
+search environment and"
+CLASSIC 175A,1, 
+CLASSIC 175D,1, 
+CLASSIC 175F,1, 
+CLASSIC 175G,1, 
+CLASSIC C175F,1,"This course presents surviving evidence of pictorial represe
+ntation in the Roman world. Including the earliest remains f
+rom the city of Rome; the suites of painted rooms in the hou
+ses of Pompeii and Herculaneum on the Bay of Naples; and Rom
+an mosaics from Italy, North Africa, and the eastern Mediter
+ranean."
+CLASSIC 180,1,"Study of ancient athletics and athletes including athletic t
+raining, facilities, competitions, and the role of athletics
+ in Greek and Roman society."
+CLASSIC H195A,1,"This is a two-semester Honors course [H195A-B]. The work for
+ the Honors course may either build on work in a previous up
+per division course used in fulfillment of the Classical Lan
+guages or Classical Civilizations major or may be a newly co
+nceived project. The work will result in the writing of a th
+esis, to be evaluated by an Honors committee of three member
+s. Written thesis due the Monday of the 13th week of the sem
+ester in which the course is"
+CLASSIC H195B,1,"This is a two-semester Honors course [H195A-B]. The work for
+ the Honors course may either build on work in a previous up
+per division course used in fulfillment of the Classical Civ
+ilizations or Classical Languages major or may be a newly co
+nceived project. The work will result in the writing of a th
+esis, to be evaluated by an Honors committee of three member
+s. Written thesis due the Monday of the 13th week of the sem
+ester in which the course"
 CLASSIC 198,1, 
 CLASSIC 199,1, 

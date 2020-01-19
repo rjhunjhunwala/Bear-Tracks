@@ -1,3 +1,11 @@
 source,target,type,weight
 PACS 10,PACS 100,directed,3
 PACS 150,PACS 154,directed,3
+PACS 10,PACS 100,directed,3
+PACS 150,PACS 154,directed,3
+PACS 10,PACS 100,directed,3
+PACS 150,PACS 154,directed,3
+PACS 10,PACS 100,directed,3
+PACS 150,PACS 154,directed,3
+PACS 10,PACS 100,directed,3
+PACS 150,PACS 154,directed,3

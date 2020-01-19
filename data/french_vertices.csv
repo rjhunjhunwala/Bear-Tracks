@@ -1,85 +1,1391 @@
 name,size,about
-FRENCH 1,1,"Introduction to speaking, listening, reading, and writing in French."
-FRENCH R1A,1,"This course is designed to fulfill the first half of the Reading and Composition requirement. The primary goal of this course is to develop students' reading and writing skills through a series of assignments that will provide them with the opportunity to formulate observations made in class discussions into coherent argumentative essays. Emphasis will be placed on the refinement of effective sentence, paragraph, and thesis formation, keeping"
-FRENCH R1B,1,"This course is designed to fulfill the second half of the Reading and Composition requirement. The primary goal of this course is to develop students' reading and writing skills through a series of assignments that will provide them with the opportunity to formulate observations made in class discussions into coherent argumentative essays. Emphasis will be placed on the refinement of effective sentence, paragraph, and"
-FRENCH 2,1,"Introduction to speaking, listening, reading, and writing in French. Continuation of French 1."
-FRENCH 3,1,"Building on foundation established in first year, trains students in listening, reading, writing, and speaking French. Review and refinement of grammar."
-FRENCH 4,1,"Advanced training in listening, reading, writing, and speaking French. Review and refinement of grammar."
-FRENCH 13,1,Intermediate French conversation. May not be repeated for credit.
+FRENCH 1,1,"Introduction to speaking, listening, reading, and writing in
+ French."
+FRENCH R1A,1,"This course is designed to fulfill the first half of the Rea
+ding and Composition requirement. The primary goal of this c
+ourse is to develop students' reading and writing skills thr
+ough a series of assignments that will provide them with the
+ opportunity to formulate observations made in class discuss
+ions into coherent argumentative essays. Emphasis will be pl
+aced on the refinement of effective sentence, paragraph, and
+ thesis formation, keeping"
+FRENCH R1B,1,"This course is designed to fulfill the second half of the Re
+ading and Composition requirement. The primary goal of this 
+course is to develop students' reading and writing skills th
+rough a series of assignments that will provide them with th
+e opportunity to formulate observations made in class discus
+sions into coherent argumentative essays. Emphasis will be p
+laced on the refinement of effective sentence, paragraph, an
+d"
+FRENCH 2,1,"Introduction to speaking, listening, reading, and writing in
+ French. Continuation of French 1."
+FRENCH 3,1,"Building on foundation established in first year, trains stu
+dents in listening, reading, writing, and speaking French. R
+eview and refinement of grammar."
+FRENCH 4,1,"Advanced training in listening, reading, writing, and speaki
+ng French. Review and refinement of grammar."
+FRENCH 13,1,"Intermediate French conversation. May not be repeated for cr
+edit."
 FRENCH N13,1,Intermediate French conversation.
-FRENCH 14,1,Advanced French conversation. This course may not be repeated for credit.
+FRENCH 14,1,"Advanced French conversation. This course may not be repeate
+d for credit."
 FRENCH N14,1,Advanced French conversation.
-FRENCH 24,1,"The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley seminars are offered in all campus departments, and topics vary from department to department and semester to semester. Enrollment limited to freshmen."
-FRENCH 35,1,"This multimedia course concentrates on pronunciation and listening comprehension skills and provides a new understanding of the French language. International phonetic alphabet and theoretical concepts are taught as necessary. Strongly recommended before study, work, or travel in French-speaking countries, particularly for Education Abroad Program students."
-FRENCH 40,1,"introduction to a set of novels originally written in French but read in English translation. The course will involve detailed attention to the novels themselves as well as to the cultural and historical circumstances in which they were written, and also the importance they have had for other novelists, artists, and readers in other times and places. The selection of novels studied may change from semester to semester."
-FRENCH 42AC,1,"Literary and cultural texts that emerge out of the long history of the French in North America and of Americans in France. Topics may vary from semester to semester, but the course will always take substantial account of the experiences and histories of representations of different ethnic groups. Students should consult the department's course bulletin well before the beginning of the semester for details."
-FRENCH 43A,1,Various historical and aesthetic themes and problems in the development of French civilization. In English.
-FRENCH 43B,1,Various historical and aesthetic themes and problems in the development of French civilization. In English.
-FRENCH 80,1,"An in-depth “forensic” exploration of the urban artifact that is Paris through the study of a variety of texts, films, paintings, engravings, and maps. The course will explore competing ambitions, economic pressures, and ideologies that have, over centuries, produced one of the most visited cities in the world."
-FRENCH 102,1,"An exploration of the ways words and images structure thought, communication and interactions of the subject and society. Development of reading and writing skills leading to correct and effective expression in French."
-FRENCH 103A,1,Discussion and composition based on the analysis of literary and cultural texts.
-FRENCH 103B,1,Discussion and composition based on the analysis of literary and cultural texts.
+FRENCH 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to freshmen."
+FRENCH 35,1,"This multimedia course concentrates on pronunciation and lis
+tening comprehension skills and provides a new understanding
+ of the French language. International phonetic alphabet and
+ theoretical concepts are taught as necessary. Strongly reco
+mmended before study, work, or travel in French-speaking cou
+ntries, particularly for Education Abroad Program students."
+FRENCH 40,1,"introduction to a set of novels originally written in French
+ but read in English translation. The course will involve de
+tailed attention to the novels themselves as well as to the 
+cultural and historical circumstances in which they were wri
+tten, and also the importance they have had for other noveli
+sts, artists, and readers in other times and places. The sel
+ection of novels studied may change from semester to semeste
+r."
+FRENCH 42AC,1,"Literary and cultural texts that emerge out of the long hist
+ory of the French in North America and of Americans in Franc
+e. Topics may vary from semester to semester, but the course
+ will always take substantial account of the experiences and
+ histories of representations of different ethnic groups. St
+udents should consult the department's course bulletin well 
+before the beginning of the semester for details."
+FRENCH 43A,1,"Various historical and aesthetic themes and problems in the 
+development of French civilization. In English."
+FRENCH 43B,1,"Various historical and aesthetic themes and problems in the 
+development of French civilization. In English."
+FRENCH 80,1,"An in-depth “forensic” exploration of the urban artifact tha
+t is Paris through the study of a variety of texts, films, p
+aintings, engravings, and maps. The course will explore comp
+eting ambitions, economic pressures, and ideologies that hav
+e, over centuries, produced one of the most visited cities i
+n the world."
+FRENCH 102,1,"An exploration of the ways words and images structure though
+t, communication and interactions of the subject and society
+. Development of reading and writing skills leading to corre
+ct and effective expression in French."
+FRENCH 103A,1,"Discussion and composition based on the analysis of literary
+ and cultural texts."
+FRENCH 103B,1,"Discussion and composition based on the analysis of literary
+ and cultural texts."
 FRENCH 112A,1,Medieval literature from the 
 FRENCH 112B,1,Medieval literature from the 
 FRENCH 114A,1,Late medieval literature: Joinville to Villon.
-FRENCH 116A,1,"Poetry and prose of the first half of the 16th century, in the context of the intellectual and aesthetic trends of the time, including humanism, evangelism, and the development of a new poetic language."
-FRENCH 117A,1,"Authors from the first half of the 17th century. The Baroque; its chief exponents, literary attempts to resolve the crisis in Renaissance values, formulation of new concepts in philosophy and psychology, experiments with traditional forms in poetry, fiction, and the theatre. Preciosity, Descartes, and rationalism."
-FRENCH 117B,1,"The concept of classicism and the development of tragedy. Jansenism, the doctrine of Port-Royal. Social satire and comedy."
-FRENCH 118A,1,"Authors from the first half of the 18th century, with emphasis on the origins of the philosophical movement and the development of modern art forms in the theater and the novel."
-FRENCH 118B,1,"A study of authors of the second half of the 18th century stressing the importance of the ""Movement Philosophique"" and the development of libertine values as well as the emergence of the pre-Romantic aesthetics."
-FRENCH 119A,1,"Authors from the first half of the 19th century. Romantic poetry and drama. Balzac, Stendhal and the novel. Michelet and the emergence of history."
-FRENCH 119B,1,"Authors from the second half of the 19th century. The various poetic movements: Le Parnasse and Symbolism. Development of the novel, realism, and naturalism."
-FRENCH 120A,1,"The modern novel, the avant-garde, cubist poetry, Dada and Surrealism, the theatre before the Second World War."
-FRENCH 120B,1,"Development of the novel, poetry, and theatre since the Second World War. Sartre and existentialism, theatre of the absurd, nouveau roman."
-FRENCH 121A,1,"Topics vary from year to year. Past topics have included ""litterature fantastique,"" science fiction, autobiography, French lyric poetry."
-FRENCH 121B,1,"Topics vary from year to year. Past topics have included ""litterature fantastique,"" science fiction, autobiography, French lyric poetry."
-FRENCH 122A,1,The course will focus on literary criticism and will discuss the various options proposed as well as the relationship between criticism and fiction or philosophy in a given writer's work.
-FRENCH 122B,1,The course will focus on literary criticism and will discuss the various options proposed as well as the relationship between criticism and fiction or philosophy in a given writer's work.
+FRENCH 116A,1,"Poetry and prose of the first half of the 16th century, in t
+he context of the intellectual and aesthetic trends of the t
+ime, including humanism, evangelism, and the development of 
+a new poetic language."
+FRENCH 117A,1,"Authors from the first half of the 17th century. The Baroque
+; its chief exponents, literary attempts to resolve the cris
+is in Renaissance values, formulation of new concepts in phi
+losophy and psychology, experiments with traditional forms i
+n poetry, fiction, and the theatre. Preciosity, Descartes, a
+nd rationalism."
+FRENCH 117B,1,"The concept of classicism and the development of tragedy. Ja
+nsenism, the doctrine of Port-Royal. Social satire and comed
+y."
+FRENCH 118A,1,"Authors from the first half of the 18th century, with emphas
+is on the origins of the philosophical movement and the deve
+lopment of modern art forms in the theater and the novel."
+FRENCH 118B,1,"A study of authors of the second half of the 18th century st
+ressing the importance of the ""Movement Philosophique"" and t
+he development of libertine values as well as the emergence 
+of the pre-Romantic aesthetics."
+FRENCH 119A,1,"Authors from the first half of the 19th century. Romantic po
+etry and drama. Balzac, Stendhal and the novel. Michelet and
+ the emergence of history."
+FRENCH 119B,1,"Authors from the second half of the 19th century. The variou
+s poetic movements: Le Parnasse and Symbolism. Development o
+f the novel, realism, and naturalism."
+FRENCH 120A,1,"The modern novel, the avant-garde, cubist poetry, Dada and S
+urrealism, the theatre before the Second World War."
+FRENCH 120B,1,"Development of the novel, poetry, and theatre since the Seco
+nd World War. Sartre and existentialism, theatre of the absu
+rd, nouveau roman."
+FRENCH 121A,1,"Topics vary from year to year. Past topics have included ""li
+tterature fantastique,"" science fiction, autobiography, Fren
+ch lyric poetry."
+FRENCH 121B,1,"Topics vary from year to year. Past topics have included ""li
+tterature fantastique,"" science fiction, autobiography, Fren
+ch lyric poetry."
+FRENCH 122A,1,"The course will focus on literary criticism and will discuss
+ the various options proposed as well as the relationship be
+tween criticism and fiction or philosophy in a given writer'
+s work."
+FRENCH 122B,1,"The course will focus on literary criticism and will discuss
+ the various options proposed as well as the relationship be
+tween criticism and fiction or philosophy in a given writer'
+s work."
 FRENCH 123,1,Studies in the French novel.
 FRENCH 124A,1,Studies in 20th-century theatre.
 FRENCH 125A,1,Studies in French poetry.
 FRENCH 126,1,Intensive study of a major author.
-FRENCH 138,1,"Introduction to applied linguistics, for students planning to use their French in language teaching or related careers. In this course we will begin with a general account of the French language--its phonology, morphology, and syntax--and we will subsequently consider specific issues in the learning and teaching of French. We will also examine a variety of commonly used foreign language teaching methods."
-FRENCH 139,1,"Develops students' creative writing skills in French through analysis and discussion of techniques, experimentation with those techniques, and production of various literary genres. Enables students to explore the new possibilities for creativity and self-expression that are presented by writing in a foreign language. Weekly writing assignments using a process-based approach, including peer response, group work, and classroom"
-FRENCH 140A,1,Major texts of French literature of the Middle Ages. Readings and writing assignments in English for non-majors; in French for French majors and minors. Class discussions in English.
+FRENCH 138,1,"Introduction to applied linguistics, for students planning t
+o use their French in language teaching or related careers. 
+In this course we will begin with a general account of the F
+rench language--its phonology, morphology, and syntax--and w
+e will subsequently consider specific issues in the learning
+ and teaching of French. We will also examine a variety of c
+ommonly used foreign language teaching methods."
+FRENCH 139,1,"Develops students' creative writing skills in French through
+ analysis and discussion of techniques, experimentation with
+ those techniques, and production of various literary genres
+. Enables students to explore the new possibilities for crea
+tivity and self-expression that are presented by writing in 
+a foreign language. Weekly writing assignments using a proce
+ss-based approach, including peer response, group work, and 
+classroom"
+FRENCH 140A,1,"Major texts of French literature of the Middle Ages. Reading
+s and writing assignments in English for non-majors; in Fren
+ch for French majors and minors. Class discussions in Englis
+h."
 FRENCH 140B,1,Major texts of French literature of the 
-FRENCH 140C,1,Major texts of French literature of the 19th Century. Readings and writing assignments in English for non-majors; in French for French majors and minors. Class discussions in English.
-FRENCH 140D,1,Major texts of modern French literature. Readings and writing assignments in English for non-majors; in French for French majors and minors. Class discussions in English.
-FRENCH 141,1,"An examination of a theme, issue, or concept from French literary, intellectual, or cultural history in its interrelation with non-French texts and contexts. Writing assignments and readings in English for nonmajors; writing assignments and French readings in French for French majors and minors. Class discussions in English. Topics vary from year to year."
-FRENCH 142AC,1,"Literary and cultural texts that emerge out of the long history of the French in North America and of Americans in France. Topics may vary from semester to semester, but the course will always take substantial account of the experiences and histories of representations of different ethnic groups. Students should consult the department's course bulletin well before the beginning of the semester for details."
-FRENCH 145,1,"Mainly devoted to ""external"" history of French, tracing spread of Latin to what is now France, its break-up into different languages and dialects, emergence of Parisian French as standard. Influence of other languages on French vocabulary. Study of brief texts from different periods to illustrate evolution of pronunciation and grammar."
-FRENCH 146A,1,"An introduction to the major branches of linguistic analysis (phonology, morphology--including word formation--syntax, and semantics) as applied to the French language."
+FRENCH 140C,1,"Major texts of French literature of the 19th Century. Readin
+gs and writing assignments in English for non-majors; in Fre
+nch for French majors and minors. Class discussions in Engli
+sh."
+FRENCH 140D,1,"Major texts of modern French literature. Readings and writin
+g assignments in English for non-majors; in French for Frenc
+h majors and minors. Class discussions in English."
+FRENCH 141,1,"An examination of a theme, issue, or concept from French lit
+erary, intellectual, or cultural history in its interrelatio
+n with non-French texts and contexts. Writing assignments an
+d readings in English for nonmajors; writing assignments and
+ French readings in French for French majors and minors. Cla
+ss discussions in English. Topics vary from year to year."
+FRENCH 142AC,1,"Literary and cultural texts that emerge out of the long hist
+ory of the French in North America and of Americans in Franc
+e. Topics may vary from semester to semester, but the course
+ will always take substantial account of the experiences and
+ histories of representations of different ethnic groups. St
+udents should consult the department's course bulletin well 
+before the beginning of the semester for details."
+FRENCH 145,1,"Mainly devoted to ""external"" history of French, tracing spre
+ad of Latin to what is now France, its break-up into differe
+nt languages and dialects, emergence of Parisian French as s
+tandard. Influence of other languages on French vocabulary. 
+Study of brief texts from different periods to illustrate ev
+olution of pronunciation and grammar."
+FRENCH 146A,1,"An introduction to the major branches of linguistic analysis
+ (phonology, morphology--including word formation--syntax, a
+nd semantics) as applied to the French language."
 FRENCH 147,1,Topics vary from year to year.
-FRENCH 148,1,"In-depth knowledge of the French language and accuracy in its use are the goals of this course. A textbook and systematic exercises will be used to assist in the demanding task of translating, both from English to French and from French to English."
-FRENCH 150A,1,A study of the portrayal of women in French literature and of the contributions of women to French literature and thought.
-FRENCH 150B,1,A study of the portrayal of women in French literature and of the contributions of women to French literature and thought.
-FRENCH 151A,1,"A study of Francophone literature: traditional and French influences, structure, relationship between language and message."
-FRENCH 151B,1,"A study of Francophone literature: traditional and French influences, structure, relationship between language and message."
-FRENCH 161A,1,"The study of a year in French history from many points of view--political, sociological, intellectual, and artistic, as well as literary."
-FRENCH 161B,1,"The study of a year in French history from many points of view--political, sociological, intellectual, and artistic, as well as literary."
-FRENCH 162A,1,This course will study both contemporary and subsequent reactions to historic events or figures. Topics vary from year to year.
-FRENCH 162B,1,This course will study both contemporary and subsequent reactions to historic events or figures. Topics vary from year to year.
+FRENCH 148,1,"In-depth knowledge of the French language and accuracy in it
+s use are the goals of this course. A textbook and systemati
+c exercises will be used to assist in the demanding task of 
+translating, both from English to French and from French to 
+English."
+FRENCH 150A,1,"A study of the portrayal of women in French literature and o
+f the contributions of women to French literature and though
+t."
+FRENCH 150B,1,"A study of the portrayal of women in French literature and o
+f the contributions of women to French literature and though
+t."
+FRENCH 151A,1,"A study of Francophone literature: traditional and French in
+fluences, structure, relationship between language and messa
+ge."
+FRENCH 151B,1,"A study of Francophone literature: traditional and French in
+fluences, structure, relationship between language and messa
+ge."
+FRENCH 161A,1,"The study of a year in French history from many points of vi
+ew--political, sociological, intellectual, and artistic, as 
+well as literary."
+FRENCH 161B,1,"The study of a year in French history from many points of vi
+ew--political, sociological, intellectual, and artistic, as 
+well as literary."
+FRENCH 162A,1,"This course will study both contemporary and subsequent reac
+tions to historic events or figures. Topics vary from year t
+o year."
+FRENCH 162B,1,"This course will study both contemporary and subsequent reac
+tions to historic events or figures. Topics vary from year t
+o year."
 FRENCH 170,1,Beginning French cinema studies: the language of film.
-FRENCH 171A,1,"An examination of certain large cultural concepts, such as ""the Baroque"" or ""Romanticism,"" in French cultural history. Topics vary from year to year."
-FRENCH 171B,1,"An examination of certain large cultural concepts, such as ""the Baroque"" or ""Romanticism,"" in French cultural history. Topics vary from year to year."
-FRENCH 172A,1,"The relevance of psychoanalysis to literary texts. Concepts of fantasy, of the self, and of desire applied to texts by Racine, Balzac, Lautreamont, Rimbaud, and Proust."
-FRENCH 173,1,The impact of linguistics on the theory of literature and the practice of literary criticism in recent years.
-FRENCH 174,1,"A consideration of the ways in which certain writers, as well as some composers, have sought to relate what might be thought of as two manifestations of language: song and poem, or musical score and literary text."
-FRENCH 175A,1,"Using various works from the arts and the human sciences, this course will investigate the relations between images and written texts."
-FRENCH 176,1,"Through engagement with the works of the French “philosophes”, a study of fundamental problems arising from the interplay of philosophy and literature."
-FRENCH 177A,1,"The development of French cinema. Discussions, oral and written reports will be based on the viewing of films from the work of major French film directors."
-FRENCH 177B,1,"The development of French cinema. Discussions, oral and written reports will be based on the viewing of films from the work of major French film directors."
+FRENCH 171A,1,"An examination of certain large cultural concepts, such as ""
+the Baroque"" or ""Romanticism,"" in French cultural history. T
+opics vary from year to year."
+FRENCH 171B,1,"An examination of certain large cultural concepts, such as ""
+the Baroque"" or ""Romanticism,"" in French cultural history. T
+opics vary from year to year."
+FRENCH 172A,1,"The relevance of psychoanalysis to literary texts. Concepts 
+of fantasy, of the self, and of desire applied to texts by R
+acine, Balzac, Lautreamont, Rimbaud, and Proust."
+FRENCH 173,1,"The impact of linguistics on the theory of literature and th
+e practice of literary criticism in recent years."
+FRENCH 174,1,"A consideration of the ways in which certain writers, as wel
+l as some composers, have sought to relate what might be tho
+ught of as two manifestations of language: song and poem, or
+ musical score and literary text."
+FRENCH 175A,1,"Using various works from the arts and the human sciences, th
+is course will investigate the relations between images and 
+written texts."
+FRENCH 176,1,"Through engagement with the works of the French “philosophes
+”, a study of fundamental problems arising from the interpla
+y of philosophy and literature."
+FRENCH 177A,1,"The development of French cinema. Discussions, oral and writ
+ten reports will be based on the viewing of films from the w
+ork of major French film directors."
+FRENCH 177B,1,"The development of French cinema. Discussions, oral and writ
+ten reports will be based on the viewing of films from the w
+ork of major French film directors."
 FRENCH 178A,1,Topics vary from year to year.
 FRENCH 178B,1,Topics vary from year to year.
-FRENCH 180A,1,"Survey of French civilization: history, arts, and society, through the interpretation of literary texts. 180A: The Middle Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180D: The 20th Century."
-FRENCH 180B,1,"Survey of French civilization: history, arts, and society, through the interpretation of literary texts. 180A: The Middle Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180D: The 20th Century."
-FRENCH 180C,1,"Survey of French civilization: history, arts, and society, through the interpretation of literary texts. 180A: The Middle Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180D: The 20th Century."
-FRENCH 180D,1,"Survey of French civilization: history, arts, and society, through the interpretation of literary texts. 180A: The Middle Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180D: The 20th Century."
-FRENCH 183A,1,"A study of the pressures on artistic, political, and economic structures at moments of crisis in French history. Problems of continuity and discontinuity in esthetic and social history."
-FRENCH 183B,1,"A study of the pressures on artistic, political, and economic structures at moments of crisis in French history. Problems of continuity and discontinuity in esthetic and social history."
-FRENCH 185,1,"Studies in the literature developed in France at the height of the colonial era. The themes of travel, "
-FRENCH H195A,1,Students will write an essay on a topic relating to French literature or culture under the supervision of a member of the faculty during two semesters of their senior year.
-FRENCH H195B,1,Students will write an essay on a topic relating to French literature or culture under the supervision of a member of the faculty during two semesters of their senior year.
-FRENCH 197,1,Supervised field programs involving experiences in schools and school-related activities. Regular individual meetings with faculty sponsor and written reports required.
-FRENCH 198,1,Group study of a topic (in French language and literature) not included in the regular department curriculum. Topics may be initiated by students under the sponsorship and direction of a member of the French department faculty
-FRENCH 199,1,Enrollment restricted according to College regulations. Individual instruction only in areas not covered by courses.
+FRENCH 180A,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 180B,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 180C,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 180D,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 183A,1,"A study of the pressures on artistic, political, and economi
+c structures at moments of crisis in French history. Problem
+s of continuity and discontinuity in esthetic and social his
+tory."
+FRENCH 183B,1,"A study of the pressures on artistic, political, and economi
+c structures at moments of crisis in French history. Problem
+s of continuity and discontinuity in esthetic and social his
+tory."
+FRENCH 185,1,"Studies in the literature developed in France at the height 
+of the colonial era. The themes of travel, "
+FRENCH H195A,1,"Students will write an essay on a topic relating to French l
+iterature or culture under the supervision of a member of th
+e faculty during two semesters of their senior year."
+FRENCH H195B,1,"Students will write an essay on a topic relating to French l
+iterature or culture under the supervision of a member of th
+e faculty during two semesters of their senior year."
+FRENCH 197,1,"Supervised field programs involving experiences in schools a
+nd school-related activities. Regular individual meetings wi
+th faculty sponsor and written reports required."
+FRENCH 198,1,"Group study of a topic (in French language and literature) n
+ot included in the regular department curriculum. Topics may
+ be initiated by students under the sponsorship and directio
+n of a member of the French department faculty"
+FRENCH 199,1,"Enrollment restricted according to College regulations. Indi
+vidual instruction only in areas not covered by courses."
+FRENCH 1,1,"Introduction to speaking, listening, reading, and writing in
+ French."
+FRENCH R1A,1,"This course is designed to fulfill the first half of the Rea
+ding and Composition requirement. The primary goal of this c
+ourse is to develop students' reading and writing skills thr
+ough a series of assignments that will provide them with the
+ opportunity to formulate observations made in class discuss
+ions into coherent argumentative essays. Emphasis will be pl
+aced on the refinement of effective sentence, paragraph, and
+ thesis formation, keeping"
+FRENCH R1B,1,"This course is designed to fulfill the second half of the Re
+ading and Composition requirement. The primary goal of this 
+course is to develop students' reading and writing skills th
+rough a series of assignments that will provide them with th
+e opportunity to formulate observations made in class discus
+sions into coherent argumentative essays. Emphasis will be p
+laced on the refinement of effective sentence, paragraph, an
+d"
+FRENCH 2,1,"Introduction to speaking, listening, reading, and writing in
+ French. Continuation of French 1."
+FRENCH 3,1,"Building on foundation established in first year, trains stu
+dents in listening, reading, writing, and speaking French. R
+eview and refinement of grammar."
+FRENCH 4,1,"Advanced training in listening, reading, writing, and speaki
+ng French. Review and refinement of grammar."
+FRENCH 13,1,"Intermediate French conversation. May not be repeated for cr
+edit."
+FRENCH N13,1,Intermediate French conversation.
+FRENCH 14,1,"Advanced French conversation. This course may not be repeate
+d for credit."
+FRENCH N14,1,Advanced French conversation.
+FRENCH 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to freshmen."
+FRENCH 35,1,"This multimedia course concentrates on pronunciation and lis
+tening comprehension skills and provides a new understanding
+ of the French language. International phonetic alphabet and
+ theoretical concepts are taught as necessary. Strongly reco
+mmended before study, work, or travel in French-speaking cou
+ntries, particularly for Education Abroad Program students."
+FRENCH 40,1,"introduction to a set of novels originally written in French
+ but read in English translation. The course will involve de
+tailed attention to the novels themselves as well as to the 
+cultural and historical circumstances in which they were wri
+tten, and also the importance they have had for other noveli
+sts, artists, and readers in other times and places. The sel
+ection of novels studied may change from semester to semeste
+r."
+FRENCH 42AC,1,"Literary and cultural texts that emerge out of the long hist
+ory of the French in North America and of Americans in Franc
+e. Topics may vary from semester to semester, but the course
+ will always take substantial account of the experiences and
+ histories of representations of different ethnic groups. St
+udents should consult the department's course bulletin well 
+before the beginning of the semester for details."
+FRENCH 43A,1,"Various historical and aesthetic themes and problems in the 
+development of French civilization. In English."
+FRENCH 43B,1,"Various historical and aesthetic themes and problems in the 
+development of French civilization. In English."
+FRENCH 80,1,"An in-depth “forensic” exploration of the urban artifact tha
+t is Paris through the study of a variety of texts, films, p
+aintings, engravings, and maps. The course will explore comp
+eting ambitions, economic pressures, and ideologies that hav
+e, over centuries, produced one of the most visited cities i
+n the world."
+FRENCH 102,1,"An exploration of the ways words and images structure though
+t, communication and interactions of the subject and society
+. Development of reading and writing skills leading to corre
+ct and effective expression in French."
+FRENCH 103A,1,"Discussion and composition based on the analysis of literary
+ and cultural texts."
+FRENCH 103B,1,"Discussion and composition based on the analysis of literary
+ and cultural texts."
+FRENCH 112A,1,Medieval literature from the 
+FRENCH 112B,1,Medieval literature from the 
+FRENCH 114A,1,Late medieval literature: Joinville to Villon.
+FRENCH 116A,1,"Poetry and prose of the first half of the 16th century, in t
+he context of the intellectual and aesthetic trends of the t
+ime, including humanism, evangelism, and the development of 
+a new poetic language."
+FRENCH 117A,1,"Authors from the first half of the 17th century. The Baroque
+; its chief exponents, literary attempts to resolve the cris
+is in Renaissance values, formulation of new concepts in phi
+losophy and psychology, experiments with traditional forms i
+n poetry, fiction, and the theatre. Preciosity, Descartes, a
+nd rationalism."
+FRENCH 117B,1,"The concept of classicism and the development of tragedy. Ja
+nsenism, the doctrine of Port-Royal. Social satire and comed
+y."
+FRENCH 118A,1,"Authors from the first half of the 18th century, with emphas
+is on the origins of the philosophical movement and the deve
+lopment of modern art forms in the theater and the novel."
+FRENCH 118B,1,"A study of authors of the second half of the 18th century st
+ressing the importance of the ""Movement Philosophique"" and t
+he development of libertine values as well as the emergence 
+of the pre-Romantic aesthetics."
+FRENCH 119A,1,"Authors from the first half of the 19th century. Romantic po
+etry and drama. Balzac, Stendhal and the novel. Michelet and
+ the emergence of history."
+FRENCH 119B,1,"Authors from the second half of the 19th century. The variou
+s poetic movements: Le Parnasse and Symbolism. Development o
+f the novel, realism, and naturalism."
+FRENCH 120A,1,"The modern novel, the avant-garde, cubist poetry, Dada and S
+urrealism, the theatre before the Second World War."
+FRENCH 120B,1,"Development of the novel, poetry, and theatre since the Seco
+nd World War. Sartre and existentialism, theatre of the absu
+rd, nouveau roman."
+FRENCH 121A,1,"Topics vary from year to year. Past topics have included ""li
+tterature fantastique,"" science fiction, autobiography, Fren
+ch lyric poetry."
+FRENCH 121B,1,"Topics vary from year to year. Past topics have included ""li
+tterature fantastique,"" science fiction, autobiography, Fren
+ch lyric poetry."
+FRENCH 122A,1,"The course will focus on literary criticism and will discuss
+ the various options proposed as well as the relationship be
+tween criticism and fiction or philosophy in a given writer'
+s work."
+FRENCH 122B,1,"The course will focus on literary criticism and will discuss
+ the various options proposed as well as the relationship be
+tween criticism and fiction or philosophy in a given writer'
+s work."
+FRENCH 123,1,Studies in the French novel.
+FRENCH 124A,1,Studies in 20th-century theatre.
+FRENCH 125A,1,Studies in French poetry.
+FRENCH 126,1,Intensive study of a major author.
+FRENCH 138,1,"Introduction to applied linguistics, for students planning t
+o use their French in language teaching or related careers. 
+In this course we will begin with a general account of the F
+rench language--its phonology, morphology, and syntax--and w
+e will subsequently consider specific issues in the learning
+ and teaching of French. We will also examine a variety of c
+ommonly used foreign language teaching methods."
+FRENCH 139,1,"Develops students' creative writing skills in French through
+ analysis and discussion of techniques, experimentation with
+ those techniques, and production of various literary genres
+. Enables students to explore the new possibilities for crea
+tivity and self-expression that are presented by writing in 
+a foreign language. Weekly writing assignments using a proce
+ss-based approach, including peer response, group work, and 
+classroom"
+FRENCH 140A,1,"Major texts of French literature of the Middle Ages. Reading
+s and writing assignments in English for non-majors; in Fren
+ch for French majors and minors. Class discussions in Englis
+h."
+FRENCH 140B,1,Major texts of French literature of the 
+FRENCH 140C,1,"Major texts of French literature of the 19th Century. Readin
+gs and writing assignments in English for non-majors; in Fre
+nch for French majors and minors. Class discussions in Engli
+sh."
+FRENCH 140D,1,"Major texts of modern French literature. Readings and writin
+g assignments in English for non-majors; in French for Frenc
+h majors and minors. Class discussions in English."
+FRENCH 141,1,"An examination of a theme, issue, or concept from French lit
+erary, intellectual, or cultural history in its interrelatio
+n with non-French texts and contexts. Writing assignments an
+d readings in English for nonmajors; writing assignments and
+ French readings in French for French majors and minors. Cla
+ss discussions in English. Topics vary from year to year."
+FRENCH 142AC,1,"Literary and cultural texts that emerge out of the long hist
+ory of the French in North America and of Americans in Franc
+e. Topics may vary from semester to semester, but the course
+ will always take substantial account of the experiences and
+ histories of representations of different ethnic groups. St
+udents should consult the department's course bulletin well 
+before the beginning of the semester for details."
+FRENCH 145,1,"Mainly devoted to ""external"" history of French, tracing spre
+ad of Latin to what is now France, its break-up into differe
+nt languages and dialects, emergence of Parisian French as s
+tandard. Influence of other languages on French vocabulary. 
+Study of brief texts from different periods to illustrate ev
+olution of pronunciation and grammar."
+FRENCH 146A,1,"An introduction to the major branches of linguistic analysis
+ (phonology, morphology--including word formation--syntax, a
+nd semantics) as applied to the French language."
+FRENCH 147,1,Topics vary from year to year.
+FRENCH 148,1,"In-depth knowledge of the French language and accuracy in it
+s use are the goals of this course. A textbook and systemati
+c exercises will be used to assist in the demanding task of 
+translating, both from English to French and from French to 
+English."
+FRENCH 150A,1,"A study of the portrayal of women in French literature and o
+f the contributions of women to French literature and though
+t."
+FRENCH 150B,1,"A study of the portrayal of women in French literature and o
+f the contributions of women to French literature and though
+t."
+FRENCH 151A,1,"A study of Francophone literature: traditional and French in
+fluences, structure, relationship between language and messa
+ge."
+FRENCH 151B,1,"A study of Francophone literature: traditional and French in
+fluences, structure, relationship between language and messa
+ge."
+FRENCH 161A,1,"The study of a year in French history from many points of vi
+ew--political, sociological, intellectual, and artistic, as 
+well as literary."
+FRENCH 161B,1,"The study of a year in French history from many points of vi
+ew--political, sociological, intellectual, and artistic, as 
+well as literary."
+FRENCH 162A,1,"This course will study both contemporary and subsequent reac
+tions to historic events or figures. Topics vary from year t
+o year."
+FRENCH 162B,1,"This course will study both contemporary and subsequent reac
+tions to historic events or figures. Topics vary from year t
+o year."
+FRENCH 170,1,Beginning French cinema studies: the language of film.
+FRENCH 171A,1,"An examination of certain large cultural concepts, such as ""
+the Baroque"" or ""Romanticism,"" in French cultural history. T
+opics vary from year to year."
+FRENCH 171B,1,"An examination of certain large cultural concepts, such as ""
+the Baroque"" or ""Romanticism,"" in French cultural history. T
+opics vary from year to year."
+FRENCH 172A,1,"The relevance of psychoanalysis to literary texts. Concepts 
+of fantasy, of the self, and of desire applied to texts by R
+acine, Balzac, Lautreamont, Rimbaud, and Proust."
+FRENCH 173,1,"The impact of linguistics on the theory of literature and th
+e practice of literary criticism in recent years."
+FRENCH 174,1,"A consideration of the ways in which certain writers, as wel
+l as some composers, have sought to relate what might be tho
+ught of as two manifestations of language: song and poem, or
+ musical score and literary text."
+FRENCH 175A,1,"Using various works from the arts and the human sciences, th
+is course will investigate the relations between images and 
+written texts."
+FRENCH 176,1,"Through engagement with the works of the French “philosophes
+”, a study of fundamental problems arising from the interpla
+y of philosophy and literature."
+FRENCH 177A,1,"The development of French cinema. Discussions, oral and writ
+ten reports will be based on the viewing of films from the w
+ork of major French film directors."
+FRENCH 177B,1,"The development of French cinema. Discussions, oral and writ
+ten reports will be based on the viewing of films from the w
+ork of major French film directors."
+FRENCH 178A,1,Topics vary from year to year.
+FRENCH 178B,1,Topics vary from year to year.
+FRENCH 180A,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 180B,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 180C,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 180D,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 183A,1,"A study of the pressures on artistic, political, and economi
+c structures at moments of crisis in French history. Problem
+s of continuity and discontinuity in esthetic and social his
+tory."
+FRENCH 183B,1,"A study of the pressures on artistic, political, and economi
+c structures at moments of crisis in French history. Problem
+s of continuity and discontinuity in esthetic and social his
+tory."
+FRENCH 185,1,"Studies in the literature developed in France at the height 
+of the colonial era. The themes of travel, "
+FRENCH H195A,1,"Students will write an essay on a topic relating to French l
+iterature or culture under the supervision of a member of th
+e faculty during two semesters of their senior year."
+FRENCH H195B,1,"Students will write an essay on a topic relating to French l
+iterature or culture under the supervision of a member of th
+e faculty during two semesters of their senior year."
+FRENCH 197,1,"Supervised field programs involving experiences in schools a
+nd school-related activities. Regular individual meetings wi
+th faculty sponsor and written reports required."
+FRENCH 198,1,"Group study of a topic (in French language and literature) n
+ot included in the regular department curriculum. Topics may
+ be initiated by students under the sponsorship and directio
+n of a member of the French department faculty"
+FRENCH 199,1,"Enrollment restricted according to College regulations. Indi
+vidual instruction only in areas not covered by courses."
+FRENCH 1,1,"Introduction to speaking, listening, reading, and writing in
+ French."
+FRENCH R1A,1,"This course is designed to fulfill the first half of the Rea
+ding and Composition requirement. The primary goal of this c
+ourse is to develop students' reading and writing skills thr
+ough a series of assignments that will provide them with the
+ opportunity to formulate observations made in class discuss
+ions into coherent argumentative essays. Emphasis will be pl
+aced on the refinement of effective sentence, paragraph, and
+ thesis formation, keeping"
+FRENCH R1B,1,"This course is designed to fulfill the second half of the Re
+ading and Composition requirement. The primary goal of this 
+course is to develop students' reading and writing skills th
+rough a series of assignments that will provide them with th
+e opportunity to formulate observations made in class discus
+sions into coherent argumentative essays. Emphasis will be p
+laced on the refinement of effective sentence, paragraph, an
+d"
+FRENCH 2,1,"Introduction to speaking, listening, reading, and writing in
+ French. Continuation of French 1."
+FRENCH 3,1,"Building on foundation established in first year, trains stu
+dents in listening, reading, writing, and speaking French. R
+eview and refinement of grammar."
+FRENCH 4,1,"Advanced training in listening, reading, writing, and speaki
+ng French. Review and refinement of grammar."
+FRENCH 13,1,"Intermediate French conversation. May not be repeated for cr
+edit."
+FRENCH N13,1,Intermediate French conversation.
+FRENCH 14,1,"Advanced French conversation. This course may not be repeate
+d for credit."
+FRENCH N14,1,Advanced French conversation.
+FRENCH 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to freshmen."
+FRENCH 35,1,"This multimedia course concentrates on pronunciation and lis
+tening comprehension skills and provides a new understanding
+ of the French language. International phonetic alphabet and
+ theoretical concepts are taught as necessary. Strongly reco
+mmended before study, work, or travel in French-speaking cou
+ntries, particularly for Education Abroad Program students."
+FRENCH 40,1,"introduction to a set of novels originally written in French
+ but read in English translation. The course will involve de
+tailed attention to the novels themselves as well as to the 
+cultural and historical circumstances in which they were wri
+tten, and also the importance they have had for other noveli
+sts, artists, and readers in other times and places. The sel
+ection of novels studied may change from semester to semeste
+r."
+FRENCH 42AC,1,"Literary and cultural texts that emerge out of the long hist
+ory of the French in North America and of Americans in Franc
+e. Topics may vary from semester to semester, but the course
+ will always take substantial account of the experiences and
+ histories of representations of different ethnic groups. St
+udents should consult the department's course bulletin well 
+before the beginning of the semester for details."
+FRENCH 43A,1,"Various historical and aesthetic themes and problems in the 
+development of French civilization. In English."
+FRENCH 43B,1,"Various historical and aesthetic themes and problems in the 
+development of French civilization. In English."
+FRENCH 80,1,"An in-depth “forensic” exploration of the urban artifact tha
+t is Paris through the study of a variety of texts, films, p
+aintings, engravings, and maps. The course will explore comp
+eting ambitions, economic pressures, and ideologies that hav
+e, over centuries, produced one of the most visited cities i
+n the world."
+FRENCH 102,1,"An exploration of the ways words and images structure though
+t, communication and interactions of the subject and society
+. Development of reading and writing skills leading to corre
+ct and effective expression in French."
+FRENCH 103A,1,"Discussion and composition based on the analysis of literary
+ and cultural texts."
+FRENCH 103B,1,"Discussion and composition based on the analysis of literary
+ and cultural texts."
+FRENCH 112A,1,Medieval literature from the 
+FRENCH 112B,1,Medieval literature from the 
+FRENCH 114A,1,Late medieval literature: Joinville to Villon.
+FRENCH 116A,1,"Poetry and prose of the first half of the 16th century, in t
+he context of the intellectual and aesthetic trends of the t
+ime, including humanism, evangelism, and the development of 
+a new poetic language."
+FRENCH 117A,1,"Authors from the first half of the 17th century. The Baroque
+; its chief exponents, literary attempts to resolve the cris
+is in Renaissance values, formulation of new concepts in phi
+losophy and psychology, experiments with traditional forms i
+n poetry, fiction, and the theatre. Preciosity, Descartes, a
+nd rationalism."
+FRENCH 117B,1,"The concept of classicism and the development of tragedy. Ja
+nsenism, the doctrine of Port-Royal. Social satire and comed
+y."
+FRENCH 118A,1,"Authors from the first half of the 18th century, with emphas
+is on the origins of the philosophical movement and the deve
+lopment of modern art forms in the theater and the novel."
+FRENCH 118B,1,"A study of authors of the second half of the 18th century st
+ressing the importance of the ""Movement Philosophique"" and t
+he development of libertine values as well as the emergence 
+of the pre-Romantic aesthetics."
+FRENCH 119A,1,"Authors from the first half of the 19th century. Romantic po
+etry and drama. Balzac, Stendhal and the novel. Michelet and
+ the emergence of history."
+FRENCH 119B,1,"Authors from the second half of the 19th century. The variou
+s poetic movements: Le Parnasse and Symbolism. Development o
+f the novel, realism, and naturalism."
+FRENCH 120A,1,"The modern novel, the avant-garde, cubist poetry, Dada and S
+urrealism, the theatre before the Second World War."
+FRENCH 120B,1,"Development of the novel, poetry, and theatre since the Seco
+nd World War. Sartre and existentialism, theatre of the absu
+rd, nouveau roman."
+FRENCH 121A,1,"Topics vary from year to year. Past topics have included ""li
+tterature fantastique,"" science fiction, autobiography, Fren
+ch lyric poetry."
+FRENCH 121B,1,"Topics vary from year to year. Past topics have included ""li
+tterature fantastique,"" science fiction, autobiography, Fren
+ch lyric poetry."
+FRENCH 122A,1,"The course will focus on literary criticism and will discuss
+ the various options proposed as well as the relationship be
+tween criticism and fiction or philosophy in a given writer'
+s work."
+FRENCH 122B,1,"The course will focus on literary criticism and will discuss
+ the various options proposed as well as the relationship be
+tween criticism and fiction or philosophy in a given writer'
+s work."
+FRENCH 123,1,Studies in the French novel.
+FRENCH 124A,1,Studies in 20th-century theatre.
+FRENCH 125A,1,Studies in French poetry.
+FRENCH 126,1,Intensive study of a major author.
+FRENCH 138,1,"Introduction to applied linguistics, for students planning t
+o use their French in language teaching or related careers. 
+In this course we will begin with a general account of the F
+rench language--its phonology, morphology, and syntax--and w
+e will subsequently consider specific issues in the learning
+ and teaching of French. We will also examine a variety of c
+ommonly used foreign language teaching methods."
+FRENCH 139,1,"Develops students' creative writing skills in French through
+ analysis and discussion of techniques, experimentation with
+ those techniques, and production of various literary genres
+. Enables students to explore the new possibilities for crea
+tivity and self-expression that are presented by writing in 
+a foreign language. Weekly writing assignments using a proce
+ss-based approach, including peer response, group work, and 
+classroom"
+FRENCH 140A,1,"Major texts of French literature of the Middle Ages. Reading
+s and writing assignments in English for non-majors; in Fren
+ch for French majors and minors. Class discussions in Englis
+h."
+FRENCH 140B,1,Major texts of French literature of the 
+FRENCH 140C,1,"Major texts of French literature of the 19th Century. Readin
+gs and writing assignments in English for non-majors; in Fre
+nch for French majors and minors. Class discussions in Engli
+sh."
+FRENCH 140D,1,"Major texts of modern French literature. Readings and writin
+g assignments in English for non-majors; in French for Frenc
+h majors and minors. Class discussions in English."
+FRENCH 141,1,"An examination of a theme, issue, or concept from French lit
+erary, intellectual, or cultural history in its interrelatio
+n with non-French texts and contexts. Writing assignments an
+d readings in English for nonmajors; writing assignments and
+ French readings in French for French majors and minors. Cla
+ss discussions in English. Topics vary from year to year."
+FRENCH 142AC,1,"Literary and cultural texts that emerge out of the long hist
+ory of the French in North America and of Americans in Franc
+e. Topics may vary from semester to semester, but the course
+ will always take substantial account of the experiences and
+ histories of representations of different ethnic groups. St
+udents should consult the department's course bulletin well 
+before the beginning of the semester for details."
+FRENCH 145,1,"Mainly devoted to ""external"" history of French, tracing spre
+ad of Latin to what is now France, its break-up into differe
+nt languages and dialects, emergence of Parisian French as s
+tandard. Influence of other languages on French vocabulary. 
+Study of brief texts from different periods to illustrate ev
+olution of pronunciation and grammar."
+FRENCH 146A,1,"An introduction to the major branches of linguistic analysis
+ (phonology, morphology--including word formation--syntax, a
+nd semantics) as applied to the French language."
+FRENCH 147,1,Topics vary from year to year.
+FRENCH 148,1,"In-depth knowledge of the French language and accuracy in it
+s use are the goals of this course. A textbook and systemati
+c exercises will be used to assist in the demanding task of 
+translating, both from English to French and from French to 
+English."
+FRENCH 150A,1,"A study of the portrayal of women in French literature and o
+f the contributions of women to French literature and though
+t."
+FRENCH 150B,1,"A study of the portrayal of women in French literature and o
+f the contributions of women to French literature and though
+t."
+FRENCH 151A,1,"A study of Francophone literature: traditional and French in
+fluences, structure, relationship between language and messa
+ge."
+FRENCH 151B,1,"A study of Francophone literature: traditional and French in
+fluences, structure, relationship between language and messa
+ge."
+FRENCH 161A,1,"The study of a year in French history from many points of vi
+ew--political, sociological, intellectual, and artistic, as 
+well as literary."
+FRENCH 161B,1,"The study of a year in French history from many points of vi
+ew--political, sociological, intellectual, and artistic, as 
+well as literary."
+FRENCH 162A,1,"This course will study both contemporary and subsequent reac
+tions to historic events or figures. Topics vary from year t
+o year."
+FRENCH 162B,1,"This course will study both contemporary and subsequent reac
+tions to historic events or figures. Topics vary from year t
+o year."
+FRENCH 170,1,Beginning French cinema studies: the language of film.
+FRENCH 171A,1,"An examination of certain large cultural concepts, such as ""
+the Baroque"" or ""Romanticism,"" in French cultural history. T
+opics vary from year to year."
+FRENCH 171B,1,"An examination of certain large cultural concepts, such as ""
+the Baroque"" or ""Romanticism,"" in French cultural history. T
+opics vary from year to year."
+FRENCH 172A,1,"The relevance of psychoanalysis to literary texts. Concepts 
+of fantasy, of the self, and of desire applied to texts by R
+acine, Balzac, Lautreamont, Rimbaud, and Proust."
+FRENCH 173,1,"The impact of linguistics on the theory of literature and th
+e practice of literary criticism in recent years."
+FRENCH 174,1,"A consideration of the ways in which certain writers, as wel
+l as some composers, have sought to relate what might be tho
+ught of as two manifestations of language: song and poem, or
+ musical score and literary text."
+FRENCH 175A,1,"Using various works from the arts and the human sciences, th
+is course will investigate the relations between images and 
+written texts."
+FRENCH 176,1,"Through engagement with the works of the French “philosophes
+”, a study of fundamental problems arising from the interpla
+y of philosophy and literature."
+FRENCH 177A,1,"The development of French cinema. Discussions, oral and writ
+ten reports will be based on the viewing of films from the w
+ork of major French film directors."
+FRENCH 177B,1,"The development of French cinema. Discussions, oral and writ
+ten reports will be based on the viewing of films from the w
+ork of major French film directors."
+FRENCH 178A,1,Topics vary from year to year.
+FRENCH 178B,1,Topics vary from year to year.
+FRENCH 180A,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 180B,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 180C,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 180D,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 183A,1,"A study of the pressures on artistic, political, and economi
+c structures at moments of crisis in French history. Problem
+s of continuity and discontinuity in esthetic and social his
+tory."
+FRENCH 183B,1,"A study of the pressures on artistic, political, and economi
+c structures at moments of crisis in French history. Problem
+s of continuity and discontinuity in esthetic and social his
+tory."
+FRENCH 185,1,"Studies in the literature developed in France at the height 
+of the colonial era. The themes of travel, "
+FRENCH H195A,1,"Students will write an essay on a topic relating to French l
+iterature or culture under the supervision of a member of th
+e faculty during two semesters of their senior year."
+FRENCH H195B,1,"Students will write an essay on a topic relating to French l
+iterature or culture under the supervision of a member of th
+e faculty during two semesters of their senior year."
+FRENCH 197,1,"Supervised field programs involving experiences in schools a
+nd school-related activities. Regular individual meetings wi
+th faculty sponsor and written reports required."
+FRENCH 198,1,"Group study of a topic (in French language and literature) n
+ot included in the regular department curriculum. Topics may
+ be initiated by students under the sponsorship and directio
+n of a member of the French department faculty"
+FRENCH 199,1,"Enrollment restricted according to College regulations. Indi
+vidual instruction only in areas not covered by courses."
+FRENCH 1,1,"Introduction to speaking, listening, reading, and writing in
+ French."
+FRENCH R1A,1,"This course is designed to fulfill the first half of the Rea
+ding and Composition requirement. The primary goal of this c
+ourse is to develop students' reading and writing skills thr
+ough a series of assignments that will provide them with the
+ opportunity to formulate observations made in class discuss
+ions into coherent argumentative essays. Emphasis will be pl
+aced on the refinement of effective sentence, paragraph, and
+ thesis formation, keeping"
+FRENCH R1B,1,"This course is designed to fulfill the second half of the Re
+ading and Composition requirement. The primary goal of this 
+course is to develop students' reading and writing skills th
+rough a series of assignments that will provide them with th
+e opportunity to formulate observations made in class discus
+sions into coherent argumentative essays. Emphasis will be p
+laced on the refinement of effective sentence, paragraph, an
+d"
+FRENCH 2,1,"Introduction to speaking, listening, reading, and writing in
+ French. Continuation of French 1."
+FRENCH 3,1,"Building on foundation established in first year, trains stu
+dents in listening, reading, writing, and speaking French. R
+eview and refinement of grammar."
+FRENCH 4,1,"Advanced training in listening, reading, writing, and speaki
+ng French. Review and refinement of grammar."
+FRENCH 13,1,"Intermediate French conversation. May not be repeated for cr
+edit."
+FRENCH N13,1,Intermediate French conversation.
+FRENCH 14,1,"Advanced French conversation. This course may not be repeate
+d for credit."
+FRENCH N14,1,Advanced French conversation.
+FRENCH 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to freshmen."
+FRENCH 35,1,"This multimedia course concentrates on pronunciation and lis
+tening comprehension skills and provides a new understanding
+ of the French language. International phonetic alphabet and
+ theoretical concepts are taught as necessary. Strongly reco
+mmended before study, work, or travel in French-speaking cou
+ntries, particularly for Education Abroad Program students."
+FRENCH 40,1,"introduction to a set of novels originally written in French
+ but read in English translation. The course will involve de
+tailed attention to the novels themselves as well as to the 
+cultural and historical circumstances in which they were wri
+tten, and also the importance they have had for other noveli
+sts, artists, and readers in other times and places. The sel
+ection of novels studied may change from semester to semeste
+r."
+FRENCH 42AC,1,"Literary and cultural texts that emerge out of the long hist
+ory of the French in North America and of Americans in Franc
+e. Topics may vary from semester to semester, but the course
+ will always take substantial account of the experiences and
+ histories of representations of different ethnic groups. St
+udents should consult the department's course bulletin well 
+before the beginning of the semester for details."
+FRENCH 43A,1,"Various historical and aesthetic themes and problems in the 
+development of French civilization. In English."
+FRENCH 43B,1,"Various historical and aesthetic themes and problems in the 
+development of French civilization. In English."
+FRENCH 80,1,"An in-depth “forensic” exploration of the urban artifact tha
+t is Paris through the study of a variety of texts, films, p
+aintings, engravings, and maps. The course will explore comp
+eting ambitions, economic pressures, and ideologies that hav
+e, over centuries, produced one of the most visited cities i
+n the world."
+FRENCH 102,1,"An exploration of the ways words and images structure though
+t, communication and interactions of the subject and society
+. Development of reading and writing skills leading to corre
+ct and effective expression in French."
+FRENCH 103A,1,"Discussion and composition based on the analysis of literary
+ and cultural texts."
+FRENCH 103B,1,"Discussion and composition based on the analysis of literary
+ and cultural texts."
+FRENCH 112A,1,Medieval literature from the 
+FRENCH 112B,1,Medieval literature from the 
+FRENCH 114A,1,Late medieval literature: Joinville to Villon.
+FRENCH 116A,1,"Poetry and prose of the first half of the 16th century, in t
+he context of the intellectual and aesthetic trends of the t
+ime, including humanism, evangelism, and the development of 
+a new poetic language."
+FRENCH 117A,1,"Authors from the first half of the 17th century. The Baroque
+; its chief exponents, literary attempts to resolve the cris
+is in Renaissance values, formulation of new concepts in phi
+losophy and psychology, experiments with traditional forms i
+n poetry, fiction, and the theatre. Preciosity, Descartes, a
+nd rationalism."
+FRENCH 117B,1,"The concept of classicism and the development of tragedy. Ja
+nsenism, the doctrine of Port-Royal. Social satire and comed
+y."
+FRENCH 118A,1,"Authors from the first half of the 18th century, with emphas
+is on the origins of the philosophical movement and the deve
+lopment of modern art forms in the theater and the novel."
+FRENCH 118B,1,"A study of authors of the second half of the 18th century st
+ressing the importance of the ""Movement Philosophique"" and t
+he development of libertine values as well as the emergence 
+of the pre-Romantic aesthetics."
+FRENCH 119A,1,"Authors from the first half of the 19th century. Romantic po
+etry and drama. Balzac, Stendhal and the novel. Michelet and
+ the emergence of history."
+FRENCH 119B,1,"Authors from the second half of the 19th century. The variou
+s poetic movements: Le Parnasse and Symbolism. Development o
+f the novel, realism, and naturalism."
+FRENCH 120A,1,"The modern novel, the avant-garde, cubist poetry, Dada and S
+urrealism, the theatre before the Second World War."
+FRENCH 120B,1,"Development of the novel, poetry, and theatre since the Seco
+nd World War. Sartre and existentialism, theatre of the absu
+rd, nouveau roman."
+FRENCH 121A,1,"Topics vary from year to year. Past topics have included ""li
+tterature fantastique,"" science fiction, autobiography, Fren
+ch lyric poetry."
+FRENCH 121B,1,"Topics vary from year to year. Past topics have included ""li
+tterature fantastique,"" science fiction, autobiography, Fren
+ch lyric poetry."
+FRENCH 122A,1,"The course will focus on literary criticism and will discuss
+ the various options proposed as well as the relationship be
+tween criticism and fiction or philosophy in a given writer'
+s work."
+FRENCH 122B,1,"The course will focus on literary criticism and will discuss
+ the various options proposed as well as the relationship be
+tween criticism and fiction or philosophy in a given writer'
+s work."
+FRENCH 123,1,Studies in the French novel.
+FRENCH 124A,1,Studies in 20th-century theatre.
+FRENCH 125A,1,Studies in French poetry.
+FRENCH 126,1,Intensive study of a major author.
+FRENCH 138,1,"Introduction to applied linguistics, for students planning t
+o use their French in language teaching or related careers. 
+In this course we will begin with a general account of the F
+rench language--its phonology, morphology, and syntax--and w
+e will subsequently consider specific issues in the learning
+ and teaching of French. We will also examine a variety of c
+ommonly used foreign language teaching methods."
+FRENCH 139,1,"Develops students' creative writing skills in French through
+ analysis and discussion of techniques, experimentation with
+ those techniques, and production of various literary genres
+. Enables students to explore the new possibilities for crea
+tivity and self-expression that are presented by writing in 
+a foreign language. Weekly writing assignments using a proce
+ss-based approach, including peer response, group work, and 
+classroom"
+FRENCH 140A,1,"Major texts of French literature of the Middle Ages. Reading
+s and writing assignments in English for non-majors; in Fren
+ch for French majors and minors. Class discussions in Englis
+h."
+FRENCH 140B,1,Major texts of French literature of the 
+FRENCH 140C,1,"Major texts of French literature of the 19th Century. Readin
+gs and writing assignments in English for non-majors; in Fre
+nch for French majors and minors. Class discussions in Engli
+sh."
+FRENCH 140D,1,"Major texts of modern French literature. Readings and writin
+g assignments in English for non-majors; in French for Frenc
+h majors and minors. Class discussions in English."
+FRENCH 141,1,"An examination of a theme, issue, or concept from French lit
+erary, intellectual, or cultural history in its interrelatio
+n with non-French texts and contexts. Writing assignments an
+d readings in English for nonmajors; writing assignments and
+ French readings in French for French majors and minors. Cla
+ss discussions in English. Topics vary from year to year."
+FRENCH 142AC,1,"Literary and cultural texts that emerge out of the long hist
+ory of the French in North America and of Americans in Franc
+e. Topics may vary from semester to semester, but the course
+ will always take substantial account of the experiences and
+ histories of representations of different ethnic groups. St
+udents should consult the department's course bulletin well 
+before the beginning of the semester for details."
+FRENCH 145,1,"Mainly devoted to ""external"" history of French, tracing spre
+ad of Latin to what is now France, its break-up into differe
+nt languages and dialects, emergence of Parisian French as s
+tandard. Influence of other languages on French vocabulary. 
+Study of brief texts from different periods to illustrate ev
+olution of pronunciation and grammar."
+FRENCH 146A,1,"An introduction to the major branches of linguistic analysis
+ (phonology, morphology--including word formation--syntax, a
+nd semantics) as applied to the French language."
+FRENCH 147,1,Topics vary from year to year.
+FRENCH 148,1,"In-depth knowledge of the French language and accuracy in it
+s use are the goals of this course. A textbook and systemati
+c exercises will be used to assist in the demanding task of 
+translating, both from English to French and from French to 
+English."
+FRENCH 150A,1,"A study of the portrayal of women in French literature and o
+f the contributions of women to French literature and though
+t."
+FRENCH 150B,1,"A study of the portrayal of women in French literature and o
+f the contributions of women to French literature and though
+t."
+FRENCH 151A,1,"A study of Francophone literature: traditional and French in
+fluences, structure, relationship between language and messa
+ge."
+FRENCH 151B,1,"A study of Francophone literature: traditional and French in
+fluences, structure, relationship between language and messa
+ge."
+FRENCH 161A,1,"The study of a year in French history from many points of vi
+ew--political, sociological, intellectual, and artistic, as 
+well as literary."
+FRENCH 161B,1,"The study of a year in French history from many points of vi
+ew--political, sociological, intellectual, and artistic, as 
+well as literary."
+FRENCH 162A,1,"This course will study both contemporary and subsequent reac
+tions to historic events or figures. Topics vary from year t
+o year."
+FRENCH 162B,1,"This course will study both contemporary and subsequent reac
+tions to historic events or figures. Topics vary from year t
+o year."
+FRENCH 170,1,Beginning French cinema studies: the language of film.
+FRENCH 171A,1,"An examination of certain large cultural concepts, such as ""
+the Baroque"" or ""Romanticism,"" in French cultural history. T
+opics vary from year to year."
+FRENCH 171B,1,"An examination of certain large cultural concepts, such as ""
+the Baroque"" or ""Romanticism,"" in French cultural history. T
+opics vary from year to year."
+FRENCH 172A,1,"The relevance of psychoanalysis to literary texts. Concepts 
+of fantasy, of the self, and of desire applied to texts by R
+acine, Balzac, Lautreamont, Rimbaud, and Proust."
+FRENCH 173,1,"The impact of linguistics on the theory of literature and th
+e practice of literary criticism in recent years."
+FRENCH 174,1,"A consideration of the ways in which certain writers, as wel
+l as some composers, have sought to relate what might be tho
+ught of as two manifestations of language: song and poem, or
+ musical score and literary text."
+FRENCH 175A,1,"Using various works from the arts and the human sciences, th
+is course will investigate the relations between images and 
+written texts."
+FRENCH 176,1,"Through engagement with the works of the French “philosophes
+”, a study of fundamental problems arising from the interpla
+y of philosophy and literature."
+FRENCH 177A,1,"The development of French cinema. Discussions, oral and writ
+ten reports will be based on the viewing of films from the w
+ork of major French film directors."
+FRENCH 177B,1,"The development of French cinema. Discussions, oral and writ
+ten reports will be based on the viewing of films from the w
+ork of major French film directors."
+FRENCH 178A,1,Topics vary from year to year.
+FRENCH 178B,1,Topics vary from year to year.
+FRENCH 180A,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 180B,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 180C,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 180D,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 183A,1,"A study of the pressures on artistic, political, and economi
+c structures at moments of crisis in French history. Problem
+s of continuity and discontinuity in esthetic and social his
+tory."
+FRENCH 183B,1,"A study of the pressures on artistic, political, and economi
+c structures at moments of crisis in French history. Problem
+s of continuity and discontinuity in esthetic and social his
+tory."
+FRENCH 185,1,"Studies in the literature developed in France at the height 
+of the colonial era. The themes of travel, "
+FRENCH H195A,1,"Students will write an essay on a topic relating to French l
+iterature or culture under the supervision of a member of th
+e faculty during two semesters of their senior year."
+FRENCH H195B,1,"Students will write an essay on a topic relating to French l
+iterature or culture under the supervision of a member of th
+e faculty during two semesters of their senior year."
+FRENCH 197,1,"Supervised field programs involving experiences in schools a
+nd school-related activities. Regular individual meetings wi
+th faculty sponsor and written reports required."
+FRENCH 198,1,"Group study of a topic (in French language and literature) n
+ot included in the regular department curriculum. Topics may
+ be initiated by students under the sponsorship and directio
+n of a member of the French department faculty"
+FRENCH 199,1,"Enrollment restricted according to College regulations. Indi
+vidual instruction only in areas not covered by courses."
+FRENCH 1,1,"Introduction to speaking, listening, reading, and writing in
+ French."
+FRENCH R1A,1,"This course is designed to fulfill the first half of the Rea
+ding and Composition requirement. The primary goal of this c
+ourse is to develop students' reading and writing skills thr
+ough a series of assignments that will provide them with the
+ opportunity to formulate observations made in class discuss
+ions into coherent argumentative essays. Emphasis will be pl
+aced on the refinement of effective sentence, paragraph, and
+ thesis formation, keeping"
+FRENCH R1B,1,"This course is designed to fulfill the second half of the Re
+ading and Composition requirement. The primary goal of this 
+course is to develop students' reading and writing skills th
+rough a series of assignments that will provide them with th
+e opportunity to formulate observations made in class discus
+sions into coherent argumentative essays. Emphasis will be p
+laced on the refinement of effective sentence, paragraph, an
+d"
+FRENCH 2,1,"Introduction to speaking, listening, reading, and writing in
+ French. Continuation of French 1."
+FRENCH 3,1,"Building on foundation established in first year, trains stu
+dents in listening, reading, writing, and speaking French. R
+eview and refinement of grammar."
+FRENCH 4,1,"Advanced training in listening, reading, writing, and speaki
+ng French. Review and refinement of grammar."
+FRENCH 13,1,"Intermediate French conversation. May not be repeated for cr
+edit."
+FRENCH N13,1,Intermediate French conversation.
+FRENCH 14,1,"Advanced French conversation. This course may not be repeate
+d for credit."
+FRENCH N14,1,Advanced French conversation.
+FRENCH 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to freshmen."
+FRENCH 35,1,"This multimedia course concentrates on pronunciation and lis
+tening comprehension skills and provides a new understanding
+ of the French language. International phonetic alphabet and
+ theoretical concepts are taught as necessary. Strongly reco
+mmended before study, work, or travel in French-speaking cou
+ntries, particularly for Education Abroad Program students."
+FRENCH 40,1,"introduction to a set of novels originally written in French
+ but read in English translation. The course will involve de
+tailed attention to the novels themselves as well as to the 
+cultural and historical circumstances in which they were wri
+tten, and also the importance they have had for other noveli
+sts, artists, and readers in other times and places. The sel
+ection of novels studied may change from semester to semeste
+r."
+FRENCH 42AC,1,"Literary and cultural texts that emerge out of the long hist
+ory of the French in North America and of Americans in Franc
+e. Topics may vary from semester to semester, but the course
+ will always take substantial account of the experiences and
+ histories of representations of different ethnic groups. St
+udents should consult the department's course bulletin well 
+before the beginning of the semester for details."
+FRENCH 43A,1,"Various historical and aesthetic themes and problems in the 
+development of French civilization. In English."
+FRENCH 43B,1,"Various historical and aesthetic themes and problems in the 
+development of French civilization. In English."
+FRENCH 80,1,"An in-depth “forensic” exploration of the urban artifact tha
+t is Paris through the study of a variety of texts, films, p
+aintings, engravings, and maps. The course will explore comp
+eting ambitions, economic pressures, and ideologies that hav
+e, over centuries, produced one of the most visited cities i
+n the world."
+FRENCH 102,1,"An exploration of the ways words and images structure though
+t, communication and interactions of the subject and society
+. Development of reading and writing skills leading to corre
+ct and effective expression in French."
+FRENCH 103A,1,"Discussion and composition based on the analysis of literary
+ and cultural texts."
+FRENCH 103B,1,"Discussion and composition based on the analysis of literary
+ and cultural texts."
+FRENCH 112A,1,Medieval literature from the 
+FRENCH 112B,1,Medieval literature from the 
+FRENCH 114A,1,Late medieval literature: Joinville to Villon.
+FRENCH 116A,1,"Poetry and prose of the first half of the 16th century, in t
+he context of the intellectual and aesthetic trends of the t
+ime, including humanism, evangelism, and the development of 
+a new poetic language."
+FRENCH 117A,1,"Authors from the first half of the 17th century. The Baroque
+; its chief exponents, literary attempts to resolve the cris
+is in Renaissance values, formulation of new concepts in phi
+losophy and psychology, experiments with traditional forms i
+n poetry, fiction, and the theatre. Preciosity, Descartes, a
+nd rationalism."
+FRENCH 117B,1,"The concept of classicism and the development of tragedy. Ja
+nsenism, the doctrine of Port-Royal. Social satire and comed
+y."
+FRENCH 118A,1,"Authors from the first half of the 18th century, with emphas
+is on the origins of the philosophical movement and the deve
+lopment of modern art forms in the theater and the novel."
+FRENCH 118B,1,"A study of authors of the second half of the 18th century st
+ressing the importance of the ""Movement Philosophique"" and t
+he development of libertine values as well as the emergence 
+of the pre-Romantic aesthetics."
+FRENCH 119A,1,"Authors from the first half of the 19th century. Romantic po
+etry and drama. Balzac, Stendhal and the novel. Michelet and
+ the emergence of history."
+FRENCH 119B,1,"Authors from the second half of the 19th century. The variou
+s poetic movements: Le Parnasse and Symbolism. Development o
+f the novel, realism, and naturalism."
+FRENCH 120A,1,"The modern novel, the avant-garde, cubist poetry, Dada and S
+urrealism, the theatre before the Second World War."
+FRENCH 120B,1,"Development of the novel, poetry, and theatre since the Seco
+nd World War. Sartre and existentialism, theatre of the absu
+rd, nouveau roman."
+FRENCH 121A,1,"Topics vary from year to year. Past topics have included ""li
+tterature fantastique,"" science fiction, autobiography, Fren
+ch lyric poetry."
+FRENCH 121B,1,"Topics vary from year to year. Past topics have included ""li
+tterature fantastique,"" science fiction, autobiography, Fren
+ch lyric poetry."
+FRENCH 122A,1,"The course will focus on literary criticism and will discuss
+ the various options proposed as well as the relationship be
+tween criticism and fiction or philosophy in a given writer'
+s work."
+FRENCH 122B,1,"The course will focus on literary criticism and will discuss
+ the various options proposed as well as the relationship be
+tween criticism and fiction or philosophy in a given writer'
+s work."
+FRENCH 123,1,Studies in the French novel.
+FRENCH 124A,1,Studies in 20th-century theatre.
+FRENCH 125A,1,Studies in French poetry.
+FRENCH 126,1,Intensive study of a major author.
+FRENCH 138,1,"Introduction to applied linguistics, for students planning t
+o use their French in language teaching or related careers. 
+In this course we will begin with a general account of the F
+rench language--its phonology, morphology, and syntax--and w
+e will subsequently consider specific issues in the learning
+ and teaching of French. We will also examine a variety of c
+ommonly used foreign language teaching methods."
+FRENCH 139,1,"Develops students' creative writing skills in French through
+ analysis and discussion of techniques, experimentation with
+ those techniques, and production of various literary genres
+. Enables students to explore the new possibilities for crea
+tivity and self-expression that are presented by writing in 
+a foreign language. Weekly writing assignments using a proce
+ss-based approach, including peer response, group work, and 
+classroom"
+FRENCH 140A,1,"Major texts of French literature of the Middle Ages. Reading
+s and writing assignments in English for non-majors; in Fren
+ch for French majors and minors. Class discussions in Englis
+h."
+FRENCH 140B,1,Major texts of French literature of the 
+FRENCH 140C,1,"Major texts of French literature of the 19th Century. Readin
+gs and writing assignments in English for non-majors; in Fre
+nch for French majors and minors. Class discussions in Engli
+sh."
+FRENCH 140D,1,"Major texts of modern French literature. Readings and writin
+g assignments in English for non-majors; in French for Frenc
+h majors and minors. Class discussions in English."
+FRENCH 141,1,"An examination of a theme, issue, or concept from French lit
+erary, intellectual, or cultural history in its interrelatio
+n with non-French texts and contexts. Writing assignments an
+d readings in English for nonmajors; writing assignments and
+ French readings in French for French majors and minors. Cla
+ss discussions in English. Topics vary from year to year."
+FRENCH 142AC,1,"Literary and cultural texts that emerge out of the long hist
+ory of the French in North America and of Americans in Franc
+e. Topics may vary from semester to semester, but the course
+ will always take substantial account of the experiences and
+ histories of representations of different ethnic groups. St
+udents should consult the department's course bulletin well 
+before the beginning of the semester for details."
+FRENCH 145,1,"Mainly devoted to ""external"" history of French, tracing spre
+ad of Latin to what is now France, its break-up into differe
+nt languages and dialects, emergence of Parisian French as s
+tandard. Influence of other languages on French vocabulary. 
+Study of brief texts from different periods to illustrate ev
+olution of pronunciation and grammar."
+FRENCH 146A,1,"An introduction to the major branches of linguistic analysis
+ (phonology, morphology--including word formation--syntax, a
+nd semantics) as applied to the French language."
+FRENCH 147,1,Topics vary from year to year.
+FRENCH 148,1,"In-depth knowledge of the French language and accuracy in it
+s use are the goals of this course. A textbook and systemati
+c exercises will be used to assist in the demanding task of 
+translating, both from English to French and from French to 
+English."
+FRENCH 150A,1,"A study of the portrayal of women in French literature and o
+f the contributions of women to French literature and though
+t."
+FRENCH 150B,1,"A study of the portrayal of women in French literature and o
+f the contributions of women to French literature and though
+t."
+FRENCH 151A,1,"A study of Francophone literature: traditional and French in
+fluences, structure, relationship between language and messa
+ge."
+FRENCH 151B,1,"A study of Francophone literature: traditional and French in
+fluences, structure, relationship between language and messa
+ge."
+FRENCH 161A,1,"The study of a year in French history from many points of vi
+ew--political, sociological, intellectual, and artistic, as 
+well as literary."
+FRENCH 161B,1,"The study of a year in French history from many points of vi
+ew--political, sociological, intellectual, and artistic, as 
+well as literary."
+FRENCH 162A,1,"This course will study both contemporary and subsequent reac
+tions to historic events or figures. Topics vary from year t
+o year."
+FRENCH 162B,1,"This course will study both contemporary and subsequent reac
+tions to historic events or figures. Topics vary from year t
+o year."
+FRENCH 170,1,Beginning French cinema studies: the language of film.
+FRENCH 171A,1,"An examination of certain large cultural concepts, such as ""
+the Baroque"" or ""Romanticism,"" in French cultural history. T
+opics vary from year to year."
+FRENCH 171B,1,"An examination of certain large cultural concepts, such as ""
+the Baroque"" or ""Romanticism,"" in French cultural history. T
+opics vary from year to year."
+FRENCH 172A,1,"The relevance of psychoanalysis to literary texts. Concepts 
+of fantasy, of the self, and of desire applied to texts by R
+acine, Balzac, Lautreamont, Rimbaud, and Proust."
+FRENCH 173,1,"The impact of linguistics on the theory of literature and th
+e practice of literary criticism in recent years."
+FRENCH 174,1,"A consideration of the ways in which certain writers, as wel
+l as some composers, have sought to relate what might be tho
+ught of as two manifestations of language: song and poem, or
+ musical score and literary text."
+FRENCH 175A,1,"Using various works from the arts and the human sciences, th
+is course will investigate the relations between images and 
+written texts."
+FRENCH 176,1,"Through engagement with the works of the French “philosophes
+”, a study of fundamental problems arising from the interpla
+y of philosophy and literature."
+FRENCH 177A,1,"The development of French cinema. Discussions, oral and writ
+ten reports will be based on the viewing of films from the w
+ork of major French film directors."
+FRENCH 177B,1,"The development of French cinema. Discussions, oral and writ
+ten reports will be based on the viewing of films from the w
+ork of major French film directors."
+FRENCH 178A,1,Topics vary from year to year.
+FRENCH 178B,1,Topics vary from year to year.
+FRENCH 180A,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 180B,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 180C,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 180D,1,"Survey of French civilization: history, arts, and society, t
+hrough the interpretation of literary texts. 180A: The Middl
+e Ages; 180B: The Ancien Regime; 180C: The 19th Century; 180
+D: The 20th Century."
+FRENCH 183A,1,"A study of the pressures on artistic, political, and economi
+c structures at moments of crisis in French history. Problem
+s of continuity and discontinuity in esthetic and social his
+tory."
+FRENCH 183B,1,"A study of the pressures on artistic, political, and economi
+c structures at moments of crisis in French history. Problem
+s of continuity and discontinuity in esthetic and social his
+tory."
+FRENCH 185,1,"Studies in the literature developed in France at the height 
+of the colonial era. The themes of travel, "
+FRENCH H195A,1,"Students will write an essay on a topic relating to French l
+iterature or culture under the supervision of a member of th
+e faculty during two semesters of their senior year."
+FRENCH H195B,1,"Students will write an essay on a topic relating to French l
+iterature or culture under the supervision of a member of th
+e faculty during two semesters of their senior year."
+FRENCH 197,1,"Supervised field programs involving experiences in schools a
+nd school-related activities. Regular individual meetings wi
+th faculty sponsor and written reports required."
+FRENCH 198,1,"Group study of a topic (in French language and literature) n
+ot included in the regular department curriculum. Topics may
+ be initiated by students under the sponsorship and directio
+n of a member of the French department faculty"
+FRENCH 199,1,"Enrollment restricted according to College regulations. Indi
+vidual instruction only in areas not covered by courses."

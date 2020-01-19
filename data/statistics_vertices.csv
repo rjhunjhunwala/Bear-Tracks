@@ -1,1 +1,205 @@
 name,size,about
+STAT 0PX,1,"This course assists entering Freshman students with basic st
+atistical concepts and problem solving. Designed for student
+s who do not meet the prerequisites for 2. Offered through t
+he Student Learning Center."
+STAT 2,1,"Population and variables. Standard measures of location, spr
+ead and association. Normal approximation. Regression. Proba
+bility and sampling. Binomial distribution. Interval estimat
+ion. Some standard significance tests."
+STAT C8,1,"Foundations of data science from three perspectives: inferen
+tial thinking, computational thinking, and real-world releva
+nce. Given data arising from some real-world phenomenon, how
+ does one analyze that data so as to understand that phenome
+non? The course teaches critical concepts and skills in comp
+uter programming and statistical inference, in conjunction w
+ith hands-on analysis"
+STAT C8R,1,"An introduction to computational thinking and quantitative r
+easoning, preparing students for further coursework, especia
+lly Foundations of Data Science (CS/Info/Stat C8). Emphasize
+s the use of computation to gain insight about quantitative 
+problems with real data. Expressions, data types, collection
+s, and tables in Python. Programming practices, abstraction,
+ and iteration. Visualizing univariate and bivariate data wi
+th bar charts, histograms, plots, and maps. Introduction"
+STAT 20,1,"For students with mathematical background who wish to acquir
+e basic concepts. Relative frequencies, discrete probability
+, random variables, expectation. Testing hypotheses. Estimat
+ion. Illustrations from various fields."
+STAT 21,1,"Descriptive statistics, probability models and related conce
+pts, sample surveys, estimates, confidence intervals, tests 
+of significance, controlled experiments vs. observational st
+udies, correlation and regression."
+STAT W21,1,"Reasoning and fallacies, descriptive statistics, probability
+ models and related concepts, combinatorics, sample surveys,
+ estimates, confidence intervals, tests of significance, con
+trolled experiments vs. observational studies, correlation a
+nd regression."
+STAT 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er. Enrollment limited to 15 freshmen."
+STAT 33A,1,"An introduction to the R statistical software for students w
+ith minimal prior experience with programming. This course p
+repares students for data analysis with R. The focus is on t
+he computational model that underlies the R language with th
+e goal of providing a foundation for coding. Topics include 
+data types and structures, such as vectors, data frames and 
+lists; the REPL evaluation model; function calls, argument m
+atching, and environments; writing simple"
+STAT 33B,1,"The course is designed primarily for those who are already f
+amiliar with programming in another language, such as python
+, and want to understand how R works, and for those who alre
+ady know the basics of R programming and want to gain a more
+ in-depth understanding of the language in order to improve 
+their coding. The focus is on the underlying paradigms in R,
+ such as functional programming, atomic vectors, complex dat
+a structures, environments, and object"
+STAT 39D,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+STAT C79,1,"Defining, perceiving, quantifying and measuring risk; identi
+fying risks and estimating their importance; determining whe
+ther laws and regulations can protect us from these risks; e
+xamining how well existing laws work and how they could be i
+mproved; evaluting costs and benefits. Applications may vary
+ by term. This course cannot be used to complete engineering
+ unit or technical elective requirements for students in the
+ College of Engineering."
+STAT 88,1,"In this connector course we will state precisely and prove r
+esults discovered while exploring data in Data 8. Topics inc
+lude: probability, conditioning, and independence; random va
+riables; distributions and joint distributions; expectation,
+ variance, tail bounds; Central Limit Theorem; symmetries in
+ random permutations; prior and posterior distributions; pro
+babilistic models; bias-variance tradeoff; testing hypothese
+s; correlation and the regression"
+STAT 89A,1,"An introduction to linear algebra for data science. The cour
+se will cover introductory topics in linear algebra, startin
+g with the basics; discrete probability and how prob- abilit
+y can be used to understand high-dimensional vector spaces; 
+matrices and graphs as popular mathematical structures with 
+which to model data (e.g., as models for term-document corpo
+ra, high-dimensional regression problems, ranking/classifica
+tion of web data, adjacency"
+STAT 94,1,Topics will vary semester to semester.
+STAT 97,1,"Supervised experience relevant to specific aspects of statis
+tics in off-campus settings. Individual and/or group meeting
+s with faculty."
+STAT 98,1,"Must be taken at the same time as either Statistics 2 or 21.
+ This course assists lower division statistics students with
+ structured problem solving, interpretation and making concl
+usions."
+STAT C100,1,"In this course, students will explore the data science lifec
+ycle, including question formulation, data collection and cl
+eaning, exploratory data analysis and visualization, statist
+ical inference and prediction​, and decision-making.​ This c
+lass will focus on quantitative critical thinking​ and key p
+rinciples and techniques needed to carry out this cycle. The
+se include languages for transforming, querying and analyzin
+g"
+STAT 102,1,"This course develops the probabilistic foundations of infere
+nce in data science, and builds a comprehensive view of the 
+modeling and decision-making life cycle in data science incl
+uding its human, social, and ethical implications. Topics in
+clude: frequentist and Bayesian decision-making, permutation
+ testing, false discovery rate, probabilistic interpretation
+s of models, Bayesian hierarchical models, basics of experim
+ental design, confidence"
+STAT 131A,1,"This course teaches a broad range of statistical methods tha
+t are used to solve data problems. Topics include group comp
+arisons and ANOVA, standard parametric statistical models, m
+ultivariate data visualization, multiple linear regression, 
+logistic regression and classification, regression trees and
+ random forests. An important focus of the course is on stat
+istical computing and reproducible statistical analysis. The
+ course and lab include"
+STAT 133,1,"An introduction to computationally intensive applied statist
+ics. Topics will include organization and use of databases, 
+visualization and graphics, statistical learning and data mi
+ning, model validation procedures, and the presentation of r
+esults."
+STAT 134,1,"An introduction to probability, emphasizing concepts and app
+lications. Conditional expectation, independence, laws of la
+rge numbers. Discrete and continuous random variables. Centr
+al limit theorem. Selected topics such as the Poisson proces
+s, Markov chains, characteristic functions."
+STAT 135,1,"A comprehensive survey course in statistical theory and meth
+odology. Topics include descriptive statistics, maximum like
+lihood estimation, non-parametric methods, introduction to o
+ptimality, goodness-of-fit tests, analysis of variance, boot
+strap and computer-intensive methods and least squares estim
+ation. The laboratory includes computer-based data-analytic 
+applications to science and engineering."
+STAT 140,1,"An introduction to probability, emphasizing the combined use
+ of mathematics and programming to solve problems. Random va
+riables, discrete and continuous families of distributions. 
+Bounds and approximations. Dependence, conditioning, Bayes m
+ethods. Convergence, Markov chains. Least squares prediction
+. Random permutations, symmetry, order statistics. Use of nu
+merical computation, graphics, simulation, and computer alge
+bra."
+STAT 150,1,"Random walks, discrete time Markov chains, Poisson processes
+. Further topics such as: continuous time Markov chains, que
+ueing theory, point processes, branching processes, renewal 
+theory, stationary processes, Gaussian processes."
+STAT 151A,1,"A coordinated treatment of linear and generalized linear mod
+els and their application. Linear regression, analysis of va
+riance and covariance, random effects, design and analysis o
+f experiments, quality improvement, log-linear models for di
+screte multivariate data, model selection, robustness, graph
+ical techniques, productive use of computers, in-depth case 
+studies."
+STAT 152,1,"Theory and practice of sampling from finite populations. Sim
+ple random, stratified, cluster, and double sampling. Sampli
+ng with unequal probabilities. Properties of various estimat
+ors including ratio, regression, and difference estimators. 
+Error estimation for complex samples."
+STAT 153,1,"An introduction to time series analysis in the time domain a
+nd spectral domain. Topics will include: estimation of trend
+s and seasonal effects, autoregressive moving average models
+, forecasting, indicators, harmonic analysis, spectra."
+STAT 154,1,"Theory and practice of statistical prediction. Contemporary 
+methods as extensions of classical methods. Topics: optimal 
+prediction rules, the curse of dimensionality, empirical ris
+k, linear regression and classification, basis expansions, r
+egularization, splines, the bootstrap, model selection, clas
+sification and regression trees, boosting, support vector ma
+chines. Computational efficiency versus predictive performan
+ce. Emphasis on experience"
+STAT 155,1,"General theory of zero-sum, two-person games, including game
+s in extensive form and continuous games, and illustrated by
+ detailed study of examples."
+STAT 157,1,"Substantial student participation required. The topics to be
+ covered each semester that the course may be offered will b
+e announced by the middle of the preceding semester; see dep
+artmental bulletins. Recent topics include: Bayesian statist
+ics, statistics and finance, random matrix theory, high-dime
+nsional statistics."
+STAT 158,1,"An introduction to the design and analysis of experiments. T
+his course covers planning, conducting, and analyzing statis
+tically designed experiments with an emphasis on hands-on ex
+perience. Standard designs studied include factorial designs
+, block designs, latin square designs, and repeated measures
+ designs. Other topics covered include the principles of des
+ign, randomization, ANOVA, response surface methodoloy, and 
+computer experiments."
+STAT 159,1,"A project-based introduction to statistical data analysis. T
+hrough case studies, computer laboratories, and a term proje
+ct, students will learn practical techniques and tools for p
+roducing statistically sound and appropriate, reproducible, 
+and verifiable computational answers to scientific questions
+. Course emphasizes version control, testing, process automa
+tion, code review, and collaborative programming. Software t
+ools may include Bash, Git,"
+STAT H195,1, 
+STAT 197,1,"Supervised experience relevant to specific aspects of statis
+tics in on-campus or off-campus settings. Individual and/or 
+group meetings with faculty."
+STAT 198,1,Special tutorial or seminar on selected topics.
+STAT 199,1, 

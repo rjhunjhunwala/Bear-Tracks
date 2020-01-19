@@ -1,80 +1,1846 @@
 name,size,about
-RHETOR R1A,1,Rhetorical approach to reading and writing argumentative discourse. Close reading of selected texts; written themes developed from class discussion and analysis of rhetorical strategies. Satisfies the first half of the Reading and Composition requirement.
-RHETOR R1B,1,Intensive argumentative writing drawn from controversy stimulated through selected readings and class discussion. Satisfies the second half of the Reading and Composition requirement.
-RHETOR 2,1,Basic principles of rhetoric as applied to the criticism and practice of public speaking.
-RHETOR 10,1,"An introduction to practical reasoning and the critical analysis of argument. Topics treated will include: definition, the syllogism, the enthymeme, fallacies, as well as various non-logical appeals. Also, the course will treat in introductory fashion some ancient and modern attempts to relate rhetoric and logic."
-RHETOR 20,1,"Introduction to the study of rhetorical interpretation, treating how the action of tropes, figures, and performance generates meaning in communication: from fiction and other forms of literature, to politics, to film, to visual and material culture generally."
-RHETOR 22,1,"This class examines the way in which a distinctively rhetorical concern with persuasion, tropes, topicality, and modes of appeal can be engaged in readings of Shakespearean texts. Using written documents from the period along with contemporary rhetorical criticism and theory, the class analyzes the importance of rhetoric in the production and performance of Shakespeare's plays, in their particular rendering of verbal conflict and the scene of persuasion"
-RHETOR 24,1,"The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley Seminars are offered in all campus departments, and topics vary from department to department and semester to semester."
-RHETOR 39,1,Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester.
-RHETOR 39I,1,Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester.
-RHETOR 98,1,Instruction for a small group of students on a topic initiated by those students.
-RHETOR 103A,1,"A broad consideration of the historical relationships between philosophy, literature, and rhetoric, with special emphasis on selected themes of the classical and medieval periods."
-RHETOR 103B,1,"A broad consideration of the historical relationship between philosophy, literature, and rhetoric, with special emphasis on selected themes within the early modern and modern periods."
-RHETOR 104,1,"An examination of the relations between rhetoric, discourse, and knowledge in selected historical eras, for example the European Renaissance, the Atlantic Enlightenment, or Victorian Britain."
-RHETOR 105T,1,"Consideration of the rhetoric of hermeneutics or biblical interpretation with special emphasis on the mythical, symbolic, and allegorical language as the bearer of persuasive intention."
-RHETOR 106,1,"A study of how historical knowledge is produced and interpreted. Topics might include narrative and representation, the uses of evidence, forms of historical argumentation, and historical controversies in the public realm."
-RHETOR 107,1,"Examination of the characteristic functions of discourse in and about the natural sciences; with particular examination of the ways in which scientific language both guarantees, and at the same time, obscures the expression of social norms in scientific facts."
-RHETOR 108,1,Introduction to theoretical issues involved in applying rhetorical analysis to philosophical discourse; intensive analysis of selected philosophical works.
-RHETOR 109,1,"Study of the terms and means by which we make and defend judgments involving the exercise of aesthetic sensitivity or perceptiveness. Consideration of the relationship between aesthetic qualities and aesthetic value. Discussion of aesthetic criticism as the means by which the capacities and salience of works of art are called to our attention and brought into focus. Topics include questions of taste, expression, and affect."
-RHETOR 110,1,"Study and practice of advanced techniques of argumentation for students with well-developed writing skills. Ethical, logical and pathetic appeals; control of register and tone; assessment of a wide variety of real audiences; genre studies."
-RHETOR 111,1,"Participants in this course can expect to accomplish two goals: they will become familiar with a fair amount of the two epics attributed to Homer; and they will learn how classical texts are received by later generations, with Homer as the centerpiece example. That is, we will look at the way in which classical texts are transmitted from the past and how they have survived (or have failed to survive) from antiquity into the present; how readers have sought to make"
-RHETOR 112,1,"Investigation of the rhetorical and cultural principles common to various genres of narrative, both prose and poetic, in nonliterate societies. Mythic, epic and folk narratives considered as well as written works from cultures in transition."
-RHETOR 113,1,"Can you live ethically without following moral norms, that is, norms as these are given institutionally and reinforced by culture and/or convention? The question, which is at least as old as the Cynics, gathered steam again in the nineteenth century starting with Nietzsche, and it remains a vital problem today. Paradoxical though it may seem, some of the staunchest critics of moral systems and moral norms are at the same time powerful advocates of non-normative"
-RHETOR 114,1,"This course examines a range of digital media practices including hypertext, interactive drama, videogames, literary interactive fiction, and socially constructed narratives in multi-user spaces. Through a mixture of readings, discussion, and project work, we will explore the theoretical positions, debates, and design issues arising from these different practices. Topics will include the rhetorical"
-RHETOR 115,1,"This course will examine the place and meaning of technology in culture, emphasizing the ways in which technologies shape and inflect social and political interactions. The primary focus will be on the wider reception and perception of technological and cultural shifts as represented in imaginative scientific and cultural works, endeavors and ambitions. This course will then question the conditions for the production and sustainability of these technologies and technological"
-RHETOR 116,1,Analysis of rhetorical practice in the context of social and cultural change with particular reference to the historical transition from pre-industrial to industrial society in the west.
-RHETOR 117,1,"Examination of philosophical dialogues from Plato to Heidegger. Focus on the interaction within the dialogue, the participation required of the reader/listener, and the relation of such interaction and participation to thinking, speaking and knowing."
-RHETOR 118,1,"An introduction to contemporary modes of reading and interpretation in the humanities, from structuralism through psychoanalysis, with an emphasis on theories of the sign (semiotics). Examples drawn from such fields as contemporary literature, architecture, history, painting, film, and popular culture."
-RHETOR 119,1,"Studies in the history and theory of the rhetorics of place, space, and sites."
-RHETOR 121,1,"Study of the form and content of fictional narratives. Definition and techniques including voice, point of view, and time orders. Attention to cultural and historical contexts of selected narratives to consider interplay of works, authors, and readerships."
-RHETOR 122,1,Examination of the way character is created in drama by repetitive rhetorical patterns and the ways themes are defined by manipulation of such patterns.
-RHETOR 123,1,"This course introduces students to the interdisciplinary field of performance studies. While themes may vary, the course considers disciplinary genealogies from the performing arts, the social sciences, and speech act theory to investigate the many ways that humans constitute themselves and their world through performance."
-RHETOR 124,1,Consideration of the relationship between the texture of poetic discourse largely defined by figures of speech and overall poetic structures.
-RHETOR 125,1,Studies in the relationships between poetic theory and poetic practice from Aristotle's Poetics to the present day.
-RHETOR 127,1,"This course examines the complex links between novelistic discourse, society, and politics. Topics to be studied may include the social and political vocation of the and the realist novel; autobiography and the rise of liberal individualism; political censorship; and the role of the novel in imagining the nation."
-RHETOR 128T,1,"As a common form of interacting, documenting, and informing, the interview plays a central role in the process of social and cultural inquiry. The interview is here not only studied in its popularized use as a form of oral witnessing and of privileged access to personalities. It is also explored in its critical and potentially creative dimensions as part of a mise en scene or a setting in which interviewer and interviewees function as social"
-RHETOR 129,1,"Rhetorical analysis of autobiographical discourse, with specific attention to the evolution of the genre in relation to changing modes of human subjectivity."
-RHETOR 129AC,1,"Rhetorical analysis of autobiographical discourse in American cultures, with special attention to the ideology of individualism."
-RHETOR 130,1,"Close examination of the adaptation of written fiction to the cinema. Focus on the problems arising from the transformation of five novels, which will be read, into their filmed versions."
-RHETOR 131T,1,"Study of a particular genre (e.g., detective/mystery, horror/thriller, melodrama) with attention to theories of genre in popular culture."
-RHETOR 132T,1,"The study of films from the perspective of directorial style, theme, or filmmaking career. This course may focus on a single or several directors."
-RHETOR 133T,1,"Classical theories of film by Eisenstein, Arnheim, Kracauer, Bazin, Metz, and others. Only one or two films will be analyzed in great depth to test the power of various theories."
-RHETOR 135T,1,"A study of a film topic not covered by the other film categories. This course might focus on a particular cinematic ""theme,"" or a nonhistoric and nongeneric category. Examples: Feminist Film Practice, Gay and Lesbian Cinema, Race and Cinematic Representation."
-RHETOR 136,1,"Study of narratives and visual cultures of art and its authors, including questions of what is art, who authors it, the boundaries of works and artistic personae, and how aesthetic, economic, and legal regimes of artistic authorship are historicized."
-RHETOR 137,1,"This course surveys methods and theories of visual culture, including the rhetorics and discourses of images (still and moving), media (old and new), display, circulation, value, and interpretation. Topics explored will include: spectacle, reproduction, materiality, time, style, genre, archive, truth-value, and affectivity. Students will learn multi- and interdisciplinary uses of visual materials as objects of analysis, evidence, exchange"
-RHETOR 138,1,"An introduction to the close analysis and evaluation of television texts. Consideration of a range of examples drawn from classical television series, sitcoms, dramas, news programming, and contemporary reality television. Students learn the narrative, aesthetic, and stylistic aspects of television's story-telling modes and strategies through readings, screenings, short exercises, and a final project consisting of a substantial work of criticism"
-RHETOR 139,1,"Studies of the theory and practice of the rhetoric of visual evidence relating to catastrophe. Themes may include witnessing, testimony, the photographic record, news media, and archival knowledge around such subjects as genocide and crimes against humanity, war and other forms of political violence, the AIDS epidemic, natural disaster."
-RHETOR 145,1,"What is the role of narrative in science and conversely? How do images supplement or displace these narratives? How have scientific conceptions impacted narrative forms and theories of narrative? How important are images to the rhetoric of scientific persuasion? Finally, how can science itself be narrated or visually represented? This course will examine critical discussions of these questions."
-RHETOR 150,1,Examination of the characteristic rhetoric of a variety of manifestations of modern politics. Emphasis on building a theoretical foundation for critically observing and participating in the contemporary political process.
-RHETOR 151,1,"This course charts the discovery and conquest of the New World; it treats the ways in which New World peoples were understood--and exploited--by Europeans. It explores not only questions relating to the origins of New World peoples, but also climate and zonal theories of race, and racial ideas of degeneration and corruption. In examining Europe's multivalent relationship with the ""other,"" the course investigates the legal, moral,"
-RHETOR 152,1,"The rhetorical context of . Examines the tradition of Anglo-American constitutional argumentation in the eighteenth century, its sources, and its implications. Readings include Locke, Hume, Montesquieu, pamphlets of the American Revolution, and Anti-Federalist writings."
-RHETOR 152AC,1,"This course will explore how the social issue of race in the new American republic shaped the political founding of the United States in 1787. We will investigate perceptions of race at the time of the founding, and try to understand the origins of those perceptions. We will examine how those same perceptions affected the founding and establishment of a new nation and how they have affected our contemporary social and political"
-RHETOR 153,1,"A survey of the ways in which Americans have discussed their existence as a distinct nation their rights and obligations, and the legitimate modes of political action open to them. Readings cover the 17th through the 20th centuries and may include discussion of sermons, novels, philosophy, social and political theory, autobiographies, declassified government planning documents, Congressional testimony"
-RHETOR 155,1,"This course critically explores key concepts and figures used in the public discourse of European colonialism to justify territorial expansion in the 19th century such as ""race,"" ""culture,"" ""civility,"" and ""the Orient"" and their disturbing legacies for the knowledges, practical projects, and problems of contemporary postcolonial societies in a globalizing world."
-RHETOR 156,1,Investigation of major 19th and 20th century works of fiction in which political stances are exploited as dominant themes; close reading of authorial viewpoints and rhetorical strategies.
-RHETOR 157A,1,Study of the textual strategies of important works of modern European and American political theory from the 17th through the 19th centuries.
-RHETOR 157B,1,Study of the textual strategies of important works of 20th century European and American political theory.
-RHETOR 158,1,"Close study of selected works of modern political theory, including debates over the nature and interpretation of political theory and the role of the political theorist. Specific themes and readings vary from year to year."
-RHETOR 159A,1,"This course explores the development of one or two theorists or an important theme or issue, with close readings of major texts as well as attention to important commentators."
-RHETOR 159B,1,"This course concentrates on aspects of 20th century political, social, and legal theory that are too complex to be treated comprehensively as one section of the courses in modern theory."
-RHETOR 160,1,The application of rhetorical methodology to all categories of legal texts.
-RHETOR 163,1,"Through close readings of and about law and literature, the course explores the role of language in both law and literature and the relations between law, language, and literature. Focus may be on particular historical periods, authors, or law-related themes."
-RHETOR 164,1,Rhetorical methodology applied to close analysis of the argumentative framework of important works in modern legal theory.
-RHETOR 165,1,Consideration of basic philosophical issues related to the political and moral foundations of the law.
-RHETOR 166,1,Examination of the role of rhetoric in the legal and political thought of a particular era or culture. Course may compare societies or periods. All foreign texts will be studied in English translation.
-RHETOR 167,1,"Thorough consideration of particular rhetorical themes in the field of legal theory, legal philosophy, and legal argumentation."
-RHETOR 168,1,"Thorough consideration of particular rhetorical themes in the fields of contemporary law and legal discourse. Sample topics include entertainment law, First Amendment law, copyright law."
-RHETOR 170,1,"Analysis of the ways in which political scientists, sociologists, anthropologists, economists and psychologists establish the authoritativeness of their claims. Focus is on the presentation of data as fact, the use of quantitative methods, and other ""strategies"" through which social knowledge is transformed into objective information."
-RHETOR 171,1,"Study of the textual strategies whereby the masses and mass culture emerge as objects of anxiety, hope, and scrutiny for social theorists of the 19th and 20th centuries."
-RHETOR 172,1,"Rhetorical analysis of theorists from Durkheim and Weber, as well as Marx, Ricardo and Bentham, to contemporary representatives of social and economic thought."
-RHETOR 176,1,"Where did the first collections originate? Why did people begin to collect? How did--and do--museums and museum collections contribute to the definition of the cultural values/power of elite groups? How do we define ourselves--as citizens, as members of a discipline or tribe, as nations--with reference to collections? What values/ideologies structure the debates and conflicts over definition, meaning, and ownership of collections? These are"
-RHETOR 182,1,"This course examines the centrality of sexual difference and sexual exchange to the structuring of societies, cultures, and political life. Possible topics include theories of desire and corporeality; the figure of woman as object of exchange in historical and contemporary contexts such as Sati, prostitution, surrogacy and IVF, and the global traffic in female labor; and an examination of how sexual difference functions as a blind-spot in"
-RHETOR 184,1,"How does one become more aware of oneself as mover, doer, learner, knower? How does one learn? Does one learn to do things with language - to read, to write, even to think - in the same ways as one learns to move? In this class, we will consider these sorts of questions through experiences with and responses to very basic movement lessons and to academic readings, as well as through writing and discussion. The primary aim is for you to become more aware"
-RHETOR 189,1,Group instruction and investigation of topics not accommodated in regular course offerings.
-RHETOR 189A,1,Group instruction and investigation of topics not accommodated in regular course offerings.
-RHETOR H190A,1,Independent study under guidance of a faculty director culminating in a written thesis. Required of all rhetoric majors desiring to earn the A.B. degree with honors.
-RHETOR H190B,1,Independent study under guidance of a faculty director culminating in a written thesis. Required of all rhetoric majors desiring to earn the A.B. degree with honors.
-RHETOR 197,1,Supervised field work in an off-campus organization or business. Field work should be relevant to themes or topics covered in the undergraduate curriculum studied in the department. Additional meetings with faculty sponsor required. Weekly journals and a final paper also required.
-RHETOR 198,1,Instruction for a small group of students on a topic initiated by those students.
+RHETOR R1A,1,"Rhetorical approach to reading and writing argumentative dis
+course. Close reading of selected texts; written themes deve
+loped from class discussion and analysis of rhetorical strat
+egies. Satisfies the first half of the Reading and Compositi
+on requirement."
+RHETOR R1B,1,"Intensive argumentative writing drawn from controversy stimu
+lated through selected readings and class discussion. Satisf
+ies the second half of the Reading and Composition requireme
+nt."
+RHETOR 2,1,"Basic principles of rhetoric as applied to the criticism and
+ practice of public speaking."
+RHETOR 10,1,"An introduction to practical reasoning and the critical anal
+ysis of argument. Topics treated will include: definition, t
+he syllogism, the enthymeme, fallacies, as well as various n
+on-logical appeals. Also, the course will treat in introduct
+ory fashion some ancient and modern attempts to relate rheto
+ric and logic."
+RHETOR 20,1,"Introduction to the study of rhetorical interpretation, trea
+ting how the action of tropes, figures, and performance gene
+rates meaning in communication: from fiction and other forms
+ of literature, to politics, to film, to visual and material
+ culture generally."
+RHETOR 22,1,"This class examines the way in which a distinctively rhetori
+cal concern with persuasion, tropes, topicality, and modes o
+f appeal can be engaged in readings of Shakespearean texts. 
+Using written documents from the period along with contempor
+ary rhetorical criticism and theory, the class analyzes the 
+importance of rhetoric in the production and performance of 
+Shakespeare's plays, in their particular rendering of verbal
+ conflict and the scene of persuasion"
+RHETOR 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+RHETOR 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+RHETOR 39I,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+RHETOR 98,1,"Instruction for a small group of students on a topic initiat
+ed by those students."
+RHETOR 103A,1,"A broad consideration of the historical relationships betwee
+n philosophy, literature, and rhetoric, with special emphasi
+s on selected themes of the classical and medieval periods."
+RHETOR 103B,1,"A broad consideration of the historical relationship between
+ philosophy, literature, and rhetoric, with special emphasis
+ on selected themes within the early modern and modern perio
+ds."
+RHETOR 104,1,"An examination of the relations between rhetoric, discourse,
+ and knowledge in selected historical eras, for example the 
+European Renaissance, the Atlantic Enlightenment, or Victori
+an Britain."
+RHETOR 105T,1,"Consideration of the rhetoric of hermeneutics or biblical in
+terpretation with special emphasis on the mythical, symbolic
+, and allegorical language as the bearer of persuasive inten
+tion."
+RHETOR 106,1,"A study of how historical knowledge is produced and interpre
+ted. Topics might include narrative and representation, the 
+uses of evidence, forms of historical argumentation, and his
+torical controversies in the public realm."
+RHETOR 107,1,"Examination of the characteristic functions of discourse in 
+and about the natural sciences; with particular examination 
+of the ways in which scientific language both guarantees, an
+d at the same time, obscures the expression of social norms 
+in scientific facts."
+RHETOR 108,1,"Introduction to theoretical issues involved in applying rhet
+orical analysis to philosophical discourse; intensive analys
+is of selected philosophical works."
+RHETOR 109,1,"Study of the terms and means by which we make and defend jud
+gments involving the exercise of aesthetic sensitivity or pe
+rceptiveness. Consideration of the relationship between aest
+hetic qualities and aesthetic value. Discussion of aesthetic
+ criticism as the means by which the capacities and salience
+ of works of art are called to our attention and brought int
+o focus. Topics include questions of taste, expression, and 
+affect."
+RHETOR 110,1,"Study and practice of advanced techniques of argumentation f
+or students with well-developed writing skills. Ethical, log
+ical and pathetic appeals; control of register and tone; ass
+essment of a wide variety of real audiences; genre studies."
+RHETOR 111,1,"Participants in this course can expect to accomplish two goa
+ls: they will become familiar with a fair amount of the two 
+epics attributed to Homer; and they will learn how classical
+ texts are received by later generations, with Homer as the 
+centerpiece example. That is, we will look at the way in whi
+ch classical texts are transmitted from the past and how the
+y have survived (or have failed to survive) from antiquity i
+nto the present; how readers have sought to make"
+RHETOR 112,1,"Investigation of the rhetorical and cultural principles comm
+on to various genres of narrative, both prose and poetic, in
+ nonliterate societies. Mythic, epic and folk narratives con
+sidered as well as written works from cultures in transition
+."
+RHETOR 113,1,"Can you live ethically without following moral norms, that i
+s, norms as these are given institutionally and reinforced b
+y culture and/or convention? The question, which is at least
+ as old as the Cynics, gathered steam again in the nineteent
+h century starting with Nietzsche, and it remains a vital pr
+oblem today. Paradoxical though it may seem, some of the sta
+unchest critics of moral systems and moral norms are at the 
+same time powerful advocates of non-normative"
+RHETOR 114,1,"This course examines a range of digital media practices incl
+uding hypertext, interactive drama, videogames, literary int
+eractive fiction, and socially constructed narratives in mul
+ti-user spaces. Through a mixture of readings, discussion, a
+nd project work, we will explore the theoretical positions, 
+debates, and design issues arising from these different prac
+tices. Topics will include the rhetorical"
+RHETOR 115,1,"This course will examine the place and meaning of technology
+ in culture, emphasizing the ways in which technologies shap
+e and inflect social and political interactions. The primary
+ focus will be on the wider reception and perception of tech
+nological and cultural shifts as represented in imaginative 
+scientific and cultural works, endeavors and ambitions. This
+ course will then question the conditions for the production
+ and sustainability of these technologies and technological"
+RHETOR 116,1,"Analysis of rhetorical practice in the context of social and
+ cultural change with particular reference to the historical
+ transition from pre-industrial to industrial society in the
+ west."
+RHETOR 117,1,"Examination of philosophical dialogues from Plato to Heidegg
+er. Focus on the interaction within the dialogue, the partic
+ipation required of the reader/listener, and the relation of
+ such interaction and participation to thinking, speaking an
+d knowing."
+RHETOR 118,1,"An introduction to contemporary modes of reading and interpr
+etation in the humanities, from structuralism through psycho
+analysis, with an emphasis on theories of the sign (semiotic
+s). Examples drawn from such fields as contemporary literatu
+re, architecture, history, painting, film, and popular cultu
+re."
+RHETOR 119,1,"Studies in the history and theory of the rhetorics of place,
+ space, and sites."
+RHETOR 121,1,"Study of the form and content of fictional narratives. Defin
+ition and techniques including voice, point of view, and tim
+e orders. Attention to cultural and historical contexts of s
+elected narratives to consider interplay of works, authors, 
+and readerships."
+RHETOR 122,1,"Examination of the way character is created in drama by repe
+titive rhetorical patterns and the ways themes are defined b
+y manipulation of such patterns."
+RHETOR 123,1,"This course introduces students to the interdisciplinary fie
+ld of performance studies. While themes may vary, the course
+ considers disciplinary genealogies from the performing arts
+, the social sciences, and speech act theory to investigate 
+the many ways that humans constitute themselves and their wo
+rld through performance."
+RHETOR 124,1,"Consideration of the relationship between the texture of poe
+tic discourse largely defined by figures of speech and overa
+ll poetic structures."
+RHETOR 125,1,"Studies in the relationships between poetic theory and poeti
+c practice from Aristotle's Poetics to the present day."
+RHETOR 127,1,"This course examines the complex links between novelistic di
+scourse, society, and politics. Topics to be studied may inc
+lude the social and political vocation of the and the realis
+t novel; autobiography and the rise of liberal individualism
+; political censorship; and the role of the novel in imagini
+ng the nation."
+RHETOR 128T,1,"As a common form of interacting, documenting, and informing,
+ the interview plays a central role in the process of social
+ and cultural inquiry. The interview is here not only studie
+d in its popularized use as a form of oral witnessing and of
+ privileged access to personalities. It is also explored in 
+its critical and potentially creative dimensions as part of 
+a mise en scene or a setting in which interviewer and interv
+iewees function as social"
+RHETOR 129,1,"Rhetorical analysis of autobiographical discourse, with spec
+ific attention to the evolution of the genre in relation to 
+changing modes of human subjectivity."
+RHETOR 129AC,1,"Rhetorical analysis of autobiographical discourse in America
+n cultures, with special attention to the ideology of indivi
+dualism."
+RHETOR 130,1,"Close examination of the adaptation of written fiction to th
+e cinema. Focus on the problems arising from the transformat
+ion of five novels, which will be read, into their filmed ve
+rsions."
+RHETOR 131T,1,"Study of a particular genre (e.g., detective/mystery, horror
+/thriller, melodrama) with attention to theories of genre in
+ popular culture."
+RHETOR 132T,1,"The study of films from the perspective of directorial style
+, theme, or filmmaking career. This course may focus on a si
+ngle or several directors."
+RHETOR 133T,1,"Classical theories of film by Eisenstein, Arnheim, Kracauer,
+ Bazin, Metz, and others. Only one or two films will be anal
+yzed in great depth to test the power of various theories."
+RHETOR 135T,1,"A study of a film topic not covered by the other film catego
+ries. This course might focus on a particular cinematic ""the
+me,"" or a nonhistoric and nongeneric category. Examples: Fem
+inist Film Practice, Gay and Lesbian Cinema, Race and Cinema
+tic Representation."
+RHETOR 136,1,"Study of narratives and visual cultures of art and its autho
+rs, including questions of what is art, who authors it, the 
+boundaries of works and artistic personae, and how aesthetic
+, economic, and legal regimes of artistic authorship are his
+toricized."
+RHETOR 137,1,"This course surveys methods and theories of visual culture, 
+including the rhetorics and discourses of images (still and 
+moving), media (old and new), display, circulation, value, a
+nd interpretation. Topics explored will include: spectacle, 
+reproduction, materiality, time, style, genre, archive, trut
+h-value, and affectivity. Students will learn multi- and int
+erdisciplinary uses of visual materials as objects of analys
+is, evidence, exchange"
+RHETOR 138,1,"An introduction to the close analysis and evaluation of tele
+vision texts. Consideration of a range of examples drawn fro
+m classical television series, sitcoms, dramas, news program
+ming, and contemporary reality television. Students learn th
+e narrative, aesthetic, and stylistic aspects of television'
+s story-telling modes and strategies through readings, scree
+nings, short exercises, and a final project consisting of a 
+substantial work of criticism"
+RHETOR 139,1,"Studies of the theory and practice of the rhetoric of visual
+ evidence relating to catastrophe. Themes may include witnes
+sing, testimony, the photographic record, news media, and ar
+chival knowledge around such subjects as genocide and crimes
+ against humanity, war and other forms of political violence
+, the AIDS epidemic, natural disaster."
+RHETOR 145,1,"What is the role of narrative in science and conversely? How
+ do images supplement or displace these narratives? How have
+ scientific conceptions impacted narrative forms and theorie
+s of narrative? How important are images to the rhetoric of 
+scientific persuasion? Finally, how can science itself be na
+rrated or visually represented? This course will examine cri
+tical discussions of these questions."
+RHETOR 150,1,"Examination of the characteristic rhetoric of a variety of m
+anifestations of modern politics. Emphasis on building a the
+oretical foundation for critically observing and participati
+ng in the contemporary political process."
+RHETOR 151,1,"This course charts the discovery and conquest of the New Wor
+ld; it treats the ways in which New World peoples were under
+stood--and exploited--by Europeans. It explores not only que
+stions relating to the origins of New World peoples, but als
+o climate and zonal theories of race, and racial ideas of de
+generation and corruption. In examining Europe's multivalent
+ relationship with the ""other,"" the course investigates the 
+legal, moral,"
+RHETOR 152,1,"The rhetorical context of . Examines the tradition of Anglo-
+American constitutional argumentation in the eighteenth cent
+ury, its sources, and its implications. Readings include Loc
+ke, Hume, Montesquieu, pamphlets of the American Revolution,
+ and Anti-Federalist writings."
+RHETOR 152AC,1,"This course will explore how the social issue of race in the
+ new American republic shaped the political founding of the 
+United States in 1787. We will investigate perceptions of ra
+ce at the time of the founding, and try to understand the or
+igins of those perceptions. We will examine how those same p
+erceptions affected the founding and establishment of a new 
+nation and how they have affected our contemporary social an
+d political"
+RHETOR 153,1,"A survey of the ways in which Americans have discussed their
+ existence as a distinct nation their rights and obligations
+, and the legitimate modes of political action open to them.
+ Readings cover the 17th through the 20th centuries and may 
+include discussion of sermons, novels, philosophy, social an
+d political theory, autobiographies, declassified government
+ planning documents, Congressional testimony"
+RHETOR 155,1,"This course critically explores key concepts and figures use
+d in the public discourse of European colonialism to justify
+ territorial expansion in the 19th century such as ""race,"" ""
+culture,"" ""civility,"" and ""the Orient"" and their disturbing 
+legacies for the knowledges, practical projects, and problem
+s of contemporary postcolonial societies in a globalizing wo
+rld."
+RHETOR 156,1,"Investigation of major 19th and 20th century works of fictio
+n in which political stances are exploited as dominant theme
+s; close reading of authorial viewpoints and rhetorical stra
+tegies."
+RHETOR 157A,1,"Study of the textual strategies of important works of modern
+ European and American political theory from the 17th throug
+h the 19th centuries."
+RHETOR 157B,1,"Study of the textual strategies of important works of 20th c
+entury European and American political theory."
+RHETOR 158,1,"Close study of selected works of modern political theory, in
+cluding debates over the nature and interpretation of politi
+cal theory and the role of the political theorist. Specific 
+themes and readings vary from year to year."
+RHETOR 159A,1,"This course explores the development of one or two theorists
+ or an important theme or issue, with close readings of majo
+r texts as well as attention to important commentators."
+RHETOR 159B,1,"This course concentrates on aspects of 20th century politica
+l, social, and legal theory that are too complex to be treat
+ed comprehensively as one section of the courses in modern t
+heory."
+RHETOR 160,1,"The application of rhetorical methodology to all categories 
+of legal texts."
+RHETOR 163,1,"Through close readings of and about law and literature, the 
+course explores the role of language in both law and literat
+ure and the relations between law, language, and literature.
+ Focus may be on particular historical periods, authors, or 
+law-related themes."
+RHETOR 164,1,"Rhetorical methodology applied to close analysis of the argu
+mentative framework of important works in modern legal theor
+y."
+RHETOR 165,1,"Consideration of basic philosophical issues related to the p
+olitical and moral foundations of the law."
+RHETOR 166,1,"Examination of the role of rhetoric in the legal and politic
+al thought of a particular era or culture. Course may compar
+e societies or periods. All foreign texts will be studied in
+ English translation."
+RHETOR 167,1,"Thorough consideration of particular rhetorical themes in th
+e field of legal theory, legal philosophy, and legal argumen
+tation."
+RHETOR 168,1,"Thorough consideration of particular rhetorical themes in th
+e fields of contemporary law and legal discourse. Sample top
+ics include entertainment law, First Amendment law, copyrigh
+t law."
+RHETOR 170,1,"Analysis of the ways in which political scientists, sociolog
+ists, anthropologists, economists and psychologists establis
+h the authoritativeness of their claims. Focus is on the pre
+sentation of data as fact, the use of quantitative methods, 
+and other ""strategies"" through which social knowledge is tra
+nsformed into objective information."
+RHETOR 171,1,"Study of the textual strategies whereby the masses and mass 
+culture emerge as objects of anxiety, hope, and scrutiny for
+ social theorists of the 19th and 20th centuries."
+RHETOR 172,1,"Rhetorical analysis of theorists from Durkheim and Weber, as
+ well as Marx, Ricardo and Bentham, to contemporary represen
+tatives of social and economic thought."
+RHETOR 176,1,"Where did the first collections originate? Why did people be
+gin to collect? How did--and do--museums and museum collecti
+ons contribute to the definition of the cultural values/powe
+r of elite groups? How do we define ourselves--as citizens, 
+as members of a discipline or tribe, as nations--with refere
+nce to collections? What values/ideologies structure the deb
+ates and conflicts over definition, meaning, and ownership o
+f collections? These are"
+RHETOR 182,1,"This course examines the centrality of sexual difference and
+ sexual exchange to the structuring of societies, cultures, 
+and political life. Possible topics include theories of desi
+re and corporeality; the figure of woman as object of exchan
+ge in historical and contemporary contexts such as Sati, pro
+stitution, surrogacy and IVF, and the global traffic in fema
+le labor; and an examination of how sexual difference functi
+ons as a blind-spot in"
+RHETOR 184,1,"How does one become more aware of oneself as mover, doer, le
+arner, knower? How does one learn? Does one learn to do thin
+gs with language - to read, to write, even to think - in the
+ same ways as one learns to move? In this class, we will con
+sider these sorts of questions through experiences with and 
+responses to very basic movement lessons and to academic rea
+dings, as well as through writing and discussion. The primar
+y aim is for you to become more aware"
+RHETOR 189,1,"Group instruction and investigation of topics not accommodat
+ed in regular course offerings."
+RHETOR 189A,1,"Group instruction and investigation of topics not accommodat
+ed in regular course offerings."
+RHETOR H190A,1,"Independent study under guidance of a faculty director culmi
+nating in a written thesis. Required of all rhetoric majors 
+desiring to earn the A.B. degree with honors."
+RHETOR H190B,1,"Independent study under guidance of a faculty director culmi
+nating in a written thesis. Required of all rhetoric majors 
+desiring to earn the A.B. degree with honors."
+RHETOR 197,1,"Supervised field work in an off-campus organization or busin
+ess. Field work should be relevant to themes or topics cover
+ed in the undergraduate curriculum studied in the department
+. Additional meetings with faculty sponsor required. Weekly 
+journals and a final paper also required."
+RHETOR 198,1,"Instruction for a small group of students on a topic initiat
+ed by those students."
+RHETOR 199,1,For special projects that cannot be otherwise accommodated.
+RHETOR R1A,1,"Rhetorical approach to reading and writing argumentative dis
+course. Close reading of selected texts; written themes deve
+loped from class discussion and analysis of rhetorical strat
+egies. Satisfies the first half of the Reading and Compositi
+on requirement."
+RHETOR R1B,1,"Intensive argumentative writing drawn from controversy stimu
+lated through selected readings and class discussion. Satisf
+ies the second half of the Reading and Composition requireme
+nt."
+RHETOR 2,1,"Basic principles of rhetoric as applied to the criticism and
+ practice of public speaking."
+RHETOR 10,1,"An introduction to practical reasoning and the critical anal
+ysis of argument. Topics treated will include: definition, t
+he syllogism, the enthymeme, fallacies, as well as various n
+on-logical appeals. Also, the course will treat in introduct
+ory fashion some ancient and modern attempts to relate rheto
+ric and logic."
+RHETOR 20,1,"Introduction to the study of rhetorical interpretation, trea
+ting how the action of tropes, figures, and performance gene
+rates meaning in communication: from fiction and other forms
+ of literature, to politics, to film, to visual and material
+ culture generally."
+RHETOR 22,1,"This class examines the way in which a distinctively rhetori
+cal concern with persuasion, tropes, topicality, and modes o
+f appeal can be engaged in readings of Shakespearean texts. 
+Using written documents from the period along with contempor
+ary rhetorical criticism and theory, the class analyzes the 
+importance of rhetoric in the production and performance of 
+Shakespeare's plays, in their particular rendering of verbal
+ conflict and the scene of persuasion"
+RHETOR 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+RHETOR 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+RHETOR 39I,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+RHETOR 98,1,"Instruction for a small group of students on a topic initiat
+ed by those students."
+RHETOR 103A,1,"A broad consideration of the historical relationships betwee
+n philosophy, literature, and rhetoric, with special emphasi
+s on selected themes of the classical and medieval periods."
+RHETOR 103B,1,"A broad consideration of the historical relationship between
+ philosophy, literature, and rhetoric, with special emphasis
+ on selected themes within the early modern and modern perio
+ds."
+RHETOR 104,1,"An examination of the relations between rhetoric, discourse,
+ and knowledge in selected historical eras, for example the 
+European Renaissance, the Atlantic Enlightenment, or Victori
+an Britain."
+RHETOR 105T,1,"Consideration of the rhetoric of hermeneutics or biblical in
+terpretation with special emphasis on the mythical, symbolic
+, and allegorical language as the bearer of persuasive inten
+tion."
+RHETOR 106,1,"A study of how historical knowledge is produced and interpre
+ted. Topics might include narrative and representation, the 
+uses of evidence, forms of historical argumentation, and his
+torical controversies in the public realm."
+RHETOR 107,1,"Examination of the characteristic functions of discourse in 
+and about the natural sciences; with particular examination 
+of the ways in which scientific language both guarantees, an
+d at the same time, obscures the expression of social norms 
+in scientific facts."
+RHETOR 108,1,"Introduction to theoretical issues involved in applying rhet
+orical analysis to philosophical discourse; intensive analys
+is of selected philosophical works."
+RHETOR 109,1,"Study of the terms and means by which we make and defend jud
+gments involving the exercise of aesthetic sensitivity or pe
+rceptiveness. Consideration of the relationship between aest
+hetic qualities and aesthetic value. Discussion of aesthetic
+ criticism as the means by which the capacities and salience
+ of works of art are called to our attention and brought int
+o focus. Topics include questions of taste, expression, and 
+affect."
+RHETOR 110,1,"Study and practice of advanced techniques of argumentation f
+or students with well-developed writing skills. Ethical, log
+ical and pathetic appeals; control of register and tone; ass
+essment of a wide variety of real audiences; genre studies."
+RHETOR 111,1,"Participants in this course can expect to accomplish two goa
+ls: they will become familiar with a fair amount of the two 
+epics attributed to Homer; and they will learn how classical
+ texts are received by later generations, with Homer as the 
+centerpiece example. That is, we will look at the way in whi
+ch classical texts are transmitted from the past and how the
+y have survived (or have failed to survive) from antiquity i
+nto the present; how readers have sought to make"
+RHETOR 112,1,"Investigation of the rhetorical and cultural principles comm
+on to various genres of narrative, both prose and poetic, in
+ nonliterate societies. Mythic, epic and folk narratives con
+sidered as well as written works from cultures in transition
+."
+RHETOR 113,1,"Can you live ethically without following moral norms, that i
+s, norms as these are given institutionally and reinforced b
+y culture and/or convention? The question, which is at least
+ as old as the Cynics, gathered steam again in the nineteent
+h century starting with Nietzsche, and it remains a vital pr
+oblem today. Paradoxical though it may seem, some of the sta
+unchest critics of moral systems and moral norms are at the 
+same time powerful advocates of non-normative"
+RHETOR 114,1,"This course examines a range of digital media practices incl
+uding hypertext, interactive drama, videogames, literary int
+eractive fiction, and socially constructed narratives in mul
+ti-user spaces. Through a mixture of readings, discussion, a
+nd project work, we will explore the theoretical positions, 
+debates, and design issues arising from these different prac
+tices. Topics will include the rhetorical"
+RHETOR 115,1,"This course will examine the place and meaning of technology
+ in culture, emphasizing the ways in which technologies shap
+e and inflect social and political interactions. The primary
+ focus will be on the wider reception and perception of tech
+nological and cultural shifts as represented in imaginative 
+scientific and cultural works, endeavors and ambitions. This
+ course will then question the conditions for the production
+ and sustainability of these technologies and technological"
+RHETOR 116,1,"Analysis of rhetorical practice in the context of social and
+ cultural change with particular reference to the historical
+ transition from pre-industrial to industrial society in the
+ west."
+RHETOR 117,1,"Examination of philosophical dialogues from Plato to Heidegg
+er. Focus on the interaction within the dialogue, the partic
+ipation required of the reader/listener, and the relation of
+ such interaction and participation to thinking, speaking an
+d knowing."
+RHETOR 118,1,"An introduction to contemporary modes of reading and interpr
+etation in the humanities, from structuralism through psycho
+analysis, with an emphasis on theories of the sign (semiotic
+s). Examples drawn from such fields as contemporary literatu
+re, architecture, history, painting, film, and popular cultu
+re."
+RHETOR 119,1,"Studies in the history and theory of the rhetorics of place,
+ space, and sites."
+RHETOR 121,1,"Study of the form and content of fictional narratives. Defin
+ition and techniques including voice, point of view, and tim
+e orders. Attention to cultural and historical contexts of s
+elected narratives to consider interplay of works, authors, 
+and readerships."
+RHETOR 122,1,"Examination of the way character is created in drama by repe
+titive rhetorical patterns and the ways themes are defined b
+y manipulation of such patterns."
+RHETOR 123,1,"This course introduces students to the interdisciplinary fie
+ld of performance studies. While themes may vary, the course
+ considers disciplinary genealogies from the performing arts
+, the social sciences, and speech act theory to investigate 
+the many ways that humans constitute themselves and their wo
+rld through performance."
+RHETOR 124,1,"Consideration of the relationship between the texture of poe
+tic discourse largely defined by figures of speech and overa
+ll poetic structures."
+RHETOR 125,1,"Studies in the relationships between poetic theory and poeti
+c practice from Aristotle's Poetics to the present day."
+RHETOR 127,1,"This course examines the complex links between novelistic di
+scourse, society, and politics. Topics to be studied may inc
+lude the social and political vocation of the and the realis
+t novel; autobiography and the rise of liberal individualism
+; political censorship; and the role of the novel in imagini
+ng the nation."
+RHETOR 128T,1,"As a common form of interacting, documenting, and informing,
+ the interview plays a central role in the process of social
+ and cultural inquiry. The interview is here not only studie
+d in its popularized use as a form of oral witnessing and of
+ privileged access to personalities. It is also explored in 
+its critical and potentially creative dimensions as part of 
+a mise en scene or a setting in which interviewer and interv
+iewees function as social"
+RHETOR 129,1,"Rhetorical analysis of autobiographical discourse, with spec
+ific attention to the evolution of the genre in relation to 
+changing modes of human subjectivity."
+RHETOR 129AC,1,"Rhetorical analysis of autobiographical discourse in America
+n cultures, with special attention to the ideology of indivi
+dualism."
+RHETOR 130,1,"Close examination of the adaptation of written fiction to th
+e cinema. Focus on the problems arising from the transformat
+ion of five novels, which will be read, into their filmed ve
+rsions."
+RHETOR 131T,1,"Study of a particular genre (e.g., detective/mystery, horror
+/thriller, melodrama) with attention to theories of genre in
+ popular culture."
+RHETOR 132T,1,"The study of films from the perspective of directorial style
+, theme, or filmmaking career. This course may focus on a si
+ngle or several directors."
+RHETOR 133T,1,"Classical theories of film by Eisenstein, Arnheim, Kracauer,
+ Bazin, Metz, and others. Only one or two films will be anal
+yzed in great depth to test the power of various theories."
+RHETOR 135T,1,"A study of a film topic not covered by the other film catego
+ries. This course might focus on a particular cinematic ""the
+me,"" or a nonhistoric and nongeneric category. Examples: Fem
+inist Film Practice, Gay and Lesbian Cinema, Race and Cinema
+tic Representation."
+RHETOR 136,1,"Study of narratives and visual cultures of art and its autho
+rs, including questions of what is art, who authors it, the 
+boundaries of works and artistic personae, and how aesthetic
+, economic, and legal regimes of artistic authorship are his
+toricized."
+RHETOR 137,1,"This course surveys methods and theories of visual culture, 
+including the rhetorics and discourses of images (still and 
+moving), media (old and new), display, circulation, value, a
+nd interpretation. Topics explored will include: spectacle, 
+reproduction, materiality, time, style, genre, archive, trut
+h-value, and affectivity. Students will learn multi- and int
+erdisciplinary uses of visual materials as objects of analys
+is, evidence, exchange"
+RHETOR 138,1,"An introduction to the close analysis and evaluation of tele
+vision texts. Consideration of a range of examples drawn fro
+m classical television series, sitcoms, dramas, news program
+ming, and contemporary reality television. Students learn th
+e narrative, aesthetic, and stylistic aspects of television'
+s story-telling modes and strategies through readings, scree
+nings, short exercises, and a final project consisting of a 
+substantial work of criticism"
+RHETOR 139,1,"Studies of the theory and practice of the rhetoric of visual
+ evidence relating to catastrophe. Themes may include witnes
+sing, testimony, the photographic record, news media, and ar
+chival knowledge around such subjects as genocide and crimes
+ against humanity, war and other forms of political violence
+, the AIDS epidemic, natural disaster."
+RHETOR 145,1,"What is the role of narrative in science and conversely? How
+ do images supplement or displace these narratives? How have
+ scientific conceptions impacted narrative forms and theorie
+s of narrative? How important are images to the rhetoric of 
+scientific persuasion? Finally, how can science itself be na
+rrated or visually represented? This course will examine cri
+tical discussions of these questions."
+RHETOR 150,1,"Examination of the characteristic rhetoric of a variety of m
+anifestations of modern politics. Emphasis on building a the
+oretical foundation for critically observing and participati
+ng in the contemporary political process."
+RHETOR 151,1,"This course charts the discovery and conquest of the New Wor
+ld; it treats the ways in which New World peoples were under
+stood--and exploited--by Europeans. It explores not only que
+stions relating to the origins of New World peoples, but als
+o climate and zonal theories of race, and racial ideas of de
+generation and corruption. In examining Europe's multivalent
+ relationship with the ""other,"" the course investigates the 
+legal, moral,"
+RHETOR 152,1,"The rhetorical context of . Examines the tradition of Anglo-
+American constitutional argumentation in the eighteenth cent
+ury, its sources, and its implications. Readings include Loc
+ke, Hume, Montesquieu, pamphlets of the American Revolution,
+ and Anti-Federalist writings."
+RHETOR 152AC,1,"This course will explore how the social issue of race in the
+ new American republic shaped the political founding of the 
+United States in 1787. We will investigate perceptions of ra
+ce at the time of the founding, and try to understand the or
+igins of those perceptions. We will examine how those same p
+erceptions affected the founding and establishment of a new 
+nation and how they have affected our contemporary social an
+d political"
+RHETOR 153,1,"A survey of the ways in which Americans have discussed their
+ existence as a distinct nation their rights and obligations
+, and the legitimate modes of political action open to them.
+ Readings cover the 17th through the 20th centuries and may 
+include discussion of sermons, novels, philosophy, social an
+d political theory, autobiographies, declassified government
+ planning documents, Congressional testimony"
+RHETOR 155,1,"This course critically explores key concepts and figures use
+d in the public discourse of European colonialism to justify
+ territorial expansion in the 19th century such as ""race,"" ""
+culture,"" ""civility,"" and ""the Orient"" and their disturbing 
+legacies for the knowledges, practical projects, and problem
+s of contemporary postcolonial societies in a globalizing wo
+rld."
+RHETOR 156,1,"Investigation of major 19th and 20th century works of fictio
+n in which political stances are exploited as dominant theme
+s; close reading of authorial viewpoints and rhetorical stra
+tegies."
+RHETOR 157A,1,"Study of the textual strategies of important works of modern
+ European and American political theory from the 17th throug
+h the 19th centuries."
+RHETOR 157B,1,"Study of the textual strategies of important works of 20th c
+entury European and American political theory."
+RHETOR 158,1,"Close study of selected works of modern political theory, in
+cluding debates over the nature and interpretation of politi
+cal theory and the role of the political theorist. Specific 
+themes and readings vary from year to year."
+RHETOR 159A,1,"This course explores the development of one or two theorists
+ or an important theme or issue, with close readings of majo
+r texts as well as attention to important commentators."
+RHETOR 159B,1,"This course concentrates on aspects of 20th century politica
+l, social, and legal theory that are too complex to be treat
+ed comprehensively as one section of the courses in modern t
+heory."
+RHETOR 160,1,"The application of rhetorical methodology to all categories 
+of legal texts."
+RHETOR 163,1,"Through close readings of and about law and literature, the 
+course explores the role of language in both law and literat
+ure and the relations between law, language, and literature.
+ Focus may be on particular historical periods, authors, or 
+law-related themes."
+RHETOR 164,1,"Rhetorical methodology applied to close analysis of the argu
+mentative framework of important works in modern legal theor
+y."
+RHETOR 165,1,"Consideration of basic philosophical issues related to the p
+olitical and moral foundations of the law."
+RHETOR 166,1,"Examination of the role of rhetoric in the legal and politic
+al thought of a particular era or culture. Course may compar
+e societies or periods. All foreign texts will be studied in
+ English translation."
+RHETOR 167,1,"Thorough consideration of particular rhetorical themes in th
+e field of legal theory, legal philosophy, and legal argumen
+tation."
+RHETOR 168,1,"Thorough consideration of particular rhetorical themes in th
+e fields of contemporary law and legal discourse. Sample top
+ics include entertainment law, First Amendment law, copyrigh
+t law."
+RHETOR 170,1,"Analysis of the ways in which political scientists, sociolog
+ists, anthropologists, economists and psychologists establis
+h the authoritativeness of their claims. Focus is on the pre
+sentation of data as fact, the use of quantitative methods, 
+and other ""strategies"" through which social knowledge is tra
+nsformed into objective information."
+RHETOR 171,1,"Study of the textual strategies whereby the masses and mass 
+culture emerge as objects of anxiety, hope, and scrutiny for
+ social theorists of the 19th and 20th centuries."
+RHETOR 172,1,"Rhetorical analysis of theorists from Durkheim and Weber, as
+ well as Marx, Ricardo and Bentham, to contemporary represen
+tatives of social and economic thought."
+RHETOR 176,1,"Where did the first collections originate? Why did people be
+gin to collect? How did--and do--museums and museum collecti
+ons contribute to the definition of the cultural values/powe
+r of elite groups? How do we define ourselves--as citizens, 
+as members of a discipline or tribe, as nations--with refere
+nce to collections? What values/ideologies structure the deb
+ates and conflicts over definition, meaning, and ownership o
+f collections? These are"
+RHETOR 182,1,"This course examines the centrality of sexual difference and
+ sexual exchange to the structuring of societies, cultures, 
+and political life. Possible topics include theories of desi
+re and corporeality; the figure of woman as object of exchan
+ge in historical and contemporary contexts such as Sati, pro
+stitution, surrogacy and IVF, and the global traffic in fema
+le labor; and an examination of how sexual difference functi
+ons as a blind-spot in"
+RHETOR 184,1,"How does one become more aware of oneself as mover, doer, le
+arner, knower? How does one learn? Does one learn to do thin
+gs with language - to read, to write, even to think - in the
+ same ways as one learns to move? In this class, we will con
+sider these sorts of questions through experiences with and 
+responses to very basic movement lessons and to academic rea
+dings, as well as through writing and discussion. The primar
+y aim is for you to become more aware"
+RHETOR 189,1,"Group instruction and investigation of topics not accommodat
+ed in regular course offerings."
+RHETOR 189A,1,"Group instruction and investigation of topics not accommodat
+ed in regular course offerings."
+RHETOR H190A,1,"Independent study under guidance of a faculty director culmi
+nating in a written thesis. Required of all rhetoric majors 
+desiring to earn the A.B. degree with honors."
+RHETOR H190B,1,"Independent study under guidance of a faculty director culmi
+nating in a written thesis. Required of all rhetoric majors 
+desiring to earn the A.B. degree with honors."
+RHETOR 197,1,"Supervised field work in an off-campus organization or busin
+ess. Field work should be relevant to themes or topics cover
+ed in the undergraduate curriculum studied in the department
+. Additional meetings with faculty sponsor required. Weekly 
+journals and a final paper also required."
+RHETOR 198,1,"Instruction for a small group of students on a topic initiat
+ed by those students."
+RHETOR 199,1,For special projects that cannot be otherwise accommodated.
+RHETOR R1A,1,"Rhetorical approach to reading and writing argumentative dis
+course. Close reading of selected texts; written themes deve
+loped from class discussion and analysis of rhetorical strat
+egies. Satisfies the first half of the Reading and Compositi
+on requirement."
+RHETOR R1B,1,"Intensive argumentative writing drawn from controversy stimu
+lated through selected readings and class discussion. Satisf
+ies the second half of the Reading and Composition requireme
+nt."
+RHETOR 2,1,"Basic principles of rhetoric as applied to the criticism and
+ practice of public speaking."
+RHETOR 10,1,"An introduction to practical reasoning and the critical anal
+ysis of argument. Topics treated will include: definition, t
+he syllogism, the enthymeme, fallacies, as well as various n
+on-logical appeals. Also, the course will treat in introduct
+ory fashion some ancient and modern attempts to relate rheto
+ric and logic."
+RHETOR 20,1,"Introduction to the study of rhetorical interpretation, trea
+ting how the action of tropes, figures, and performance gene
+rates meaning in communication: from fiction and other forms
+ of literature, to politics, to film, to visual and material
+ culture generally."
+RHETOR 22,1,"This class examines the way in which a distinctively rhetori
+cal concern with persuasion, tropes, topicality, and modes o
+f appeal can be engaged in readings of Shakespearean texts. 
+Using written documents from the period along with contempor
+ary rhetorical criticism and theory, the class analyzes the 
+importance of rhetoric in the production and performance of 
+Shakespeare's plays, in their particular rendering of verbal
+ conflict and the scene of persuasion"
+RHETOR 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+RHETOR 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+RHETOR 39I,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+RHETOR 98,1,"Instruction for a small group of students on a topic initiat
+ed by those students."
+RHETOR 103A,1,"A broad consideration of the historical relationships betwee
+n philosophy, literature, and rhetoric, with special emphasi
+s on selected themes of the classical and medieval periods."
+RHETOR 103B,1,"A broad consideration of the historical relationship between
+ philosophy, literature, and rhetoric, with special emphasis
+ on selected themes within the early modern and modern perio
+ds."
+RHETOR 104,1,"An examination of the relations between rhetoric, discourse,
+ and knowledge in selected historical eras, for example the 
+European Renaissance, the Atlantic Enlightenment, or Victori
+an Britain."
+RHETOR 105T,1,"Consideration of the rhetoric of hermeneutics or biblical in
+terpretation with special emphasis on the mythical, symbolic
+, and allegorical language as the bearer of persuasive inten
+tion."
+RHETOR 106,1,"A study of how historical knowledge is produced and interpre
+ted. Topics might include narrative and representation, the 
+uses of evidence, forms of historical argumentation, and his
+torical controversies in the public realm."
+RHETOR 107,1,"Examination of the characteristic functions of discourse in 
+and about the natural sciences; with particular examination 
+of the ways in which scientific language both guarantees, an
+d at the same time, obscures the expression of social norms 
+in scientific facts."
+RHETOR 108,1,"Introduction to theoretical issues involved in applying rhet
+orical analysis to philosophical discourse; intensive analys
+is of selected philosophical works."
+RHETOR 109,1,"Study of the terms and means by which we make and defend jud
+gments involving the exercise of aesthetic sensitivity or pe
+rceptiveness. Consideration of the relationship between aest
+hetic qualities and aesthetic value. Discussion of aesthetic
+ criticism as the means by which the capacities and salience
+ of works of art are called to our attention and brought int
+o focus. Topics include questions of taste, expression, and 
+affect."
+RHETOR 110,1,"Study and practice of advanced techniques of argumentation f
+or students with well-developed writing skills. Ethical, log
+ical and pathetic appeals; control of register and tone; ass
+essment of a wide variety of real audiences; genre studies."
+RHETOR 111,1,"Participants in this course can expect to accomplish two goa
+ls: they will become familiar with a fair amount of the two 
+epics attributed to Homer; and they will learn how classical
+ texts are received by later generations, with Homer as the 
+centerpiece example. That is, we will look at the way in whi
+ch classical texts are transmitted from the past and how the
+y have survived (or have failed to survive) from antiquity i
+nto the present; how readers have sought to make"
+RHETOR 112,1,"Investigation of the rhetorical and cultural principles comm
+on to various genres of narrative, both prose and poetic, in
+ nonliterate societies. Mythic, epic and folk narratives con
+sidered as well as written works from cultures in transition
+."
+RHETOR 113,1,"Can you live ethically without following moral norms, that i
+s, norms as these are given institutionally and reinforced b
+y culture and/or convention? The question, which is at least
+ as old as the Cynics, gathered steam again in the nineteent
+h century starting with Nietzsche, and it remains a vital pr
+oblem today. Paradoxical though it may seem, some of the sta
+unchest critics of moral systems and moral norms are at the 
+same time powerful advocates of non-normative"
+RHETOR 114,1,"This course examines a range of digital media practices incl
+uding hypertext, interactive drama, videogames, literary int
+eractive fiction, and socially constructed narratives in mul
+ti-user spaces. Through a mixture of readings, discussion, a
+nd project work, we will explore the theoretical positions, 
+debates, and design issues arising from these different prac
+tices. Topics will include the rhetorical"
+RHETOR 115,1,"This course will examine the place and meaning of technology
+ in culture, emphasizing the ways in which technologies shap
+e and inflect social and political interactions. The primary
+ focus will be on the wider reception and perception of tech
+nological and cultural shifts as represented in imaginative 
+scientific and cultural works, endeavors and ambitions. This
+ course will then question the conditions for the production
+ and sustainability of these technologies and technological"
+RHETOR 116,1,"Analysis of rhetorical practice in the context of social and
+ cultural change with particular reference to the historical
+ transition from pre-industrial to industrial society in the
+ west."
+RHETOR 117,1,"Examination of philosophical dialogues from Plato to Heidegg
+er. Focus on the interaction within the dialogue, the partic
+ipation required of the reader/listener, and the relation of
+ such interaction and participation to thinking, speaking an
+d knowing."
+RHETOR 118,1,"An introduction to contemporary modes of reading and interpr
+etation in the humanities, from structuralism through psycho
+analysis, with an emphasis on theories of the sign (semiotic
+s). Examples drawn from such fields as contemporary literatu
+re, architecture, history, painting, film, and popular cultu
+re."
+RHETOR 119,1,"Studies in the history and theory of the rhetorics of place,
+ space, and sites."
+RHETOR 121,1,"Study of the form and content of fictional narratives. Defin
+ition and techniques including voice, point of view, and tim
+e orders. Attention to cultural and historical contexts of s
+elected narratives to consider interplay of works, authors, 
+and readerships."
+RHETOR 122,1,"Examination of the way character is created in drama by repe
+titive rhetorical patterns and the ways themes are defined b
+y manipulation of such patterns."
+RHETOR 123,1,"This course introduces students to the interdisciplinary fie
+ld of performance studies. While themes may vary, the course
+ considers disciplinary genealogies from the performing arts
+, the social sciences, and speech act theory to investigate 
+the many ways that humans constitute themselves and their wo
+rld through performance."
+RHETOR 124,1,"Consideration of the relationship between the texture of poe
+tic discourse largely defined by figures of speech and overa
+ll poetic structures."
+RHETOR 125,1,"Studies in the relationships between poetic theory and poeti
+c practice from Aristotle's Poetics to the present day."
+RHETOR 127,1,"This course examines the complex links between novelistic di
+scourse, society, and politics. Topics to be studied may inc
+lude the social and political vocation of the and the realis
+t novel; autobiography and the rise of liberal individualism
+; political censorship; and the role of the novel in imagini
+ng the nation."
+RHETOR 128T,1,"As a common form of interacting, documenting, and informing,
+ the interview plays a central role in the process of social
+ and cultural inquiry. The interview is here not only studie
+d in its popularized use as a form of oral witnessing and of
+ privileged access to personalities. It is also explored in 
+its critical and potentially creative dimensions as part of 
+a mise en scene or a setting in which interviewer and interv
+iewees function as social"
+RHETOR 129,1,"Rhetorical analysis of autobiographical discourse, with spec
+ific attention to the evolution of the genre in relation to 
+changing modes of human subjectivity."
+RHETOR 129AC,1,"Rhetorical analysis of autobiographical discourse in America
+n cultures, with special attention to the ideology of indivi
+dualism."
+RHETOR 130,1,"Close examination of the adaptation of written fiction to th
+e cinema. Focus on the problems arising from the transformat
+ion of five novels, which will be read, into their filmed ve
+rsions."
+RHETOR 131T,1,"Study of a particular genre (e.g., detective/mystery, horror
+/thriller, melodrama) with attention to theories of genre in
+ popular culture."
+RHETOR 132T,1,"The study of films from the perspective of directorial style
+, theme, or filmmaking career. This course may focus on a si
+ngle or several directors."
+RHETOR 133T,1,"Classical theories of film by Eisenstein, Arnheim, Kracauer,
+ Bazin, Metz, and others. Only one or two films will be anal
+yzed in great depth to test the power of various theories."
+RHETOR 135T,1,"A study of a film topic not covered by the other film catego
+ries. This course might focus on a particular cinematic ""the
+me,"" or a nonhistoric and nongeneric category. Examples: Fem
+inist Film Practice, Gay and Lesbian Cinema, Race and Cinema
+tic Representation."
+RHETOR 136,1,"Study of narratives and visual cultures of art and its autho
+rs, including questions of what is art, who authors it, the 
+boundaries of works and artistic personae, and how aesthetic
+, economic, and legal regimes of artistic authorship are his
+toricized."
+RHETOR 137,1,"This course surveys methods and theories of visual culture, 
+including the rhetorics and discourses of images (still and 
+moving), media (old and new), display, circulation, value, a
+nd interpretation. Topics explored will include: spectacle, 
+reproduction, materiality, time, style, genre, archive, trut
+h-value, and affectivity. Students will learn multi- and int
+erdisciplinary uses of visual materials as objects of analys
+is, evidence, exchange"
+RHETOR 138,1,"An introduction to the close analysis and evaluation of tele
+vision texts. Consideration of a range of examples drawn fro
+m classical television series, sitcoms, dramas, news program
+ming, and contemporary reality television. Students learn th
+e narrative, aesthetic, and stylistic aspects of television'
+s story-telling modes and strategies through readings, scree
+nings, short exercises, and a final project consisting of a 
+substantial work of criticism"
+RHETOR 139,1,"Studies of the theory and practice of the rhetoric of visual
+ evidence relating to catastrophe. Themes may include witnes
+sing, testimony, the photographic record, news media, and ar
+chival knowledge around such subjects as genocide and crimes
+ against humanity, war and other forms of political violence
+, the AIDS epidemic, natural disaster."
+RHETOR 145,1,"What is the role of narrative in science and conversely? How
+ do images supplement or displace these narratives? How have
+ scientific conceptions impacted narrative forms and theorie
+s of narrative? How important are images to the rhetoric of 
+scientific persuasion? Finally, how can science itself be na
+rrated or visually represented? This course will examine cri
+tical discussions of these questions."
+RHETOR 150,1,"Examination of the characteristic rhetoric of a variety of m
+anifestations of modern politics. Emphasis on building a the
+oretical foundation for critically observing and participati
+ng in the contemporary political process."
+RHETOR 151,1,"This course charts the discovery and conquest of the New Wor
+ld; it treats the ways in which New World peoples were under
+stood--and exploited--by Europeans. It explores not only que
+stions relating to the origins of New World peoples, but als
+o climate and zonal theories of race, and racial ideas of de
+generation and corruption. In examining Europe's multivalent
+ relationship with the ""other,"" the course investigates the 
+legal, moral,"
+RHETOR 152,1,"The rhetorical context of . Examines the tradition of Anglo-
+American constitutional argumentation in the eighteenth cent
+ury, its sources, and its implications. Readings include Loc
+ke, Hume, Montesquieu, pamphlets of the American Revolution,
+ and Anti-Federalist writings."
+RHETOR 152AC,1,"This course will explore how the social issue of race in the
+ new American republic shaped the political founding of the 
+United States in 1787. We will investigate perceptions of ra
+ce at the time of the founding, and try to understand the or
+igins of those perceptions. We will examine how those same p
+erceptions affected the founding and establishment of a new 
+nation and how they have affected our contemporary social an
+d political"
+RHETOR 153,1,"A survey of the ways in which Americans have discussed their
+ existence as a distinct nation their rights and obligations
+, and the legitimate modes of political action open to them.
+ Readings cover the 17th through the 20th centuries and may 
+include discussion of sermons, novels, philosophy, social an
+d political theory, autobiographies, declassified government
+ planning documents, Congressional testimony"
+RHETOR 155,1,"This course critically explores key concepts and figures use
+d in the public discourse of European colonialism to justify
+ territorial expansion in the 19th century such as ""race,"" ""
+culture,"" ""civility,"" and ""the Orient"" and their disturbing 
+legacies for the knowledges, practical projects, and problem
+s of contemporary postcolonial societies in a globalizing wo
+rld."
+RHETOR 156,1,"Investigation of major 19th and 20th century works of fictio
+n in which political stances are exploited as dominant theme
+s; close reading of authorial viewpoints and rhetorical stra
+tegies."
+RHETOR 157A,1,"Study of the textual strategies of important works of modern
+ European and American political theory from the 17th throug
+h the 19th centuries."
+RHETOR 157B,1,"Study of the textual strategies of important works of 20th c
+entury European and American political theory."
+RHETOR 158,1,"Close study of selected works of modern political theory, in
+cluding debates over the nature and interpretation of politi
+cal theory and the role of the political theorist. Specific 
+themes and readings vary from year to year."
+RHETOR 159A,1,"This course explores the development of one or two theorists
+ or an important theme or issue, with close readings of majo
+r texts as well as attention to important commentators."
+RHETOR 159B,1,"This course concentrates on aspects of 20th century politica
+l, social, and legal theory that are too complex to be treat
+ed comprehensively as one section of the courses in modern t
+heory."
+RHETOR 160,1,"The application of rhetorical methodology to all categories 
+of legal texts."
+RHETOR 163,1,"Through close readings of and about law and literature, the 
+course explores the role of language in both law and literat
+ure and the relations between law, language, and literature.
+ Focus may be on particular historical periods, authors, or 
+law-related themes."
+RHETOR 164,1,"Rhetorical methodology applied to close analysis of the argu
+mentative framework of important works in modern legal theor
+y."
+RHETOR 165,1,"Consideration of basic philosophical issues related to the p
+olitical and moral foundations of the law."
+RHETOR 166,1,"Examination of the role of rhetoric in the legal and politic
+al thought of a particular era or culture. Course may compar
+e societies or periods. All foreign texts will be studied in
+ English translation."
+RHETOR 167,1,"Thorough consideration of particular rhetorical themes in th
+e field of legal theory, legal philosophy, and legal argumen
+tation."
+RHETOR 168,1,"Thorough consideration of particular rhetorical themes in th
+e fields of contemporary law and legal discourse. Sample top
+ics include entertainment law, First Amendment law, copyrigh
+t law."
+RHETOR 170,1,"Analysis of the ways in which political scientists, sociolog
+ists, anthropologists, economists and psychologists establis
+h the authoritativeness of their claims. Focus is on the pre
+sentation of data as fact, the use of quantitative methods, 
+and other ""strategies"" through which social knowledge is tra
+nsformed into objective information."
+RHETOR 171,1,"Study of the textual strategies whereby the masses and mass 
+culture emerge as objects of anxiety, hope, and scrutiny for
+ social theorists of the 19th and 20th centuries."
+RHETOR 172,1,"Rhetorical analysis of theorists from Durkheim and Weber, as
+ well as Marx, Ricardo and Bentham, to contemporary represen
+tatives of social and economic thought."
+RHETOR 176,1,"Where did the first collections originate? Why did people be
+gin to collect? How did--and do--museums and museum collecti
+ons contribute to the definition of the cultural values/powe
+r of elite groups? How do we define ourselves--as citizens, 
+as members of a discipline or tribe, as nations--with refere
+nce to collections? What values/ideologies structure the deb
+ates and conflicts over definition, meaning, and ownership o
+f collections? These are"
+RHETOR 182,1,"This course examines the centrality of sexual difference and
+ sexual exchange to the structuring of societies, cultures, 
+and political life. Possible topics include theories of desi
+re and corporeality; the figure of woman as object of exchan
+ge in historical and contemporary contexts such as Sati, pro
+stitution, surrogacy and IVF, and the global traffic in fema
+le labor; and an examination of how sexual difference functi
+ons as a blind-spot in"
+RHETOR 184,1,"How does one become more aware of oneself as mover, doer, le
+arner, knower? How does one learn? Does one learn to do thin
+gs with language - to read, to write, even to think - in the
+ same ways as one learns to move? In this class, we will con
+sider these sorts of questions through experiences with and 
+responses to very basic movement lessons and to academic rea
+dings, as well as through writing and discussion. The primar
+y aim is for you to become more aware"
+RHETOR 189,1,"Group instruction and investigation of topics not accommodat
+ed in regular course offerings."
+RHETOR 189A,1,"Group instruction and investigation of topics not accommodat
+ed in regular course offerings."
+RHETOR H190A,1,"Independent study under guidance of a faculty director culmi
+nating in a written thesis. Required of all rhetoric majors 
+desiring to earn the A.B. degree with honors."
+RHETOR H190B,1,"Independent study under guidance of a faculty director culmi
+nating in a written thesis. Required of all rhetoric majors 
+desiring to earn the A.B. degree with honors."
+RHETOR 197,1,"Supervised field work in an off-campus organization or busin
+ess. Field work should be relevant to themes or topics cover
+ed in the undergraduate curriculum studied in the department
+. Additional meetings with faculty sponsor required. Weekly 
+journals and a final paper also required."
+RHETOR 198,1,"Instruction for a small group of students on a topic initiat
+ed by those students."
+RHETOR 199,1,For special projects that cannot be otherwise accommodated.
+RHETOR R1A,1,"Rhetorical approach to reading and writing argumentative dis
+course. Close reading of selected texts; written themes deve
+loped from class discussion and analysis of rhetorical strat
+egies. Satisfies the first half of the Reading and Compositi
+on requirement."
+RHETOR R1B,1,"Intensive argumentative writing drawn from controversy stimu
+lated through selected readings and class discussion. Satisf
+ies the second half of the Reading and Composition requireme
+nt."
+RHETOR 2,1,"Basic principles of rhetoric as applied to the criticism and
+ practice of public speaking."
+RHETOR 10,1,"An introduction to practical reasoning and the critical anal
+ysis of argument. Topics treated will include: definition, t
+he syllogism, the enthymeme, fallacies, as well as various n
+on-logical appeals. Also, the course will treat in introduct
+ory fashion some ancient and modern attempts to relate rheto
+ric and logic."
+RHETOR 20,1,"Introduction to the study of rhetorical interpretation, trea
+ting how the action of tropes, figures, and performance gene
+rates meaning in communication: from fiction and other forms
+ of literature, to politics, to film, to visual and material
+ culture generally."
+RHETOR 22,1,"This class examines the way in which a distinctively rhetori
+cal concern with persuasion, tropes, topicality, and modes o
+f appeal can be engaged in readings of Shakespearean texts. 
+Using written documents from the period along with contempor
+ary rhetorical criticism and theory, the class analyzes the 
+importance of rhetoric in the production and performance of 
+Shakespeare's plays, in their particular rendering of verbal
+ conflict and the scene of persuasion"
+RHETOR 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+RHETOR 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+RHETOR 39I,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+RHETOR 98,1,"Instruction for a small group of students on a topic initiat
+ed by those students."
+RHETOR 103A,1,"A broad consideration of the historical relationships betwee
+n philosophy, literature, and rhetoric, with special emphasi
+s on selected themes of the classical and medieval periods."
+RHETOR 103B,1,"A broad consideration of the historical relationship between
+ philosophy, literature, and rhetoric, with special emphasis
+ on selected themes within the early modern and modern perio
+ds."
+RHETOR 104,1,"An examination of the relations between rhetoric, discourse,
+ and knowledge in selected historical eras, for example the 
+European Renaissance, the Atlantic Enlightenment, or Victori
+an Britain."
+RHETOR 105T,1,"Consideration of the rhetoric of hermeneutics or biblical in
+terpretation with special emphasis on the mythical, symbolic
+, and allegorical language as the bearer of persuasive inten
+tion."
+RHETOR 106,1,"A study of how historical knowledge is produced and interpre
+ted. Topics might include narrative and representation, the 
+uses of evidence, forms of historical argumentation, and his
+torical controversies in the public realm."
+RHETOR 107,1,"Examination of the characteristic functions of discourse in 
+and about the natural sciences; with particular examination 
+of the ways in which scientific language both guarantees, an
+d at the same time, obscures the expression of social norms 
+in scientific facts."
+RHETOR 108,1,"Introduction to theoretical issues involved in applying rhet
+orical analysis to philosophical discourse; intensive analys
+is of selected philosophical works."
+RHETOR 109,1,"Study of the terms and means by which we make and defend jud
+gments involving the exercise of aesthetic sensitivity or pe
+rceptiveness. Consideration of the relationship between aest
+hetic qualities and aesthetic value. Discussion of aesthetic
+ criticism as the means by which the capacities and salience
+ of works of art are called to our attention and brought int
+o focus. Topics include questions of taste, expression, and 
+affect."
+RHETOR 110,1,"Study and practice of advanced techniques of argumentation f
+or students with well-developed writing skills. Ethical, log
+ical and pathetic appeals; control of register and tone; ass
+essment of a wide variety of real audiences; genre studies."
+RHETOR 111,1,"Participants in this course can expect to accomplish two goa
+ls: they will become familiar with a fair amount of the two 
+epics attributed to Homer; and they will learn how classical
+ texts are received by later generations, with Homer as the 
+centerpiece example. That is, we will look at the way in whi
+ch classical texts are transmitted from the past and how the
+y have survived (or have failed to survive) from antiquity i
+nto the present; how readers have sought to make"
+RHETOR 112,1,"Investigation of the rhetorical and cultural principles comm
+on to various genres of narrative, both prose and poetic, in
+ nonliterate societies. Mythic, epic and folk narratives con
+sidered as well as written works from cultures in transition
+."
+RHETOR 113,1,"Can you live ethically without following moral norms, that i
+s, norms as these are given institutionally and reinforced b
+y culture and/or convention? The question, which is at least
+ as old as the Cynics, gathered steam again in the nineteent
+h century starting with Nietzsche, and it remains a vital pr
+oblem today. Paradoxical though it may seem, some of the sta
+unchest critics of moral systems and moral norms are at the 
+same time powerful advocates of non-normative"
+RHETOR 114,1,"This course examines a range of digital media practices incl
+uding hypertext, interactive drama, videogames, literary int
+eractive fiction, and socially constructed narratives in mul
+ti-user spaces. Through a mixture of readings, discussion, a
+nd project work, we will explore the theoretical positions, 
+debates, and design issues arising from these different prac
+tices. Topics will include the rhetorical"
+RHETOR 115,1,"This course will examine the place and meaning of technology
+ in culture, emphasizing the ways in which technologies shap
+e and inflect social and political interactions. The primary
+ focus will be on the wider reception and perception of tech
+nological and cultural shifts as represented in imaginative 
+scientific and cultural works, endeavors and ambitions. This
+ course will then question the conditions for the production
+ and sustainability of these technologies and technological"
+RHETOR 116,1,"Analysis of rhetorical practice in the context of social and
+ cultural change with particular reference to the historical
+ transition from pre-industrial to industrial society in the
+ west."
+RHETOR 117,1,"Examination of philosophical dialogues from Plato to Heidegg
+er. Focus on the interaction within the dialogue, the partic
+ipation required of the reader/listener, and the relation of
+ such interaction and participation to thinking, speaking an
+d knowing."
+RHETOR 118,1,"An introduction to contemporary modes of reading and interpr
+etation in the humanities, from structuralism through psycho
+analysis, with an emphasis on theories of the sign (semiotic
+s). Examples drawn from such fields as contemporary literatu
+re, architecture, history, painting, film, and popular cultu
+re."
+RHETOR 119,1,"Studies in the history and theory of the rhetorics of place,
+ space, and sites."
+RHETOR 121,1,"Study of the form and content of fictional narratives. Defin
+ition and techniques including voice, point of view, and tim
+e orders. Attention to cultural and historical contexts of s
+elected narratives to consider interplay of works, authors, 
+and readerships."
+RHETOR 122,1,"Examination of the way character is created in drama by repe
+titive rhetorical patterns and the ways themes are defined b
+y manipulation of such patterns."
+RHETOR 123,1,"This course introduces students to the interdisciplinary fie
+ld of performance studies. While themes may vary, the course
+ considers disciplinary genealogies from the performing arts
+, the social sciences, and speech act theory to investigate 
+the many ways that humans constitute themselves and their wo
+rld through performance."
+RHETOR 124,1,"Consideration of the relationship between the texture of poe
+tic discourse largely defined by figures of speech and overa
+ll poetic structures."
+RHETOR 125,1,"Studies in the relationships between poetic theory and poeti
+c practice from Aristotle's Poetics to the present day."
+RHETOR 127,1,"This course examines the complex links between novelistic di
+scourse, society, and politics. Topics to be studied may inc
+lude the social and political vocation of the and the realis
+t novel; autobiography and the rise of liberal individualism
+; political censorship; and the role of the novel in imagini
+ng the nation."
+RHETOR 128T,1,"As a common form of interacting, documenting, and informing,
+ the interview plays a central role in the process of social
+ and cultural inquiry. The interview is here not only studie
+d in its popularized use as a form of oral witnessing and of
+ privileged access to personalities. It is also explored in 
+its critical and potentially creative dimensions as part of 
+a mise en scene or a setting in which interviewer and interv
+iewees function as social"
+RHETOR 129,1,"Rhetorical analysis of autobiographical discourse, with spec
+ific attention to the evolution of the genre in relation to 
+changing modes of human subjectivity."
+RHETOR 129AC,1,"Rhetorical analysis of autobiographical discourse in America
+n cultures, with special attention to the ideology of indivi
+dualism."
+RHETOR 130,1,"Close examination of the adaptation of written fiction to th
+e cinema. Focus on the problems arising from the transformat
+ion of five novels, which will be read, into their filmed ve
+rsions."
+RHETOR 131T,1,"Study of a particular genre (e.g., detective/mystery, horror
+/thriller, melodrama) with attention to theories of genre in
+ popular culture."
+RHETOR 132T,1,"The study of films from the perspective of directorial style
+, theme, or filmmaking career. This course may focus on a si
+ngle or several directors."
+RHETOR 133T,1,"Classical theories of film by Eisenstein, Arnheim, Kracauer,
+ Bazin, Metz, and others. Only one or two films will be anal
+yzed in great depth to test the power of various theories."
+RHETOR 135T,1,"A study of a film topic not covered by the other film catego
+ries. This course might focus on a particular cinematic ""the
+me,"" or a nonhistoric and nongeneric category. Examples: Fem
+inist Film Practice, Gay and Lesbian Cinema, Race and Cinema
+tic Representation."
+RHETOR 136,1,"Study of narratives and visual cultures of art and its autho
+rs, including questions of what is art, who authors it, the 
+boundaries of works and artistic personae, and how aesthetic
+, economic, and legal regimes of artistic authorship are his
+toricized."
+RHETOR 137,1,"This course surveys methods and theories of visual culture, 
+including the rhetorics and discourses of images (still and 
+moving), media (old and new), display, circulation, value, a
+nd interpretation. Topics explored will include: spectacle, 
+reproduction, materiality, time, style, genre, archive, trut
+h-value, and affectivity. Students will learn multi- and int
+erdisciplinary uses of visual materials as objects of analys
+is, evidence, exchange"
+RHETOR 138,1,"An introduction to the close analysis and evaluation of tele
+vision texts. Consideration of a range of examples drawn fro
+m classical television series, sitcoms, dramas, news program
+ming, and contemporary reality television. Students learn th
+e narrative, aesthetic, and stylistic aspects of television'
+s story-telling modes and strategies through readings, scree
+nings, short exercises, and a final project consisting of a 
+substantial work of criticism"
+RHETOR 139,1,"Studies of the theory and practice of the rhetoric of visual
+ evidence relating to catastrophe. Themes may include witnes
+sing, testimony, the photographic record, news media, and ar
+chival knowledge around such subjects as genocide and crimes
+ against humanity, war and other forms of political violence
+, the AIDS epidemic, natural disaster."
+RHETOR 145,1,"What is the role of narrative in science and conversely? How
+ do images supplement or displace these narratives? How have
+ scientific conceptions impacted narrative forms and theorie
+s of narrative? How important are images to the rhetoric of 
+scientific persuasion? Finally, how can science itself be na
+rrated or visually represented? This course will examine cri
+tical discussions of these questions."
+RHETOR 150,1,"Examination of the characteristic rhetoric of a variety of m
+anifestations of modern politics. Emphasis on building a the
+oretical foundation for critically observing and participati
+ng in the contemporary political process."
+RHETOR 151,1,"This course charts the discovery and conquest of the New Wor
+ld; it treats the ways in which New World peoples were under
+stood--and exploited--by Europeans. It explores not only que
+stions relating to the origins of New World peoples, but als
+o climate and zonal theories of race, and racial ideas of de
+generation and corruption. In examining Europe's multivalent
+ relationship with the ""other,"" the course investigates the 
+legal, moral,"
+RHETOR 152,1,"The rhetorical context of . Examines the tradition of Anglo-
+American constitutional argumentation in the eighteenth cent
+ury, its sources, and its implications. Readings include Loc
+ke, Hume, Montesquieu, pamphlets of the American Revolution,
+ and Anti-Federalist writings."
+RHETOR 152AC,1,"This course will explore how the social issue of race in the
+ new American republic shaped the political founding of the 
+United States in 1787. We will investigate perceptions of ra
+ce at the time of the founding, and try to understand the or
+igins of those perceptions. We will examine how those same p
+erceptions affected the founding and establishment of a new 
+nation and how they have affected our contemporary social an
+d political"
+RHETOR 153,1,"A survey of the ways in which Americans have discussed their
+ existence as a distinct nation their rights and obligations
+, and the legitimate modes of political action open to them.
+ Readings cover the 17th through the 20th centuries and may 
+include discussion of sermons, novels, philosophy, social an
+d political theory, autobiographies, declassified government
+ planning documents, Congressional testimony"
+RHETOR 155,1,"This course critically explores key concepts and figures use
+d in the public discourse of European colonialism to justify
+ territorial expansion in the 19th century such as ""race,"" ""
+culture,"" ""civility,"" and ""the Orient"" and their disturbing 
+legacies for the knowledges, practical projects, and problem
+s of contemporary postcolonial societies in a globalizing wo
+rld."
+RHETOR 156,1,"Investigation of major 19th and 20th century works of fictio
+n in which political stances are exploited as dominant theme
+s; close reading of authorial viewpoints and rhetorical stra
+tegies."
+RHETOR 157A,1,"Study of the textual strategies of important works of modern
+ European and American political theory from the 17th throug
+h the 19th centuries."
+RHETOR 157B,1,"Study of the textual strategies of important works of 20th c
+entury European and American political theory."
+RHETOR 158,1,"Close study of selected works of modern political theory, in
+cluding debates over the nature and interpretation of politi
+cal theory and the role of the political theorist. Specific 
+themes and readings vary from year to year."
+RHETOR 159A,1,"This course explores the development of one or two theorists
+ or an important theme or issue, with close readings of majo
+r texts as well as attention to important commentators."
+RHETOR 159B,1,"This course concentrates on aspects of 20th century politica
+l, social, and legal theory that are too complex to be treat
+ed comprehensively as one section of the courses in modern t
+heory."
+RHETOR 160,1,"The application of rhetorical methodology to all categories 
+of legal texts."
+RHETOR 163,1,"Through close readings of and about law and literature, the 
+course explores the role of language in both law and literat
+ure and the relations between law, language, and literature.
+ Focus may be on particular historical periods, authors, or 
+law-related themes."
+RHETOR 164,1,"Rhetorical methodology applied to close analysis of the argu
+mentative framework of important works in modern legal theor
+y."
+RHETOR 165,1,"Consideration of basic philosophical issues related to the p
+olitical and moral foundations of the law."
+RHETOR 166,1,"Examination of the role of rhetoric in the legal and politic
+al thought of a particular era or culture. Course may compar
+e societies or periods. All foreign texts will be studied in
+ English translation."
+RHETOR 167,1,"Thorough consideration of particular rhetorical themes in th
+e field of legal theory, legal philosophy, and legal argumen
+tation."
+RHETOR 168,1,"Thorough consideration of particular rhetorical themes in th
+e fields of contemporary law and legal discourse. Sample top
+ics include entertainment law, First Amendment law, copyrigh
+t law."
+RHETOR 170,1,"Analysis of the ways in which political scientists, sociolog
+ists, anthropologists, economists and psychologists establis
+h the authoritativeness of their claims. Focus is on the pre
+sentation of data as fact, the use of quantitative methods, 
+and other ""strategies"" through which social knowledge is tra
+nsformed into objective information."
+RHETOR 171,1,"Study of the textual strategies whereby the masses and mass 
+culture emerge as objects of anxiety, hope, and scrutiny for
+ social theorists of the 19th and 20th centuries."
+RHETOR 172,1,"Rhetorical analysis of theorists from Durkheim and Weber, as
+ well as Marx, Ricardo and Bentham, to contemporary represen
+tatives of social and economic thought."
+RHETOR 176,1,"Where did the first collections originate? Why did people be
+gin to collect? How did--and do--museums and museum collecti
+ons contribute to the definition of the cultural values/powe
+r of elite groups? How do we define ourselves--as citizens, 
+as members of a discipline or tribe, as nations--with refere
+nce to collections? What values/ideologies structure the deb
+ates and conflicts over definition, meaning, and ownership o
+f collections? These are"
+RHETOR 182,1,"This course examines the centrality of sexual difference and
+ sexual exchange to the structuring of societies, cultures, 
+and political life. Possible topics include theories of desi
+re and corporeality; the figure of woman as object of exchan
+ge in historical and contemporary contexts such as Sati, pro
+stitution, surrogacy and IVF, and the global traffic in fema
+le labor; and an examination of how sexual difference functi
+ons as a blind-spot in"
+RHETOR 184,1,"How does one become more aware of oneself as mover, doer, le
+arner, knower? How does one learn? Does one learn to do thin
+gs with language - to read, to write, even to think - in the
+ same ways as one learns to move? In this class, we will con
+sider these sorts of questions through experiences with and 
+responses to very basic movement lessons and to academic rea
+dings, as well as through writing and discussion. The primar
+y aim is for you to become more aware"
+RHETOR 189,1,"Group instruction and investigation of topics not accommodat
+ed in regular course offerings."
+RHETOR 189A,1,"Group instruction and investigation of topics not accommodat
+ed in regular course offerings."
+RHETOR H190A,1,"Independent study under guidance of a faculty director culmi
+nating in a written thesis. Required of all rhetoric majors 
+desiring to earn the A.B. degree with honors."
+RHETOR H190B,1,"Independent study under guidance of a faculty director culmi
+nating in a written thesis. Required of all rhetoric majors 
+desiring to earn the A.B. degree with honors."
+RHETOR 197,1,"Supervised field work in an off-campus organization or busin
+ess. Field work should be relevant to themes or topics cover
+ed in the undergraduate curriculum studied in the department
+. Additional meetings with faculty sponsor required. Weekly 
+journals and a final paper also required."
+RHETOR 198,1,"Instruction for a small group of students on a topic initiat
+ed by those students."
+RHETOR 199,1,For special projects that cannot be otherwise accommodated.
+RHETOR R1A,1,"Rhetorical approach to reading and writing argumentative dis
+course. Close reading of selected texts; written themes deve
+loped from class discussion and analysis of rhetorical strat
+egies. Satisfies the first half of the Reading and Compositi
+on requirement."
+RHETOR R1B,1,"Intensive argumentative writing drawn from controversy stimu
+lated through selected readings and class discussion. Satisf
+ies the second half of the Reading and Composition requireme
+nt."
+RHETOR 2,1,"Basic principles of rhetoric as applied to the criticism and
+ practice of public speaking."
+RHETOR 10,1,"An introduction to practical reasoning and the critical anal
+ysis of argument. Topics treated will include: definition, t
+he syllogism, the enthymeme, fallacies, as well as various n
+on-logical appeals. Also, the course will treat in introduct
+ory fashion some ancient and modern attempts to relate rheto
+ric and logic."
+RHETOR 20,1,"Introduction to the study of rhetorical interpretation, trea
+ting how the action of tropes, figures, and performance gene
+rates meaning in communication: from fiction and other forms
+ of literature, to politics, to film, to visual and material
+ culture generally."
+RHETOR 22,1,"This class examines the way in which a distinctively rhetori
+cal concern with persuasion, tropes, topicality, and modes o
+f appeal can be engaged in readings of Shakespearean texts. 
+Using written documents from the period along with contempor
+ary rhetorical criticism and theory, the class analyzes the 
+importance of rhetoric in the production and performance of 
+Shakespeare's plays, in their particular rendering of verbal
+ conflict and the scene of persuasion"
+RHETOR 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+RHETOR 39,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+RHETOR 39I,1,"Freshman and sophomore seminars offer lower division student
+s the opportunity to explore an intellectual topic with a fa
+culty member and a group of peers in a small-seminar setting
+. These seminars are offered in all campus departments; topi
+cs vary from department to department and from semester to s
+emester."
+RHETOR 98,1,"Instruction for a small group of students on a topic initiat
+ed by those students."
+RHETOR 103A,1,"A broad consideration of the historical relationships betwee
+n philosophy, literature, and rhetoric, with special emphasi
+s on selected themes of the classical and medieval periods."
+RHETOR 103B,1,"A broad consideration of the historical relationship between
+ philosophy, literature, and rhetoric, with special emphasis
+ on selected themes within the early modern and modern perio
+ds."
+RHETOR 104,1,"An examination of the relations between rhetoric, discourse,
+ and knowledge in selected historical eras, for example the 
+European Renaissance, the Atlantic Enlightenment, or Victori
+an Britain."
+RHETOR 105T,1,"Consideration of the rhetoric of hermeneutics or biblical in
+terpretation with special emphasis on the mythical, symbolic
+, and allegorical language as the bearer of persuasive inten
+tion."
+RHETOR 106,1,"A study of how historical knowledge is produced and interpre
+ted. Topics might include narrative and representation, the 
+uses of evidence, forms of historical argumentation, and his
+torical controversies in the public realm."
+RHETOR 107,1,"Examination of the characteristic functions of discourse in 
+and about the natural sciences; with particular examination 
+of the ways in which scientific language both guarantees, an
+d at the same time, obscures the expression of social norms 
+in scientific facts."
+RHETOR 108,1,"Introduction to theoretical issues involved in applying rhet
+orical analysis to philosophical discourse; intensive analys
+is of selected philosophical works."
+RHETOR 109,1,"Study of the terms and means by which we make and defend jud
+gments involving the exercise of aesthetic sensitivity or pe
+rceptiveness. Consideration of the relationship between aest
+hetic qualities and aesthetic value. Discussion of aesthetic
+ criticism as the means by which the capacities and salience
+ of works of art are called to our attention and brought int
+o focus. Topics include questions of taste, expression, and 
+affect."
+RHETOR 110,1,"Study and practice of advanced techniques of argumentation f
+or students with well-developed writing skills. Ethical, log
+ical and pathetic appeals; control of register and tone; ass
+essment of a wide variety of real audiences; genre studies."
+RHETOR 111,1,"Participants in this course can expect to accomplish two goa
+ls: they will become familiar with a fair amount of the two 
+epics attributed to Homer; and they will learn how classical
+ texts are received by later generations, with Homer as the 
+centerpiece example. That is, we will look at the way in whi
+ch classical texts are transmitted from the past and how the
+y have survived (or have failed to survive) from antiquity i
+nto the present; how readers have sought to make"
+RHETOR 112,1,"Investigation of the rhetorical and cultural principles comm
+on to various genres of narrative, both prose and poetic, in
+ nonliterate societies. Mythic, epic and folk narratives con
+sidered as well as written works from cultures in transition
+."
+RHETOR 113,1,"Can you live ethically without following moral norms, that i
+s, norms as these are given institutionally and reinforced b
+y culture and/or convention? The question, which is at least
+ as old as the Cynics, gathered steam again in the nineteent
+h century starting with Nietzsche, and it remains a vital pr
+oblem today. Paradoxical though it may seem, some of the sta
+unchest critics of moral systems and moral norms are at the 
+same time powerful advocates of non-normative"
+RHETOR 114,1,"This course examines a range of digital media practices incl
+uding hypertext, interactive drama, videogames, literary int
+eractive fiction, and socially constructed narratives in mul
+ti-user spaces. Through a mixture of readings, discussion, a
+nd project work, we will explore the theoretical positions, 
+debates, and design issues arising from these different prac
+tices. Topics will include the rhetorical"
+RHETOR 115,1,"This course will examine the place and meaning of technology
+ in culture, emphasizing the ways in which technologies shap
+e and inflect social and political interactions. The primary
+ focus will be on the wider reception and perception of tech
+nological and cultural shifts as represented in imaginative 
+scientific and cultural works, endeavors and ambitions. This
+ course will then question the conditions for the production
+ and sustainability of these technologies and technological"
+RHETOR 116,1,"Analysis of rhetorical practice in the context of social and
+ cultural change with particular reference to the historical
+ transition from pre-industrial to industrial society in the
+ west."
+RHETOR 117,1,"Examination of philosophical dialogues from Plato to Heidegg
+er. Focus on the interaction within the dialogue, the partic
+ipation required of the reader/listener, and the relation of
+ such interaction and participation to thinking, speaking an
+d knowing."
+RHETOR 118,1,"An introduction to contemporary modes of reading and interpr
+etation in the humanities, from structuralism through psycho
+analysis, with an emphasis on theories of the sign (semiotic
+s). Examples drawn from such fields as contemporary literatu
+re, architecture, history, painting, film, and popular cultu
+re."
+RHETOR 119,1,"Studies in the history and theory of the rhetorics of place,
+ space, and sites."
+RHETOR 121,1,"Study of the form and content of fictional narratives. Defin
+ition and techniques including voice, point of view, and tim
+e orders. Attention to cultural and historical contexts of s
+elected narratives to consider interplay of works, authors, 
+and readerships."
+RHETOR 122,1,"Examination of the way character is created in drama by repe
+titive rhetorical patterns and the ways themes are defined b
+y manipulation of such patterns."
+RHETOR 123,1,"This course introduces students to the interdisciplinary fie
+ld of performance studies. While themes may vary, the course
+ considers disciplinary genealogies from the performing arts
+, the social sciences, and speech act theory to investigate 
+the many ways that humans constitute themselves and their wo
+rld through performance."
+RHETOR 124,1,"Consideration of the relationship between the texture of poe
+tic discourse largely defined by figures of speech and overa
+ll poetic structures."
+RHETOR 125,1,"Studies in the relationships between poetic theory and poeti
+c practice from Aristotle's Poetics to the present day."
+RHETOR 127,1,"This course examines the complex links between novelistic di
+scourse, society, and politics. Topics to be studied may inc
+lude the social and political vocation of the and the realis
+t novel; autobiography and the rise of liberal individualism
+; political censorship; and the role of the novel in imagini
+ng the nation."
+RHETOR 128T,1,"As a common form of interacting, documenting, and informing,
+ the interview plays a central role in the process of social
+ and cultural inquiry. The interview is here not only studie
+d in its popularized use as a form of oral witnessing and of
+ privileged access to personalities. It is also explored in 
+its critical and potentially creative dimensions as part of 
+a mise en scene or a setting in which interviewer and interv
+iewees function as social"
+RHETOR 129,1,"Rhetorical analysis of autobiographical discourse, with spec
+ific attention to the evolution of the genre in relation to 
+changing modes of human subjectivity."
+RHETOR 129AC,1,"Rhetorical analysis of autobiographical discourse in America
+n cultures, with special attention to the ideology of indivi
+dualism."
+RHETOR 130,1,"Close examination of the adaptation of written fiction to th
+e cinema. Focus on the problems arising from the transformat
+ion of five novels, which will be read, into their filmed ve
+rsions."
+RHETOR 131T,1,"Study of a particular genre (e.g., detective/mystery, horror
+/thriller, melodrama) with attention to theories of genre in
+ popular culture."
+RHETOR 132T,1,"The study of films from the perspective of directorial style
+, theme, or filmmaking career. This course may focus on a si
+ngle or several directors."
+RHETOR 133T,1,"Classical theories of film by Eisenstein, Arnheim, Kracauer,
+ Bazin, Metz, and others. Only one or two films will be anal
+yzed in great depth to test the power of various theories."
+RHETOR 135T,1,"A study of a film topic not covered by the other film catego
+ries. This course might focus on a particular cinematic ""the
+me,"" or a nonhistoric and nongeneric category. Examples: Fem
+inist Film Practice, Gay and Lesbian Cinema, Race and Cinema
+tic Representation."
+RHETOR 136,1,"Study of narratives and visual cultures of art and its autho
+rs, including questions of what is art, who authors it, the 
+boundaries of works and artistic personae, and how aesthetic
+, economic, and legal regimes of artistic authorship are his
+toricized."
+RHETOR 137,1,"This course surveys methods and theories of visual culture, 
+including the rhetorics and discourses of images (still and 
+moving), media (old and new), display, circulation, value, a
+nd interpretation. Topics explored will include: spectacle, 
+reproduction, materiality, time, style, genre, archive, trut
+h-value, and affectivity. Students will learn multi- and int
+erdisciplinary uses of visual materials as objects of analys
+is, evidence, exchange"
+RHETOR 138,1,"An introduction to the close analysis and evaluation of tele
+vision texts. Consideration of a range of examples drawn fro
+m classical television series, sitcoms, dramas, news program
+ming, and contemporary reality television. Students learn th
+e narrative, aesthetic, and stylistic aspects of television'
+s story-telling modes and strategies through readings, scree
+nings, short exercises, and a final project consisting of a 
+substantial work of criticism"
+RHETOR 139,1,"Studies of the theory and practice of the rhetoric of visual
+ evidence relating to catastrophe. Themes may include witnes
+sing, testimony, the photographic record, news media, and ar
+chival knowledge around such subjects as genocide and crimes
+ against humanity, war and other forms of political violence
+, the AIDS epidemic, natural disaster."
+RHETOR 145,1,"What is the role of narrative in science and conversely? How
+ do images supplement or displace these narratives? How have
+ scientific conceptions impacted narrative forms and theorie
+s of narrative? How important are images to the rhetoric of 
+scientific persuasion? Finally, how can science itself be na
+rrated or visually represented? This course will examine cri
+tical discussions of these questions."
+RHETOR 150,1,"Examination of the characteristic rhetoric of a variety of m
+anifestations of modern politics. Emphasis on building a the
+oretical foundation for critically observing and participati
+ng in the contemporary political process."
+RHETOR 151,1,"This course charts the discovery and conquest of the New Wor
+ld; it treats the ways in which New World peoples were under
+stood--and exploited--by Europeans. It explores not only que
+stions relating to the origins of New World peoples, but als
+o climate and zonal theories of race, and racial ideas of de
+generation and corruption. In examining Europe's multivalent
+ relationship with the ""other,"" the course investigates the 
+legal, moral,"
+RHETOR 152,1,"The rhetorical context of . Examines the tradition of Anglo-
+American constitutional argumentation in the eighteenth cent
+ury, its sources, and its implications. Readings include Loc
+ke, Hume, Montesquieu, pamphlets of the American Revolution,
+ and Anti-Federalist writings."
+RHETOR 152AC,1,"This course will explore how the social issue of race in the
+ new American republic shaped the political founding of the 
+United States in 1787. We will investigate perceptions of ra
+ce at the time of the founding, and try to understand the or
+igins of those perceptions. We will examine how those same p
+erceptions affected the founding and establishment of a new 
+nation and how they have affected our contemporary social an
+d political"
+RHETOR 153,1,"A survey of the ways in which Americans have discussed their
+ existence as a distinct nation their rights and obligations
+, and the legitimate modes of political action open to them.
+ Readings cover the 17th through the 20th centuries and may 
+include discussion of sermons, novels, philosophy, social an
+d political theory, autobiographies, declassified government
+ planning documents, Congressional testimony"
+RHETOR 155,1,"This course critically explores key concepts and figures use
+d in the public discourse of European colonialism to justify
+ territorial expansion in the 19th century such as ""race,"" ""
+culture,"" ""civility,"" and ""the Orient"" and their disturbing 
+legacies for the knowledges, practical projects, and problem
+s of contemporary postcolonial societies in a globalizing wo
+rld."
+RHETOR 156,1,"Investigation of major 19th and 20th century works of fictio
+n in which political stances are exploited as dominant theme
+s; close reading of authorial viewpoints and rhetorical stra
+tegies."
+RHETOR 157A,1,"Study of the textual strategies of important works of modern
+ European and American political theory from the 17th throug
+h the 19th centuries."
+RHETOR 157B,1,"Study of the textual strategies of important works of 20th c
+entury European and American political theory."
+RHETOR 158,1,"Close study of selected works of modern political theory, in
+cluding debates over the nature and interpretation of politi
+cal theory and the role of the political theorist. Specific 
+themes and readings vary from year to year."
+RHETOR 159A,1,"This course explores the development of one or two theorists
+ or an important theme or issue, with close readings of majo
+r texts as well as attention to important commentators."
+RHETOR 159B,1,"This course concentrates on aspects of 20th century politica
+l, social, and legal theory that are too complex to be treat
+ed comprehensively as one section of the courses in modern t
+heory."
+RHETOR 160,1,"The application of rhetorical methodology to all categories 
+of legal texts."
+RHETOR 163,1,"Through close readings of and about law and literature, the 
+course explores the role of language in both law and literat
+ure and the relations between law, language, and literature.
+ Focus may be on particular historical periods, authors, or 
+law-related themes."
+RHETOR 164,1,"Rhetorical methodology applied to close analysis of the argu
+mentative framework of important works in modern legal theor
+y."
+RHETOR 165,1,"Consideration of basic philosophical issues related to the p
+olitical and moral foundations of the law."
+RHETOR 166,1,"Examination of the role of rhetoric in the legal and politic
+al thought of a particular era or culture. Course may compar
+e societies or periods. All foreign texts will be studied in
+ English translation."
+RHETOR 167,1,"Thorough consideration of particular rhetorical themes in th
+e field of legal theory, legal philosophy, and legal argumen
+tation."
+RHETOR 168,1,"Thorough consideration of particular rhetorical themes in th
+e fields of contemporary law and legal discourse. Sample top
+ics include entertainment law, First Amendment law, copyrigh
+t law."
+RHETOR 170,1,"Analysis of the ways in which political scientists, sociolog
+ists, anthropologists, economists and psychologists establis
+h the authoritativeness of their claims. Focus is on the pre
+sentation of data as fact, the use of quantitative methods, 
+and other ""strategies"" through which social knowledge is tra
+nsformed into objective information."
+RHETOR 171,1,"Study of the textual strategies whereby the masses and mass 
+culture emerge as objects of anxiety, hope, and scrutiny for
+ social theorists of the 19th and 20th centuries."
+RHETOR 172,1,"Rhetorical analysis of theorists from Durkheim and Weber, as
+ well as Marx, Ricardo and Bentham, to contemporary represen
+tatives of social and economic thought."
+RHETOR 176,1,"Where did the first collections originate? Why did people be
+gin to collect? How did--and do--museums and museum collecti
+ons contribute to the definition of the cultural values/powe
+r of elite groups? How do we define ourselves--as citizens, 
+as members of a discipline or tribe, as nations--with refere
+nce to collections? What values/ideologies structure the deb
+ates and conflicts over definition, meaning, and ownership o
+f collections? These are"
+RHETOR 182,1,"This course examines the centrality of sexual difference and
+ sexual exchange to the structuring of societies, cultures, 
+and political life. Possible topics include theories of desi
+re and corporeality; the figure of woman as object of exchan
+ge in historical and contemporary contexts such as Sati, pro
+stitution, surrogacy and IVF, and the global traffic in fema
+le labor; and an examination of how sexual difference functi
+ons as a blind-spot in"
+RHETOR 184,1,"How does one become more aware of oneself as mover, doer, le
+arner, knower? How does one learn? Does one learn to do thin
+gs with language - to read, to write, even to think - in the
+ same ways as one learns to move? In this class, we will con
+sider these sorts of questions through experiences with and 
+responses to very basic movement lessons and to academic rea
+dings, as well as through writing and discussion. The primar
+y aim is for you to become more aware"
+RHETOR 189,1,"Group instruction and investigation of topics not accommodat
+ed in regular course offerings."
+RHETOR 189A,1,"Group instruction and investigation of topics not accommodat
+ed in regular course offerings."
+RHETOR H190A,1,"Independent study under guidance of a faculty director culmi
+nating in a written thesis. Required of all rhetoric majors 
+desiring to earn the A.B. degree with honors."
+RHETOR H190B,1,"Independent study under guidance of a faculty director culmi
+nating in a written thesis. Required of all rhetoric majors 
+desiring to earn the A.B. degree with honors."
+RHETOR 197,1,"Supervised field work in an off-campus organization or busin
+ess. Field work should be relevant to themes or topics cover
+ed in the undergraduate curriculum studied in the department
+. Additional meetings with faculty sponsor required. Weekly 
+journals and a final paper also required."
+RHETOR 198,1,"Instruction for a small group of students on a topic initiat
+ed by those students."
 RHETOR 199,1,For special projects that cannot be otherwise accommodated.

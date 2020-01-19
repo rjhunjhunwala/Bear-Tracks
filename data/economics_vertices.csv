@@ -1,71 +1,1591 @@
 name,size,about
-ECON 1,1,A survey of economics designed to give an overview of the field.
-ECON 2,1,"The course provides a survey of economics principles and methods. It covers both microeconomics, the study of consumer choice, firm behavior, and market interaction, and macroeconomics, the study of economic growth, unemployment, and inflation. Special emphasis is placed on the application of economic tools to contemporary economic problems and policies. Economics 2 differs from Economics 1 in that it has an additional hour of lecture per"
-ECON C3,1,"Introduction to microeconomics with emphasis on resource, agricultural, and environmental issues."
-ECON 24,1,The Freshman Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments. Topics vary from department to department and semester to semester. Enrollment limited to 15 freshman.
-ECON 84,1,"Sophomore seminars are small interactive courses offered by faculty members in departments all across the campus. Sophomore seminars offer opportunity for close, regular intellectual contact between faculty members and students in the crucial second year. The topics vary from department to department and semester to semester. Enrollment limited to 15 sophomores."
-ECON 98,1,"Written proposal must be approved by Department Chair. Seminars for the group study of selected topics, which will vary from year to year. Topics may be initiated by students."
+ECON 1,1,"A survey of economics designed to give an overview of the fi
+eld."
+ECON 2,1,"The course provides a survey of economics principles and met
+hods. It covers both microeconomics, the study of consumer c
+hoice, firm behavior, and market interaction, and macroecono
+mics, the study of economic growth, unemployment, and inflat
+ion. Special emphasis is placed on the application of econom
+ic tools to contemporary economic problems and policies. Eco
+nomics 2 differs from Economics 1 in that it has an addition
+al hour of lecture per"
+ECON C3,1,"Introduction to microeconomics with emphasis on resource, ag
+ricultural, and environmental issues."
+ECON 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments. Topics v
+ary from department to department and semester to semester. 
+Enrollment limited to 15 freshman."
+ECON 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+ECON 98,1,"Written proposal must be approved by Department Chair. Semin
+ars for the group study of selected topics, which will vary 
+from year to year. Topics may be initiated by students."
 ECON 100A,1,Resource allocation and price determination.
-ECON 100B,1,"A study of the factors which determine national income, employment, and price levels, with attention to the effects of monetary and fiscal policy."
-ECON 101A,1,Theory of resource allocation and price determination with an emphasis on microeconomic principles.
-ECON 101B,1,"A study of theories of the determination of national income, employment, and price levels, with attention to the effects of monetary and fiscal policy."
-ECON C102,1,"Introduction to the economics of natural resources. Land and the concept of economic rent. Models of optimal depletion of nonrenewable resources and optimal use of renewable resources. Application to energy, forests, fisheries, water, and climate change. Resources, growth, and sustainability."
-ECON C103,1,"Selected topics illustrating the application of mathematics to economic theory. This course is intended for upper-division students in Mathematics, Statistics, the Physical Sciences, and Engineering, and for economics majors with adequate mathematical preparation. No economic background is required."
-ECON 104,1,"This course explores some issues in advanced microeconomic theory, with special emphasis on game-theoretic models and the theory of choice under uncertainty. Specific applications will vary from year to year, but will generally include topics from information economics and models of strategic interaction."
-ECON 105,1,A survey of the theories of major economists from Adam Smith to Keynes.
-ECON C110,1,"A non-technical introduction to game theory. Basic principle, and models of interaction among players, with a strong emphasis on applications to political science, economics, and other social sciences."
-ECON N110,1,"A non-technical introduction to game theory. Basic principle, and models of interaction among players, with a strong emphasis on applications to political science, economics, and other social sciences."
-ECON 113,1,"A survey of the history of the U.S. economy. Emphasis is on economic events, factors, and explanations, with particular emphasis on economic growth, development, and the distribution of gains and losses associated with growth. A key skill developed during the course is the ability to read, understand, and critique econometric results in current economic history research."
-ECON N113,1,"A survey of the history of the U.S. economy. Emphasis is on economic events, factors, and explanations, with particular emphasis on economic growth, development, and the distribution of gains and losses associated with growth. A key skill developed during the course is the ability to read, understand, and critique econometric results in current economic history research."
-ECON 115,1,Development of the world economic system with particular reference to world-wide trading relationships. This course is equivalent to History 160; students will not receive credit for both courses.
-ECON 119,1,"This course presents psychological and experimental economics research demonstrating departures from perfect rationality, self-interest, and other classical assumptions of economics and explores ways that these departures can be mathematically modeled and incorporated into mainstream positive and normative economics. The course will focus on the behavioral evidence itself, especially on specific formal"
-ECON 121,1,"The organization and structure of production in the U.S. economy. Determinants of market structure, business behavior, and economic performance. Implications for antitrust policy."
-ECON 122,1,Seminar on problems in the field of industrial organization. Seminar paper is required.
-ECON 123,1,Problems of public policy in the field of industrial organization. Analysis of regulatory consequences with particular attention to economic performance.
-ECON 124,1,"Analysis of market structure, conduct and performance in selected industries. See course announcement for current topics."
-ECON C125,1,Theories of externalities and public goods applied to pollution and environmental policy. Trade-off between production and environmental amenities. Assessing nonmarket value of environmental amenities. Remediation and clean-up policies. Environment and development. Biodiversity management.
-ECON 131,1,"This course focuses on the role of the government in the economy from a theoretical and empirical perspective. The aim of the course is to provide an understanding of the reasons for government intervention in the economy, analyzing the merits of possible government policies, and the response of economic agents to the government's actions. The course covers the analysis of tax policy, social insurance programs, public"
+ECON 100B,1,"A study of the factors which determine national income, empl
+oyment, and price levels, with attention to the effects of m
+onetary and fiscal policy."
+ECON 101A,1,"Theory of resource allocation and price determination with a
+n emphasis on microeconomic principles."
+ECON 101B,1,"A study of theories of the determination of national income,
+ employment, and price levels, with attention to the effects
+ of monetary and fiscal policy."
+ECON C102,1,"Introduction to the economics of natural resources. Land and
+ the concept of economic rent. Models of optimal depletion o
+f nonrenewable resources and optimal use of renewable resour
+ces. Application to energy, forests, fisheries, water, and c
+limate change. Resources, growth, and sustainability."
+ECON C103,1,"Selected topics illustrating the application of mathematics 
+to economic theory. This course is intended for upper-divisi
+on students in Mathematics, Statistics, the Physical Science
+s, and Engineering, and for economics majors with adequate m
+athematical preparation. No economic background is required."
+ECON 104,1,"This course explores some issues in advanced microeconomic t
+heory, with special emphasis on game-theoretic models and th
+e theory of choice under uncertainty. Specific applications 
+will vary from year to year, but will generally include topi
+cs from information economics and models of strategic intera
+ction."
+ECON 105,1,"A survey of the theories of major economists from Adam Smith
+ to Keynes."
+ECON C110,1,"A non-technical introduction to game theory. Basic principle
+, and models of interaction among players, with a strong emp
+hasis on applications to political science, economics, and o
+ther social sciences."
+ECON N110,1,"A non-technical introduction to game theory. Basic principle
+, and models of interaction among players, with a strong emp
+hasis on applications to political science, economics, and o
+ther social sciences."
+ECON 113,1,"A survey of the history of the U.S. economy. Emphasis is on 
+economic events, factors, and explanations, with particular 
+emphasis on economic growth, development, and the distributi
+on of gains and losses associated with growth. A key skill d
+eveloped during the course is the ability to read, understan
+d, and critique econometric results in current economic hist
+ory research."
+ECON N113,1,"A survey of the history of the U.S. economy. Emphasis is on 
+economic events, factors, and explanations, with particular 
+emphasis on economic growth, development, and the distributi
+on of gains and losses associated with growth. A key skill d
+eveloped during the course is the ability to read, understan
+d, and critique econometric results in current economic hist
+ory research."
+ECON 115,1,"Development of the world economic system with particular ref
+erence to world-wide trading relationships. This course is e
+quivalent to History 160; students will not receive credit f
+or both courses."
+ECON 119,1,"This course presents psychological and experimental economic
+s research demonstrating departures from perfect rationality
+, self-interest, and other classical assumptions of economic
+s and explores ways that these departures can be mathematica
+lly modeled and incorporated into mainstream positive and no
+rmative economics. The course will focus on the behavioral e
+vidence itself, especially on specific formal"
+ECON 121,1,"The organization and structure of production in the U.S. eco
+nomy. Determinants of market structure, business behavior, a
+nd economic performance. Implications for antitrust policy."
+ECON 122,1,"Seminar on problems in the field of industrial organization.
+ Seminar paper is required."
+ECON 123,1,"Problems of public policy in the field of industrial organiz
+ation. Analysis of regulatory consequences with particular a
+ttention to economic performance."
+ECON 124,1,"Analysis of market structure, conduct and performance in sel
+ected industries. See course announcement for current topics
+."
+ECON C125,1,"Theories of externalities and public goods applied to pollut
+ion and environmental policy. Trade-off between production a
+nd environmental amenities. Assessing nonmarket value of env
+ironmental amenities. Remediation and clean-up policies. Env
+ironment and development. Biodiversity management."
+ECON 131,1,"This course focuses on the role of the government in the eco
+nomy from a theoretical and empirical perspective. The aim o
+f the course is to provide an understanding of the reasons f
+or government intervention in the economy, analyzing the mer
+its of possible government policies, and the response of eco
+nomic agents to the government's actions. The course covers 
+the analysis of tax policy, social insurance programs, publi
+c"
 ECON 132,1,Enrollment will be limited. A seminar paper is required.
-ECON 133,1,"This course provides an introduction to the analysis of economic inequalities and the interplay between inequality and economic growth. It focuses on three sets of core questions: 1) How does inequality evolve over the path of development? 2) What are the theories that can explain the degree of economic inequalities and its dynamic? 3) How do policies affect inequalities, and what types of policies can foster equitable"
-ECON 134,1,This course will analyze the macroeconomic challenges and policy responses in the United States over the past century. Among the key topics studied are the Great Depression and the New Deal; boom and bust monetary and fiscal policy in the early post-World War II period; the Volcker disinflation and the Great Moderation; and the 2008 financial crisis and the Great Recession.
-ECON 135,1,"This course examines the idea and reality of economic growth in historical perspective, beginning with the divergence between human ancestors and other primates and continuing through with forecasts for the 21st century and beyond. Topics covered include human speciation, language, and sociability; the discovery of agriculture and the domestication of animals; the origins and maintenance of gross inequality; Malthusian economies; the Commercial and Industrial Revolutions;"
-ECON 136,1,"Analysis of financial assets and institutions. The course emphasizes modern asset valuation theory and the role of financial intermediaries, and their regulation, in the financial system."
-ECON N136,1,"Analysis of financial assets and institutions. The course emphasizes modern asset valuation theory and the role of financial intermediaries, and their regulation, in the financial system."
+ECON 133,1,"This course provides an introduction to the analysis of econ
+omic inequalities and the interplay between inequality and e
+conomic growth. It focuses on three sets of core questions: 
+1) How does inequality evolve over the path of development? 
+2) What are the theories that can explain the degree of econ
+omic inequalities and its dynamic? 3) How do policies affect
+ inequalities, and what types of policies can foster equitab
+le"
+ECON 134,1,"This course will analyze the macroeconomic challenges and po
+licy responses in the United States over the past century. A
+mong the key topics studied are the Great Depression and the
+ New Deal; boom and bust monetary and fiscal policy in the e
+arly post-World War II period; the Volcker disinflation and 
+the Great Moderation; and the 2008 financial crisis and the 
+Great Recession."
+ECON 135,1,"This course examines the idea and reality of economic growth
+ in historical perspective, beginning with the divergence be
+tween human ancestors and other primates and continuing thro
+ugh with forecasts for the 21st century and beyond. Topics c
+overed include human speciation, language, and sociability; 
+the discovery of agriculture and the domestication of animal
+s; the origins and maintenance of gross inequality; Malthusi
+an economies; the Commercial and Industrial Revolutions;"
+ECON 136,1,"Analysis of financial assets and institutions. The course em
+phasizes modern asset valuation theory and the role of finan
+cial intermediaries, and their regulation, in the financial 
+system."
+ECON N136,1,"Analysis of financial assets and institutions. The course em
+phasizes modern asset valuation theory and the role of finan
+cial intermediaries, and their regulation, in the financial 
+system."
 ECON 137,1,Enrollment will be limited. A seminar paper is required.
-ECON 138,1,"This course is an advanced class in Financial Economics. Topics include moral hazard (principal-agent problems, free cash flow), asymmetric Information (security issurance, dividends), mergers and acquisitions (theory, managerial incentives), corporate governance (separation of ownership and control, internal capital markets, superstar CEOs), corporate fraud (earnings manipulations). This class emphasizes the economic underpinning of financial"
-ECON 139,1,"This is a 4-unit advanced undergraduate course designed for undergraduates in Economics, Statistics, Mathematics, and Industrial Engineering/Operations Research who are interested in financial economics and finance. This course will stress the link between financial economics and equilibrium theory. Less attention will be devoted to purely financial topics such as the valuation of derivatives. This course is intended as the segue between a"
-ECON 140,1,"Introduction to problems of observation, estimation, and hypothesis testing in economics. This course covers the linear regression model and its application to empirical problems in economics."
-ECON 141,1,"Introduction to problems of observation, estimation, and hypothesis testing in economics. This course covers the statistical theory for the linear regression model and its variants, with examples from empirical economics."
-ECON C142,1,"This course focuses on the sensible application of econometric methods to empirical problems in economics and public policy analysis. It provides background on issues that arise when analyzing non-experimental social science data and a guide for tools that are useful for empirical research. By the end of the course, students will have an understanding of the types of research designs that can lead to convincing"
-ECON N142,1,"This course focuses on the sensible application of econometric methods to empirical problems in economics and public policy analysis. It provides background on issues that arise when analyzing non-experimental social science data and a guide for tools that are useful for empirical research. By the end of the course, students will have an understanding of the types of research designs that can lead to convincing analysis and be comfortable working with large scale"
-ECON 144,1,"Since much of financial econometrics is based on time-series data, we will spend the first three weeks introducing/reviewing basic time-series analysis. The course will then start out by discussing the short-run time-series behaviour of stock prices, and present the evidence on short- and long-run predictability of stock returns. We will continue by discussing cross-sectional models and static equilibrium theory, including (but not limited to) the Capital Asset"
-ECON 151,1,"This course will analyze the economic forces that shape labor markets, institutions, and performance in the U.S., Japan, and at least one European country (usually Germany). Institutions examined include trade unions, legal regulations, and social conventions."
-ECON 152,1,"This course focuses on theoretical and empirical analysis of wage and employment determination in the labor market. In addition, the role of public policy in affecting wage and employment outcomes in the U.S. labor market is examined. Topics include labor supply, labor demand, minimum wages, the economics of education and training, discrimination and the impact of antidiscrimination programs, changes in wage inequality over time, immigration"
-ECON N152,1,"This course focuses on theoretical and empirical analysis of wage and employment determination in the labor market. In addition, the role of public policy in affecting wage and employment outcomes in the U.S. labor market is examined. Topics include labor supply, labor demand, minimum wages, the economics of education and training, discrimination and the impact of antidiscrimination programs, changes in wage inequality over time, immigration, unions, unemployment"
+ECON 138,1,"This course is an advanced class in Financial Economics. Top
+ics include moral hazard (principal-agent problems, free cas
+h flow), asymmetric Information (security issurance, dividen
+ds), mergers and acquisitions (theory, managerial incentives
+), corporate governance (separation of ownership and control
+, internal capital markets, superstar CEOs), corporate fraud
+ (earnings manipulations). This class emphasizes the economi
+c underpinning of financial"
+ECON 139,1,"This is a 4-unit advanced undergraduate course designed for 
+undergraduates in Economics, Statistics, Mathematics, and In
+dustrial Engineering/Operations Research who are interested 
+in financial economics and finance. This course will stress 
+the link between financial economics and equilibrium theory.
+ Less attention will be devoted to purely financial topics s
+uch as the valuation of derivatives. This course is intended
+ as the segue between a"
+ECON 140,1,"Introduction to problems of observation, estimation, and hyp
+othesis testing in economics. This course covers the linear 
+regression model and its application to empirical problems i
+n economics."
+ECON 141,1,"Introduction to problems of observation, estimation, and hyp
+othesis testing in economics. This course covers the statist
+ical theory for the linear regression model and its variants
+, with examples from empirical economics."
+ECON C142,1,"This course focuses on the sensible application of econometr
+ic methods to empirical problems in economics and public pol
+icy analysis. It provides background on issues that arise wh
+en analyzing non-experimental social science data and a guid
+e for tools that are useful for empirical research. By the e
+nd of the course, students will have an understanding of the
+ types of research designs that can lead to convincing"
+ECON N142,1,"This course focuses on the sensible application of econometr
+ic methods to empirical problems in economics and public pol
+icy analysis. It provides background on issues that arise wh
+en analyzing non-experimental social science data and a guid
+e for tools that are useful for empirical research. By the e
+nd of the course, students will have an understanding of the
+ types of research designs that can lead to convincing analy
+sis and be comfortable working with large scale"
+ECON 144,1,"Since much of financial econometrics is based on time-series
+ data, we will spend the first three weeks introducing/revie
+wing basic time-series analysis. The course will then start 
+out by discussing the short-run time-series behaviour of sto
+ck prices, and present the evidence on short- and long-run p
+redictability of stock returns. We will continue by discussi
+ng cross-sectional models and static equilibrium theory, inc
+luding (but not limited to) the Capital Asset"
+ECON 151,1,"This course will analyze the economic forces that shape labo
+r markets, institutions, and performance in the U.S., Japan,
+ and at least one European country (usually Germany). Instit
+utions examined include trade unions, legal regulations, and
+ social conventions."
+ECON 152,1,"This course focuses on theoretical and empirical analysis of
+ wage and employment determination in the labor market. In a
+ddition, the role of public policy in affecting wage and emp
+loyment outcomes in the U.S. labor market is examined. Topic
+s include labor supply, labor demand, minimum wages, the eco
+nomics of education and training, discrimination and the imp
+act of antidiscrimination programs, changes in wage inequali
+ty over time, immigration"
+ECON N152,1,"This course focuses on theoretical and empirical analysis of
+ wage and employment determination in the labor market. In a
+ddition, the role of public policy in affecting wage and emp
+loyment outcomes in the U.S. labor market is examined. Topic
+s include labor supply, labor demand, minimum wages, the eco
+nomics of education and training, discrimination and the imp
+act of antidiscrimination programs, changes in wage inequali
+ty over time, immigration, unions, unemployment"
 ECON 153,1,Topics in labor economics. Seminar paper required.
-ECON 154,1,"Starting from Becker's classic book on the economics of discrimination, this course will focus on issues of difference and discrimination accociated with race, gender, or nation of birth, focusing particularly on credit and housing markets, education, and health care. The course looks carefully at the ways in which econometrics is used to address questions of discrimination."
-ECON 155,1,"Application of economic theory to urban problems. Topics covered include location theory, housing, transportation, and the fiscal problems of city government."
-ECON 155A,1,"This is an advanced course considering the economic forces governing cities and a host of attendant public policy issues. Topics covered will include theory and evidence on sources of agglomeration economies and urban growth, housing markets, segregation, neighborhood effects, and place-based policies."
-ECON 157,1,"An economic analysis of policies and institutions in the U.S. health care sector. Topics covered include the supply and demand for health services, conceptual and policy issues relating to the provision of health insurance, and economic analysis of efficient regulatory policies toward the health care sector."
-ECON 161,1,"Economic behavior under socialism; socialism vs. capitalism. Transition challenges. Stylized facts of transition. Political economy of reform strategies. Liberalization and the macroeconomic environment. Privatization policies and enterprise restructuring. Legal reform, institutional change, and variation in economic performance across countries. Foreign trade and enlargement of the European Union to transition countries. The Washington consensus"
-ECON 162,1,"The Chinese economy, its institutions, reform and transition to the market, and development."
-ECON C171,1,"Problems of underdevelopment and poverty, policy issues, and development strategy."
-ECON N171,1,"Problems of underdevelopment and poverty, policy issues, and development strategy."
-ECON 172,1,A detailed study of the problems of development in a selected geographical area in Asia or Africa or Latin America.
+ECON 154,1,"Starting from Becker's classic book on the economics of disc
+rimination, this course will focus on issues of difference a
+nd discrimination accociated with race, gender, or nation of
+ birth, focusing particularly on credit and housing markets,
+ education, and health care. The course looks carefully at t
+he ways in which econometrics is used to address questions o
+f discrimination."
+ECON 155,1,"Application of economic theory to urban problems. Topics cov
+ered include location theory, housing, transportation, and t
+he fiscal problems of city government."
+ECON 155A,1,"This is an advanced course considering the economic forces g
+overning cities and a host of attendant public policy issues
+. Topics covered will include theory and evidence on sources
+ of agglomeration economies and urban growth, housing market
+s, segregation, neighborhood effects, and place-based polici
+es."
+ECON 157,1,"An economic analysis of policies and institutions in the U.S
+. health care sector. Topics covered include the supply and 
+demand for health services, conceptual and policy issues rel
+ating to the provision of health insurance, and economic ana
+lysis of efficient regulatory policies toward the health car
+e sector."
+ECON 161,1,"Economic behavior under socialism; socialism vs. capitalism.
+ Transition challenges. Stylized facts of transition. Politi
+cal economy of reform strategies. Liberalization and the mac
+roeconomic environment. Privatization policies and enterpris
+e restructuring. Legal reform, institutional change, and var
+iation in economic performance across countries. Foreign tra
+de and enlargement of the European Union to transition count
+ries. The Washington consensus"
+ECON 162,1,"The Chinese economy, its institutions, reform and transition
+ to the market, and development."
+ECON C171,1,"Problems of underdevelopment and poverty, policy issues, and
+ development strategy."
+ECON N171,1,"Problems of underdevelopment and poverty, policy issues, and
+ development strategy."
+ECON 172,1,"A detailed study of the problems of development in a selecte
+d geographical area in Asia or Africa or Latin America."
 ECON 173,1,A seminar paper will be required.
-ECON 174,1,"There are a countless number of potential policies and programs to address the causes and consequences of poverty. However, how should one determine which of these is actually effective in improving the lives of the poor? This course explores a variety of empirical tools to rigorously measure the impact of development programs. Through weekly case studies of field research, students will learn impact evaluation theory and methods, and apply"
-ECON C175,1,"A general introduction to economic demography, addressing the following kinds of questions: What are the economic consequences of immigration to the U.S.? Will industrial nations be able to afford the health and pension costs of the aging populations? How has the size of the baby boom affected its economic well being? Why has fertility been high in Third World countries? In industrial countries, why is marriage postponed, divorce high, fertility"
-ECON N175,1,"A general introduction to economic demography, addressing the following kinds of questions: What are the economic consequences of immigration to the U.S.? Will industrial nations be able to afford the health and pension costs of the aging populations? How has the size of the baby boom affected its economic well being? Why has fertility been high in Third World countries? In industrial countries, why is marriage postponed"
-ECON C181,1,The theory of international trade and its applications to tariff protection. This course is equivalent to 
-ECON N181,1,The theory of international trade and its applications to tariff protection.
-ECON 182,1,"The balance of payments, the determination of the trade balance and income under fixed and floating exchange rates, money and prices in open economies, the internationalization of financial markets and its implications, international macroeconomic interdependence, capital flows, and the determination of the exchange rate."
+ECON 174,1,"There are a countless number of potential policies and progr
+ams to address the causes and consequences of poverty. Howev
+er, how should one determine which of these is actually effe
+ctive in improving the lives of the poor? This course explor
+es a variety of empirical tools to rigorously measure the im
+pact of development programs. Through weekly case studies of
+ field research, students will learn impact evaluation theor
+y and methods, and apply"
+ECON C175,1,"A general introduction to economic demography, addressing th
+e following kinds of questions: What are the economic conseq
+uences of immigration to the U.S.? Will industrial nations b
+e able to afford the health and pension costs of the aging p
+opulations? How has the size of the baby boom affected its e
+conomic well being? Why has fertility been high in Third Wor
+ld countries? In industrial countries, why is marriage postp
+oned, divorce high, fertility"
+ECON N175,1,"A general introduction to economic demography, addressing th
+e following kinds of questions: What are the economic conseq
+uences of immigration to the U.S.? Will industrial nations b
+e able to afford the health and pension costs of the aging p
+opulations? How has the size of the baby boom affected its e
+conomic well being? Why has fertility been high in Third Wor
+ld countries? In industrial countries, why is marriage postp
+oned"
+ECON C181,1,"The theory of international trade and its applications to ta
+riff protection. This course is equivalent to "
+ECON N181,1,"The theory of international trade and its applications to ta
+riff protection."
+ECON 182,1,"The balance of payments, the determination of the trade bala
+nce and income under fixed and floating exchange rates, mone
+y and prices in open economies, the internationalization of 
+financial markets and its implications, international macroe
+conomic interdependence, capital flows, and the determinatio
+n of the exchange rate."
 ECON 183,1,A seminar paper is required.
-ECON 191,1,"This course discusses recent research and policy developments. The core objective is to expose students to different aspects of research in economics. A sequence of five different frontier research topics are studied in depth each semester. Each topic lasts three weeks, during which students will familiarize themselves with cutting-edge economic research and methodology. Students will then develop their own research ideas and write two medium-"
-ECON H195A,1,"Preparation for writing a thesis, finding and organizing a topic, gathering data and getting started. H195A is not prerequisite to H195B."
-ECON H195AS,1,Preparation and writing of an honors thesis under the supervision of a member of the faculty. H195AS is not a prerequisite to H195BS.
-ECON H195B,1,Writing a thesis under the supervision of a faculty member. Applications and details through the departmental undergraduate office. H195A is not prerequisite to H195B.
-ECON H195BS,1,Preparation and writing of an honors thesis under the supervision of a member of the faculty.
-ECON 196,1,Study in various fields of economics. Topics will vary from semester to semester and will be announced at the beginning of each semester.
-ECON 197,1,Written proposal must be approved by Department Chair. Supervised field studies in economics. Projects may be initiated by the students.
-ECON 198,1,"Written proposal must be approved by Department Chair. Seminars for the group study of selected topics, which will vary from year to year. Topics may be initiated by students."
-ECON 199,1,Written proposal must be approved by Department Chair. Enrollment is restricted.
+ECON 191,1,"This course discusses recent research and policy development
+s. The core objective is to expose students to different asp
+ects of research in economics. A sequence of five different 
+frontier research topics are studied in depth each semester.
+ Each topic lasts three weeks, during which students will fa
+miliarize themselves with cutting-edge economic research and
+ methodology. Students will then develop their own research 
+ideas and write two medium-"
+ECON H195A,1,"Preparation for writing a thesis, finding and organizing a t
+opic, gathering data and getting started. H195A is not prere
+quisite to H195B."
+ECON H195AS,1,"Preparation and writing of an honors thesis under the superv
+ision of a member of the faculty. H195AS is not a prerequisi
+te to H195BS."
+ECON H195B,1,"Writing a thesis under the supervision of a faculty member. 
+Applications and details through the departmental undergradu
+ate office. H195A is not prerequisite to H195B."
+ECON H195BS,1,"Preparation and writing of an honors thesis under the superv
+ision of a member of the faculty."
+ECON 196,1,"Study in various fields of economics. Topics will vary from 
+semester to semester and will be announced at the beginning 
+of each semester."
+ECON 197,1,"Written proposal must be approved by Department Chair. Super
+vised field studies in economics. Projects may be initiated 
+by the students."
+ECON 198,1,"Written proposal must be approved by Department Chair. Semin
+ars for the group study of selected topics, which will vary 
+from year to year. Topics may be initiated by students."
+ECON 199,1,"Written proposal must be approved by Department Chair. Enrol
+lment is restricted."
+ECON 1,1,"A survey of economics designed to give an overview of the fi
+eld."
+ECON 2,1,"The course provides a survey of economics principles and met
+hods. It covers both microeconomics, the study of consumer c
+hoice, firm behavior, and market interaction, and macroecono
+mics, the study of economic growth, unemployment, and inflat
+ion. Special emphasis is placed on the application of econom
+ic tools to contemporary economic problems and policies. Eco
+nomics 2 differs from Economics 1 in that it has an addition
+al hour of lecture per"
+ECON C3,1,"Introduction to microeconomics with emphasis on resource, ag
+ricultural, and environmental issues."
+ECON 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments. Topics v
+ary from department to department and semester to semester. 
+Enrollment limited to 15 freshman."
+ECON 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+ECON 98,1,"Written proposal must be approved by Department Chair. Semin
+ars for the group study of selected topics, which will vary 
+from year to year. Topics may be initiated by students."
+ECON 100A,1,Resource allocation and price determination.
+ECON 100B,1,"A study of the factors which determine national income, empl
+oyment, and price levels, with attention to the effects of m
+onetary and fiscal policy."
+ECON 101A,1,"Theory of resource allocation and price determination with a
+n emphasis on microeconomic principles."
+ECON 101B,1,"A study of theories of the determination of national income,
+ employment, and price levels, with attention to the effects
+ of monetary and fiscal policy."
+ECON C102,1,"Introduction to the economics of natural resources. Land and
+ the concept of economic rent. Models of optimal depletion o
+f nonrenewable resources and optimal use of renewable resour
+ces. Application to energy, forests, fisheries, water, and c
+limate change. Resources, growth, and sustainability."
+ECON C103,1,"Selected topics illustrating the application of mathematics 
+to economic theory. This course is intended for upper-divisi
+on students in Mathematics, Statistics, the Physical Science
+s, and Engineering, and for economics majors with adequate m
+athematical preparation. No economic background is required."
+ECON 104,1,"This course explores some issues in advanced microeconomic t
+heory, with special emphasis on game-theoretic models and th
+e theory of choice under uncertainty. Specific applications 
+will vary from year to year, but will generally include topi
+cs from information economics and models of strategic intera
+ction."
+ECON 105,1,"A survey of the theories of major economists from Adam Smith
+ to Keynes."
+ECON C110,1,"A non-technical introduction to game theory. Basic principle
+, and models of interaction among players, with a strong emp
+hasis on applications to political science, economics, and o
+ther social sciences."
+ECON N110,1,"A non-technical introduction to game theory. Basic principle
+, and models of interaction among players, with a strong emp
+hasis on applications to political science, economics, and o
+ther social sciences."
+ECON 113,1,"A survey of the history of the U.S. economy. Emphasis is on 
+economic events, factors, and explanations, with particular 
+emphasis on economic growth, development, and the distributi
+on of gains and losses associated with growth. A key skill d
+eveloped during the course is the ability to read, understan
+d, and critique econometric results in current economic hist
+ory research."
+ECON N113,1,"A survey of the history of the U.S. economy. Emphasis is on 
+economic events, factors, and explanations, with particular 
+emphasis on economic growth, development, and the distributi
+on of gains and losses associated with growth. A key skill d
+eveloped during the course is the ability to read, understan
+d, and critique econometric results in current economic hist
+ory research."
+ECON 115,1,"Development of the world economic system with particular ref
+erence to world-wide trading relationships. This course is e
+quivalent to History 160; students will not receive credit f
+or both courses."
+ECON 119,1,"This course presents psychological and experimental economic
+s research demonstrating departures from perfect rationality
+, self-interest, and other classical assumptions of economic
+s and explores ways that these departures can be mathematica
+lly modeled and incorporated into mainstream positive and no
+rmative economics. The course will focus on the behavioral e
+vidence itself, especially on specific formal"
+ECON 121,1,"The organization and structure of production in the U.S. eco
+nomy. Determinants of market structure, business behavior, a
+nd economic performance. Implications for antitrust policy."
+ECON 122,1,"Seminar on problems in the field of industrial organization.
+ Seminar paper is required."
+ECON 123,1,"Problems of public policy in the field of industrial organiz
+ation. Analysis of regulatory consequences with particular a
+ttention to economic performance."
+ECON 124,1,"Analysis of market structure, conduct and performance in sel
+ected industries. See course announcement for current topics
+."
+ECON C125,1,"Theories of externalities and public goods applied to pollut
+ion and environmental policy. Trade-off between production a
+nd environmental amenities. Assessing nonmarket value of env
+ironmental amenities. Remediation and clean-up policies. Env
+ironment and development. Biodiversity management."
+ECON 131,1,"This course focuses on the role of the government in the eco
+nomy from a theoretical and empirical perspective. The aim o
+f the course is to provide an understanding of the reasons f
+or government intervention in the economy, analyzing the mer
+its of possible government policies, and the response of eco
+nomic agents to the government's actions. The course covers 
+the analysis of tax policy, social insurance programs, publi
+c"
+ECON 132,1,Enrollment will be limited. A seminar paper is required.
+ECON 133,1,"This course provides an introduction to the analysis of econ
+omic inequalities and the interplay between inequality and e
+conomic growth. It focuses on three sets of core questions: 
+1) How does inequality evolve over the path of development? 
+2) What are the theories that can explain the degree of econ
+omic inequalities and its dynamic? 3) How do policies affect
+ inequalities, and what types of policies can foster equitab
+le"
+ECON 134,1,"This course will analyze the macroeconomic challenges and po
+licy responses in the United States over the past century. A
+mong the key topics studied are the Great Depression and the
+ New Deal; boom and bust monetary and fiscal policy in the e
+arly post-World War II period; the Volcker disinflation and 
+the Great Moderation; and the 2008 financial crisis and the 
+Great Recession."
+ECON 135,1,"This course examines the idea and reality of economic growth
+ in historical perspective, beginning with the divergence be
+tween human ancestors and other primates and continuing thro
+ugh with forecasts for the 21st century and beyond. Topics c
+overed include human speciation, language, and sociability; 
+the discovery of agriculture and the domestication of animal
+s; the origins and maintenance of gross inequality; Malthusi
+an economies; the Commercial and Industrial Revolutions;"
+ECON 136,1,"Analysis of financial assets and institutions. The course em
+phasizes modern asset valuation theory and the role of finan
+cial intermediaries, and their regulation, in the financial 
+system."
+ECON N136,1,"Analysis of financial assets and institutions. The course em
+phasizes modern asset valuation theory and the role of finan
+cial intermediaries, and their regulation, in the financial 
+system."
+ECON 137,1,Enrollment will be limited. A seminar paper is required.
+ECON 138,1,"This course is an advanced class in Financial Economics. Top
+ics include moral hazard (principal-agent problems, free cas
+h flow), asymmetric Information (security issurance, dividen
+ds), mergers and acquisitions (theory, managerial incentives
+), corporate governance (separation of ownership and control
+, internal capital markets, superstar CEOs), corporate fraud
+ (earnings manipulations). This class emphasizes the economi
+c underpinning of financial"
+ECON 139,1,"This is a 4-unit advanced undergraduate course designed for 
+undergraduates in Economics, Statistics, Mathematics, and In
+dustrial Engineering/Operations Research who are interested 
+in financial economics and finance. This course will stress 
+the link between financial economics and equilibrium theory.
+ Less attention will be devoted to purely financial topics s
+uch as the valuation of derivatives. This course is intended
+ as the segue between a"
+ECON 140,1,"Introduction to problems of observation, estimation, and hyp
+othesis testing in economics. This course covers the linear 
+regression model and its application to empirical problems i
+n economics."
+ECON 141,1,"Introduction to problems of observation, estimation, and hyp
+othesis testing in economics. This course covers the statist
+ical theory for the linear regression model and its variants
+, with examples from empirical economics."
+ECON C142,1,"This course focuses on the sensible application of econometr
+ic methods to empirical problems in economics and public pol
+icy analysis. It provides background on issues that arise wh
+en analyzing non-experimental social science data and a guid
+e for tools that are useful for empirical research. By the e
+nd of the course, students will have an understanding of the
+ types of research designs that can lead to convincing"
+ECON N142,1,"This course focuses on the sensible application of econometr
+ic methods to empirical problems in economics and public pol
+icy analysis. It provides background on issues that arise wh
+en analyzing non-experimental social science data and a guid
+e for tools that are useful for empirical research. By the e
+nd of the course, students will have an understanding of the
+ types of research designs that can lead to convincing analy
+sis and be comfortable working with large scale"
+ECON 144,1,"Since much of financial econometrics is based on time-series
+ data, we will spend the first three weeks introducing/revie
+wing basic time-series analysis. The course will then start 
+out by discussing the short-run time-series behaviour of sto
+ck prices, and present the evidence on short- and long-run p
+redictability of stock returns. We will continue by discussi
+ng cross-sectional models and static equilibrium theory, inc
+luding (but not limited to) the Capital Asset"
+ECON 151,1,"This course will analyze the economic forces that shape labo
+r markets, institutions, and performance in the U.S., Japan,
+ and at least one European country (usually Germany). Instit
+utions examined include trade unions, legal regulations, and
+ social conventions."
+ECON 152,1,"This course focuses on theoretical and empirical analysis of
+ wage and employment determination in the labor market. In a
+ddition, the role of public policy in affecting wage and emp
+loyment outcomes in the U.S. labor market is examined. Topic
+s include labor supply, labor demand, minimum wages, the eco
+nomics of education and training, discrimination and the imp
+act of antidiscrimination programs, changes in wage inequali
+ty over time, immigration"
+ECON N152,1,"This course focuses on theoretical and empirical analysis of
+ wage and employment determination in the labor market. In a
+ddition, the role of public policy in affecting wage and emp
+loyment outcomes in the U.S. labor market is examined. Topic
+s include labor supply, labor demand, minimum wages, the eco
+nomics of education and training, discrimination and the imp
+act of antidiscrimination programs, changes in wage inequali
+ty over time, immigration, unions, unemployment"
+ECON 153,1,Topics in labor economics. Seminar paper required.
+ECON 154,1,"Starting from Becker's classic book on the economics of disc
+rimination, this course will focus on issues of difference a
+nd discrimination accociated with race, gender, or nation of
+ birth, focusing particularly on credit and housing markets,
+ education, and health care. The course looks carefully at t
+he ways in which econometrics is used to address questions o
+f discrimination."
+ECON 155,1,"Application of economic theory to urban problems. Topics cov
+ered include location theory, housing, transportation, and t
+he fiscal problems of city government."
+ECON 155A,1,"This is an advanced course considering the economic forces g
+overning cities and a host of attendant public policy issues
+. Topics covered will include theory and evidence on sources
+ of agglomeration economies and urban growth, housing market
+s, segregation, neighborhood effects, and place-based polici
+es."
+ECON 157,1,"An economic analysis of policies and institutions in the U.S
+. health care sector. Topics covered include the supply and 
+demand for health services, conceptual and policy issues rel
+ating to the provision of health insurance, and economic ana
+lysis of efficient regulatory policies toward the health car
+e sector."
+ECON 161,1,"Economic behavior under socialism; socialism vs. capitalism.
+ Transition challenges. Stylized facts of transition. Politi
+cal economy of reform strategies. Liberalization and the mac
+roeconomic environment. Privatization policies and enterpris
+e restructuring. Legal reform, institutional change, and var
+iation in economic performance across countries. Foreign tra
+de and enlargement of the European Union to transition count
+ries. The Washington consensus"
+ECON 162,1,"The Chinese economy, its institutions, reform and transition
+ to the market, and development."
+ECON C171,1,"Problems of underdevelopment and poverty, policy issues, and
+ development strategy."
+ECON N171,1,"Problems of underdevelopment and poverty, policy issues, and
+ development strategy."
+ECON 172,1,"A detailed study of the problems of development in a selecte
+d geographical area in Asia or Africa or Latin America."
+ECON 173,1,A seminar paper will be required.
+ECON 174,1,"There are a countless number of potential policies and progr
+ams to address the causes and consequences of poverty. Howev
+er, how should one determine which of these is actually effe
+ctive in improving the lives of the poor? This course explor
+es a variety of empirical tools to rigorously measure the im
+pact of development programs. Through weekly case studies of
+ field research, students will learn impact evaluation theor
+y and methods, and apply"
+ECON C175,1,"A general introduction to economic demography, addressing th
+e following kinds of questions: What are the economic conseq
+uences of immigration to the U.S.? Will industrial nations b
+e able to afford the health and pension costs of the aging p
+opulations? How has the size of the baby boom affected its e
+conomic well being? Why has fertility been high in Third Wor
+ld countries? In industrial countries, why is marriage postp
+oned, divorce high, fertility"
+ECON N175,1,"A general introduction to economic demography, addressing th
+e following kinds of questions: What are the economic conseq
+uences of immigration to the U.S.? Will industrial nations b
+e able to afford the health and pension costs of the aging p
+opulations? How has the size of the baby boom affected its e
+conomic well being? Why has fertility been high in Third Wor
+ld countries? In industrial countries, why is marriage postp
+oned"
+ECON C181,1,"The theory of international trade and its applications to ta
+riff protection. This course is equivalent to "
+ECON N181,1,"The theory of international trade and its applications to ta
+riff protection."
+ECON 182,1,"The balance of payments, the determination of the trade bala
+nce and income under fixed and floating exchange rates, mone
+y and prices in open economies, the internationalization of 
+financial markets and its implications, international macroe
+conomic interdependence, capital flows, and the determinatio
+n of the exchange rate."
+ECON 183,1,A seminar paper is required.
+ECON 191,1,"This course discusses recent research and policy development
+s. The core objective is to expose students to different asp
+ects of research in economics. A sequence of five different 
+frontier research topics are studied in depth each semester.
+ Each topic lasts three weeks, during which students will fa
+miliarize themselves with cutting-edge economic research and
+ methodology. Students will then develop their own research 
+ideas and write two medium-"
+ECON H195A,1,"Preparation for writing a thesis, finding and organizing a t
+opic, gathering data and getting started. H195A is not prere
+quisite to H195B."
+ECON H195AS,1,"Preparation and writing of an honors thesis under the superv
+ision of a member of the faculty. H195AS is not a prerequisi
+te to H195BS."
+ECON H195B,1,"Writing a thesis under the supervision of a faculty member. 
+Applications and details through the departmental undergradu
+ate office. H195A is not prerequisite to H195B."
+ECON H195BS,1,"Preparation and writing of an honors thesis under the superv
+ision of a member of the faculty."
+ECON 196,1,"Study in various fields of economics. Topics will vary from 
+semester to semester and will be announced at the beginning 
+of each semester."
+ECON 197,1,"Written proposal must be approved by Department Chair. Super
+vised field studies in economics. Projects may be initiated 
+by the students."
+ECON 198,1,"Written proposal must be approved by Department Chair. Semin
+ars for the group study of selected topics, which will vary 
+from year to year. Topics may be initiated by students."
+ECON 199,1,"Written proposal must be approved by Department Chair. Enrol
+lment is restricted."
+ECON 1,1,"A survey of economics designed to give an overview of the fi
+eld."
+ECON 2,1,"The course provides a survey of economics principles and met
+hods. It covers both microeconomics, the study of consumer c
+hoice, firm behavior, and market interaction, and macroecono
+mics, the study of economic growth, unemployment, and inflat
+ion. Special emphasis is placed on the application of econom
+ic tools to contemporary economic problems and policies. Eco
+nomics 2 differs from Economics 1 in that it has an addition
+al hour of lecture per"
+ECON C3,1,"Introduction to microeconomics with emphasis on resource, ag
+ricultural, and environmental issues."
+ECON 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments. Topics v
+ary from department to department and semester to semester. 
+Enrollment limited to 15 freshman."
+ECON 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+ECON 98,1,"Written proposal must be approved by Department Chair. Semin
+ars for the group study of selected topics, which will vary 
+from year to year. Topics may be initiated by students."
+ECON 100A,1,Resource allocation and price determination.
+ECON 100B,1,"A study of the factors which determine national income, empl
+oyment, and price levels, with attention to the effects of m
+onetary and fiscal policy."
+ECON 101A,1,"Theory of resource allocation and price determination with a
+n emphasis on microeconomic principles."
+ECON 101B,1,"A study of theories of the determination of national income,
+ employment, and price levels, with attention to the effects
+ of monetary and fiscal policy."
+ECON C102,1,"Introduction to the economics of natural resources. Land and
+ the concept of economic rent. Models of optimal depletion o
+f nonrenewable resources and optimal use of renewable resour
+ces. Application to energy, forests, fisheries, water, and c
+limate change. Resources, growth, and sustainability."
+ECON C103,1,"Selected topics illustrating the application of mathematics 
+to economic theory. This course is intended for upper-divisi
+on students in Mathematics, Statistics, the Physical Science
+s, and Engineering, and for economics majors with adequate m
+athematical preparation. No economic background is required."
+ECON 104,1,"This course explores some issues in advanced microeconomic t
+heory, with special emphasis on game-theoretic models and th
+e theory of choice under uncertainty. Specific applications 
+will vary from year to year, but will generally include topi
+cs from information economics and models of strategic intera
+ction."
+ECON 105,1,"A survey of the theories of major economists from Adam Smith
+ to Keynes."
+ECON C110,1,"A non-technical introduction to game theory. Basic principle
+, and models of interaction among players, with a strong emp
+hasis on applications to political science, economics, and o
+ther social sciences."
+ECON N110,1,"A non-technical introduction to game theory. Basic principle
+, and models of interaction among players, with a strong emp
+hasis on applications to political science, economics, and o
+ther social sciences."
+ECON 113,1,"A survey of the history of the U.S. economy. Emphasis is on 
+economic events, factors, and explanations, with particular 
+emphasis on economic growth, development, and the distributi
+on of gains and losses associated with growth. A key skill d
+eveloped during the course is the ability to read, understan
+d, and critique econometric results in current economic hist
+ory research."
+ECON N113,1,"A survey of the history of the U.S. economy. Emphasis is on 
+economic events, factors, and explanations, with particular 
+emphasis on economic growth, development, and the distributi
+on of gains and losses associated with growth. A key skill d
+eveloped during the course is the ability to read, understan
+d, and critique econometric results in current economic hist
+ory research."
+ECON 115,1,"Development of the world economic system with particular ref
+erence to world-wide trading relationships. This course is e
+quivalent to History 160; students will not receive credit f
+or both courses."
+ECON 119,1,"This course presents psychological and experimental economic
+s research demonstrating departures from perfect rationality
+, self-interest, and other classical assumptions of economic
+s and explores ways that these departures can be mathematica
+lly modeled and incorporated into mainstream positive and no
+rmative economics. The course will focus on the behavioral e
+vidence itself, especially on specific formal"
+ECON 121,1,"The organization and structure of production in the U.S. eco
+nomy. Determinants of market structure, business behavior, a
+nd economic performance. Implications for antitrust policy."
+ECON 122,1,"Seminar on problems in the field of industrial organization.
+ Seminar paper is required."
+ECON 123,1,"Problems of public policy in the field of industrial organiz
+ation. Analysis of regulatory consequences with particular a
+ttention to economic performance."
+ECON 124,1,"Analysis of market structure, conduct and performance in sel
+ected industries. See course announcement for current topics
+."
+ECON C125,1,"Theories of externalities and public goods applied to pollut
+ion and environmental policy. Trade-off between production a
+nd environmental amenities. Assessing nonmarket value of env
+ironmental amenities. Remediation and clean-up policies. Env
+ironment and development. Biodiversity management."
+ECON 131,1,"This course focuses on the role of the government in the eco
+nomy from a theoretical and empirical perspective. The aim o
+f the course is to provide an understanding of the reasons f
+or government intervention in the economy, analyzing the mer
+its of possible government policies, and the response of eco
+nomic agents to the government's actions. The course covers 
+the analysis of tax policy, social insurance programs, publi
+c"
+ECON 132,1,Enrollment will be limited. A seminar paper is required.
+ECON 133,1,"This course provides an introduction to the analysis of econ
+omic inequalities and the interplay between inequality and e
+conomic growth. It focuses on three sets of core questions: 
+1) How does inequality evolve over the path of development? 
+2) What are the theories that can explain the degree of econ
+omic inequalities and its dynamic? 3) How do policies affect
+ inequalities, and what types of policies can foster equitab
+le"
+ECON 134,1,"This course will analyze the macroeconomic challenges and po
+licy responses in the United States over the past century. A
+mong the key topics studied are the Great Depression and the
+ New Deal; boom and bust monetary and fiscal policy in the e
+arly post-World War II period; the Volcker disinflation and 
+the Great Moderation; and the 2008 financial crisis and the 
+Great Recession."
+ECON 135,1,"This course examines the idea and reality of economic growth
+ in historical perspective, beginning with the divergence be
+tween human ancestors and other primates and continuing thro
+ugh with forecasts for the 21st century and beyond. Topics c
+overed include human speciation, language, and sociability; 
+the discovery of agriculture and the domestication of animal
+s; the origins and maintenance of gross inequality; Malthusi
+an economies; the Commercial and Industrial Revolutions;"
+ECON 136,1,"Analysis of financial assets and institutions. The course em
+phasizes modern asset valuation theory and the role of finan
+cial intermediaries, and their regulation, in the financial 
+system."
+ECON N136,1,"Analysis of financial assets and institutions. The course em
+phasizes modern asset valuation theory and the role of finan
+cial intermediaries, and their regulation, in the financial 
+system."
+ECON 137,1,Enrollment will be limited. A seminar paper is required.
+ECON 138,1,"This course is an advanced class in Financial Economics. Top
+ics include moral hazard (principal-agent problems, free cas
+h flow), asymmetric Information (security issurance, dividen
+ds), mergers and acquisitions (theory, managerial incentives
+), corporate governance (separation of ownership and control
+, internal capital markets, superstar CEOs), corporate fraud
+ (earnings manipulations). This class emphasizes the economi
+c underpinning of financial"
+ECON 139,1,"This is a 4-unit advanced undergraduate course designed for 
+undergraduates in Economics, Statistics, Mathematics, and In
+dustrial Engineering/Operations Research who are interested 
+in financial economics and finance. This course will stress 
+the link between financial economics and equilibrium theory.
+ Less attention will be devoted to purely financial topics s
+uch as the valuation of derivatives. This course is intended
+ as the segue between a"
+ECON 140,1,"Introduction to problems of observation, estimation, and hyp
+othesis testing in economics. This course covers the linear 
+regression model and its application to empirical problems i
+n economics."
+ECON 141,1,"Introduction to problems of observation, estimation, and hyp
+othesis testing in economics. This course covers the statist
+ical theory for the linear regression model and its variants
+, with examples from empirical economics."
+ECON C142,1,"This course focuses on the sensible application of econometr
+ic methods to empirical problems in economics and public pol
+icy analysis. It provides background on issues that arise wh
+en analyzing non-experimental social science data and a guid
+e for tools that are useful for empirical research. By the e
+nd of the course, students will have an understanding of the
+ types of research designs that can lead to convincing"
+ECON N142,1,"This course focuses on the sensible application of econometr
+ic methods to empirical problems in economics and public pol
+icy analysis. It provides background on issues that arise wh
+en analyzing non-experimental social science data and a guid
+e for tools that are useful for empirical research. By the e
+nd of the course, students will have an understanding of the
+ types of research designs that can lead to convincing analy
+sis and be comfortable working with large scale"
+ECON 144,1,"Since much of financial econometrics is based on time-series
+ data, we will spend the first three weeks introducing/revie
+wing basic time-series analysis. The course will then start 
+out by discussing the short-run time-series behaviour of sto
+ck prices, and present the evidence on short- and long-run p
+redictability of stock returns. We will continue by discussi
+ng cross-sectional models and static equilibrium theory, inc
+luding (but not limited to) the Capital Asset"
+ECON 151,1,"This course will analyze the economic forces that shape labo
+r markets, institutions, and performance in the U.S., Japan,
+ and at least one European country (usually Germany). Instit
+utions examined include trade unions, legal regulations, and
+ social conventions."
+ECON 152,1,"This course focuses on theoretical and empirical analysis of
+ wage and employment determination in the labor market. In a
+ddition, the role of public policy in affecting wage and emp
+loyment outcomes in the U.S. labor market is examined. Topic
+s include labor supply, labor demand, minimum wages, the eco
+nomics of education and training, discrimination and the imp
+act of antidiscrimination programs, changes in wage inequali
+ty over time, immigration"
+ECON N152,1,"This course focuses on theoretical and empirical analysis of
+ wage and employment determination in the labor market. In a
+ddition, the role of public policy in affecting wage and emp
+loyment outcomes in the U.S. labor market is examined. Topic
+s include labor supply, labor demand, minimum wages, the eco
+nomics of education and training, discrimination and the imp
+act of antidiscrimination programs, changes in wage inequali
+ty over time, immigration, unions, unemployment"
+ECON 153,1,Topics in labor economics. Seminar paper required.
+ECON 154,1,"Starting from Becker's classic book on the economics of disc
+rimination, this course will focus on issues of difference a
+nd discrimination accociated with race, gender, or nation of
+ birth, focusing particularly on credit and housing markets,
+ education, and health care. The course looks carefully at t
+he ways in which econometrics is used to address questions o
+f discrimination."
+ECON 155,1,"Application of economic theory to urban problems. Topics cov
+ered include location theory, housing, transportation, and t
+he fiscal problems of city government."
+ECON 155A,1,"This is an advanced course considering the economic forces g
+overning cities and a host of attendant public policy issues
+. Topics covered will include theory and evidence on sources
+ of agglomeration economies and urban growth, housing market
+s, segregation, neighborhood effects, and place-based polici
+es."
+ECON 157,1,"An economic analysis of policies and institutions in the U.S
+. health care sector. Topics covered include the supply and 
+demand for health services, conceptual and policy issues rel
+ating to the provision of health insurance, and economic ana
+lysis of efficient regulatory policies toward the health car
+e sector."
+ECON 161,1,"Economic behavior under socialism; socialism vs. capitalism.
+ Transition challenges. Stylized facts of transition. Politi
+cal economy of reform strategies. Liberalization and the mac
+roeconomic environment. Privatization policies and enterpris
+e restructuring. Legal reform, institutional change, and var
+iation in economic performance across countries. Foreign tra
+de and enlargement of the European Union to transition count
+ries. The Washington consensus"
+ECON 162,1,"The Chinese economy, its institutions, reform and transition
+ to the market, and development."
+ECON C171,1,"Problems of underdevelopment and poverty, policy issues, and
+ development strategy."
+ECON N171,1,"Problems of underdevelopment and poverty, policy issues, and
+ development strategy."
+ECON 172,1,"A detailed study of the problems of development in a selecte
+d geographical area in Asia or Africa or Latin America."
+ECON 173,1,A seminar paper will be required.
+ECON 174,1,"There are a countless number of potential policies and progr
+ams to address the causes and consequences of poverty. Howev
+er, how should one determine which of these is actually effe
+ctive in improving the lives of the poor? This course explor
+es a variety of empirical tools to rigorously measure the im
+pact of development programs. Through weekly case studies of
+ field research, students will learn impact evaluation theor
+y and methods, and apply"
+ECON C175,1,"A general introduction to economic demography, addressing th
+e following kinds of questions: What are the economic conseq
+uences of immigration to the U.S.? Will industrial nations b
+e able to afford the health and pension costs of the aging p
+opulations? How has the size of the baby boom affected its e
+conomic well being? Why has fertility been high in Third Wor
+ld countries? In industrial countries, why is marriage postp
+oned, divorce high, fertility"
+ECON N175,1,"A general introduction to economic demography, addressing th
+e following kinds of questions: What are the economic conseq
+uences of immigration to the U.S.? Will industrial nations b
+e able to afford the health and pension costs of the aging p
+opulations? How has the size of the baby boom affected its e
+conomic well being? Why has fertility been high in Third Wor
+ld countries? In industrial countries, why is marriage postp
+oned"
+ECON C181,1,"The theory of international trade and its applications to ta
+riff protection. This course is equivalent to "
+ECON N181,1,"The theory of international trade and its applications to ta
+riff protection."
+ECON 182,1,"The balance of payments, the determination of the trade bala
+nce and income under fixed and floating exchange rates, mone
+y and prices in open economies, the internationalization of 
+financial markets and its implications, international macroe
+conomic interdependence, capital flows, and the determinatio
+n of the exchange rate."
+ECON 183,1,A seminar paper is required.
+ECON 191,1,"This course discusses recent research and policy development
+s. The core objective is to expose students to different asp
+ects of research in economics. A sequence of five different 
+frontier research topics are studied in depth each semester.
+ Each topic lasts three weeks, during which students will fa
+miliarize themselves with cutting-edge economic research and
+ methodology. Students will then develop their own research 
+ideas and write two medium-"
+ECON H195A,1,"Preparation for writing a thesis, finding and organizing a t
+opic, gathering data and getting started. H195A is not prere
+quisite to H195B."
+ECON H195AS,1,"Preparation and writing of an honors thesis under the superv
+ision of a member of the faculty. H195AS is not a prerequisi
+te to H195BS."
+ECON H195B,1,"Writing a thesis under the supervision of a faculty member. 
+Applications and details through the departmental undergradu
+ate office. H195A is not prerequisite to H195B."
+ECON H195BS,1,"Preparation and writing of an honors thesis under the superv
+ision of a member of the faculty."
+ECON 196,1,"Study in various fields of economics. Topics will vary from 
+semester to semester and will be announced at the beginning 
+of each semester."
+ECON 197,1,"Written proposal must be approved by Department Chair. Super
+vised field studies in economics. Projects may be initiated 
+by the students."
+ECON 198,1,"Written proposal must be approved by Department Chair. Semin
+ars for the group study of selected topics, which will vary 
+from year to year. Topics may be initiated by students."
+ECON 199,1,"Written proposal must be approved by Department Chair. Enrol
+lment is restricted."
+ECON 1,1,"A survey of economics designed to give an overview of the fi
+eld."
+ECON 2,1,"The course provides a survey of economics principles and met
+hods. It covers both microeconomics, the study of consumer c
+hoice, firm behavior, and market interaction, and macroecono
+mics, the study of economic growth, unemployment, and inflat
+ion. Special emphasis is placed on the application of econom
+ic tools to contemporary economic problems and policies. Eco
+nomics 2 differs from Economics 1 in that it has an addition
+al hour of lecture per"
+ECON C3,1,"Introduction to microeconomics with emphasis on resource, ag
+ricultural, and environmental issues."
+ECON 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments. Topics v
+ary from department to department and semester to semester. 
+Enrollment limited to 15 freshman."
+ECON 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+ECON 98,1,"Written proposal must be approved by Department Chair. Semin
+ars for the group study of selected topics, which will vary 
+from year to year. Topics may be initiated by students."
+ECON 100A,1,Resource allocation and price determination.
+ECON 100B,1,"A study of the factors which determine national income, empl
+oyment, and price levels, with attention to the effects of m
+onetary and fiscal policy."
+ECON 101A,1,"Theory of resource allocation and price determination with a
+n emphasis on microeconomic principles."
+ECON 101B,1,"A study of theories of the determination of national income,
+ employment, and price levels, with attention to the effects
+ of monetary and fiscal policy."
+ECON C102,1,"Introduction to the economics of natural resources. Land and
+ the concept of economic rent. Models of optimal depletion o
+f nonrenewable resources and optimal use of renewable resour
+ces. Application to energy, forests, fisheries, water, and c
+limate change. Resources, growth, and sustainability."
+ECON C103,1,"Selected topics illustrating the application of mathematics 
+to economic theory. This course is intended for upper-divisi
+on students in Mathematics, Statistics, the Physical Science
+s, and Engineering, and for economics majors with adequate m
+athematical preparation. No economic background is required."
+ECON 104,1,"This course explores some issues in advanced microeconomic t
+heory, with special emphasis on game-theoretic models and th
+e theory of choice under uncertainty. Specific applications 
+will vary from year to year, but will generally include topi
+cs from information economics and models of strategic intera
+ction."
+ECON 105,1,"A survey of the theories of major economists from Adam Smith
+ to Keynes."
+ECON C110,1,"A non-technical introduction to game theory. Basic principle
+, and models of interaction among players, with a strong emp
+hasis on applications to political science, economics, and o
+ther social sciences."
+ECON N110,1,"A non-technical introduction to game theory. Basic principle
+, and models of interaction among players, with a strong emp
+hasis on applications to political science, economics, and o
+ther social sciences."
+ECON 113,1,"A survey of the history of the U.S. economy. Emphasis is on 
+economic events, factors, and explanations, with particular 
+emphasis on economic growth, development, and the distributi
+on of gains and losses associated with growth. A key skill d
+eveloped during the course is the ability to read, understan
+d, and critique econometric results in current economic hist
+ory research."
+ECON N113,1,"A survey of the history of the U.S. economy. Emphasis is on 
+economic events, factors, and explanations, with particular 
+emphasis on economic growth, development, and the distributi
+on of gains and losses associated with growth. A key skill d
+eveloped during the course is the ability to read, understan
+d, and critique econometric results in current economic hist
+ory research."
+ECON 115,1,"Development of the world economic system with particular ref
+erence to world-wide trading relationships. This course is e
+quivalent to History 160; students will not receive credit f
+or both courses."
+ECON 119,1,"This course presents psychological and experimental economic
+s research demonstrating departures from perfect rationality
+, self-interest, and other classical assumptions of economic
+s and explores ways that these departures can be mathematica
+lly modeled and incorporated into mainstream positive and no
+rmative economics. The course will focus on the behavioral e
+vidence itself, especially on specific formal"
+ECON 121,1,"The organization and structure of production in the U.S. eco
+nomy. Determinants of market structure, business behavior, a
+nd economic performance. Implications for antitrust policy."
+ECON 122,1,"Seminar on problems in the field of industrial organization.
+ Seminar paper is required."
+ECON 123,1,"Problems of public policy in the field of industrial organiz
+ation. Analysis of regulatory consequences with particular a
+ttention to economic performance."
+ECON 124,1,"Analysis of market structure, conduct and performance in sel
+ected industries. See course announcement for current topics
+."
+ECON C125,1,"Theories of externalities and public goods applied to pollut
+ion and environmental policy. Trade-off between production a
+nd environmental amenities. Assessing nonmarket value of env
+ironmental amenities. Remediation and clean-up policies. Env
+ironment and development. Biodiversity management."
+ECON 131,1,"This course focuses on the role of the government in the eco
+nomy from a theoretical and empirical perspective. The aim o
+f the course is to provide an understanding of the reasons f
+or government intervention in the economy, analyzing the mer
+its of possible government policies, and the response of eco
+nomic agents to the government's actions. The course covers 
+the analysis of tax policy, social insurance programs, publi
+c"
+ECON 132,1,Enrollment will be limited. A seminar paper is required.
+ECON 133,1,"This course provides an introduction to the analysis of econ
+omic inequalities and the interplay between inequality and e
+conomic growth. It focuses on three sets of core questions: 
+1) How does inequality evolve over the path of development? 
+2) What are the theories that can explain the degree of econ
+omic inequalities and its dynamic? 3) How do policies affect
+ inequalities, and what types of policies can foster equitab
+le"
+ECON 134,1,"This course will analyze the macroeconomic challenges and po
+licy responses in the United States over the past century. A
+mong the key topics studied are the Great Depression and the
+ New Deal; boom and bust monetary and fiscal policy in the e
+arly post-World War II period; the Volcker disinflation and 
+the Great Moderation; and the 2008 financial crisis and the 
+Great Recession."
+ECON 135,1,"This course examines the idea and reality of economic growth
+ in historical perspective, beginning with the divergence be
+tween human ancestors and other primates and continuing thro
+ugh with forecasts for the 21st century and beyond. Topics c
+overed include human speciation, language, and sociability; 
+the discovery of agriculture and the domestication of animal
+s; the origins and maintenance of gross inequality; Malthusi
+an economies; the Commercial and Industrial Revolutions;"
+ECON 136,1,"Analysis of financial assets and institutions. The course em
+phasizes modern asset valuation theory and the role of finan
+cial intermediaries, and their regulation, in the financial 
+system."
+ECON N136,1,"Analysis of financial assets and institutions. The course em
+phasizes modern asset valuation theory and the role of finan
+cial intermediaries, and their regulation, in the financial 
+system."
+ECON 137,1,Enrollment will be limited. A seminar paper is required.
+ECON 138,1,"This course is an advanced class in Financial Economics. Top
+ics include moral hazard (principal-agent problems, free cas
+h flow), asymmetric Information (security issurance, dividen
+ds), mergers and acquisitions (theory, managerial incentives
+), corporate governance (separation of ownership and control
+, internal capital markets, superstar CEOs), corporate fraud
+ (earnings manipulations). This class emphasizes the economi
+c underpinning of financial"
+ECON 139,1,"This is a 4-unit advanced undergraduate course designed for 
+undergraduates in Economics, Statistics, Mathematics, and In
+dustrial Engineering/Operations Research who are interested 
+in financial economics and finance. This course will stress 
+the link between financial economics and equilibrium theory.
+ Less attention will be devoted to purely financial topics s
+uch as the valuation of derivatives. This course is intended
+ as the segue between a"
+ECON 140,1,"Introduction to problems of observation, estimation, and hyp
+othesis testing in economics. This course covers the linear 
+regression model and its application to empirical problems i
+n economics."
+ECON 141,1,"Introduction to problems of observation, estimation, and hyp
+othesis testing in economics. This course covers the statist
+ical theory for the linear regression model and its variants
+, with examples from empirical economics."
+ECON C142,1,"This course focuses on the sensible application of econometr
+ic methods to empirical problems in economics and public pol
+icy analysis. It provides background on issues that arise wh
+en analyzing non-experimental social science data and a guid
+e for tools that are useful for empirical research. By the e
+nd of the course, students will have an understanding of the
+ types of research designs that can lead to convincing"
+ECON N142,1,"This course focuses on the sensible application of econometr
+ic methods to empirical problems in economics and public pol
+icy analysis. It provides background on issues that arise wh
+en analyzing non-experimental social science data and a guid
+e for tools that are useful for empirical research. By the e
+nd of the course, students will have an understanding of the
+ types of research designs that can lead to convincing analy
+sis and be comfortable working with large scale"
+ECON 144,1,"Since much of financial econometrics is based on time-series
+ data, we will spend the first three weeks introducing/revie
+wing basic time-series analysis. The course will then start 
+out by discussing the short-run time-series behaviour of sto
+ck prices, and present the evidence on short- and long-run p
+redictability of stock returns. We will continue by discussi
+ng cross-sectional models and static equilibrium theory, inc
+luding (but not limited to) the Capital Asset"
+ECON 151,1,"This course will analyze the economic forces that shape labo
+r markets, institutions, and performance in the U.S., Japan,
+ and at least one European country (usually Germany). Instit
+utions examined include trade unions, legal regulations, and
+ social conventions."
+ECON 152,1,"This course focuses on theoretical and empirical analysis of
+ wage and employment determination in the labor market. In a
+ddition, the role of public policy in affecting wage and emp
+loyment outcomes in the U.S. labor market is examined. Topic
+s include labor supply, labor demand, minimum wages, the eco
+nomics of education and training, discrimination and the imp
+act of antidiscrimination programs, changes in wage inequali
+ty over time, immigration"
+ECON N152,1,"This course focuses on theoretical and empirical analysis of
+ wage and employment determination in the labor market. In a
+ddition, the role of public policy in affecting wage and emp
+loyment outcomes in the U.S. labor market is examined. Topic
+s include labor supply, labor demand, minimum wages, the eco
+nomics of education and training, discrimination and the imp
+act of antidiscrimination programs, changes in wage inequali
+ty over time, immigration, unions, unemployment"
+ECON 153,1,Topics in labor economics. Seminar paper required.
+ECON 154,1,"Starting from Becker's classic book on the economics of disc
+rimination, this course will focus on issues of difference a
+nd discrimination accociated with race, gender, or nation of
+ birth, focusing particularly on credit and housing markets,
+ education, and health care. The course looks carefully at t
+he ways in which econometrics is used to address questions o
+f discrimination."
+ECON 155,1,"Application of economic theory to urban problems. Topics cov
+ered include location theory, housing, transportation, and t
+he fiscal problems of city government."
+ECON 155A,1,"This is an advanced course considering the economic forces g
+overning cities and a host of attendant public policy issues
+. Topics covered will include theory and evidence on sources
+ of agglomeration economies and urban growth, housing market
+s, segregation, neighborhood effects, and place-based polici
+es."
+ECON 157,1,"An economic analysis of policies and institutions in the U.S
+. health care sector. Topics covered include the supply and 
+demand for health services, conceptual and policy issues rel
+ating to the provision of health insurance, and economic ana
+lysis of efficient regulatory policies toward the health car
+e sector."
+ECON 161,1,"Economic behavior under socialism; socialism vs. capitalism.
+ Transition challenges. Stylized facts of transition. Politi
+cal economy of reform strategies. Liberalization and the mac
+roeconomic environment. Privatization policies and enterpris
+e restructuring. Legal reform, institutional change, and var
+iation in economic performance across countries. Foreign tra
+de and enlargement of the European Union to transition count
+ries. The Washington consensus"
+ECON 162,1,"The Chinese economy, its institutions, reform and transition
+ to the market, and development."
+ECON C171,1,"Problems of underdevelopment and poverty, policy issues, and
+ development strategy."
+ECON N171,1,"Problems of underdevelopment and poverty, policy issues, and
+ development strategy."
+ECON 172,1,"A detailed study of the problems of development in a selecte
+d geographical area in Asia or Africa or Latin America."
+ECON 173,1,A seminar paper will be required.
+ECON 174,1,"There are a countless number of potential policies and progr
+ams to address the causes and consequences of poverty. Howev
+er, how should one determine which of these is actually effe
+ctive in improving the lives of the poor? This course explor
+es a variety of empirical tools to rigorously measure the im
+pact of development programs. Through weekly case studies of
+ field research, students will learn impact evaluation theor
+y and methods, and apply"
+ECON C175,1,"A general introduction to economic demography, addressing th
+e following kinds of questions: What are the economic conseq
+uences of immigration to the U.S.? Will industrial nations b
+e able to afford the health and pension costs of the aging p
+opulations? How has the size of the baby boom affected its e
+conomic well being? Why has fertility been high in Third Wor
+ld countries? In industrial countries, why is marriage postp
+oned, divorce high, fertility"
+ECON N175,1,"A general introduction to economic demography, addressing th
+e following kinds of questions: What are the economic conseq
+uences of immigration to the U.S.? Will industrial nations b
+e able to afford the health and pension costs of the aging p
+opulations? How has the size of the baby boom affected its e
+conomic well being? Why has fertility been high in Third Wor
+ld countries? In industrial countries, why is marriage postp
+oned"
+ECON C181,1,"The theory of international trade and its applications to ta
+riff protection. This course is equivalent to "
+ECON N181,1,"The theory of international trade and its applications to ta
+riff protection."
+ECON 182,1,"The balance of payments, the determination of the trade bala
+nce and income under fixed and floating exchange rates, mone
+y and prices in open economies, the internationalization of 
+financial markets and its implications, international macroe
+conomic interdependence, capital flows, and the determinatio
+n of the exchange rate."
+ECON 183,1,A seminar paper is required.
+ECON 191,1,"This course discusses recent research and policy development
+s. The core objective is to expose students to different asp
+ects of research in economics. A sequence of five different 
+frontier research topics are studied in depth each semester.
+ Each topic lasts three weeks, during which students will fa
+miliarize themselves with cutting-edge economic research and
+ methodology. Students will then develop their own research 
+ideas and write two medium-"
+ECON H195A,1,"Preparation for writing a thesis, finding and organizing a t
+opic, gathering data and getting started. H195A is not prere
+quisite to H195B."
+ECON H195AS,1,"Preparation and writing of an honors thesis under the superv
+ision of a member of the faculty. H195AS is not a prerequisi
+te to H195BS."
+ECON H195B,1,"Writing a thesis under the supervision of a faculty member. 
+Applications and details through the departmental undergradu
+ate office. H195A is not prerequisite to H195B."
+ECON H195BS,1,"Preparation and writing of an honors thesis under the superv
+ision of a member of the faculty."
+ECON 196,1,"Study in various fields of economics. Topics will vary from 
+semester to semester and will be announced at the beginning 
+of each semester."
+ECON 197,1,"Written proposal must be approved by Department Chair. Super
+vised field studies in economics. Projects may be initiated 
+by the students."
+ECON 198,1,"Written proposal must be approved by Department Chair. Semin
+ars for the group study of selected topics, which will vary 
+from year to year. Topics may be initiated by students."
+ECON 199,1,"Written proposal must be approved by Department Chair. Enrol
+lment is restricted."
+ECON 1,1,"A survey of economics designed to give an overview of the fi
+eld."
+ECON 2,1,"The course provides a survey of economics principles and met
+hods. It covers both microeconomics, the study of consumer c
+hoice, firm behavior, and market interaction, and macroecono
+mics, the study of economic growth, unemployment, and inflat
+ion. Special emphasis is placed on the application of econom
+ic tools to contemporary economic problems and policies. Eco
+nomics 2 differs from Economics 1 in that it has an addition
+al hour of lecture per"
+ECON C3,1,"Introduction to microeconomics with emphasis on resource, ag
+ricultural, and environmental issues."
+ECON 24,1,"The Freshman Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small seminar setting. Fresh
+man seminars are offered in all campus departments. Topics v
+ary from department to department and semester to semester. 
+Enrollment limited to 15 freshman."
+ECON 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+ECON 98,1,"Written proposal must be approved by Department Chair. Semin
+ars for the group study of selected topics, which will vary 
+from year to year. Topics may be initiated by students."
+ECON 100A,1,Resource allocation and price determination.
+ECON 100B,1,"A study of the factors which determine national income, empl
+oyment, and price levels, with attention to the effects of m
+onetary and fiscal policy."
+ECON 101A,1,"Theory of resource allocation and price determination with a
+n emphasis on microeconomic principles."
+ECON 101B,1,"A study of theories of the determination of national income,
+ employment, and price levels, with attention to the effects
+ of monetary and fiscal policy."
+ECON C102,1,"Introduction to the economics of natural resources. Land and
+ the concept of economic rent. Models of optimal depletion o
+f nonrenewable resources and optimal use of renewable resour
+ces. Application to energy, forests, fisheries, water, and c
+limate change. Resources, growth, and sustainability."
+ECON C103,1,"Selected topics illustrating the application of mathematics 
+to economic theory. This course is intended for upper-divisi
+on students in Mathematics, Statistics, the Physical Science
+s, and Engineering, and for economics majors with adequate m
+athematical preparation. No economic background is required."
+ECON 104,1,"This course explores some issues in advanced microeconomic t
+heory, with special emphasis on game-theoretic models and th
+e theory of choice under uncertainty. Specific applications 
+will vary from year to year, but will generally include topi
+cs from information economics and models of strategic intera
+ction."
+ECON 105,1,"A survey of the theories of major economists from Adam Smith
+ to Keynes."
+ECON C110,1,"A non-technical introduction to game theory. Basic principle
+, and models of interaction among players, with a strong emp
+hasis on applications to political science, economics, and o
+ther social sciences."
+ECON N110,1,"A non-technical introduction to game theory. Basic principle
+, and models of interaction among players, with a strong emp
+hasis on applications to political science, economics, and o
+ther social sciences."
+ECON 113,1,"A survey of the history of the U.S. economy. Emphasis is on 
+economic events, factors, and explanations, with particular 
+emphasis on economic growth, development, and the distributi
+on of gains and losses associated with growth. A key skill d
+eveloped during the course is the ability to read, understan
+d, and critique econometric results in current economic hist
+ory research."
+ECON N113,1,"A survey of the history of the U.S. economy. Emphasis is on 
+economic events, factors, and explanations, with particular 
+emphasis on economic growth, development, and the distributi
+on of gains and losses associated with growth. A key skill d
+eveloped during the course is the ability to read, understan
+d, and critique econometric results in current economic hist
+ory research."
+ECON 115,1,"Development of the world economic system with particular ref
+erence to world-wide trading relationships. This course is e
+quivalent to History 160; students will not receive credit f
+or both courses."
+ECON 119,1,"This course presents psychological and experimental economic
+s research demonstrating departures from perfect rationality
+, self-interest, and other classical assumptions of economic
+s and explores ways that these departures can be mathematica
+lly modeled and incorporated into mainstream positive and no
+rmative economics. The course will focus on the behavioral e
+vidence itself, especially on specific formal"
+ECON 121,1,"The organization and structure of production in the U.S. eco
+nomy. Determinants of market structure, business behavior, a
+nd economic performance. Implications for antitrust policy."
+ECON 122,1,"Seminar on problems in the field of industrial organization.
+ Seminar paper is required."
+ECON 123,1,"Problems of public policy in the field of industrial organiz
+ation. Analysis of regulatory consequences with particular a
+ttention to economic performance."
+ECON 124,1,"Analysis of market structure, conduct and performance in sel
+ected industries. See course announcement for current topics
+."
+ECON C125,1,"Theories of externalities and public goods applied to pollut
+ion and environmental policy. Trade-off between production a
+nd environmental amenities. Assessing nonmarket value of env
+ironmental amenities. Remediation and clean-up policies. Env
+ironment and development. Biodiversity management."
+ECON 131,1,"This course focuses on the role of the government in the eco
+nomy from a theoretical and empirical perspective. The aim o
+f the course is to provide an understanding of the reasons f
+or government intervention in the economy, analyzing the mer
+its of possible government policies, and the response of eco
+nomic agents to the government's actions. The course covers 
+the analysis of tax policy, social insurance programs, publi
+c"
+ECON 132,1,Enrollment will be limited. A seminar paper is required.
+ECON 133,1,"This course provides an introduction to the analysis of econ
+omic inequalities and the interplay between inequality and e
+conomic growth. It focuses on three sets of core questions: 
+1) How does inequality evolve over the path of development? 
+2) What are the theories that can explain the degree of econ
+omic inequalities and its dynamic? 3) How do policies affect
+ inequalities, and what types of policies can foster equitab
+le"
+ECON 134,1,"This course will analyze the macroeconomic challenges and po
+licy responses in the United States over the past century. A
+mong the key topics studied are the Great Depression and the
+ New Deal; boom and bust monetary and fiscal policy in the e
+arly post-World War II period; the Volcker disinflation and 
+the Great Moderation; and the 2008 financial crisis and the 
+Great Recession."
+ECON 135,1,"This course examines the idea and reality of economic growth
+ in historical perspective, beginning with the divergence be
+tween human ancestors and other primates and continuing thro
+ugh with forecasts for the 21st century and beyond. Topics c
+overed include human speciation, language, and sociability; 
+the discovery of agriculture and the domestication of animal
+s; the origins and maintenance of gross inequality; Malthusi
+an economies; the Commercial and Industrial Revolutions;"
+ECON 136,1,"Analysis of financial assets and institutions. The course em
+phasizes modern asset valuation theory and the role of finan
+cial intermediaries, and their regulation, in the financial 
+system."
+ECON N136,1,"Analysis of financial assets and institutions. The course em
+phasizes modern asset valuation theory and the role of finan
+cial intermediaries, and their regulation, in the financial 
+system."
+ECON 137,1,Enrollment will be limited. A seminar paper is required.
+ECON 138,1,"This course is an advanced class in Financial Economics. Top
+ics include moral hazard (principal-agent problems, free cas
+h flow), asymmetric Information (security issurance, dividen
+ds), mergers and acquisitions (theory, managerial incentives
+), corporate governance (separation of ownership and control
+, internal capital markets, superstar CEOs), corporate fraud
+ (earnings manipulations). This class emphasizes the economi
+c underpinning of financial"
+ECON 139,1,"This is a 4-unit advanced undergraduate course designed for 
+undergraduates in Economics, Statistics, Mathematics, and In
+dustrial Engineering/Operations Research who are interested 
+in financial economics and finance. This course will stress 
+the link between financial economics and equilibrium theory.
+ Less attention will be devoted to purely financial topics s
+uch as the valuation of derivatives. This course is intended
+ as the segue between a"
+ECON 140,1,"Introduction to problems of observation, estimation, and hyp
+othesis testing in economics. This course covers the linear 
+regression model and its application to empirical problems i
+n economics."
+ECON 141,1,"Introduction to problems of observation, estimation, and hyp
+othesis testing in economics. This course covers the statist
+ical theory for the linear regression model and its variants
+, with examples from empirical economics."
+ECON C142,1,"This course focuses on the sensible application of econometr
+ic methods to empirical problems in economics and public pol
+icy analysis. It provides background on issues that arise wh
+en analyzing non-experimental social science data and a guid
+e for tools that are useful for empirical research. By the e
+nd of the course, students will have an understanding of the
+ types of research designs that can lead to convincing"
+ECON N142,1,"This course focuses on the sensible application of econometr
+ic methods to empirical problems in economics and public pol
+icy analysis. It provides background on issues that arise wh
+en analyzing non-experimental social science data and a guid
+e for tools that are useful for empirical research. By the e
+nd of the course, students will have an understanding of the
+ types of research designs that can lead to convincing analy
+sis and be comfortable working with large scale"
+ECON 144,1,"Since much of financial econometrics is based on time-series
+ data, we will spend the first three weeks introducing/revie
+wing basic time-series analysis. The course will then start 
+out by discussing the short-run time-series behaviour of sto
+ck prices, and present the evidence on short- and long-run p
+redictability of stock returns. We will continue by discussi
+ng cross-sectional models and static equilibrium theory, inc
+luding (but not limited to) the Capital Asset"
+ECON 151,1,"This course will analyze the economic forces that shape labo
+r markets, institutions, and performance in the U.S., Japan,
+ and at least one European country (usually Germany). Instit
+utions examined include trade unions, legal regulations, and
+ social conventions."
+ECON 152,1,"This course focuses on theoretical and empirical analysis of
+ wage and employment determination in the labor market. In a
+ddition, the role of public policy in affecting wage and emp
+loyment outcomes in the U.S. labor market is examined. Topic
+s include labor supply, labor demand, minimum wages, the eco
+nomics of education and training, discrimination and the imp
+act of antidiscrimination programs, changes in wage inequali
+ty over time, immigration"
+ECON N152,1,"This course focuses on theoretical and empirical analysis of
+ wage and employment determination in the labor market. In a
+ddition, the role of public policy in affecting wage and emp
+loyment outcomes in the U.S. labor market is examined. Topic
+s include labor supply, labor demand, minimum wages, the eco
+nomics of education and training, discrimination and the imp
+act of antidiscrimination programs, changes in wage inequali
+ty over time, immigration, unions, unemployment"
+ECON 153,1,Topics in labor economics. Seminar paper required.
+ECON 154,1,"Starting from Becker's classic book on the economics of disc
+rimination, this course will focus on issues of difference a
+nd discrimination accociated with race, gender, or nation of
+ birth, focusing particularly on credit and housing markets,
+ education, and health care. The course looks carefully at t
+he ways in which econometrics is used to address questions o
+f discrimination."
+ECON 155,1,"Application of economic theory to urban problems. Topics cov
+ered include location theory, housing, transportation, and t
+he fiscal problems of city government."
+ECON 155A,1,"This is an advanced course considering the economic forces g
+overning cities and a host of attendant public policy issues
+. Topics covered will include theory and evidence on sources
+ of agglomeration economies and urban growth, housing market
+s, segregation, neighborhood effects, and place-based polici
+es."
+ECON 157,1,"An economic analysis of policies and institutions in the U.S
+. health care sector. Topics covered include the supply and 
+demand for health services, conceptual and policy issues rel
+ating to the provision of health insurance, and economic ana
+lysis of efficient regulatory policies toward the health car
+e sector."
+ECON 161,1,"Economic behavior under socialism; socialism vs. capitalism.
+ Transition challenges. Stylized facts of transition. Politi
+cal economy of reform strategies. Liberalization and the mac
+roeconomic environment. Privatization policies and enterpris
+e restructuring. Legal reform, institutional change, and var
+iation in economic performance across countries. Foreign tra
+de and enlargement of the European Union to transition count
+ries. The Washington consensus"
+ECON 162,1,"The Chinese economy, its institutions, reform and transition
+ to the market, and development."
+ECON C171,1,"Problems of underdevelopment and poverty, policy issues, and
+ development strategy."
+ECON N171,1,"Problems of underdevelopment and poverty, policy issues, and
+ development strategy."
+ECON 172,1,"A detailed study of the problems of development in a selecte
+d geographical area in Asia or Africa or Latin America."
+ECON 173,1,A seminar paper will be required.
+ECON 174,1,"There are a countless number of potential policies and progr
+ams to address the causes and consequences of poverty. Howev
+er, how should one determine which of these is actually effe
+ctive in improving the lives of the poor? This course explor
+es a variety of empirical tools to rigorously measure the im
+pact of development programs. Through weekly case studies of
+ field research, students will learn impact evaluation theor
+y and methods, and apply"
+ECON C175,1,"A general introduction to economic demography, addressing th
+e following kinds of questions: What are the economic conseq
+uences of immigration to the U.S.? Will industrial nations b
+e able to afford the health and pension costs of the aging p
+opulations? How has the size of the baby boom affected its e
+conomic well being? Why has fertility been high in Third Wor
+ld countries? In industrial countries, why is marriage postp
+oned, divorce high, fertility"
+ECON N175,1,"A general introduction to economic demography, addressing th
+e following kinds of questions: What are the economic conseq
+uences of immigration to the U.S.? Will industrial nations b
+e able to afford the health and pension costs of the aging p
+opulations? How has the size of the baby boom affected its e
+conomic well being? Why has fertility been high in Third Wor
+ld countries? In industrial countries, why is marriage postp
+oned"
+ECON C181,1,"The theory of international trade and its applications to ta
+riff protection. This course is equivalent to "
+ECON N181,1,"The theory of international trade and its applications to ta
+riff protection."
+ECON 182,1,"The balance of payments, the determination of the trade bala
+nce and income under fixed and floating exchange rates, mone
+y and prices in open economies, the internationalization of 
+financial markets and its implications, international macroe
+conomic interdependence, capital flows, and the determinatio
+n of the exchange rate."
+ECON 183,1,A seminar paper is required.
+ECON 191,1,"This course discusses recent research and policy development
+s. The core objective is to expose students to different asp
+ects of research in economics. A sequence of five different 
+frontier research topics are studied in depth each semester.
+ Each topic lasts three weeks, during which students will fa
+miliarize themselves with cutting-edge economic research and
+ methodology. Students will then develop their own research 
+ideas and write two medium-"
+ECON H195A,1,"Preparation for writing a thesis, finding and organizing a t
+opic, gathering data and getting started. H195A is not prere
+quisite to H195B."
+ECON H195AS,1,"Preparation and writing of an honors thesis under the superv
+ision of a member of the faculty. H195AS is not a prerequisi
+te to H195BS."
+ECON H195B,1,"Writing a thesis under the supervision of a faculty member. 
+Applications and details through the departmental undergradu
+ate office. H195A is not prerequisite to H195B."
+ECON H195BS,1,"Preparation and writing of an honors thesis under the superv
+ision of a member of the faculty."
+ECON 196,1,"Study in various fields of economics. Topics will vary from 
+semester to semester and will be announced at the beginning 
+of each semester."
+ECON 197,1,"Written proposal must be approved by Department Chair. Super
+vised field studies in economics. Projects may be initiated 
+by the students."
+ECON 198,1,"Written proposal must be approved by Department Chair. Semin
+ars for the group study of selected topics, which will vary 
+from year to year. Topics may be initiated by students."
+ECON 199,1,"Written proposal must be approved by Department Chair. Enrol
+lment is restricted."

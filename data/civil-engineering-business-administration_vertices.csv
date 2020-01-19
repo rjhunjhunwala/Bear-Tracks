@@ -1,66 +1,406 @@
 name,size,about
-CIV ENG 11,1,"An introduction to key engineered systems (e.g., energy, water supply, buildings, transportation) and their environmental impacts. Basic principles of environmental science needed to understand natural processes as they are influenced by human activities. Overview of concepts and methods of sustainability analysis. Critical evaluation of engineering approaches to address sustainability."
-CIV ENG 24,1,"The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley seminars are offered in all campus departments, and topics vary from department to department and semester to semester."
-CIV ENG C30,1,"A review of equilibrium for particles and rigid bodies. Application to truss structures. The concepts of deformation, strain, and stress. Equilibrium equations for a continuum. Elements of the theory of linear elasticity. The states of plane stress and plane strain. Solution of elementary elasticity problems (beam bending, torsion of circular bars). Euler buckling in elastic beams."
-CIV ENG W30,1,"A review of equilibrium for particles and rigid bodies. Application to truss structures. The concepts of deformation, strain, and stress. Equilibrium equations for a continuum. Elements of the theory of linear elasticity. The states of plane stress and plane strain. Solution of elementary elasticity problems (beam bending, torsion of circular bars). Euler buckling in elastic beams."
-CIV ENG 60,1,"Introduction to structure and properties of civil engineering materials such as asphalt, cements, concrete, geological materials (e.g. soil and rocks), steel, polymers, and wood. The properties range from elastic, plastic and fracture properties to porosity and thermal and environmental responses. Laboratory tests include evaluation of behavior of these materials under a wide range of conditions."
-CIV ENG 70,1,Principles of physical and structural geology; the influence of geological factors on engineering works and the environment. Field trip.
-CIV ENG 88B,1,"In this course, we will pursue analysis of long-term records of coastal water levels in the context of sea level rise. We will cover the collection, evaluation, visualization and analysis of time series data using long-term records of sea levels from coastal sites around the world. Specific topics will include extreme events and distributions, frequency-based descriptions, averaging, filtering, harmonic analysis, trend identification, extrapolations, and decision-making"
-CIV ENG C88,1,"Cities become more dependent on the data flows that connect infrastructures between themselves, and users to infrastructures. Design and operation of smart, efficient, and resilient cities nowadays require data science skills. This course provides an introduction to working with data generated within transportation systems, power grids, communication networks, as well as collected via crowd-sensing and remote sensing technologies, to build demand- and supply-side"
-CIV ENG 92,1,A course designed to familiarize the entering student with the nature and scope of civil and environmental engineering and its component specialty areas.
-CIV ENG 93,1,Application of the concepts and methods of probability theory and statistical inference to CEE problems and data; graphical data analysis and sampling; elements of set theory; elements of probability theory; random variables and expectation; simulation; statistical inference. Use of computer programming languages for analysis of CEE-related data and problems. The course also introduces the student to various domains of uncertainty analysis
-CIV ENG 98,1,Supervised group study and research by lower division students.
+CIV ENG 11,1,"An introduction to key engineered systems (e.g., energy, wat
+er supply, buildings, transportation) and their environmenta
+l impacts. Basic principles of environmental science needed 
+to understand natural processes as they are influenced by hu
+man activities. Overview of concepts and methods of sustaina
+bility analysis. Critical evaluation of engineering approach
+es to address sustainability."
+CIV ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CIV ENG C30,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+CIV ENG W30,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+CIV ENG 60,1,"Introduction to structure and properties of civil engineerin
+g materials such as asphalt, cements, concrete, geological m
+aterials (e.g. soil and rocks), steel, polymers, and wood. T
+he properties range from elastic, plastic and fracture prope
+rties to porosity and thermal and environmental responses. L
+aboratory tests include evaluation of behavior of these mate
+rials under a wide range of conditions."
+CIV ENG 70,1,"Principles of physical and structural geology; the influence
+ of geological factors on engineering works and the environm
+ent. Field trip."
+CIV ENG 88B,1,"In this course, we will pursue analysis of long-term records
+ of coastal water levels in the context of sea level rise. W
+e will cover the collection, evaluation, visualization and a
+nalysis of time series data using long-term records of sea l
+evels from coastal sites around the world. Specific topics w
+ill include extreme events and distributions, frequency-base
+d descriptions, averaging, filtering, harmonic analysis, tre
+nd identification, extrapolations, and decision-making"
+CIV ENG C88,1,"Cities become more dependent on the data flows that connect 
+infrastructures between themselves, and users to infrastruct
+ures. Design and operation of smart, efficient, and resilien
+t cities nowadays require data science skills. This course p
+rovides an introduction to working with data generated withi
+n transportation systems, power grids, communication network
+s, as well as collected via crowd-sensing and remote sensing
+ technologies, to build demand- and supply-side"
+CIV ENG 92,1,"A course designed to familiarize the entering student with t
+he nature and scope of civil and environmental engineering a
+nd its component specialty areas."
+CIV ENG 93,1,"Application of the concepts and methods of probability theor
+y and statistical inference to CEE problems and data; graphi
+cal data analysis and sampling; elements of set theory; elem
+ents of probability theory; random variables and expectation
+; simulation; statistical inference. Use of computer program
+ming languages for analysis of CEE-related data and problems
+. The course also introduces the student to various domains 
+of uncertainty analysis"
+CIV ENG 98,1,"Supervised group study and research by lower division studen
+ts."
 CIV ENG 99,1,Supervised independent study by lower division students.
-CIV ENG 100,1,"Fluid statics and dynamics, including laboratory experiments with technical reports. Fundamentals: integral and differential formulations of the conservation laws are solved in special cases such as boundary layers and pipe flow. Flow visualization and computation techniques are introduced using Matlab. Empirical equations are used for turbulent flows, drag, pumps, and open channels. Principles of empirical equations are also discussed:"
-CIV ENG 101,1,"Analysis of steady and unsteady open-channel flow and application to rivers and streams. Examination of mixing and transport in rivers and streams. Effects of channel complexity. Floodplain dynamics and flow routing. Interaction of vegetation and fluid flows. Freshwater and tidal marshes. Sediment transport in rivers, streams, and wetlands. Implications for freshwater ecosystem function."
-CIV ENG 103,1,"Course addresses principles and practical aspects of hydrology. Topics in introduction to hydrology include hydrologic cycle, precipitation, evaporation, infiltration, snow and snowmelt, and streamflow; introduction to geomorphology, GIS (Geographic Information Systems) applications, theory of unit hydrograph, frequency analysis, flood routing through reservoirs and rivers; introduction to rainfall-runoff analyses, watershed modeling, urban hydrology"
-CIV ENG C103N,1,"A quantitative introduction to the hydrology of the terrestrial environment including lower atmosphere, watersheds, lakes, and streams. All aspects of the hydrologic cycle, including precipitation, infiltration, evapotranspiration, overland flow, streamflow, and groundwater flow. Chemistry and dating of groundwater and surface water. Development of quantitative insights through problem solving and use of simple models. This course"
-CIV ENG 105,1,"Hands-on design course in applied fluid mechanics, hydrology and water resources. Course goes beyond basic examples of fluid flow to develop environmental engineering solutions to real-world problems. A class team project is used to (1) explore the design process and project management; and (2) to integrate concepts from hydrology and fluid mechanics with structural, geotechnical and/or transportation engineering for a holistic design approach."
-CIV ENG C106,1,"This course is an introduction to air pollution and the chemistry of earth's atmosphere. We will focus on the fundamental natural processes controlling trace gas and aerosol concentrations in the atmosphere, and how anthropogenic activity has affected those processes at the local, regional, and global scales. Specific topics include stratospheric ozone depletion, increasing concentrations of green house gasses, smog, and changes in the oxidation"
-CIV ENG 107,1,"Assessment of technological options for responding to climate change. Overview of climate-change science; sources, sinks, and atmospheric dynamics of greenhouse gases. Current systems for energy supply and use. Renewable energy resources, transport, storage, and transformation technologies. Technological opportunities for improving end-use energy efficiency. Recovery, sequestration, and disposal of greenhouse gases. Societal context for implementing"
-CIV ENG 110,1,"This course will familiarize students with the complex infrastructure used to meet human water demands; competing uses and demands; water and wastewater infrastructure; technologies to enable recovery of water, energy, and other resources from wastewater; supply planning; trends and forecasting; costs, pricing and financing; environmental justice; methods to assess sustainability; regulatory, policy and institutional challenges; and water's"
-CIV ENG 111,1,"Quantitative overview of air and water contaminants and their engineering control. Elementary environmental chemistry and transport. Reactor models. Applications of fundamentals to selected current issues in water quality engineering, air quality engineering, air quality engineering, and hazardous waste management."
-CIV ENG 111L,1,"This laboratory course is designed to accompany the lecture topics in Civil Engineering 111. Each laboratory activity will provide an opportunity to understand key concepts in water and air quality through hands-on experimentation. Laboratory topics include phase partitioning, acid/base reactions, redox reactions, biochemical oxygen demand, absorption, gas transfer, reactor hydraulics, particle destablization, disinfection, and combustion emis"
-CIV ENG 112,1,"Engineering design and project management of environmental systems. Students will complete a design project focusing on pollution control in a selected environmental system. Lectures and project activities will address process design, economic optimization, legal and institutional constraints on design, and project management. Additional components of design (e.g., hydraulics, engineering sustainability, plant structures) will be include"
-CIV ENG 113,1,"Ecological engineering approaches for treating contaminated water using natural processes to improve water quality. Emphasis on combining basic science and engineering approaches to understand the fundamental processes that govern the effectiveness of complex natural treatment systems. Applications include constructed wetlands, waste stabilization ponds, stormwater bioretention, decentralized wastewater management, ecological sanitation. Laboratory"
-CIV ENG 114,1,"The scope of modern environmental engineering requires a fundamental knowledge of microbial processes with specific application to water, wastewater and the environmental fate of pollutants. This course will cover basic microbial physiology, biochemistry, metabolism, growth energetics and kinetics, ecology, pathogenicity, and genetics for application to both engineered and natural environmental systems."
-CIV ENG 115,1,"The application of principles of inorganic, physical, and dilute solution equilibrium chemistry to aquatic systems, both in the aquatic environment and in water and wastewater treatment processes."
-CIV ENG C116,1,Chemical mechanisms of reactions controlling the fate and mobility of nutrients and pollutants in soils. Role of soil minerals and humus in geochemical pathways of nutrient biovailability and pollutant detoxification. Chemical modeling of nutrient and pollutant soil chemistry. Applications to soil acidity and salinity.
-CIV ENG 120,1,"Introduction to design and analysis of structural systems. Loads and load placement. Proportioning of structural members in steel, reinforced concrete, and timber. Structural analysis theory. Hand and computer analysis methods, validation of results from computer analysis. Applications, including bridges, building frames, and long-span cable structures."
-CIV ENG 121,1,"Theory and application of structural analysis. Stiffness and flexibility methods, with emphasis on the direct stiffness method. Equilibrium and compatibility. Virtual work. Response of linear and simple nonlinear structures to static loads. Use of computer programs for structural analysis. Modeling of two- and three-dimensional structures. Verification and interpretation of structural response."
-CIV ENG 122L,1,"Introduction to one or more comprehensive structural design problems. Design teams will conceive structural system; determine design loads; conduct preliminary and final design of structure and its foundation; prepare construction cost estimate; prepare final report containing project description, design criteria, cost estimate, structural drawings, and supporting calculations; and make ""client"" presentations as required."
-CIV ENG 122N,1,"Introduction to materials and methods of steel construction; behavior and design of tension members, compression members, flexural members and beam-columns; design of welds, bolts, shear connections and moment connections; design of spread footings or other foundation elements, inroduction to design of earthquake-resistant steel structures including concentrically braced frames and moment frames."
-CIV ENG 123L,1,"Introduction to one or more comprehensive structural design problems. Design teams will conceive structural system; determine design loads; conduct preliminary and final design of structure and its foundation; prepare construction cost estimate; prepare final report containing project description, design criteria, cost estimate, structural drawings, and supporting calculations; make ""client"" presentations as required."
-CIV ENG 123N,1,"Introduction to materials and methods of reinforced concrete construction; behavior and design of reinforced concrete beams and one-way slabs considering deflections, flexure, shear, and anchorage; behavior and design of columns; design of spread footings or other foundation elements; design of earthquake-resistant structures; introduction to prestressed concrete."
-CIV ENG 124,1,"Characteristics and properties of wood as a structural material; design and detailing of structural elements and entire structures of wood. Topics include allowable stresses, design and detailing of solid sawn and glulam beams and columns, nailed and bolted connections, plywood diaphragms and shear walls. Case studies."
-CIV ENG 126,1,"Introduction to the dynamics of particles, rigid bodies, and deformable solids in civil engineering. Newtonian and Lagrangian formulations. Vibration of particles and rigid body systems: natural frequencies and mode shapes, free and forced vibration. Vibration of continuous systems: bars, strings, beams. Modeling and numerical simulation methods.."
-CIV ENG 130N,1,"Elastic and plastic stress and deformation analysis of bars, shafts, beams, and columns; energy and variational methods; plastic analysis of structures; stability analysis of structures; computer-aided mathematical techniques for solution of engineering problems and modular computer programming methods."
-CIV ENG 132,1,"Concepts of theory of solid mechanics: three dimensional stress, strain, and material response; elastic and inelastic boundary value problems; fracture, fatigue, and geometric instability. Problems in advanced strength of materials; thin plate and axis-symmetric shell theory."
-CIV ENG C133,1,"This is an introductory course on the finite element method and is intended for seniors in engineering and applied science disciplines. The course covers the basic topics of finite element technology, including domain discretization, polynomial interpolation, application of boundary conditions, assembly of global arrays, and solution of the resulting algebraic systems. Finite element formulations for several important field equations are introduced"
-CIV ENG 140,1,"The failure mechanisms in civil engineering materials (cement-based materials, metallic- and polymer-based materials) are associated with processing, microstructure, stress states, and environmental changes. Fracture mechanics of brittle, quasi-brittle, and ductile materials; cracking processes in monolithic, particulate, and fiber reinforced materials; examples of ductile/brittle failure transitions in civil engineering structures; retrofitting"
-CIV ENG 153,1,"A capstone class with the objective to design transportation facilities based on operational capacity, site constraints, and environmental design considerations. Emphasis on airports, including landside and airside elements, and environmental assessment and mitigation techniques."
-CIV ENG 155,1,"Operation, management, control, design, and evaluation of passenger and freight transportation systems. Their economic role. Demand analysis. Overall logistical structure. Performance models and modeling techniques: time-space diagrams, queuing theory, network analysis, and simulation. Design of control strategies for simple systems. Feedback effects. Paradoxes. Transportation impact modeling; noise; air pollution. Multi-criteria evaluation"
-CIV ENG 156,1,"This course focuses on physical infrastructure systems that support society, including transportation, communications, power, water, and waste. These are complex, large-scale systems that must be planned and managed over a long-term horizon. Economics-based, analytical tools are covered, including topics of supply, demand, and evaluation. Problem sets, case studies, and a class project provide for hands-on experience with a range of infrastructure"
-CIV ENG 165,1,"Concrete materials: cements, supplementary cementitious materials, water, and admixtures. Sustainability analysis of concrete materials and mixtures. Development of special concretes: self-leveling concrete, high-performance concrete, and mass concrete. Consideration of sustainability of concrete construction methods used for buildings, highways, airfields, bridges, dams and other hydraulic structures. Non-destructive methods. Discussion"
-CIV ENG 166,1,"Introduction to construction engineering and field operations. The construction industry, construction methods and practice, productivity improvement, equipment selection, site layout formwork, erection of steel and concrete structures. Labs demonstrate the concepts covered. Field trips to local construction projects."
-CIV ENG 167,1,"Principles of economics, decision making, and law applied to company and project management. Business ownership, liability and insurance, cash flow analysis, and financial management. Project life-cycle, design-construction interface, contracts, estimating, scheduling, cost control."
-CIV ENG 171,1,"Geological and geophysical exploration for structures in rock; properties and behavior of rock masses; rock slope stability; geological engineering of underground openings; evaluation of rock foundations, including dams."
-CIV ENG 173,1,"Introduction to principles of groundwater flow, including steady and transient flow through porous media, numerical analysis, pumping tests, groundwater geology, contaminant transport, and design of waste containment systems."
-CIV ENG 174,1,"Engineering Geomatics is a field that integrates collections, processing, and analysis of digital geospatial data. This new field is anchored in the established field of geodetics that describes the complex shape of the Earth, elements and usage of topographic data and maps. Basic and advanced GPS satellite mapping. Digital globe technology. Advanced laser-LIDAR mapping. Quantitative"
-CIV ENG 175,1,"Soil formation and identification. Engineering properties of soils. Fundamental aspects of soil characterization and response, including soil mineralogy, soil-water movement, effective stress, consolidation, soil strength, and soil compaction. Use of soils and geosynsynthetics in geotechnical and geoenvironmental applications. Introduction to site investigation techniques. Laboratory testing and evaluation of soil composition and propert"
-CIV ENG 176,1,"Principles of environmental geotechnics applied to waste encapsulation and remediation of contaminated sites. Characterization of soils and wastes, engineering properties of soils and geosynthetics and their use in typical applications. Fate and transport of contaminants. Fundamental principles and practices in groundwater remediation. Application of environmental geotechnics in the design and construction of waste containment systems. Discussion"
-CIV ENG 177,1,"Principles of foundation engineering. Shear strength of soil and theories related to the analysis and design of shallow and deep foundations, and retaining structures. Structural design of foundation elements; piles, pile caps, and retaining structures. The course has a group project that incorporates both geotechnical and structural components of different foundation elements."
-CIV ENG C178,1,"The theory and practice of geophysical methods for determining the subsurface distribution of physical rock and soil properties. Measurements of gravity and magnetic fields, electrical and electromagnetic fields, and seismic velocity are interpreted to map the subsurface distribution of density, magnetic susceptibility, electrical conductivity, and mechanical properties."
-CIV ENG 179,1,"Geosystem engineering design principles and concepts. Fundamental aspects of the geomechanical and geoenvironmental responses of soil are applied to analyze and design civil systems, such as earth dams and levees, earth retention systems, building and bridge foundations, solid-waste fills, and tailings dams. Students form teams to design geotechnical aspects of a civil project and prepare/present a design document. Field trip to a project si"
-CIV ENG 180,1,"Course encompasses two design aspects of a civil and environmental engineering system: 1) Design of whole system, component, or life-cycle phase, subject to engineering standards and constraints, and 2) production system design (e.g., cost estimation and control, scheduling, commercial and legal terms, site layout design). Students form teams to address real-life projects and prepare project documentation and a final presentation."
-CIV ENG 186,1,"Design and prototype of large-scale technology intensive systems. Design project incorporating infrastruture systems and areas such as transportation and hydrology; for example, watershed sensor networks, robot networks for environmental management, mobile Internet monitoring, open societal scale systems, crowd-sources applications, traffic management. Design of sensing and control systems, prototyping systems, and measures of system performance."
-CIV ENG 190,1,This course covers current topics of interest in civil and environmental engineering. The course content may vary from semester to semester depending upon the instructor
-CIV ENG 191,1,"This course is organized around five real-world large-scale CEE systems problems. The problems provide the motivation for the study of quantitative tools that are used for planning or managing these systems. The problems include design of a public transportation system for an urban area, resource allocation for the maintenance of a water supply system, development of repair and replacement policies for reinforced concrete bridge decks, traffic"
-CIV ENG 192,1,"A series of lectures by distinguished professionals designed to provide an appreciation of the role of science, technology, and the needs of society in conceiving projects, balancing the interplay of conflicting demands, and utilizing a variety of disciplines to produce unified and efficient systems."
-CIV ENG 193,1,"Applications of probability theory and statistics in planning, analysis, and design of civil engineering systems. Development of probabilistic models for risk and reliability evaluation. Occurrence models; extreme value distributions. Analysis of uncertainties. Introduction to Bayesian statistical decision theory and its application in engineering decision-making."
-CIV ENG H194,1,Supervised research. Students who have completed 3 or more upper division courses may pursue original research under the direction of one of the members of the staff. A final report or presentation is required. A maximum of 4 units of H194 may be used to fulfill the technical elective requirement.
-CIV ENG 197,1,Supervised experience in off-campus companies relevant to specific aspects and applications of civil engineering. Written report required at the end of the semester.
-CIV ENG 198,1,Group study of a selected topic or topics in civil engineering.
+CIV ENG 100,1,"Fluid statics and dynamics, including laboratory experiments
+ with technical reports. Fundamentals: integral and differen
+tial formulations of the conservation laws are solved in spe
+cial cases such as boundary layers and pipe flow. Flow visua
+lization and computation techniques are introduced using Mat
+lab. Empirical equations are used for turbulent flows, drag,
+ pumps, and open channels. Principles of empirical equations
+ are also discussed:"
+CIV ENG 101,1,"Analysis of steady and unsteady open-channel flow and applic
+ation to rivers and streams. Examination of mixing and trans
+port in rivers and streams. Effects of channel complexity. F
+loodplain dynamics and flow routing. Interaction of vegetati
+on and fluid flows. Freshwater and tidal marshes. Sediment t
+ransport in rivers, streams, and wetlands. Implications for 
+freshwater ecosystem function."
+CIV ENG 103,1,"Course addresses principles and practical aspects of hydrolo
+gy. Topics in introduction to hydrology include hydrologic c
+ycle, precipitation, evaporation, infiltration, snow and sno
+wmelt, and streamflow; introduction to geomorphology, GIS (G
+eographic Information Systems) applications, theory of unit 
+hydrograph, frequency analysis, flood routing through reserv
+oirs and rivers; introduction to rainfall-runoff analyses, w
+atershed modeling, urban hydrology"
+CIV ENG C103N,1,"A quantitative introduction to the hydrology of the terrestr
+ial environment including lower atmosphere, watersheds, lake
+s, and streams. All aspects of the hydrologic cycle, includi
+ng precipitation, infiltration, evapotranspiration, overland
+ flow, streamflow, and groundwater flow. Chemistry and datin
+g of groundwater and surface water. Development of quantitat
+ive insights through problem solving and use of simple model
+s. This course"
+CIV ENG 105,1,"Hands-on design course in applied fluid mechanics, hydrology
+ and water resources. Course goes beyond basic examples of f
+luid flow to develop environmental engineering solutions to 
+real-world problems. A class team project is used to (1) exp
+lore the design process and project management; and (2) to i
+ntegrate concepts from hydrology and fluid mechanics with st
+ructural, geotechnical and/or transportation engineering for
+ a holistic design approach."
+CIV ENG C106,1,"This course is an introduction to air pollution and the chem
+istry of earth's atmosphere. We will focus on the fundamenta
+l natural processes controlling trace gas and aerosol concen
+trations in the atmosphere, and how anthropogenic activity h
+as affected those processes at the local, regional, and glob
+al scales. Specific topics include stratospheric ozone deple
+tion, increasing concentrations of green house gasses, smog,
+ and changes in the oxidation"
+CIV ENG 107,1,"Assessment of technological options for responding to climat
+e change. Overview of climate-change science; sources, sinks
+, and atmospheric dynamics of greenhouse gases. Current syst
+ems for energy supply and use. Renewable energy resources, t
+ransport, storage, and transformation technologies. Technolo
+gical opportunities for improving end-use energy efficiency.
+ Recovery, sequestration, and disposal of greenhouse gases. 
+Societal context for implementing"
+CIV ENG 110,1,"This course will familiarize students with the complex infra
+structure used to meet human water demands; competing uses a
+nd demands; water and wastewater infrastructure; technologie
+s to enable recovery of water, energy, and other resources f
+rom wastewater; supply planning; trends and forecasting; cos
+ts, pricing and financing; environmental justice; methods to
+ assess sustainability; regulatory, policy and institutional
+ challenges; and water's"
+CIV ENG 111,1,"Quantitative overview of air and water contaminants and thei
+r engineering control. Elementary environmental chemistry an
+d transport. Reactor models. Applications of fundamentals to
+ selected current issues in water quality engineering, air q
+uality engineering, air quality engineering, and hazardous w
+aste management."
+CIV ENG 111L,1,"This laboratory course is designed to accompany the lecture 
+topics in Civil Engineering 111. Each laboratory activity wi
+ll provide an opportunity to understand key concepts in wate
+r and air quality through hands-on experimentation. Laborato
+ry topics include phase partitioning, acid/base reactions, r
+edox reactions, biochemical oxygen demand, absorption, gas t
+ransfer, reactor hydraulics, particle destablization, disinf
+ection, and combustion emis"
+CIV ENG 112,1,"Engineering design and project management of environmental s
+ystems. Students will complete a design project focusing on 
+pollution control in a selected environmental system. Lectur
+es and project activities will address process design, econo
+mic optimization, legal and institutional constraints on des
+ign, and project management. Additional components of design
+ (e.g., hydraulics, engineering sustainability, plant struct
+ures) will be include"
+CIV ENG 113,1,"Ecological engineering approaches for treating contaminated 
+water using natural processes to improve water quality. Emph
+asis on combining basic science and engineering approaches t
+o understand the fundamental processes that govern the effec
+tiveness of complex natural treatment systems. Applications 
+include constructed wetlands, waste stabilization ponds, sto
+rmwater bioretention, decentralized wastewater management, e
+cological sanitation. Laboratory"
+CIV ENG 114,1,"The scope of modern environmental engineering requires a fun
+damental knowledge of microbial processes with specific appl
+ication to water, wastewater and the environmental fate of p
+ollutants. This course will cover basic microbial physiology
+, biochemistry, metabolism, growth energetics and kinetics, 
+ecology, pathogenicity, and genetics for application to both
+ engineered and natural environmental systems."
+CIV ENG 115,1,"The application of principles of inorganic, physical, and di
+lute solution equilibrium chemistry to aquatic systems, both
+ in the aquatic environment and in water and wastewater trea
+tment processes."
+CIV ENG C116,1,"Chemical mechanisms of reactions controlling the fate and mo
+bility of nutrients and pollutants in soils. Role of soil mi
+nerals and humus in geochemical pathways of nutrient biovail
+ability and pollutant detoxification. Chemical modeling of n
+utrient and pollutant soil chemistry. Applications to soil a
+cidity and salinity."
+CIV ENG 120,1,"Introduction to design and analysis of structural systems. L
+oads and load placement. Proportioning of structural members
+ in steel, reinforced concrete, and timber. Structural analy
+sis theory. Hand and computer analysis methods, validation o
+f results from computer analysis. Applications, including br
+idges, building frames, and long-span cable structures."
+CIV ENG 121,1,"Theory and application of structural analysis. Stiffness and
+ flexibility methods, with emphasis on the direct stiffness 
+method. Equilibrium and compatibility. Virtual work. Respons
+e of linear and simple nonlinear structures to static loads.
+ Use of computer programs for structural analysis. Modeling 
+of two- and three-dimensional structures. Verification and i
+nterpretation of structural response."
+CIV ENG 122L,1,"Introduction to one or more comprehensive structural design 
+problems. Design teams will conceive structural system; dete
+rmine design loads; conduct preliminary and final design of 
+structure and its foundation; prepare construction cost esti
+mate; prepare final report containing project description, d
+esign criteria, cost estimate, structural drawings, and supp
+orting calculations; and make ""client"" presentations as requ
+ired."
+CIV ENG 122N,1,"Introduction to materials and methods of steel construction;
+ behavior and design of tension members, compression members
+, flexural members and beam-columns; design of welds, bolts,
+ shear connections and moment connections; design of spread 
+footings or other foundation elements, inroduction to design
+ of earthquake-resistant steel structures including concentr
+ically braced frames and moment frames."
+CIV ENG 123L,1,"Introduction to one or more comprehensive structural design 
+problems. Design teams will conceive structural system; dete
+rmine design loads; conduct preliminary and final design of 
+structure and its foundation; prepare construction cost esti
+mate; prepare final report containing project description, d
+esign criteria, cost estimate, structural drawings, and supp
+orting calculations; make ""client"" presentations as required
+."
+CIV ENG 123N,1,"Introduction to materials and methods of reinforced concrete
+ construction; behavior and design of reinforced concrete be
+ams and one-way slabs considering deflections, flexure, shea
+r, and anchorage; behavior and design of columns; design of 
+spread footings or other foundation elements; design of eart
+hquake-resistant structures; introduction to prestressed con
+crete."
+CIV ENG 124,1,"Characteristics and properties of wood as a structural mater
+ial; design and detailing of structural elements and entire 
+structures of wood. Topics include allowable stresses, desig
+n and detailing of solid sawn and glulam beams and columns, 
+nailed and bolted connections, plywood diaphragms and shear 
+walls. Case studies."
+CIV ENG 126,1,"Introduction to the dynamics of particles, rigid bodies, and
+ deformable solids in civil engineering. Newtonian and Lagra
+ngian formulations. Vibration of particles and rigid body sy
+stems: natural frequencies and mode shapes, free and forced 
+vibration. Vibration of continuous systems: bars, strings, b
+eams. Modeling and numerical simulation methods.."
+CIV ENG 130N,1,"Elastic and plastic stress and deformation analysis of bars,
+ shafts, beams, and columns; energy and variational methods;
+ plastic analysis of structures; stability analysis of struc
+tures; computer-aided mathematical techniques for solution o
+f engineering problems and modular computer programming meth
+ods."
+CIV ENG 132,1,"Concepts of theory of solid mechanics: three dimensional str
+ess, strain, and material response; elastic and inelastic bo
+undary value problems; fracture, fatigue, and geometric inst
+ability. Problems in advanced strength of materials; thin pl
+ate and axis-symmetric shell theory."
+CIV ENG C133,1,"This is an introductory course on the finite element method 
+and is intended for seniors in engineering and applied scien
+ce disciplines. The course covers the basic topics of finite
+ element technology, including domain discretization, polyno
+mial interpolation, application of boundary conditions, asse
+mbly of global arrays, and solution of the resulting algebra
+ic systems. Finite element formulations for several importan
+t field equations are introduced"
+CIV ENG 140,1,"The failure mechanisms in civil engineering materials (cemen
+t-based materials, metallic- and polymer-based materials) ar
+e associated with processing, microstructure, stress states,
+ and environmental changes. Fracture mechanics of brittle, q
+uasi-brittle, and ductile materials; cracking processes in m
+onolithic, particulate, and fiber reinforced materials; exam
+ples of ductile/brittle failure transitions in civil enginee
+ring structures; retrofitting"
+CIV ENG 153,1,"A capstone class with the objective to design transportation
+ facilities based on operational capacity, site constraints,
+ and environmental design considerations. Emphasis on airpor
+ts, including landside and airside elements, and environment
+al assessment and mitigation techniques."
+CIV ENG 155,1,"Operation, management, control, design, and evaluation of pa
+ssenger and freight transportation systems. Their economic r
+ole. Demand analysis. Overall logistical structure. Performa
+nce models and modeling techniques: time-space diagrams, que
+uing theory, network analysis, and simulation. Design of con
+trol strategies for simple systems. Feedback effects. Parado
+xes. Transportation impact modeling; noise; air pollution. M
+ulti-criteria evaluation"
+CIV ENG 156,1,"This course focuses on physical infrastructure systems that 
+support society, including transportation, communications, p
+ower, water, and waste. These are complex, large-scale syste
+ms that must be planned and managed over a long-term horizon
+. Economics-based, analytical tools are covered, including t
+opics of supply, demand, and evaluation. Problem sets, case 
+studies, and a class project provide for hands-on experience
+ with a range of infrastructure"
+CIV ENG 165,1,"Concrete materials: cements, supplementary cementitious mate
+rials, water, and admixtures. Sustainability analysis of con
+crete materials and mixtures. Development of special concret
+es: self-leveling concrete, high-performance concrete, and m
+ass concrete. Consideration of sustainability of concrete co
+nstruction methods used for buildings, highways, airfields, 
+bridges, dams and other hydraulic structures. Non-destructiv
+e methods. Discussion"
+CIV ENG 166,1,"Introduction to construction engineering and field operation
+s. The construction industry, construction methods and pract
+ice, productivity improvement, equipment selection, site lay
+out formwork, erection of steel and concrete structures. Lab
+s demonstrate the concepts covered. Field trips to local con
+struction projects."
+CIV ENG 167,1,"Principles of economics, decision making, and law applied to
+ company and project management. Business ownership, liabili
+ty and insurance, cash flow analysis, and financial manageme
+nt. Project life-cycle, design-construction interface, contr
+acts, estimating, scheduling, cost control."
+CIV ENG 171,1,"Geological and geophysical exploration for structures in roc
+k; properties and behavior of rock masses; rock slope stabil
+ity; geological engineering of underground openings; evaluat
+ion of rock foundations, including dams."
+CIV ENG 173,1,"Introduction to principles of groundwater flow, including st
+eady and transient flow through porous media, numerical anal
+ysis, pumping tests, groundwater geology, contaminant transp
+ort, and design of waste containment systems."
+CIV ENG 174,1,"Engineering Geomatics is a field that integrates collections
+, processing, and analysis of digital geospatial data. This 
+new field is anchored in the established field of geodetics 
+that describes the complex shape of the Earth, elements and 
+usage of topographic data and maps. Basic and advanced GPS s
+atellite mapping. Digital globe technology. Advanced laser-L
+IDAR mapping. Quantitative"
+CIV ENG 175,1,"Soil formation and identification. Engineering properties of
+ soils. Fundamental aspects of soil characterization and res
+ponse, including soil mineralogy, soil-water movement, effec
+tive stress, consolidation, soil strength, and soil compacti
+on. Use of soils and geosynsynthetics in geotechnical and ge
+oenvironmental applications. Introduction to site investigat
+ion techniques. Laboratory testing and evaluation of soil co
+mposition and propert"
+CIV ENG 176,1,"Principles of environmental geotechnics applied to waste enc
+apsulation and remediation of contaminated sites. Characteri
+zation of soils and wastes, engineering properties of soils 
+and geosynthetics and their use in typical applications. Fat
+e and transport of contaminants. Fundamental principles and 
+practices in groundwater remediation. Application of environ
+mental geotechnics in the design and construction of waste c
+ontainment systems. Discussion"
+CIV ENG 177,1,"Principles of foundation engineering. Shear strength of soil
+ and theories related to the analysis and design of shallow 
+and deep foundations, and retaining structures. Structural d
+esign of foundation elements; piles, pile caps, and retainin
+g structures. The course has a group project that incorporat
+es both geotechnical and structural components of different 
+foundation elements."
+CIV ENG C178,1,"The theory and practice of geophysical methods for determini
+ng the subsurface distribution of physical rock and soil pro
+perties. Measurements of gravity and magnetic fields, electr
+ical and electromagnetic fields, and seismic velocity are in
+terpreted to map the subsurface distribution of density, mag
+netic susceptibility, electrical conductivity, and mechanica
+l properties."
+CIV ENG 179,1,"Geosystem engineering design principles and concepts. Fundam
+ental aspects of the geomechanical and geoenvironmental resp
+onses of soil are applied to analyze and design civil system
+s, such as earth dams and levees, earth retention systems, b
+uilding and bridge foundations, solid-waste fills, and taili
+ngs dams. Students form teams to design geotechnical aspects
+ of a civil project and prepare/present a design document. F
+ield trip to a project si"
+CIV ENG 180,1,"Course encompasses two design aspects of a civil and environ
+mental engineering system: 1) Design of whole system, compon
+ent, or life-cycle phase, subject to engineering standards a
+nd constraints, and 2) production system design (e.g., cost 
+estimation and control, scheduling, commercial and legal ter
+ms, site layout design). Students form teams to address real
+-life projects and prepare project documentation and a final
+ presentation."
+CIV ENG 186,1,"Design and prototype of large-scale technology intensive sys
+tems. Design project incorporating infrastruture systems and
+ areas such as transportation and hydrology; for example, wa
+tershed sensor networks, robot networks for environmental ma
+nagement, mobile Internet monitoring, open societal scale sy
+stems, crowd-sources applications, traffic management. Desig
+n of sensing and control systems, prototyping systems, and m
+easures of system performance."
+CIV ENG 190,1,"This course covers current topics of interest in civil and e
+nvironmental engineering. The course content may vary from s
+emester to semester depending upon the instructor"
+CIV ENG 191,1,"This course is organized around five real-world large-scale 
+CEE systems problems. The problems provide the motivation fo
+r the study of quantitative tools that are used for planning
+ or managing these systems. The problems include design of a
+ public transportation system for an urban area, resource al
+location for the maintenance of a water supply system, devel
+opment of repair and replacement policies for reinforced con
+crete bridge decks, traffic"
+CIV ENG 192,1,"A series of lectures by distinguished professionals designed
+ to provide an appreciation of the role of science, technolo
+gy, and the needs of society in conceiving projects, balanci
+ng the interplay of conflicting demands, and utilizing a var
+iety of disciplines to produce unified and efficient systems
+."
+CIV ENG 193,1,"Applications of probability theory and statistics in plannin
+g, analysis, and design of civil engineering systems. Develo
+pment of probabilistic models for risk and reliability evalu
+ation. Occurrence models; extreme value distributions. Analy
+sis of uncertainties. Introduction to Bayesian statistical d
+ecision theory and its application in engineering decision-m
+aking."
+CIV ENG H194,1,"Supervised research. Students who have completed 3 or more u
+pper division courses may pursue original research under the
+ direction of one of the members of the staff. A final repor
+t or presentation is required. A maximum of 4 units of H194 
+may be used to fulfill the technical elective requirement."
+CIV ENG 197,1,"Supervised experience in off-campus companies relevant to sp
+ecific aspects and applications of civil engineering. Writte
+n report required at the end of the semester."
+CIV ENG 198,1,"Group study of a selected topic or topics in civil engineeri
+ng."
 CIV ENG 199,1,Supervised independent study.
 UGBA C5,1,"Terms offered: Fall 2019, Fall 2018, Spring 2017, Fall 2015"
 UGBA 10,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
@@ -73,26 +413,40 @@ UGBA C95B,1,Terms offered: Spring 2019
 UGBA 96,1,"Terms offered: Fall 2019, Spring 2019, Fall 2018"
 UGBA 98,1,"Terms offered: Spring 2015, Fall 2014, Spring 2014"
 UGBA 100,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
-UGBA 101A,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020, Fall 2019"
-UGBA 101B,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020 Second 6 Week Session, Spring 2020"
-UGBA 102A,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020, Fall 2019"
-UGBA 102B,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 2020, Fall 2019"
-UGBA W102A,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019 First 6 Week Session, Summer 2018 First 6 Week Session"
-UGBA 103,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020 Second 6 Week Session, Spring 2020"
-UGBA 104,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020, Fall 2019"
-UGBA 105,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020, Fall 2019"
-UGBA 106,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020 Second 6 Week Session, Spring 2020"
-UGBA 107,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020, Fall 2019"
+UGBA 101A,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 101B,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Spring 2020"
+UGBA 102A,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 102B,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Fall 2019"
+UGBA W102A,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ First 6 Week Session, Summer 2018 First 6 Week Session"
+UGBA 103,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Spring 2020"
+UGBA 104,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 105,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 106,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Spring 2020"
+UGBA 107,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
 UGBA 113,1,"Terms offered: Fall 2010, Fall 2009"
-UGBA 115,1,"Terms offered: Summer 2020 3 Week Session, Spring 2020, Fall 2019"
+UGBA 115,1,"Terms offered: Summer 2020 3 Week Session, Spring 2020, Fall
+ 2019"
 UGBA 117,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
-UGBA 118,1,"Terms offered: Fall 2019, Fall 2018, Summer 2018 Second 6 Week Session"
+UGBA 118,1,"Terms offered: Fall 2019, Fall 2018, Summer 2018 Second 6 We
+ek Session"
 UGBA 119,1,"Terms offered: Spring 2019, Spring 2018, Spring 2017"
-UGBA 120AA,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, Summer 2019 First 6 Week Session"
+UGBA 120AA,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, 
+Summer 2019 First 6 Week Session"
 UGBA 120AB,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
 UGBA 120B,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
 UGBA 121,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
-UGBA 122,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020, Fall 2019"
+UGBA 122,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
 UGBA 123,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
 UGBA 125,1,"Terms offered: Spring 2020, Fall 2019"
 UGBA W125,1,Terms offered: Prior to 2007
@@ -100,40 +454,54 @@ UGBA 126,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
 UGBA 127,1,"Terms offered: Spring 2020, Spring 2019, Fall 2018"
 UGBA 128,1,"Terms offered: Spring 2020, Spring 2019, Fall 2017"
 UGBA 129,1,Terms offered: Spring 2014
-UGBA 131,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 2020, Fall 2019"
+UGBA 131,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Fall 2019"
 UGBA 131A,1,"Terms offered: Spring 2020, Spring 2019"
-UGBA 132,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019 First 6 Week Session, Summer 2018 First 6 Week Session"
-UGBA 133,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020 Second 6 Week Session, Fall 2019"
+UGBA 132,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ First 6 Week Session, Summer 2018 First 6 Week Session"
+UGBA 133,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Fall 2019"
 UGBA 134,1,Terms offered: Spring 2019
 UGBA 135,1,"Terms offered: Spring 2020, Fall 2019"
-UGBA 136F,1,"Terms offered: Summer 2020 Second 6 Week Session, Summer 2019 Second 6 Week Session, Summer 2018 Second 6 Week Session"
-UGBA 137,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 2020, Summer 2019 Second 6 Week Session"
+UGBA 136F,1,"Terms offered: Summer 2020 Second 6 Week Session, Summer 201
+9 Second 6 Week Session, Summer 2018 Second 6 Week Session"
+UGBA 137,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Summer 2019 Second 6 Week Session"
 UGBA 141,1,"Terms offered: Spring 2017, Spring 2016, Spring 2015"
 UGBA 143,1,"Terms offered: Fall 2014, Fall 2013, Spring 2010"
-UGBA 146,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2005, Spring 2005"
-UGBA 147,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020, Summer 2019 First 6 Week Session"
+UGBA 146,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2005, 
+Spring 2005"
+UGBA 147,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Summer 2019 First 6 Week Session"
 UGBA 151,1,"Terms offered: Spring 2020, Fall 2018, Fall 2016"
-UGBA 152,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020, Fall 2019"
-UGBA 154,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019, Summer 2019 Second 6 Week Session"
-UGBA 155,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020, Fall 2019"
+UGBA 152,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 154,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019,
+ Summer 2019 Second 6 Week Session"
+UGBA 155,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
 UGBA W155,1,Terms offered: Not yet offered
 UGBA 156AC,1,"Terms offered: Fall 2013, Spring 2013, Fall 2011"
 UGBA 157,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
-UGBA 160,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020, Summer 2019 First 6 Week Session"
+UGBA 160,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Summer 2019 First 6 Week Session"
 UGBA 161,1,"Terms offered: Spring 2020, Spring 2019, Spring 2017"
 UGBA 162,1,"Terms offered: Spring 2020, Spring 2019, Fall 2017"
 UGBA 162A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
 UGBA 164,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
-UGBA 165,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, Summer 2019 First 6 Week Session"
+UGBA 165,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, 
+Summer 2019 First 6 Week Session"
 UGBA 167,1,"Terms offered: Spring 2020, Fall 2019, Spring 2018"
 UGBA 168B,1,"Terms offered: Spring 2015, Spring 2014"
-UGBA 169,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019, Summer 2019 Second 6 Week Session"
+UGBA 169,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019,
+ Summer 2019 Second 6 Week Session"
 UGBA 170,1,"Terms offered: Spring 2017, Spring 2016, Spring 2015"
 UGBA C172,1,"Terms offered: Spring 2019, Spring 2017, Spring 2016"
 UGBA 175,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
 UGBA 176,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
 UGBA 177,1,"Terms offered: Spring 2016, Fall 2015, Fall 2014"
-UGBA 178,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 2020, Fall 2019"
+UGBA 178,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Fall 2019"
 UGBA 179,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
 UGBA 180,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
 UGBA 183,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
@@ -142,9 +510,11 @@ UGBA 187,1,"Terms offered: Fall 2010, Fall 2009"
 UGBA 190C,1,Terms offered: Spring 2020
 UGBA 190D,1,Terms offered: Fall 2019
 UGBA 190S,1,Terms offered: Not yet offered
-UGBA 190T,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020, Fall 2019"
+UGBA 190T,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
 UGBA 190V,1,Terms offered: Prior to 2007
-UGBA 191C,1,"Terms offered: Fall 2016, Summer 2016 10 Week Session, Summer 2016 Second 6 Week Session"
+UGBA 191C,1,"Terms offered: Fall 2016, Summer 2016 10 Week Session, Summe
+r 2016 Second 6 Week Session"
 UGBA 191I,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
 UGBA 191L,1,"Terms offered: Spring 2020, Fall 2019"
 UGBA 191P,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
@@ -159,8 +529,2178 @@ UGBA 192P,1,"Terms offered: Fall 2018, Fall 2016, Fall 2014"
 UGBA 192S,1,Terms offered: Summer 2020 First 6 Week Session
 UGBA 192T,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
 UGBA 193B,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
-UGBA 193C,1,"Terms offered: Summer 2014 10 Week Session, Summer 2013 10 Week Session, Summer 2012 10 Week Session"
-UGBA 193I,1,"Terms offered: Summer 2020 8 Week Session, Summer 2019 8 Week Session, Summer 2018 Second 6 Week Session"
+UGBA 193C,1,"Terms offered: Summer 2014 10 Week Session, Summer 2013 10 W
+eek Session, Summer 2012 10 Week Session"
+UGBA 193I,1,"Terms offered: Summer 2020 8 Week Session, Summer 2019 8 Wee
+k Session, Summer 2018 Second 6 Week Session"
+UGBA 194,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 195A,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 195P,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 195S,1,"Terms offered: Spring 2013, Spring 2012, Spring 2011"
+UGBA 195T,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 196,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 198,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+UGBA 199,1,"Terms offered: Spring 2015, Spring 2014, Fall 2013"
+CIV ENG 11,1,"An introduction to key engineered systems (e.g., energy, wat
+er supply, buildings, transportation) and their environmenta
+l impacts. Basic principles of environmental science needed 
+to understand natural processes as they are influenced by hu
+man activities. Overview of concepts and methods of sustaina
+bility analysis. Critical evaluation of engineering approach
+es to address sustainability."
+CIV ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CIV ENG C30,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+CIV ENG W30,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+CIV ENG 60,1,"Introduction to structure and properties of civil engineerin
+g materials such as asphalt, cements, concrete, geological m
+aterials (e.g. soil and rocks), steel, polymers, and wood. T
+he properties range from elastic, plastic and fracture prope
+rties to porosity and thermal and environmental responses. L
+aboratory tests include evaluation of behavior of these mate
+rials under a wide range of conditions."
+CIV ENG 70,1,"Principles of physical and structural geology; the influence
+ of geological factors on engineering works and the environm
+ent. Field trip."
+CIV ENG 88B,1,"In this course, we will pursue analysis of long-term records
+ of coastal water levels in the context of sea level rise. W
+e will cover the collection, evaluation, visualization and a
+nalysis of time series data using long-term records of sea l
+evels from coastal sites around the world. Specific topics w
+ill include extreme events and distributions, frequency-base
+d descriptions, averaging, filtering, harmonic analysis, tre
+nd identification, extrapolations, and decision-making"
+CIV ENG C88,1,"Cities become more dependent on the data flows that connect 
+infrastructures between themselves, and users to infrastruct
+ures. Design and operation of smart, efficient, and resilien
+t cities nowadays require data science skills. This course p
+rovides an introduction to working with data generated withi
+n transportation systems, power grids, communication network
+s, as well as collected via crowd-sensing and remote sensing
+ technologies, to build demand- and supply-side"
+CIV ENG 92,1,"A course designed to familiarize the entering student with t
+he nature and scope of civil and environmental engineering a
+nd its component specialty areas."
+CIV ENG 93,1,"Application of the concepts and methods of probability theor
+y and statistical inference to CEE problems and data; graphi
+cal data analysis and sampling; elements of set theory; elem
+ents of probability theory; random variables and expectation
+; simulation; statistical inference. Use of computer program
+ming languages for analysis of CEE-related data and problems
+. The course also introduces the student to various domains 
+of uncertainty analysis"
+CIV ENG 98,1,"Supervised group study and research by lower division studen
+ts."
+CIV ENG 99,1,Supervised independent study by lower division students.
+CIV ENG 100,1,"Fluid statics and dynamics, including laboratory experiments
+ with technical reports. Fundamentals: integral and differen
+tial formulations of the conservation laws are solved in spe
+cial cases such as boundary layers and pipe flow. Flow visua
+lization and computation techniques are introduced using Mat
+lab. Empirical equations are used for turbulent flows, drag,
+ pumps, and open channels. Principles of empirical equations
+ are also discussed:"
+CIV ENG 101,1,"Analysis of steady and unsteady open-channel flow and applic
+ation to rivers and streams. Examination of mixing and trans
+port in rivers and streams. Effects of channel complexity. F
+loodplain dynamics and flow routing. Interaction of vegetati
+on and fluid flows. Freshwater and tidal marshes. Sediment t
+ransport in rivers, streams, and wetlands. Implications for 
+freshwater ecosystem function."
+CIV ENG 103,1,"Course addresses principles and practical aspects of hydrolo
+gy. Topics in introduction to hydrology include hydrologic c
+ycle, precipitation, evaporation, infiltration, snow and sno
+wmelt, and streamflow; introduction to geomorphology, GIS (G
+eographic Information Systems) applications, theory of unit 
+hydrograph, frequency analysis, flood routing through reserv
+oirs and rivers; introduction to rainfall-runoff analyses, w
+atershed modeling, urban hydrology"
+CIV ENG C103N,1,"A quantitative introduction to the hydrology of the terrestr
+ial environment including lower atmosphere, watersheds, lake
+s, and streams. All aspects of the hydrologic cycle, includi
+ng precipitation, infiltration, evapotranspiration, overland
+ flow, streamflow, and groundwater flow. Chemistry and datin
+g of groundwater and surface water. Development of quantitat
+ive insights through problem solving and use of simple model
+s. This course"
+CIV ENG 105,1,"Hands-on design course in applied fluid mechanics, hydrology
+ and water resources. Course goes beyond basic examples of f
+luid flow to develop environmental engineering solutions to 
+real-world problems. A class team project is used to (1) exp
+lore the design process and project management; and (2) to i
+ntegrate concepts from hydrology and fluid mechanics with st
+ructural, geotechnical and/or transportation engineering for
+ a holistic design approach."
+CIV ENG C106,1,"This course is an introduction to air pollution and the chem
+istry of earth's atmosphere. We will focus on the fundamenta
+l natural processes controlling trace gas and aerosol concen
+trations in the atmosphere, and how anthropogenic activity h
+as affected those processes at the local, regional, and glob
+al scales. Specific topics include stratospheric ozone deple
+tion, increasing concentrations of green house gasses, smog,
+ and changes in the oxidation"
+CIV ENG 107,1,"Assessment of technological options for responding to climat
+e change. Overview of climate-change science; sources, sinks
+, and atmospheric dynamics of greenhouse gases. Current syst
+ems for energy supply and use. Renewable energy resources, t
+ransport, storage, and transformation technologies. Technolo
+gical opportunities for improving end-use energy efficiency.
+ Recovery, sequestration, and disposal of greenhouse gases. 
+Societal context for implementing"
+CIV ENG 110,1,"This course will familiarize students with the complex infra
+structure used to meet human water demands; competing uses a
+nd demands; water and wastewater infrastructure; technologie
+s to enable recovery of water, energy, and other resources f
+rom wastewater; supply planning; trends and forecasting; cos
+ts, pricing and financing; environmental justice; methods to
+ assess sustainability; regulatory, policy and institutional
+ challenges; and water's"
+CIV ENG 111,1,"Quantitative overview of air and water contaminants and thei
+r engineering control. Elementary environmental chemistry an
+d transport. Reactor models. Applications of fundamentals to
+ selected current issues in water quality engineering, air q
+uality engineering, air quality engineering, and hazardous w
+aste management."
+CIV ENG 111L,1,"This laboratory course is designed to accompany the lecture 
+topics in Civil Engineering 111. Each laboratory activity wi
+ll provide an opportunity to understand key concepts in wate
+r and air quality through hands-on experimentation. Laborato
+ry topics include phase partitioning, acid/base reactions, r
+edox reactions, biochemical oxygen demand, absorption, gas t
+ransfer, reactor hydraulics, particle destablization, disinf
+ection, and combustion emis"
+CIV ENG 112,1,"Engineering design and project management of environmental s
+ystems. Students will complete a design project focusing on 
+pollution control in a selected environmental system. Lectur
+es and project activities will address process design, econo
+mic optimization, legal and institutional constraints on des
+ign, and project management. Additional components of design
+ (e.g., hydraulics, engineering sustainability, plant struct
+ures) will be include"
+CIV ENG 113,1,"Ecological engineering approaches for treating contaminated 
+water using natural processes to improve water quality. Emph
+asis on combining basic science and engineering approaches t
+o understand the fundamental processes that govern the effec
+tiveness of complex natural treatment systems. Applications 
+include constructed wetlands, waste stabilization ponds, sto
+rmwater bioretention, decentralized wastewater management, e
+cological sanitation. Laboratory"
+CIV ENG 114,1,"The scope of modern environmental engineering requires a fun
+damental knowledge of microbial processes with specific appl
+ication to water, wastewater and the environmental fate of p
+ollutants. This course will cover basic microbial physiology
+, biochemistry, metabolism, growth energetics and kinetics, 
+ecology, pathogenicity, and genetics for application to both
+ engineered and natural environmental systems."
+CIV ENG 115,1,"The application of principles of inorganic, physical, and di
+lute solution equilibrium chemistry to aquatic systems, both
+ in the aquatic environment and in water and wastewater trea
+tment processes."
+CIV ENG C116,1,"Chemical mechanisms of reactions controlling the fate and mo
+bility of nutrients and pollutants in soils. Role of soil mi
+nerals and humus in geochemical pathways of nutrient biovail
+ability and pollutant detoxification. Chemical modeling of n
+utrient and pollutant soil chemistry. Applications to soil a
+cidity and salinity."
+CIV ENG 120,1,"Introduction to design and analysis of structural systems. L
+oads and load placement. Proportioning of structural members
+ in steel, reinforced concrete, and timber. Structural analy
+sis theory. Hand and computer analysis methods, validation o
+f results from computer analysis. Applications, including br
+idges, building frames, and long-span cable structures."
+CIV ENG 121,1,"Theory and application of structural analysis. Stiffness and
+ flexibility methods, with emphasis on the direct stiffness 
+method. Equilibrium and compatibility. Virtual work. Respons
+e of linear and simple nonlinear structures to static loads.
+ Use of computer programs for structural analysis. Modeling 
+of two- and three-dimensional structures. Verification and i
+nterpretation of structural response."
+CIV ENG 122L,1,"Introduction to one or more comprehensive structural design 
+problems. Design teams will conceive structural system; dete
+rmine design loads; conduct preliminary and final design of 
+structure and its foundation; prepare construction cost esti
+mate; prepare final report containing project description, d
+esign criteria, cost estimate, structural drawings, and supp
+orting calculations; and make ""client"" presentations as requ
+ired."
+CIV ENG 122N,1,"Introduction to materials and methods of steel construction;
+ behavior and design of tension members, compression members
+, flexural members and beam-columns; design of welds, bolts,
+ shear connections and moment connections; design of spread 
+footings or other foundation elements, inroduction to design
+ of earthquake-resistant steel structures including concentr
+ically braced frames and moment frames."
+CIV ENG 123L,1,"Introduction to one or more comprehensive structural design 
+problems. Design teams will conceive structural system; dete
+rmine design loads; conduct preliminary and final design of 
+structure and its foundation; prepare construction cost esti
+mate; prepare final report containing project description, d
+esign criteria, cost estimate, structural drawings, and supp
+orting calculations; make ""client"" presentations as required
+."
+CIV ENG 123N,1,"Introduction to materials and methods of reinforced concrete
+ construction; behavior and design of reinforced concrete be
+ams and one-way slabs considering deflections, flexure, shea
+r, and anchorage; behavior and design of columns; design of 
+spread footings or other foundation elements; design of eart
+hquake-resistant structures; introduction to prestressed con
+crete."
+CIV ENG 124,1,"Characteristics and properties of wood as a structural mater
+ial; design and detailing of structural elements and entire 
+structures of wood. Topics include allowable stresses, desig
+n and detailing of solid sawn and glulam beams and columns, 
+nailed and bolted connections, plywood diaphragms and shear 
+walls. Case studies."
+CIV ENG 126,1,"Introduction to the dynamics of particles, rigid bodies, and
+ deformable solids in civil engineering. Newtonian and Lagra
+ngian formulations. Vibration of particles and rigid body sy
+stems: natural frequencies and mode shapes, free and forced 
+vibration. Vibration of continuous systems: bars, strings, b
+eams. Modeling and numerical simulation methods.."
+CIV ENG 130N,1,"Elastic and plastic stress and deformation analysis of bars,
+ shafts, beams, and columns; energy and variational methods;
+ plastic analysis of structures; stability analysis of struc
+tures; computer-aided mathematical techniques for solution o
+f engineering problems and modular computer programming meth
+ods."
+CIV ENG 132,1,"Concepts of theory of solid mechanics: three dimensional str
+ess, strain, and material response; elastic and inelastic bo
+undary value problems; fracture, fatigue, and geometric inst
+ability. Problems in advanced strength of materials; thin pl
+ate and axis-symmetric shell theory."
+CIV ENG C133,1,"This is an introductory course on the finite element method 
+and is intended for seniors in engineering and applied scien
+ce disciplines. The course covers the basic topics of finite
+ element technology, including domain discretization, polyno
+mial interpolation, application of boundary conditions, asse
+mbly of global arrays, and solution of the resulting algebra
+ic systems. Finite element formulations for several importan
+t field equations are introduced"
+CIV ENG 140,1,"The failure mechanisms in civil engineering materials (cemen
+t-based materials, metallic- and polymer-based materials) ar
+e associated with processing, microstructure, stress states,
+ and environmental changes. Fracture mechanics of brittle, q
+uasi-brittle, and ductile materials; cracking processes in m
+onolithic, particulate, and fiber reinforced materials; exam
+ples of ductile/brittle failure transitions in civil enginee
+ring structures; retrofitting"
+CIV ENG 153,1,"A capstone class with the objective to design transportation
+ facilities based on operational capacity, site constraints,
+ and environmental design considerations. Emphasis on airpor
+ts, including landside and airside elements, and environment
+al assessment and mitigation techniques."
+CIV ENG 155,1,"Operation, management, control, design, and evaluation of pa
+ssenger and freight transportation systems. Their economic r
+ole. Demand analysis. Overall logistical structure. Performa
+nce models and modeling techniques: time-space diagrams, que
+uing theory, network analysis, and simulation. Design of con
+trol strategies for simple systems. Feedback effects. Parado
+xes. Transportation impact modeling; noise; air pollution. M
+ulti-criteria evaluation"
+CIV ENG 156,1,"This course focuses on physical infrastructure systems that 
+support society, including transportation, communications, p
+ower, water, and waste. These are complex, large-scale syste
+ms that must be planned and managed over a long-term horizon
+. Economics-based, analytical tools are covered, including t
+opics of supply, demand, and evaluation. Problem sets, case 
+studies, and a class project provide for hands-on experience
+ with a range of infrastructure"
+CIV ENG 165,1,"Concrete materials: cements, supplementary cementitious mate
+rials, water, and admixtures. Sustainability analysis of con
+crete materials and mixtures. Development of special concret
+es: self-leveling concrete, high-performance concrete, and m
+ass concrete. Consideration of sustainability of concrete co
+nstruction methods used for buildings, highways, airfields, 
+bridges, dams and other hydraulic structures. Non-destructiv
+e methods. Discussion"
+CIV ENG 166,1,"Introduction to construction engineering and field operation
+s. The construction industry, construction methods and pract
+ice, productivity improvement, equipment selection, site lay
+out formwork, erection of steel and concrete structures. Lab
+s demonstrate the concepts covered. Field trips to local con
+struction projects."
+CIV ENG 167,1,"Principles of economics, decision making, and law applied to
+ company and project management. Business ownership, liabili
+ty and insurance, cash flow analysis, and financial manageme
+nt. Project life-cycle, design-construction interface, contr
+acts, estimating, scheduling, cost control."
+CIV ENG 171,1,"Geological and geophysical exploration for structures in roc
+k; properties and behavior of rock masses; rock slope stabil
+ity; geological engineering of underground openings; evaluat
+ion of rock foundations, including dams."
+CIV ENG 173,1,"Introduction to principles of groundwater flow, including st
+eady and transient flow through porous media, numerical anal
+ysis, pumping tests, groundwater geology, contaminant transp
+ort, and design of waste containment systems."
+CIV ENG 174,1,"Engineering Geomatics is a field that integrates collections
+, processing, and analysis of digital geospatial data. This 
+new field is anchored in the established field of geodetics 
+that describes the complex shape of the Earth, elements and 
+usage of topographic data and maps. Basic and advanced GPS s
+atellite mapping. Digital globe technology. Advanced laser-L
+IDAR mapping. Quantitative"
+CIV ENG 175,1,"Soil formation and identification. Engineering properties of
+ soils. Fundamental aspects of soil characterization and res
+ponse, including soil mineralogy, soil-water movement, effec
+tive stress, consolidation, soil strength, and soil compacti
+on. Use of soils and geosynsynthetics in geotechnical and ge
+oenvironmental applications. Introduction to site investigat
+ion techniques. Laboratory testing and evaluation of soil co
+mposition and propert"
+CIV ENG 176,1,"Principles of environmental geotechnics applied to waste enc
+apsulation and remediation of contaminated sites. Characteri
+zation of soils and wastes, engineering properties of soils 
+and geosynthetics and their use in typical applications. Fat
+e and transport of contaminants. Fundamental principles and 
+practices in groundwater remediation. Application of environ
+mental geotechnics in the design and construction of waste c
+ontainment systems. Discussion"
+CIV ENG 177,1,"Principles of foundation engineering. Shear strength of soil
+ and theories related to the analysis and design of shallow 
+and deep foundations, and retaining structures. Structural d
+esign of foundation elements; piles, pile caps, and retainin
+g structures. The course has a group project that incorporat
+es both geotechnical and structural components of different 
+foundation elements."
+CIV ENG C178,1,"The theory and practice of geophysical methods for determini
+ng the subsurface distribution of physical rock and soil pro
+perties. Measurements of gravity and magnetic fields, electr
+ical and electromagnetic fields, and seismic velocity are in
+terpreted to map the subsurface distribution of density, mag
+netic susceptibility, electrical conductivity, and mechanica
+l properties."
+CIV ENG 179,1,"Geosystem engineering design principles and concepts. Fundam
+ental aspects of the geomechanical and geoenvironmental resp
+onses of soil are applied to analyze and design civil system
+s, such as earth dams and levees, earth retention systems, b
+uilding and bridge foundations, solid-waste fills, and taili
+ngs dams. Students form teams to design geotechnical aspects
+ of a civil project and prepare/present a design document. F
+ield trip to a project si"
+CIV ENG 180,1,"Course encompasses two design aspects of a civil and environ
+mental engineering system: 1) Design of whole system, compon
+ent, or life-cycle phase, subject to engineering standards a
+nd constraints, and 2) production system design (e.g., cost 
+estimation and control, scheduling, commercial and legal ter
+ms, site layout design). Students form teams to address real
+-life projects and prepare project documentation and a final
+ presentation."
+CIV ENG 186,1,"Design and prototype of large-scale technology intensive sys
+tems. Design project incorporating infrastruture systems and
+ areas such as transportation and hydrology; for example, wa
+tershed sensor networks, robot networks for environmental ma
+nagement, mobile Internet monitoring, open societal scale sy
+stems, crowd-sources applications, traffic management. Desig
+n of sensing and control systems, prototyping systems, and m
+easures of system performance."
+CIV ENG 190,1,"This course covers current topics of interest in civil and e
+nvironmental engineering. The course content may vary from s
+emester to semester depending upon the instructor"
+CIV ENG 191,1,"This course is organized around five real-world large-scale 
+CEE systems problems. The problems provide the motivation fo
+r the study of quantitative tools that are used for planning
+ or managing these systems. The problems include design of a
+ public transportation system for an urban area, resource al
+location for the maintenance of a water supply system, devel
+opment of repair and replacement policies for reinforced con
+crete bridge decks, traffic"
+CIV ENG 192,1,"A series of lectures by distinguished professionals designed
+ to provide an appreciation of the role of science, technolo
+gy, and the needs of society in conceiving projects, balanci
+ng the interplay of conflicting demands, and utilizing a var
+iety of disciplines to produce unified and efficient systems
+."
+CIV ENG 193,1,"Applications of probability theory and statistics in plannin
+g, analysis, and design of civil engineering systems. Develo
+pment of probabilistic models for risk and reliability evalu
+ation. Occurrence models; extreme value distributions. Analy
+sis of uncertainties. Introduction to Bayesian statistical d
+ecision theory and its application in engineering decision-m
+aking."
+CIV ENG H194,1,"Supervised research. Students who have completed 3 or more u
+pper division courses may pursue original research under the
+ direction of one of the members of the staff. A final repor
+t or presentation is required. A maximum of 4 units of H194 
+may be used to fulfill the technical elective requirement."
+CIV ENG 197,1,"Supervised experience in off-campus companies relevant to sp
+ecific aspects and applications of civil engineering. Writte
+n report required at the end of the semester."
+CIV ENG 198,1,"Group study of a selected topic or topics in civil engineeri
+ng."
+CIV ENG 199,1,Supervised independent study.
+UGBA C5,1,"Terms offered: Fall 2019, Fall 2018, Spring 2017, Fall 2015"
+UGBA 10,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 24,1,"Terms offered: Spring 2020, Fall 2013, Spring 2007"
+UGBA 39AC,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 39D,1,"Terms offered: Spring 2008, Fall 2007"
+UGBA 39E,1,"Terms offered: Fall 2019, Spring 2018, Fall 2016"
+UGBA 88,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA C95B,1,Terms offered: Spring 2019
+UGBA 96,1,"Terms offered: Fall 2019, Spring 2019, Fall 2018"
+UGBA 98,1,"Terms offered: Spring 2015, Fall 2014, Spring 2014"
+UGBA 100,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 101A,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 101B,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Spring 2020"
+UGBA 102A,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 102B,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Fall 2019"
+UGBA W102A,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ First 6 Week Session, Summer 2018 First 6 Week Session"
+UGBA 103,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Spring 2020"
+UGBA 104,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 105,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 106,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Spring 2020"
+UGBA 107,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 113,1,"Terms offered: Fall 2010, Fall 2009"
+UGBA 115,1,"Terms offered: Summer 2020 3 Week Session, Spring 2020, Fall
+ 2019"
+UGBA 117,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+UGBA 118,1,"Terms offered: Fall 2019, Fall 2018, Summer 2018 Second 6 We
+ek Session"
+UGBA 119,1,"Terms offered: Spring 2019, Spring 2018, Spring 2017"
+UGBA 120AA,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, 
+Summer 2019 First 6 Week Session"
+UGBA 120AB,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 120B,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 121,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 122,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 123,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 125,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA W125,1,Terms offered: Prior to 2007
+UGBA 126,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 127,1,"Terms offered: Spring 2020, Spring 2019, Fall 2018"
+UGBA 128,1,"Terms offered: Spring 2020, Spring 2019, Fall 2017"
+UGBA 129,1,Terms offered: Spring 2014
+UGBA 131,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Fall 2019"
+UGBA 131A,1,"Terms offered: Spring 2020, Spring 2019"
+UGBA 132,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ First 6 Week Session, Summer 2018 First 6 Week Session"
+UGBA 133,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Fall 2019"
+UGBA 134,1,Terms offered: Spring 2019
+UGBA 135,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA 136F,1,"Terms offered: Summer 2020 Second 6 Week Session, Summer 201
+9 Second 6 Week Session, Summer 2018 Second 6 Week Session"
+UGBA 137,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Summer 2019 Second 6 Week Session"
+UGBA 141,1,"Terms offered: Spring 2017, Spring 2016, Spring 2015"
+UGBA 143,1,"Terms offered: Fall 2014, Fall 2013, Spring 2010"
+UGBA 146,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2005, 
+Spring 2005"
+UGBA 147,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Summer 2019 First 6 Week Session"
+UGBA 151,1,"Terms offered: Spring 2020, Fall 2018, Fall 2016"
+UGBA 152,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 154,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019,
+ Summer 2019 Second 6 Week Session"
+UGBA 155,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA W155,1,Terms offered: Not yet offered
+UGBA 156AC,1,"Terms offered: Fall 2013, Spring 2013, Fall 2011"
+UGBA 157,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 160,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Summer 2019 First 6 Week Session"
+UGBA 161,1,"Terms offered: Spring 2020, Spring 2019, Spring 2017"
+UGBA 162,1,"Terms offered: Spring 2020, Spring 2019, Fall 2017"
+UGBA 162A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 164,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 165,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, 
+Summer 2019 First 6 Week Session"
+UGBA 167,1,"Terms offered: Spring 2020, Fall 2019, Spring 2018"
+UGBA 168B,1,"Terms offered: Spring 2015, Spring 2014"
+UGBA 169,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019,
+ Summer 2019 Second 6 Week Session"
+UGBA 170,1,"Terms offered: Spring 2017, Spring 2016, Spring 2015"
+UGBA C172,1,"Terms offered: Spring 2019, Spring 2017, Spring 2016"
+UGBA 175,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 176,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 177,1,"Terms offered: Spring 2016, Fall 2015, Fall 2014"
+UGBA 178,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Fall 2019"
+UGBA 179,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 180,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 183,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 184,1,"Terms offered: Spring 2016, Spring 2015, Spring 2014"
+UGBA 187,1,"Terms offered: Fall 2010, Fall 2009"
+UGBA 190C,1,Terms offered: Spring 2020
+UGBA 190D,1,Terms offered: Fall 2019
+UGBA 190S,1,Terms offered: Not yet offered
+UGBA 190T,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 190V,1,Terms offered: Prior to 2007
+UGBA 191C,1,"Terms offered: Fall 2016, Summer 2016 10 Week Session, Summe
+r 2016 Second 6 Week Session"
+UGBA 191I,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 191L,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA 191P,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 192A,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 192AC,1,"Terms offered: Spring 2020, Spring 2019, Fall 2017"
+UGBA 192B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 192E,1,Terms offered: Fall 2019
+UGBA 192G,1,Terms offered: Prior to 2007
+UGBA 192L,1,Terms offered: Prior to 2007
+UGBA 192N,1,"Terms offered: Fall 2019, Spring 2019, Fall 2018"
+UGBA 192P,1,"Terms offered: Fall 2018, Fall 2016, Fall 2014"
+UGBA 192S,1,Terms offered: Summer 2020 First 6 Week Session
+UGBA 192T,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 193B,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 193C,1,"Terms offered: Summer 2014 10 Week Session, Summer 2013 10 W
+eek Session, Summer 2012 10 Week Session"
+UGBA 193I,1,"Terms offered: Summer 2020 8 Week Session, Summer 2019 8 Wee
+k Session, Summer 2018 Second 6 Week Session"
+UGBA 194,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 195A,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 195P,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 195S,1,"Terms offered: Spring 2013, Spring 2012, Spring 2011"
+UGBA 195T,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 196,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 198,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+UGBA 199,1,"Terms offered: Spring 2015, Spring 2014, Fall 2013"
+CIV ENG 11,1,"An introduction to key engineered systems (e.g., energy, wat
+er supply, buildings, transportation) and their environmenta
+l impacts. Basic principles of environmental science needed 
+to understand natural processes as they are influenced by hu
+man activities. Overview of concepts and methods of sustaina
+bility analysis. Critical evaluation of engineering approach
+es to address sustainability."
+CIV ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CIV ENG C30,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+CIV ENG W30,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+CIV ENG 60,1,"Introduction to structure and properties of civil engineerin
+g materials such as asphalt, cements, concrete, geological m
+aterials (e.g. soil and rocks), steel, polymers, and wood. T
+he properties range from elastic, plastic and fracture prope
+rties to porosity and thermal and environmental responses. L
+aboratory tests include evaluation of behavior of these mate
+rials under a wide range of conditions."
+CIV ENG 70,1,"Principles of physical and structural geology; the influence
+ of geological factors on engineering works and the environm
+ent. Field trip."
+CIV ENG 88B,1,"In this course, we will pursue analysis of long-term records
+ of coastal water levels in the context of sea level rise. W
+e will cover the collection, evaluation, visualization and a
+nalysis of time series data using long-term records of sea l
+evels from coastal sites around the world. Specific topics w
+ill include extreme events and distributions, frequency-base
+d descriptions, averaging, filtering, harmonic analysis, tre
+nd identification, extrapolations, and decision-making"
+CIV ENG C88,1,"Cities become more dependent on the data flows that connect 
+infrastructures between themselves, and users to infrastruct
+ures. Design and operation of smart, efficient, and resilien
+t cities nowadays require data science skills. This course p
+rovides an introduction to working with data generated withi
+n transportation systems, power grids, communication network
+s, as well as collected via crowd-sensing and remote sensing
+ technologies, to build demand- and supply-side"
+CIV ENG 92,1,"A course designed to familiarize the entering student with t
+he nature and scope of civil and environmental engineering a
+nd its component specialty areas."
+CIV ENG 93,1,"Application of the concepts and methods of probability theor
+y and statistical inference to CEE problems and data; graphi
+cal data analysis and sampling; elements of set theory; elem
+ents of probability theory; random variables and expectation
+; simulation; statistical inference. Use of computer program
+ming languages for analysis of CEE-related data and problems
+. The course also introduces the student to various domains 
+of uncertainty analysis"
+CIV ENG 98,1,"Supervised group study and research by lower division studen
+ts."
+CIV ENG 99,1,Supervised independent study by lower division students.
+CIV ENG 100,1,"Fluid statics and dynamics, including laboratory experiments
+ with technical reports. Fundamentals: integral and differen
+tial formulations of the conservation laws are solved in spe
+cial cases such as boundary layers and pipe flow. Flow visua
+lization and computation techniques are introduced using Mat
+lab. Empirical equations are used for turbulent flows, drag,
+ pumps, and open channels. Principles of empirical equations
+ are also discussed:"
+CIV ENG 101,1,"Analysis of steady and unsteady open-channel flow and applic
+ation to rivers and streams. Examination of mixing and trans
+port in rivers and streams. Effects of channel complexity. F
+loodplain dynamics and flow routing. Interaction of vegetati
+on and fluid flows. Freshwater and tidal marshes. Sediment t
+ransport in rivers, streams, and wetlands. Implications for 
+freshwater ecosystem function."
+CIV ENG 103,1,"Course addresses principles and practical aspects of hydrolo
+gy. Topics in introduction to hydrology include hydrologic c
+ycle, precipitation, evaporation, infiltration, snow and sno
+wmelt, and streamflow; introduction to geomorphology, GIS (G
+eographic Information Systems) applications, theory of unit 
+hydrograph, frequency analysis, flood routing through reserv
+oirs and rivers; introduction to rainfall-runoff analyses, w
+atershed modeling, urban hydrology"
+CIV ENG C103N,1,"A quantitative introduction to the hydrology of the terrestr
+ial environment including lower atmosphere, watersheds, lake
+s, and streams. All aspects of the hydrologic cycle, includi
+ng precipitation, infiltration, evapotranspiration, overland
+ flow, streamflow, and groundwater flow. Chemistry and datin
+g of groundwater and surface water. Development of quantitat
+ive insights through problem solving and use of simple model
+s. This course"
+CIV ENG 105,1,"Hands-on design course in applied fluid mechanics, hydrology
+ and water resources. Course goes beyond basic examples of f
+luid flow to develop environmental engineering solutions to 
+real-world problems. A class team project is used to (1) exp
+lore the design process and project management; and (2) to i
+ntegrate concepts from hydrology and fluid mechanics with st
+ructural, geotechnical and/or transportation engineering for
+ a holistic design approach."
+CIV ENG C106,1,"This course is an introduction to air pollution and the chem
+istry of earth's atmosphere. We will focus on the fundamenta
+l natural processes controlling trace gas and aerosol concen
+trations in the atmosphere, and how anthropogenic activity h
+as affected those processes at the local, regional, and glob
+al scales. Specific topics include stratospheric ozone deple
+tion, increasing concentrations of green house gasses, smog,
+ and changes in the oxidation"
+CIV ENG 107,1,"Assessment of technological options for responding to climat
+e change. Overview of climate-change science; sources, sinks
+, and atmospheric dynamics of greenhouse gases. Current syst
+ems for energy supply and use. Renewable energy resources, t
+ransport, storage, and transformation technologies. Technolo
+gical opportunities for improving end-use energy efficiency.
+ Recovery, sequestration, and disposal of greenhouse gases. 
+Societal context for implementing"
+CIV ENG 110,1,"This course will familiarize students with the complex infra
+structure used to meet human water demands; competing uses a
+nd demands; water and wastewater infrastructure; technologie
+s to enable recovery of water, energy, and other resources f
+rom wastewater; supply planning; trends and forecasting; cos
+ts, pricing and financing; environmental justice; methods to
+ assess sustainability; regulatory, policy and institutional
+ challenges; and water's"
+CIV ENG 111,1,"Quantitative overview of air and water contaminants and thei
+r engineering control. Elementary environmental chemistry an
+d transport. Reactor models. Applications of fundamentals to
+ selected current issues in water quality engineering, air q
+uality engineering, air quality engineering, and hazardous w
+aste management."
+CIV ENG 111L,1,"This laboratory course is designed to accompany the lecture 
+topics in Civil Engineering 111. Each laboratory activity wi
+ll provide an opportunity to understand key concepts in wate
+r and air quality through hands-on experimentation. Laborato
+ry topics include phase partitioning, acid/base reactions, r
+edox reactions, biochemical oxygen demand, absorption, gas t
+ransfer, reactor hydraulics, particle destablization, disinf
+ection, and combustion emis"
+CIV ENG 112,1,"Engineering design and project management of environmental s
+ystems. Students will complete a design project focusing on 
+pollution control in a selected environmental system. Lectur
+es and project activities will address process design, econo
+mic optimization, legal and institutional constraints on des
+ign, and project management. Additional components of design
+ (e.g., hydraulics, engineering sustainability, plant struct
+ures) will be include"
+CIV ENG 113,1,"Ecological engineering approaches for treating contaminated 
+water using natural processes to improve water quality. Emph
+asis on combining basic science and engineering approaches t
+o understand the fundamental processes that govern the effec
+tiveness of complex natural treatment systems. Applications 
+include constructed wetlands, waste stabilization ponds, sto
+rmwater bioretention, decentralized wastewater management, e
+cological sanitation. Laboratory"
+CIV ENG 114,1,"The scope of modern environmental engineering requires a fun
+damental knowledge of microbial processes with specific appl
+ication to water, wastewater and the environmental fate of p
+ollutants. This course will cover basic microbial physiology
+, biochemistry, metabolism, growth energetics and kinetics, 
+ecology, pathogenicity, and genetics for application to both
+ engineered and natural environmental systems."
+CIV ENG 115,1,"The application of principles of inorganic, physical, and di
+lute solution equilibrium chemistry to aquatic systems, both
+ in the aquatic environment and in water and wastewater trea
+tment processes."
+CIV ENG C116,1,"Chemical mechanisms of reactions controlling the fate and mo
+bility of nutrients and pollutants in soils. Role of soil mi
+nerals and humus in geochemical pathways of nutrient biovail
+ability and pollutant detoxification. Chemical modeling of n
+utrient and pollutant soil chemistry. Applications to soil a
+cidity and salinity."
+CIV ENG 120,1,"Introduction to design and analysis of structural systems. L
+oads and load placement. Proportioning of structural members
+ in steel, reinforced concrete, and timber. Structural analy
+sis theory. Hand and computer analysis methods, validation o
+f results from computer analysis. Applications, including br
+idges, building frames, and long-span cable structures."
+CIV ENG 121,1,"Theory and application of structural analysis. Stiffness and
+ flexibility methods, with emphasis on the direct stiffness 
+method. Equilibrium and compatibility. Virtual work. Respons
+e of linear and simple nonlinear structures to static loads.
+ Use of computer programs for structural analysis. Modeling 
+of two- and three-dimensional structures. Verification and i
+nterpretation of structural response."
+CIV ENG 122L,1,"Introduction to one or more comprehensive structural design 
+problems. Design teams will conceive structural system; dete
+rmine design loads; conduct preliminary and final design of 
+structure and its foundation; prepare construction cost esti
+mate; prepare final report containing project description, d
+esign criteria, cost estimate, structural drawings, and supp
+orting calculations; and make ""client"" presentations as requ
+ired."
+CIV ENG 122N,1,"Introduction to materials and methods of steel construction;
+ behavior and design of tension members, compression members
+, flexural members and beam-columns; design of welds, bolts,
+ shear connections and moment connections; design of spread 
+footings or other foundation elements, inroduction to design
+ of earthquake-resistant steel structures including concentr
+ically braced frames and moment frames."
+CIV ENG 123L,1,"Introduction to one or more comprehensive structural design 
+problems. Design teams will conceive structural system; dete
+rmine design loads; conduct preliminary and final design of 
+structure and its foundation; prepare construction cost esti
+mate; prepare final report containing project description, d
+esign criteria, cost estimate, structural drawings, and supp
+orting calculations; make ""client"" presentations as required
+."
+CIV ENG 123N,1,"Introduction to materials and methods of reinforced concrete
+ construction; behavior and design of reinforced concrete be
+ams and one-way slabs considering deflections, flexure, shea
+r, and anchorage; behavior and design of columns; design of 
+spread footings or other foundation elements; design of eart
+hquake-resistant structures; introduction to prestressed con
+crete."
+CIV ENG 124,1,"Characteristics and properties of wood as a structural mater
+ial; design and detailing of structural elements and entire 
+structures of wood. Topics include allowable stresses, desig
+n and detailing of solid sawn and glulam beams and columns, 
+nailed and bolted connections, plywood diaphragms and shear 
+walls. Case studies."
+CIV ENG 126,1,"Introduction to the dynamics of particles, rigid bodies, and
+ deformable solids in civil engineering. Newtonian and Lagra
+ngian formulations. Vibration of particles and rigid body sy
+stems: natural frequencies and mode shapes, free and forced 
+vibration. Vibration of continuous systems: bars, strings, b
+eams. Modeling and numerical simulation methods.."
+CIV ENG 130N,1,"Elastic and plastic stress and deformation analysis of bars,
+ shafts, beams, and columns; energy and variational methods;
+ plastic analysis of structures; stability analysis of struc
+tures; computer-aided mathematical techniques for solution o
+f engineering problems and modular computer programming meth
+ods."
+CIV ENG 132,1,"Concepts of theory of solid mechanics: three dimensional str
+ess, strain, and material response; elastic and inelastic bo
+undary value problems; fracture, fatigue, and geometric inst
+ability. Problems in advanced strength of materials; thin pl
+ate and axis-symmetric shell theory."
+CIV ENG C133,1,"This is an introductory course on the finite element method 
+and is intended for seniors in engineering and applied scien
+ce disciplines. The course covers the basic topics of finite
+ element technology, including domain discretization, polyno
+mial interpolation, application of boundary conditions, asse
+mbly of global arrays, and solution of the resulting algebra
+ic systems. Finite element formulations for several importan
+t field equations are introduced"
+CIV ENG 140,1,"The failure mechanisms in civil engineering materials (cemen
+t-based materials, metallic- and polymer-based materials) ar
+e associated with processing, microstructure, stress states,
+ and environmental changes. Fracture mechanics of brittle, q
+uasi-brittle, and ductile materials; cracking processes in m
+onolithic, particulate, and fiber reinforced materials; exam
+ples of ductile/brittle failure transitions in civil enginee
+ring structures; retrofitting"
+CIV ENG 153,1,"A capstone class with the objective to design transportation
+ facilities based on operational capacity, site constraints,
+ and environmental design considerations. Emphasis on airpor
+ts, including landside and airside elements, and environment
+al assessment and mitigation techniques."
+CIV ENG 155,1,"Operation, management, control, design, and evaluation of pa
+ssenger and freight transportation systems. Their economic r
+ole. Demand analysis. Overall logistical structure. Performa
+nce models and modeling techniques: time-space diagrams, que
+uing theory, network analysis, and simulation. Design of con
+trol strategies for simple systems. Feedback effects. Parado
+xes. Transportation impact modeling; noise; air pollution. M
+ulti-criteria evaluation"
+CIV ENG 156,1,"This course focuses on physical infrastructure systems that 
+support society, including transportation, communications, p
+ower, water, and waste. These are complex, large-scale syste
+ms that must be planned and managed over a long-term horizon
+. Economics-based, analytical tools are covered, including t
+opics of supply, demand, and evaluation. Problem sets, case 
+studies, and a class project provide for hands-on experience
+ with a range of infrastructure"
+CIV ENG 165,1,"Concrete materials: cements, supplementary cementitious mate
+rials, water, and admixtures. Sustainability analysis of con
+crete materials and mixtures. Development of special concret
+es: self-leveling concrete, high-performance concrete, and m
+ass concrete. Consideration of sustainability of concrete co
+nstruction methods used for buildings, highways, airfields, 
+bridges, dams and other hydraulic structures. Non-destructiv
+e methods. Discussion"
+CIV ENG 166,1,"Introduction to construction engineering and field operation
+s. The construction industry, construction methods and pract
+ice, productivity improvement, equipment selection, site lay
+out formwork, erection of steel and concrete structures. Lab
+s demonstrate the concepts covered. Field trips to local con
+struction projects."
+CIV ENG 167,1,"Principles of economics, decision making, and law applied to
+ company and project management. Business ownership, liabili
+ty and insurance, cash flow analysis, and financial manageme
+nt. Project life-cycle, design-construction interface, contr
+acts, estimating, scheduling, cost control."
+CIV ENG 171,1,"Geological and geophysical exploration for structures in roc
+k; properties and behavior of rock masses; rock slope stabil
+ity; geological engineering of underground openings; evaluat
+ion of rock foundations, including dams."
+CIV ENG 173,1,"Introduction to principles of groundwater flow, including st
+eady and transient flow through porous media, numerical anal
+ysis, pumping tests, groundwater geology, contaminant transp
+ort, and design of waste containment systems."
+CIV ENG 174,1,"Engineering Geomatics is a field that integrates collections
+, processing, and analysis of digital geospatial data. This 
+new field is anchored in the established field of geodetics 
+that describes the complex shape of the Earth, elements and 
+usage of topographic data and maps. Basic and advanced GPS s
+atellite mapping. Digital globe technology. Advanced laser-L
+IDAR mapping. Quantitative"
+CIV ENG 175,1,"Soil formation and identification. Engineering properties of
+ soils. Fundamental aspects of soil characterization and res
+ponse, including soil mineralogy, soil-water movement, effec
+tive stress, consolidation, soil strength, and soil compacti
+on. Use of soils and geosynsynthetics in geotechnical and ge
+oenvironmental applications. Introduction to site investigat
+ion techniques. Laboratory testing and evaluation of soil co
+mposition and propert"
+CIV ENG 176,1,"Principles of environmental geotechnics applied to waste enc
+apsulation and remediation of contaminated sites. Characteri
+zation of soils and wastes, engineering properties of soils 
+and geosynthetics and their use in typical applications. Fat
+e and transport of contaminants. Fundamental principles and 
+practices in groundwater remediation. Application of environ
+mental geotechnics in the design and construction of waste c
+ontainment systems. Discussion"
+CIV ENG 177,1,"Principles of foundation engineering. Shear strength of soil
+ and theories related to the analysis and design of shallow 
+and deep foundations, and retaining structures. Structural d
+esign of foundation elements; piles, pile caps, and retainin
+g structures. The course has a group project that incorporat
+es both geotechnical and structural components of different 
+foundation elements."
+CIV ENG C178,1,"The theory and practice of geophysical methods for determini
+ng the subsurface distribution of physical rock and soil pro
+perties. Measurements of gravity and magnetic fields, electr
+ical and electromagnetic fields, and seismic velocity are in
+terpreted to map the subsurface distribution of density, mag
+netic susceptibility, electrical conductivity, and mechanica
+l properties."
+CIV ENG 179,1,"Geosystem engineering design principles and concepts. Fundam
+ental aspects of the geomechanical and geoenvironmental resp
+onses of soil are applied to analyze and design civil system
+s, such as earth dams and levees, earth retention systems, b
+uilding and bridge foundations, solid-waste fills, and taili
+ngs dams. Students form teams to design geotechnical aspects
+ of a civil project and prepare/present a design document. F
+ield trip to a project si"
+CIV ENG 180,1,"Course encompasses two design aspects of a civil and environ
+mental engineering system: 1) Design of whole system, compon
+ent, or life-cycle phase, subject to engineering standards a
+nd constraints, and 2) production system design (e.g., cost 
+estimation and control, scheduling, commercial and legal ter
+ms, site layout design). Students form teams to address real
+-life projects and prepare project documentation and a final
+ presentation."
+CIV ENG 186,1,"Design and prototype of large-scale technology intensive sys
+tems. Design project incorporating infrastruture systems and
+ areas such as transportation and hydrology; for example, wa
+tershed sensor networks, robot networks for environmental ma
+nagement, mobile Internet monitoring, open societal scale sy
+stems, crowd-sources applications, traffic management. Desig
+n of sensing and control systems, prototyping systems, and m
+easures of system performance."
+CIV ENG 190,1,"This course covers current topics of interest in civil and e
+nvironmental engineering. The course content may vary from s
+emester to semester depending upon the instructor"
+CIV ENG 191,1,"This course is organized around five real-world large-scale 
+CEE systems problems. The problems provide the motivation fo
+r the study of quantitative tools that are used for planning
+ or managing these systems. The problems include design of a
+ public transportation system for an urban area, resource al
+location for the maintenance of a water supply system, devel
+opment of repair and replacement policies for reinforced con
+crete bridge decks, traffic"
+CIV ENG 192,1,"A series of lectures by distinguished professionals designed
+ to provide an appreciation of the role of science, technolo
+gy, and the needs of society in conceiving projects, balanci
+ng the interplay of conflicting demands, and utilizing a var
+iety of disciplines to produce unified and efficient systems
+."
+CIV ENG 193,1,"Applications of probability theory and statistics in plannin
+g, analysis, and design of civil engineering systems. Develo
+pment of probabilistic models for risk and reliability evalu
+ation. Occurrence models; extreme value distributions. Analy
+sis of uncertainties. Introduction to Bayesian statistical d
+ecision theory and its application in engineering decision-m
+aking."
+CIV ENG H194,1,"Supervised research. Students who have completed 3 or more u
+pper division courses may pursue original research under the
+ direction of one of the members of the staff. A final repor
+t or presentation is required. A maximum of 4 units of H194 
+may be used to fulfill the technical elective requirement."
+CIV ENG 197,1,"Supervised experience in off-campus companies relevant to sp
+ecific aspects and applications of civil engineering. Writte
+n report required at the end of the semester."
+CIV ENG 198,1,"Group study of a selected topic or topics in civil engineeri
+ng."
+CIV ENG 199,1,Supervised independent study.
+UGBA C5,1,"Terms offered: Fall 2019, Fall 2018, Spring 2017, Fall 2015"
+UGBA 10,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 24,1,"Terms offered: Spring 2020, Fall 2013, Spring 2007"
+UGBA 39AC,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 39D,1,"Terms offered: Spring 2008, Fall 2007"
+UGBA 39E,1,"Terms offered: Fall 2019, Spring 2018, Fall 2016"
+UGBA 88,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA C95B,1,Terms offered: Spring 2019
+UGBA 96,1,"Terms offered: Fall 2019, Spring 2019, Fall 2018"
+UGBA 98,1,"Terms offered: Spring 2015, Fall 2014, Spring 2014"
+UGBA 100,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 101A,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 101B,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Spring 2020"
+UGBA 102A,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 102B,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Fall 2019"
+UGBA W102A,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ First 6 Week Session, Summer 2018 First 6 Week Session"
+UGBA 103,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Spring 2020"
+UGBA 104,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 105,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 106,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Spring 2020"
+UGBA 107,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 113,1,"Terms offered: Fall 2010, Fall 2009"
+UGBA 115,1,"Terms offered: Summer 2020 3 Week Session, Spring 2020, Fall
+ 2019"
+UGBA 117,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+UGBA 118,1,"Terms offered: Fall 2019, Fall 2018, Summer 2018 Second 6 We
+ek Session"
+UGBA 119,1,"Terms offered: Spring 2019, Spring 2018, Spring 2017"
+UGBA 120AA,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, 
+Summer 2019 First 6 Week Session"
+UGBA 120AB,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 120B,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 121,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 122,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 123,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 125,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA W125,1,Terms offered: Prior to 2007
+UGBA 126,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 127,1,"Terms offered: Spring 2020, Spring 2019, Fall 2018"
+UGBA 128,1,"Terms offered: Spring 2020, Spring 2019, Fall 2017"
+UGBA 129,1,Terms offered: Spring 2014
+UGBA 131,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Fall 2019"
+UGBA 131A,1,"Terms offered: Spring 2020, Spring 2019"
+UGBA 132,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ First 6 Week Session, Summer 2018 First 6 Week Session"
+UGBA 133,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Fall 2019"
+UGBA 134,1,Terms offered: Spring 2019
+UGBA 135,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA 136F,1,"Terms offered: Summer 2020 Second 6 Week Session, Summer 201
+9 Second 6 Week Session, Summer 2018 Second 6 Week Session"
+UGBA 137,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Summer 2019 Second 6 Week Session"
+UGBA 141,1,"Terms offered: Spring 2017, Spring 2016, Spring 2015"
+UGBA 143,1,"Terms offered: Fall 2014, Fall 2013, Spring 2010"
+UGBA 146,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2005, 
+Spring 2005"
+UGBA 147,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Summer 2019 First 6 Week Session"
+UGBA 151,1,"Terms offered: Spring 2020, Fall 2018, Fall 2016"
+UGBA 152,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 154,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019,
+ Summer 2019 Second 6 Week Session"
+UGBA 155,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA W155,1,Terms offered: Not yet offered
+UGBA 156AC,1,"Terms offered: Fall 2013, Spring 2013, Fall 2011"
+UGBA 157,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 160,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Summer 2019 First 6 Week Session"
+UGBA 161,1,"Terms offered: Spring 2020, Spring 2019, Spring 2017"
+UGBA 162,1,"Terms offered: Spring 2020, Spring 2019, Fall 2017"
+UGBA 162A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 164,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 165,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, 
+Summer 2019 First 6 Week Session"
+UGBA 167,1,"Terms offered: Spring 2020, Fall 2019, Spring 2018"
+UGBA 168B,1,"Terms offered: Spring 2015, Spring 2014"
+UGBA 169,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019,
+ Summer 2019 Second 6 Week Session"
+UGBA 170,1,"Terms offered: Spring 2017, Spring 2016, Spring 2015"
+UGBA C172,1,"Terms offered: Spring 2019, Spring 2017, Spring 2016"
+UGBA 175,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 176,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 177,1,"Terms offered: Spring 2016, Fall 2015, Fall 2014"
+UGBA 178,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Fall 2019"
+UGBA 179,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 180,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 183,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 184,1,"Terms offered: Spring 2016, Spring 2015, Spring 2014"
+UGBA 187,1,"Terms offered: Fall 2010, Fall 2009"
+UGBA 190C,1,Terms offered: Spring 2020
+UGBA 190D,1,Terms offered: Fall 2019
+UGBA 190S,1,Terms offered: Not yet offered
+UGBA 190T,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 190V,1,Terms offered: Prior to 2007
+UGBA 191C,1,"Terms offered: Fall 2016, Summer 2016 10 Week Session, Summe
+r 2016 Second 6 Week Session"
+UGBA 191I,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 191L,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA 191P,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 192A,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 192AC,1,"Terms offered: Spring 2020, Spring 2019, Fall 2017"
+UGBA 192B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 192E,1,Terms offered: Fall 2019
+UGBA 192G,1,Terms offered: Prior to 2007
+UGBA 192L,1,Terms offered: Prior to 2007
+UGBA 192N,1,"Terms offered: Fall 2019, Spring 2019, Fall 2018"
+UGBA 192P,1,"Terms offered: Fall 2018, Fall 2016, Fall 2014"
+UGBA 192S,1,Terms offered: Summer 2020 First 6 Week Session
+UGBA 192T,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 193B,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 193C,1,"Terms offered: Summer 2014 10 Week Session, Summer 2013 10 W
+eek Session, Summer 2012 10 Week Session"
+UGBA 193I,1,"Terms offered: Summer 2020 8 Week Session, Summer 2019 8 Wee
+k Session, Summer 2018 Second 6 Week Session"
+UGBA 194,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 195A,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 195P,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 195S,1,"Terms offered: Spring 2013, Spring 2012, Spring 2011"
+UGBA 195T,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 196,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 198,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+UGBA 199,1,"Terms offered: Spring 2015, Spring 2014, Fall 2013"
+CIV ENG 11,1,"An introduction to key engineered systems (e.g., energy, wat
+er supply, buildings, transportation) and their environmenta
+l impacts. Basic principles of environmental science needed 
+to understand natural processes as they are influenced by hu
+man activities. Overview of concepts and methods of sustaina
+bility analysis. Critical evaluation of engineering approach
+es to address sustainability."
+CIV ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CIV ENG C30,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+CIV ENG W30,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+CIV ENG 60,1,"Introduction to structure and properties of civil engineerin
+g materials such as asphalt, cements, concrete, geological m
+aterials (e.g. soil and rocks), steel, polymers, and wood. T
+he properties range from elastic, plastic and fracture prope
+rties to porosity and thermal and environmental responses. L
+aboratory tests include evaluation of behavior of these mate
+rials under a wide range of conditions."
+CIV ENG 70,1,"Principles of physical and structural geology; the influence
+ of geological factors on engineering works and the environm
+ent. Field trip."
+CIV ENG 88B,1,"In this course, we will pursue analysis of long-term records
+ of coastal water levels in the context of sea level rise. W
+e will cover the collection, evaluation, visualization and a
+nalysis of time series data using long-term records of sea l
+evels from coastal sites around the world. Specific topics w
+ill include extreme events and distributions, frequency-base
+d descriptions, averaging, filtering, harmonic analysis, tre
+nd identification, extrapolations, and decision-making"
+CIV ENG C88,1,"Cities become more dependent on the data flows that connect 
+infrastructures between themselves, and users to infrastruct
+ures. Design and operation of smart, efficient, and resilien
+t cities nowadays require data science skills. This course p
+rovides an introduction to working with data generated withi
+n transportation systems, power grids, communication network
+s, as well as collected via crowd-sensing and remote sensing
+ technologies, to build demand- and supply-side"
+CIV ENG 92,1,"A course designed to familiarize the entering student with t
+he nature and scope of civil and environmental engineering a
+nd its component specialty areas."
+CIV ENG 93,1,"Application of the concepts and methods of probability theor
+y and statistical inference to CEE problems and data; graphi
+cal data analysis and sampling; elements of set theory; elem
+ents of probability theory; random variables and expectation
+; simulation; statistical inference. Use of computer program
+ming languages for analysis of CEE-related data and problems
+. The course also introduces the student to various domains 
+of uncertainty analysis"
+CIV ENG 98,1,"Supervised group study and research by lower division studen
+ts."
+CIV ENG 99,1,Supervised independent study by lower division students.
+CIV ENG 100,1,"Fluid statics and dynamics, including laboratory experiments
+ with technical reports. Fundamentals: integral and differen
+tial formulations of the conservation laws are solved in spe
+cial cases such as boundary layers and pipe flow. Flow visua
+lization and computation techniques are introduced using Mat
+lab. Empirical equations are used for turbulent flows, drag,
+ pumps, and open channels. Principles of empirical equations
+ are also discussed:"
+CIV ENG 101,1,"Analysis of steady and unsteady open-channel flow and applic
+ation to rivers and streams. Examination of mixing and trans
+port in rivers and streams. Effects of channel complexity. F
+loodplain dynamics and flow routing. Interaction of vegetati
+on and fluid flows. Freshwater and tidal marshes. Sediment t
+ransport in rivers, streams, and wetlands. Implications for 
+freshwater ecosystem function."
+CIV ENG 103,1,"Course addresses principles and practical aspects of hydrolo
+gy. Topics in introduction to hydrology include hydrologic c
+ycle, precipitation, evaporation, infiltration, snow and sno
+wmelt, and streamflow; introduction to geomorphology, GIS (G
+eographic Information Systems) applications, theory of unit 
+hydrograph, frequency analysis, flood routing through reserv
+oirs and rivers; introduction to rainfall-runoff analyses, w
+atershed modeling, urban hydrology"
+CIV ENG C103N,1,"A quantitative introduction to the hydrology of the terrestr
+ial environment including lower atmosphere, watersheds, lake
+s, and streams. All aspects of the hydrologic cycle, includi
+ng precipitation, infiltration, evapotranspiration, overland
+ flow, streamflow, and groundwater flow. Chemistry and datin
+g of groundwater and surface water. Development of quantitat
+ive insights through problem solving and use of simple model
+s. This course"
+CIV ENG 105,1,"Hands-on design course in applied fluid mechanics, hydrology
+ and water resources. Course goes beyond basic examples of f
+luid flow to develop environmental engineering solutions to 
+real-world problems. A class team project is used to (1) exp
+lore the design process and project management; and (2) to i
+ntegrate concepts from hydrology and fluid mechanics with st
+ructural, geotechnical and/or transportation engineering for
+ a holistic design approach."
+CIV ENG C106,1,"This course is an introduction to air pollution and the chem
+istry of earth's atmosphere. We will focus on the fundamenta
+l natural processes controlling trace gas and aerosol concen
+trations in the atmosphere, and how anthropogenic activity h
+as affected those processes at the local, regional, and glob
+al scales. Specific topics include stratospheric ozone deple
+tion, increasing concentrations of green house gasses, smog,
+ and changes in the oxidation"
+CIV ENG 107,1,"Assessment of technological options for responding to climat
+e change. Overview of climate-change science; sources, sinks
+, and atmospheric dynamics of greenhouse gases. Current syst
+ems for energy supply and use. Renewable energy resources, t
+ransport, storage, and transformation technologies. Technolo
+gical opportunities for improving end-use energy efficiency.
+ Recovery, sequestration, and disposal of greenhouse gases. 
+Societal context for implementing"
+CIV ENG 110,1,"This course will familiarize students with the complex infra
+structure used to meet human water demands; competing uses a
+nd demands; water and wastewater infrastructure; technologie
+s to enable recovery of water, energy, and other resources f
+rom wastewater; supply planning; trends and forecasting; cos
+ts, pricing and financing; environmental justice; methods to
+ assess sustainability; regulatory, policy and institutional
+ challenges; and water's"
+CIV ENG 111,1,"Quantitative overview of air and water contaminants and thei
+r engineering control. Elementary environmental chemistry an
+d transport. Reactor models. Applications of fundamentals to
+ selected current issues in water quality engineering, air q
+uality engineering, air quality engineering, and hazardous w
+aste management."
+CIV ENG 111L,1,"This laboratory course is designed to accompany the lecture 
+topics in Civil Engineering 111. Each laboratory activity wi
+ll provide an opportunity to understand key concepts in wate
+r and air quality through hands-on experimentation. Laborato
+ry topics include phase partitioning, acid/base reactions, r
+edox reactions, biochemical oxygen demand, absorption, gas t
+ransfer, reactor hydraulics, particle destablization, disinf
+ection, and combustion emis"
+CIV ENG 112,1,"Engineering design and project management of environmental s
+ystems. Students will complete a design project focusing on 
+pollution control in a selected environmental system. Lectur
+es and project activities will address process design, econo
+mic optimization, legal and institutional constraints on des
+ign, and project management. Additional components of design
+ (e.g., hydraulics, engineering sustainability, plant struct
+ures) will be include"
+CIV ENG 113,1,"Ecological engineering approaches for treating contaminated 
+water using natural processes to improve water quality. Emph
+asis on combining basic science and engineering approaches t
+o understand the fundamental processes that govern the effec
+tiveness of complex natural treatment systems. Applications 
+include constructed wetlands, waste stabilization ponds, sto
+rmwater bioretention, decentralized wastewater management, e
+cological sanitation. Laboratory"
+CIV ENG 114,1,"The scope of modern environmental engineering requires a fun
+damental knowledge of microbial processes with specific appl
+ication to water, wastewater and the environmental fate of p
+ollutants. This course will cover basic microbial physiology
+, biochemistry, metabolism, growth energetics and kinetics, 
+ecology, pathogenicity, and genetics for application to both
+ engineered and natural environmental systems."
+CIV ENG 115,1,"The application of principles of inorganic, physical, and di
+lute solution equilibrium chemistry to aquatic systems, both
+ in the aquatic environment and in water and wastewater trea
+tment processes."
+CIV ENG C116,1,"Chemical mechanisms of reactions controlling the fate and mo
+bility of nutrients and pollutants in soils. Role of soil mi
+nerals and humus in geochemical pathways of nutrient biovail
+ability and pollutant detoxification. Chemical modeling of n
+utrient and pollutant soil chemistry. Applications to soil a
+cidity and salinity."
+CIV ENG 120,1,"Introduction to design and analysis of structural systems. L
+oads and load placement. Proportioning of structural members
+ in steel, reinforced concrete, and timber. Structural analy
+sis theory. Hand and computer analysis methods, validation o
+f results from computer analysis. Applications, including br
+idges, building frames, and long-span cable structures."
+CIV ENG 121,1,"Theory and application of structural analysis. Stiffness and
+ flexibility methods, with emphasis on the direct stiffness 
+method. Equilibrium and compatibility. Virtual work. Respons
+e of linear and simple nonlinear structures to static loads.
+ Use of computer programs for structural analysis. Modeling 
+of two- and three-dimensional structures. Verification and i
+nterpretation of structural response."
+CIV ENG 122L,1,"Introduction to one or more comprehensive structural design 
+problems. Design teams will conceive structural system; dete
+rmine design loads; conduct preliminary and final design of 
+structure and its foundation; prepare construction cost esti
+mate; prepare final report containing project description, d
+esign criteria, cost estimate, structural drawings, and supp
+orting calculations; and make ""client"" presentations as requ
+ired."
+CIV ENG 122N,1,"Introduction to materials and methods of steel construction;
+ behavior and design of tension members, compression members
+, flexural members and beam-columns; design of welds, bolts,
+ shear connections and moment connections; design of spread 
+footings or other foundation elements, inroduction to design
+ of earthquake-resistant steel structures including concentr
+ically braced frames and moment frames."
+CIV ENG 123L,1,"Introduction to one or more comprehensive structural design 
+problems. Design teams will conceive structural system; dete
+rmine design loads; conduct preliminary and final design of 
+structure and its foundation; prepare construction cost esti
+mate; prepare final report containing project description, d
+esign criteria, cost estimate, structural drawings, and supp
+orting calculations; make ""client"" presentations as required
+."
+CIV ENG 123N,1,"Introduction to materials and methods of reinforced concrete
+ construction; behavior and design of reinforced concrete be
+ams and one-way slabs considering deflections, flexure, shea
+r, and anchorage; behavior and design of columns; design of 
+spread footings or other foundation elements; design of eart
+hquake-resistant structures; introduction to prestressed con
+crete."
+CIV ENG 124,1,"Characteristics and properties of wood as a structural mater
+ial; design and detailing of structural elements and entire 
+structures of wood. Topics include allowable stresses, desig
+n and detailing of solid sawn and glulam beams and columns, 
+nailed and bolted connections, plywood diaphragms and shear 
+walls. Case studies."
+CIV ENG 126,1,"Introduction to the dynamics of particles, rigid bodies, and
+ deformable solids in civil engineering. Newtonian and Lagra
+ngian formulations. Vibration of particles and rigid body sy
+stems: natural frequencies and mode shapes, free and forced 
+vibration. Vibration of continuous systems: bars, strings, b
+eams. Modeling and numerical simulation methods.."
+CIV ENG 130N,1,"Elastic and plastic stress and deformation analysis of bars,
+ shafts, beams, and columns; energy and variational methods;
+ plastic analysis of structures; stability analysis of struc
+tures; computer-aided mathematical techniques for solution o
+f engineering problems and modular computer programming meth
+ods."
+CIV ENG 132,1,"Concepts of theory of solid mechanics: three dimensional str
+ess, strain, and material response; elastic and inelastic bo
+undary value problems; fracture, fatigue, and geometric inst
+ability. Problems in advanced strength of materials; thin pl
+ate and axis-symmetric shell theory."
+CIV ENG C133,1,"This is an introductory course on the finite element method 
+and is intended for seniors in engineering and applied scien
+ce disciplines. The course covers the basic topics of finite
+ element technology, including domain discretization, polyno
+mial interpolation, application of boundary conditions, asse
+mbly of global arrays, and solution of the resulting algebra
+ic systems. Finite element formulations for several importan
+t field equations are introduced"
+CIV ENG 140,1,"The failure mechanisms in civil engineering materials (cemen
+t-based materials, metallic- and polymer-based materials) ar
+e associated with processing, microstructure, stress states,
+ and environmental changes. Fracture mechanics of brittle, q
+uasi-brittle, and ductile materials; cracking processes in m
+onolithic, particulate, and fiber reinforced materials; exam
+ples of ductile/brittle failure transitions in civil enginee
+ring structures; retrofitting"
+CIV ENG 153,1,"A capstone class with the objective to design transportation
+ facilities based on operational capacity, site constraints,
+ and environmental design considerations. Emphasis on airpor
+ts, including landside and airside elements, and environment
+al assessment and mitigation techniques."
+CIV ENG 155,1,"Operation, management, control, design, and evaluation of pa
+ssenger and freight transportation systems. Their economic r
+ole. Demand analysis. Overall logistical structure. Performa
+nce models and modeling techniques: time-space diagrams, que
+uing theory, network analysis, and simulation. Design of con
+trol strategies for simple systems. Feedback effects. Parado
+xes. Transportation impact modeling; noise; air pollution. M
+ulti-criteria evaluation"
+CIV ENG 156,1,"This course focuses on physical infrastructure systems that 
+support society, including transportation, communications, p
+ower, water, and waste. These are complex, large-scale syste
+ms that must be planned and managed over a long-term horizon
+. Economics-based, analytical tools are covered, including t
+opics of supply, demand, and evaluation. Problem sets, case 
+studies, and a class project provide for hands-on experience
+ with a range of infrastructure"
+CIV ENG 165,1,"Concrete materials: cements, supplementary cementitious mate
+rials, water, and admixtures. Sustainability analysis of con
+crete materials and mixtures. Development of special concret
+es: self-leveling concrete, high-performance concrete, and m
+ass concrete. Consideration of sustainability of concrete co
+nstruction methods used for buildings, highways, airfields, 
+bridges, dams and other hydraulic structures. Non-destructiv
+e methods. Discussion"
+CIV ENG 166,1,"Introduction to construction engineering and field operation
+s. The construction industry, construction methods and pract
+ice, productivity improvement, equipment selection, site lay
+out formwork, erection of steel and concrete structures. Lab
+s demonstrate the concepts covered. Field trips to local con
+struction projects."
+CIV ENG 167,1,"Principles of economics, decision making, and law applied to
+ company and project management. Business ownership, liabili
+ty and insurance, cash flow analysis, and financial manageme
+nt. Project life-cycle, design-construction interface, contr
+acts, estimating, scheduling, cost control."
+CIV ENG 171,1,"Geological and geophysical exploration for structures in roc
+k; properties and behavior of rock masses; rock slope stabil
+ity; geological engineering of underground openings; evaluat
+ion of rock foundations, including dams."
+CIV ENG 173,1,"Introduction to principles of groundwater flow, including st
+eady and transient flow through porous media, numerical anal
+ysis, pumping tests, groundwater geology, contaminant transp
+ort, and design of waste containment systems."
+CIV ENG 174,1,"Engineering Geomatics is a field that integrates collections
+, processing, and analysis of digital geospatial data. This 
+new field is anchored in the established field of geodetics 
+that describes the complex shape of the Earth, elements and 
+usage of topographic data and maps. Basic and advanced GPS s
+atellite mapping. Digital globe technology. Advanced laser-L
+IDAR mapping. Quantitative"
+CIV ENG 175,1,"Soil formation and identification. Engineering properties of
+ soils. Fundamental aspects of soil characterization and res
+ponse, including soil mineralogy, soil-water movement, effec
+tive stress, consolidation, soil strength, and soil compacti
+on. Use of soils and geosynsynthetics in geotechnical and ge
+oenvironmental applications. Introduction to site investigat
+ion techniques. Laboratory testing and evaluation of soil co
+mposition and propert"
+CIV ENG 176,1,"Principles of environmental geotechnics applied to waste enc
+apsulation and remediation of contaminated sites. Characteri
+zation of soils and wastes, engineering properties of soils 
+and geosynthetics and their use in typical applications. Fat
+e and transport of contaminants. Fundamental principles and 
+practices in groundwater remediation. Application of environ
+mental geotechnics in the design and construction of waste c
+ontainment systems. Discussion"
+CIV ENG 177,1,"Principles of foundation engineering. Shear strength of soil
+ and theories related to the analysis and design of shallow 
+and deep foundations, and retaining structures. Structural d
+esign of foundation elements; piles, pile caps, and retainin
+g structures. The course has a group project that incorporat
+es both geotechnical and structural components of different 
+foundation elements."
+CIV ENG C178,1,"The theory and practice of geophysical methods for determini
+ng the subsurface distribution of physical rock and soil pro
+perties. Measurements of gravity and magnetic fields, electr
+ical and electromagnetic fields, and seismic velocity are in
+terpreted to map the subsurface distribution of density, mag
+netic susceptibility, electrical conductivity, and mechanica
+l properties."
+CIV ENG 179,1,"Geosystem engineering design principles and concepts. Fundam
+ental aspects of the geomechanical and geoenvironmental resp
+onses of soil are applied to analyze and design civil system
+s, such as earth dams and levees, earth retention systems, b
+uilding and bridge foundations, solid-waste fills, and taili
+ngs dams. Students form teams to design geotechnical aspects
+ of a civil project and prepare/present a design document. F
+ield trip to a project si"
+CIV ENG 180,1,"Course encompasses two design aspects of a civil and environ
+mental engineering system: 1) Design of whole system, compon
+ent, or life-cycle phase, subject to engineering standards a
+nd constraints, and 2) production system design (e.g., cost 
+estimation and control, scheduling, commercial and legal ter
+ms, site layout design). Students form teams to address real
+-life projects and prepare project documentation and a final
+ presentation."
+CIV ENG 186,1,"Design and prototype of large-scale technology intensive sys
+tems. Design project incorporating infrastruture systems and
+ areas such as transportation and hydrology; for example, wa
+tershed sensor networks, robot networks for environmental ma
+nagement, mobile Internet monitoring, open societal scale sy
+stems, crowd-sources applications, traffic management. Desig
+n of sensing and control systems, prototyping systems, and m
+easures of system performance."
+CIV ENG 190,1,"This course covers current topics of interest in civil and e
+nvironmental engineering. The course content may vary from s
+emester to semester depending upon the instructor"
+CIV ENG 191,1,"This course is organized around five real-world large-scale 
+CEE systems problems. The problems provide the motivation fo
+r the study of quantitative tools that are used for planning
+ or managing these systems. The problems include design of a
+ public transportation system for an urban area, resource al
+location for the maintenance of a water supply system, devel
+opment of repair and replacement policies for reinforced con
+crete bridge decks, traffic"
+CIV ENG 192,1,"A series of lectures by distinguished professionals designed
+ to provide an appreciation of the role of science, technolo
+gy, and the needs of society in conceiving projects, balanci
+ng the interplay of conflicting demands, and utilizing a var
+iety of disciplines to produce unified and efficient systems
+."
+CIV ENG 193,1,"Applications of probability theory and statistics in plannin
+g, analysis, and design of civil engineering systems. Develo
+pment of probabilistic models for risk and reliability evalu
+ation. Occurrence models; extreme value distributions. Analy
+sis of uncertainties. Introduction to Bayesian statistical d
+ecision theory and its application in engineering decision-m
+aking."
+CIV ENG H194,1,"Supervised research. Students who have completed 3 or more u
+pper division courses may pursue original research under the
+ direction of one of the members of the staff. A final repor
+t or presentation is required. A maximum of 4 units of H194 
+may be used to fulfill the technical elective requirement."
+CIV ENG 197,1,"Supervised experience in off-campus companies relevant to sp
+ecific aspects and applications of civil engineering. Writte
+n report required at the end of the semester."
+CIV ENG 198,1,"Group study of a selected topic or topics in civil engineeri
+ng."
+CIV ENG 199,1,Supervised independent study.
+UGBA C5,1,"Terms offered: Fall 2019, Fall 2018, Spring 2017, Fall 2015"
+UGBA 10,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 24,1,"Terms offered: Spring 2020, Fall 2013, Spring 2007"
+UGBA 39AC,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 39D,1,"Terms offered: Spring 2008, Fall 2007"
+UGBA 39E,1,"Terms offered: Fall 2019, Spring 2018, Fall 2016"
+UGBA 88,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA C95B,1,Terms offered: Spring 2019
+UGBA 96,1,"Terms offered: Fall 2019, Spring 2019, Fall 2018"
+UGBA 98,1,"Terms offered: Spring 2015, Fall 2014, Spring 2014"
+UGBA 100,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 101A,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 101B,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Spring 2020"
+UGBA 102A,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 102B,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Fall 2019"
+UGBA W102A,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ First 6 Week Session, Summer 2018 First 6 Week Session"
+UGBA 103,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Spring 2020"
+UGBA 104,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 105,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 106,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Spring 2020"
+UGBA 107,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 113,1,"Terms offered: Fall 2010, Fall 2009"
+UGBA 115,1,"Terms offered: Summer 2020 3 Week Session, Spring 2020, Fall
+ 2019"
+UGBA 117,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+UGBA 118,1,"Terms offered: Fall 2019, Fall 2018, Summer 2018 Second 6 We
+ek Session"
+UGBA 119,1,"Terms offered: Spring 2019, Spring 2018, Spring 2017"
+UGBA 120AA,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, 
+Summer 2019 First 6 Week Session"
+UGBA 120AB,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 120B,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 121,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 122,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 123,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 125,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA W125,1,Terms offered: Prior to 2007
+UGBA 126,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 127,1,"Terms offered: Spring 2020, Spring 2019, Fall 2018"
+UGBA 128,1,"Terms offered: Spring 2020, Spring 2019, Fall 2017"
+UGBA 129,1,Terms offered: Spring 2014
+UGBA 131,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Fall 2019"
+UGBA 131A,1,"Terms offered: Spring 2020, Spring 2019"
+UGBA 132,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ First 6 Week Session, Summer 2018 First 6 Week Session"
+UGBA 133,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Fall 2019"
+UGBA 134,1,Terms offered: Spring 2019
+UGBA 135,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA 136F,1,"Terms offered: Summer 2020 Second 6 Week Session, Summer 201
+9 Second 6 Week Session, Summer 2018 Second 6 Week Session"
+UGBA 137,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Summer 2019 Second 6 Week Session"
+UGBA 141,1,"Terms offered: Spring 2017, Spring 2016, Spring 2015"
+UGBA 143,1,"Terms offered: Fall 2014, Fall 2013, Spring 2010"
+UGBA 146,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2005, 
+Spring 2005"
+UGBA 147,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Summer 2019 First 6 Week Session"
+UGBA 151,1,"Terms offered: Spring 2020, Fall 2018, Fall 2016"
+UGBA 152,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 154,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019,
+ Summer 2019 Second 6 Week Session"
+UGBA 155,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA W155,1,Terms offered: Not yet offered
+UGBA 156AC,1,"Terms offered: Fall 2013, Spring 2013, Fall 2011"
+UGBA 157,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 160,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Summer 2019 First 6 Week Session"
+UGBA 161,1,"Terms offered: Spring 2020, Spring 2019, Spring 2017"
+UGBA 162,1,"Terms offered: Spring 2020, Spring 2019, Fall 2017"
+UGBA 162A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 164,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 165,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, 
+Summer 2019 First 6 Week Session"
+UGBA 167,1,"Terms offered: Spring 2020, Fall 2019, Spring 2018"
+UGBA 168B,1,"Terms offered: Spring 2015, Spring 2014"
+UGBA 169,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019,
+ Summer 2019 Second 6 Week Session"
+UGBA 170,1,"Terms offered: Spring 2017, Spring 2016, Spring 2015"
+UGBA C172,1,"Terms offered: Spring 2019, Spring 2017, Spring 2016"
+UGBA 175,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 176,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 177,1,"Terms offered: Spring 2016, Fall 2015, Fall 2014"
+UGBA 178,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Fall 2019"
+UGBA 179,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 180,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 183,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 184,1,"Terms offered: Spring 2016, Spring 2015, Spring 2014"
+UGBA 187,1,"Terms offered: Fall 2010, Fall 2009"
+UGBA 190C,1,Terms offered: Spring 2020
+UGBA 190D,1,Terms offered: Fall 2019
+UGBA 190S,1,Terms offered: Not yet offered
+UGBA 190T,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 190V,1,Terms offered: Prior to 2007
+UGBA 191C,1,"Terms offered: Fall 2016, Summer 2016 10 Week Session, Summe
+r 2016 Second 6 Week Session"
+UGBA 191I,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 191L,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA 191P,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 192A,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 192AC,1,"Terms offered: Spring 2020, Spring 2019, Fall 2017"
+UGBA 192B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 192E,1,Terms offered: Fall 2019
+UGBA 192G,1,Terms offered: Prior to 2007
+UGBA 192L,1,Terms offered: Prior to 2007
+UGBA 192N,1,"Terms offered: Fall 2019, Spring 2019, Fall 2018"
+UGBA 192P,1,"Terms offered: Fall 2018, Fall 2016, Fall 2014"
+UGBA 192S,1,Terms offered: Summer 2020 First 6 Week Session
+UGBA 192T,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 193B,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 193C,1,"Terms offered: Summer 2014 10 Week Session, Summer 2013 10 W
+eek Session, Summer 2012 10 Week Session"
+UGBA 193I,1,"Terms offered: Summer 2020 8 Week Session, Summer 2019 8 Wee
+k Session, Summer 2018 Second 6 Week Session"
+UGBA 194,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 195A,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 195P,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 195S,1,"Terms offered: Spring 2013, Spring 2012, Spring 2011"
+UGBA 195T,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 196,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 198,1,"Terms offered: Spring 2016, Fall 2015, Spring 2015"
+UGBA 199,1,"Terms offered: Spring 2015, Spring 2014, Fall 2013"
+CIV ENG 11,1,"An introduction to key engineered systems (e.g., energy, wat
+er supply, buildings, transportation) and their environmenta
+l impacts. Basic principles of environmental science needed 
+to understand natural processes as they are influenced by hu
+man activities. Overview of concepts and methods of sustaina
+bility analysis. Critical evaluation of engineering approach
+es to address sustainability."
+CIV ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CIV ENG C30,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+CIV ENG W30,1,"A review of equilibrium for particles and rigid bodies. Appl
+ication to truss structures. The concepts of deformation, st
+rain, and stress. Equilibrium equations for a continuum. Ele
+ments of the theory of linear elasticity. The states of plan
+e stress and plane strain. Solution of elementary elasticity
+ problems (beam bending, torsion of circular bars). Euler bu
+ckling in elastic beams."
+CIV ENG 60,1,"Introduction to structure and properties of civil engineerin
+g materials such as asphalt, cements, concrete, geological m
+aterials (e.g. soil and rocks), steel, polymers, and wood. T
+he properties range from elastic, plastic and fracture prope
+rties to porosity and thermal and environmental responses. L
+aboratory tests include evaluation of behavior of these mate
+rials under a wide range of conditions."
+CIV ENG 70,1,"Principles of physical and structural geology; the influence
+ of geological factors on engineering works and the environm
+ent. Field trip."
+CIV ENG 88B,1,"In this course, we will pursue analysis of long-term records
+ of coastal water levels in the context of sea level rise. W
+e will cover the collection, evaluation, visualization and a
+nalysis of time series data using long-term records of sea l
+evels from coastal sites around the world. Specific topics w
+ill include extreme events and distributions, frequency-base
+d descriptions, averaging, filtering, harmonic analysis, tre
+nd identification, extrapolations, and decision-making"
+CIV ENG C88,1,"Cities become more dependent on the data flows that connect 
+infrastructures between themselves, and users to infrastruct
+ures. Design and operation of smart, efficient, and resilien
+t cities nowadays require data science skills. This course p
+rovides an introduction to working with data generated withi
+n transportation systems, power grids, communication network
+s, as well as collected via crowd-sensing and remote sensing
+ technologies, to build demand- and supply-side"
+CIV ENG 92,1,"A course designed to familiarize the entering student with t
+he nature and scope of civil and environmental engineering a
+nd its component specialty areas."
+CIV ENG 93,1,"Application of the concepts and methods of probability theor
+y and statistical inference to CEE problems and data; graphi
+cal data analysis and sampling; elements of set theory; elem
+ents of probability theory; random variables and expectation
+; simulation; statistical inference. Use of computer program
+ming languages for analysis of CEE-related data and problems
+. The course also introduces the student to various domains 
+of uncertainty analysis"
+CIV ENG 98,1,"Supervised group study and research by lower division studen
+ts."
+CIV ENG 99,1,Supervised independent study by lower division students.
+CIV ENG 100,1,"Fluid statics and dynamics, including laboratory experiments
+ with technical reports. Fundamentals: integral and differen
+tial formulations of the conservation laws are solved in spe
+cial cases such as boundary layers and pipe flow. Flow visua
+lization and computation techniques are introduced using Mat
+lab. Empirical equations are used for turbulent flows, drag,
+ pumps, and open channels. Principles of empirical equations
+ are also discussed:"
+CIV ENG 101,1,"Analysis of steady and unsteady open-channel flow and applic
+ation to rivers and streams. Examination of mixing and trans
+port in rivers and streams. Effects of channel complexity. F
+loodplain dynamics and flow routing. Interaction of vegetati
+on and fluid flows. Freshwater and tidal marshes. Sediment t
+ransport in rivers, streams, and wetlands. Implications for 
+freshwater ecosystem function."
+CIV ENG 103,1,"Course addresses principles and practical aspects of hydrolo
+gy. Topics in introduction to hydrology include hydrologic c
+ycle, precipitation, evaporation, infiltration, snow and sno
+wmelt, and streamflow; introduction to geomorphology, GIS (G
+eographic Information Systems) applications, theory of unit 
+hydrograph, frequency analysis, flood routing through reserv
+oirs and rivers; introduction to rainfall-runoff analyses, w
+atershed modeling, urban hydrology"
+CIV ENG C103N,1,"A quantitative introduction to the hydrology of the terrestr
+ial environment including lower atmosphere, watersheds, lake
+s, and streams. All aspects of the hydrologic cycle, includi
+ng precipitation, infiltration, evapotranspiration, overland
+ flow, streamflow, and groundwater flow. Chemistry and datin
+g of groundwater and surface water. Development of quantitat
+ive insights through problem solving and use of simple model
+s. This course"
+CIV ENG 105,1,"Hands-on design course in applied fluid mechanics, hydrology
+ and water resources. Course goes beyond basic examples of f
+luid flow to develop environmental engineering solutions to 
+real-world problems. A class team project is used to (1) exp
+lore the design process and project management; and (2) to i
+ntegrate concepts from hydrology and fluid mechanics with st
+ructural, geotechnical and/or transportation engineering for
+ a holistic design approach."
+CIV ENG C106,1,"This course is an introduction to air pollution and the chem
+istry of earth's atmosphere. We will focus on the fundamenta
+l natural processes controlling trace gas and aerosol concen
+trations in the atmosphere, and how anthropogenic activity h
+as affected those processes at the local, regional, and glob
+al scales. Specific topics include stratospheric ozone deple
+tion, increasing concentrations of green house gasses, smog,
+ and changes in the oxidation"
+CIV ENG 107,1,"Assessment of technological options for responding to climat
+e change. Overview of climate-change science; sources, sinks
+, and atmospheric dynamics of greenhouse gases. Current syst
+ems for energy supply and use. Renewable energy resources, t
+ransport, storage, and transformation technologies. Technolo
+gical opportunities for improving end-use energy efficiency.
+ Recovery, sequestration, and disposal of greenhouse gases. 
+Societal context for implementing"
+CIV ENG 110,1,"This course will familiarize students with the complex infra
+structure used to meet human water demands; competing uses a
+nd demands; water and wastewater infrastructure; technologie
+s to enable recovery of water, energy, and other resources f
+rom wastewater; supply planning; trends and forecasting; cos
+ts, pricing and financing; environmental justice; methods to
+ assess sustainability; regulatory, policy and institutional
+ challenges; and water's"
+CIV ENG 111,1,"Quantitative overview of air and water contaminants and thei
+r engineering control. Elementary environmental chemistry an
+d transport. Reactor models. Applications of fundamentals to
+ selected current issues in water quality engineering, air q
+uality engineering, air quality engineering, and hazardous w
+aste management."
+CIV ENG 111L,1,"This laboratory course is designed to accompany the lecture 
+topics in Civil Engineering 111. Each laboratory activity wi
+ll provide an opportunity to understand key concepts in wate
+r and air quality through hands-on experimentation. Laborato
+ry topics include phase partitioning, acid/base reactions, r
+edox reactions, biochemical oxygen demand, absorption, gas t
+ransfer, reactor hydraulics, particle destablization, disinf
+ection, and combustion emis"
+CIV ENG 112,1,"Engineering design and project management of environmental s
+ystems. Students will complete a design project focusing on 
+pollution control in a selected environmental system. Lectur
+es and project activities will address process design, econo
+mic optimization, legal and institutional constraints on des
+ign, and project management. Additional components of design
+ (e.g., hydraulics, engineering sustainability, plant struct
+ures) will be include"
+CIV ENG 113,1,"Ecological engineering approaches for treating contaminated 
+water using natural processes to improve water quality. Emph
+asis on combining basic science and engineering approaches t
+o understand the fundamental processes that govern the effec
+tiveness of complex natural treatment systems. Applications 
+include constructed wetlands, waste stabilization ponds, sto
+rmwater bioretention, decentralized wastewater management, e
+cological sanitation. Laboratory"
+CIV ENG 114,1,"The scope of modern environmental engineering requires a fun
+damental knowledge of microbial processes with specific appl
+ication to water, wastewater and the environmental fate of p
+ollutants. This course will cover basic microbial physiology
+, biochemistry, metabolism, growth energetics and kinetics, 
+ecology, pathogenicity, and genetics for application to both
+ engineered and natural environmental systems."
+CIV ENG 115,1,"The application of principles of inorganic, physical, and di
+lute solution equilibrium chemistry to aquatic systems, both
+ in the aquatic environment and in water and wastewater trea
+tment processes."
+CIV ENG C116,1,"Chemical mechanisms of reactions controlling the fate and mo
+bility of nutrients and pollutants in soils. Role of soil mi
+nerals and humus in geochemical pathways of nutrient biovail
+ability and pollutant detoxification. Chemical modeling of n
+utrient and pollutant soil chemistry. Applications to soil a
+cidity and salinity."
+CIV ENG 120,1,"Introduction to design and analysis of structural systems. L
+oads and load placement. Proportioning of structural members
+ in steel, reinforced concrete, and timber. Structural analy
+sis theory. Hand and computer analysis methods, validation o
+f results from computer analysis. Applications, including br
+idges, building frames, and long-span cable structures."
+CIV ENG 121,1,"Theory and application of structural analysis. Stiffness and
+ flexibility methods, with emphasis on the direct stiffness 
+method. Equilibrium and compatibility. Virtual work. Respons
+e of linear and simple nonlinear structures to static loads.
+ Use of computer programs for structural analysis. Modeling 
+of two- and three-dimensional structures. Verification and i
+nterpretation of structural response."
+CIV ENG 122L,1,"Introduction to one or more comprehensive structural design 
+problems. Design teams will conceive structural system; dete
+rmine design loads; conduct preliminary and final design of 
+structure and its foundation; prepare construction cost esti
+mate; prepare final report containing project description, d
+esign criteria, cost estimate, structural drawings, and supp
+orting calculations; and make ""client"" presentations as requ
+ired."
+CIV ENG 122N,1,"Introduction to materials and methods of steel construction;
+ behavior and design of tension members, compression members
+, flexural members and beam-columns; design of welds, bolts,
+ shear connections and moment connections; design of spread 
+footings or other foundation elements, inroduction to design
+ of earthquake-resistant steel structures including concentr
+ically braced frames and moment frames."
+CIV ENG 123L,1,"Introduction to one or more comprehensive structural design 
+problems. Design teams will conceive structural system; dete
+rmine design loads; conduct preliminary and final design of 
+structure and its foundation; prepare construction cost esti
+mate; prepare final report containing project description, d
+esign criteria, cost estimate, structural drawings, and supp
+orting calculations; make ""client"" presentations as required
+."
+CIV ENG 123N,1,"Introduction to materials and methods of reinforced concrete
+ construction; behavior and design of reinforced concrete be
+ams and one-way slabs considering deflections, flexure, shea
+r, and anchorage; behavior and design of columns; design of 
+spread footings or other foundation elements; design of eart
+hquake-resistant structures; introduction to prestressed con
+crete."
+CIV ENG 124,1,"Characteristics and properties of wood as a structural mater
+ial; design and detailing of structural elements and entire 
+structures of wood. Topics include allowable stresses, desig
+n and detailing of solid sawn and glulam beams and columns, 
+nailed and bolted connections, plywood diaphragms and shear 
+walls. Case studies."
+CIV ENG 126,1,"Introduction to the dynamics of particles, rigid bodies, and
+ deformable solids in civil engineering. Newtonian and Lagra
+ngian formulations. Vibration of particles and rigid body sy
+stems: natural frequencies and mode shapes, free and forced 
+vibration. Vibration of continuous systems: bars, strings, b
+eams. Modeling and numerical simulation methods.."
+CIV ENG 130N,1,"Elastic and plastic stress and deformation analysis of bars,
+ shafts, beams, and columns; energy and variational methods;
+ plastic analysis of structures; stability analysis of struc
+tures; computer-aided mathematical techniques for solution o
+f engineering problems and modular computer programming meth
+ods."
+CIV ENG 132,1,"Concepts of theory of solid mechanics: three dimensional str
+ess, strain, and material response; elastic and inelastic bo
+undary value problems; fracture, fatigue, and geometric inst
+ability. Problems in advanced strength of materials; thin pl
+ate and axis-symmetric shell theory."
+CIV ENG C133,1,"This is an introductory course on the finite element method 
+and is intended for seniors in engineering and applied scien
+ce disciplines. The course covers the basic topics of finite
+ element technology, including domain discretization, polyno
+mial interpolation, application of boundary conditions, asse
+mbly of global arrays, and solution of the resulting algebra
+ic systems. Finite element formulations for several importan
+t field equations are introduced"
+CIV ENG 140,1,"The failure mechanisms in civil engineering materials (cemen
+t-based materials, metallic- and polymer-based materials) ar
+e associated with processing, microstructure, stress states,
+ and environmental changes. Fracture mechanics of brittle, q
+uasi-brittle, and ductile materials; cracking processes in m
+onolithic, particulate, and fiber reinforced materials; exam
+ples of ductile/brittle failure transitions in civil enginee
+ring structures; retrofitting"
+CIV ENG 153,1,"A capstone class with the objective to design transportation
+ facilities based on operational capacity, site constraints,
+ and environmental design considerations. Emphasis on airpor
+ts, including landside and airside elements, and environment
+al assessment and mitigation techniques."
+CIV ENG 155,1,"Operation, management, control, design, and evaluation of pa
+ssenger and freight transportation systems. Their economic r
+ole. Demand analysis. Overall logistical structure. Performa
+nce models and modeling techniques: time-space diagrams, que
+uing theory, network analysis, and simulation. Design of con
+trol strategies for simple systems. Feedback effects. Parado
+xes. Transportation impact modeling; noise; air pollution. M
+ulti-criteria evaluation"
+CIV ENG 156,1,"This course focuses on physical infrastructure systems that 
+support society, including transportation, communications, p
+ower, water, and waste. These are complex, large-scale syste
+ms that must be planned and managed over a long-term horizon
+. Economics-based, analytical tools are covered, including t
+opics of supply, demand, and evaluation. Problem sets, case 
+studies, and a class project provide for hands-on experience
+ with a range of infrastructure"
+CIV ENG 165,1,"Concrete materials: cements, supplementary cementitious mate
+rials, water, and admixtures. Sustainability analysis of con
+crete materials and mixtures. Development of special concret
+es: self-leveling concrete, high-performance concrete, and m
+ass concrete. Consideration of sustainability of concrete co
+nstruction methods used for buildings, highways, airfields, 
+bridges, dams and other hydraulic structures. Non-destructiv
+e methods. Discussion"
+CIV ENG 166,1,"Introduction to construction engineering and field operation
+s. The construction industry, construction methods and pract
+ice, productivity improvement, equipment selection, site lay
+out formwork, erection of steel and concrete structures. Lab
+s demonstrate the concepts covered. Field trips to local con
+struction projects."
+CIV ENG 167,1,"Principles of economics, decision making, and law applied to
+ company and project management. Business ownership, liabili
+ty and insurance, cash flow analysis, and financial manageme
+nt. Project life-cycle, design-construction interface, contr
+acts, estimating, scheduling, cost control."
+CIV ENG 171,1,"Geological and geophysical exploration for structures in roc
+k; properties and behavior of rock masses; rock slope stabil
+ity; geological engineering of underground openings; evaluat
+ion of rock foundations, including dams."
+CIV ENG 173,1,"Introduction to principles of groundwater flow, including st
+eady and transient flow through porous media, numerical anal
+ysis, pumping tests, groundwater geology, contaminant transp
+ort, and design of waste containment systems."
+CIV ENG 174,1,"Engineering Geomatics is a field that integrates collections
+, processing, and analysis of digital geospatial data. This 
+new field is anchored in the established field of geodetics 
+that describes the complex shape of the Earth, elements and 
+usage of topographic data and maps. Basic and advanced GPS s
+atellite mapping. Digital globe technology. Advanced laser-L
+IDAR mapping. Quantitative"
+CIV ENG 175,1,"Soil formation and identification. Engineering properties of
+ soils. Fundamental aspects of soil characterization and res
+ponse, including soil mineralogy, soil-water movement, effec
+tive stress, consolidation, soil strength, and soil compacti
+on. Use of soils and geosynsynthetics in geotechnical and ge
+oenvironmental applications. Introduction to site investigat
+ion techniques. Laboratory testing and evaluation of soil co
+mposition and propert"
+CIV ENG 176,1,"Principles of environmental geotechnics applied to waste enc
+apsulation and remediation of contaminated sites. Characteri
+zation of soils and wastes, engineering properties of soils 
+and geosynthetics and their use in typical applications. Fat
+e and transport of contaminants. Fundamental principles and 
+practices in groundwater remediation. Application of environ
+mental geotechnics in the design and construction of waste c
+ontainment systems. Discussion"
+CIV ENG 177,1,"Principles of foundation engineering. Shear strength of soil
+ and theories related to the analysis and design of shallow 
+and deep foundations, and retaining structures. Structural d
+esign of foundation elements; piles, pile caps, and retainin
+g structures. The course has a group project that incorporat
+es both geotechnical and structural components of different 
+foundation elements."
+CIV ENG C178,1,"The theory and practice of geophysical methods for determini
+ng the subsurface distribution of physical rock and soil pro
+perties. Measurements of gravity and magnetic fields, electr
+ical and electromagnetic fields, and seismic velocity are in
+terpreted to map the subsurface distribution of density, mag
+netic susceptibility, electrical conductivity, and mechanica
+l properties."
+CIV ENG 179,1,"Geosystem engineering design principles and concepts. Fundam
+ental aspects of the geomechanical and geoenvironmental resp
+onses of soil are applied to analyze and design civil system
+s, such as earth dams and levees, earth retention systems, b
+uilding and bridge foundations, solid-waste fills, and taili
+ngs dams. Students form teams to design geotechnical aspects
+ of a civil project and prepare/present a design document. F
+ield trip to a project si"
+CIV ENG 180,1,"Course encompasses two design aspects of a civil and environ
+mental engineering system: 1) Design of whole system, compon
+ent, or life-cycle phase, subject to engineering standards a
+nd constraints, and 2) production system design (e.g., cost 
+estimation and control, scheduling, commercial and legal ter
+ms, site layout design). Students form teams to address real
+-life projects and prepare project documentation and a final
+ presentation."
+CIV ENG 186,1,"Design and prototype of large-scale technology intensive sys
+tems. Design project incorporating infrastruture systems and
+ areas such as transportation and hydrology; for example, wa
+tershed sensor networks, robot networks for environmental ma
+nagement, mobile Internet monitoring, open societal scale sy
+stems, crowd-sources applications, traffic management. Desig
+n of sensing and control systems, prototyping systems, and m
+easures of system performance."
+CIV ENG 190,1,"This course covers current topics of interest in civil and e
+nvironmental engineering. The course content may vary from s
+emester to semester depending upon the instructor"
+CIV ENG 191,1,"This course is organized around five real-world large-scale 
+CEE systems problems. The problems provide the motivation fo
+r the study of quantitative tools that are used for planning
+ or managing these systems. The problems include design of a
+ public transportation system for an urban area, resource al
+location for the maintenance of a water supply system, devel
+opment of repair and replacement policies for reinforced con
+crete bridge decks, traffic"
+CIV ENG 192,1,"A series of lectures by distinguished professionals designed
+ to provide an appreciation of the role of science, technolo
+gy, and the needs of society in conceiving projects, balanci
+ng the interplay of conflicting demands, and utilizing a var
+iety of disciplines to produce unified and efficient systems
+."
+CIV ENG 193,1,"Applications of probability theory and statistics in plannin
+g, analysis, and design of civil engineering systems. Develo
+pment of probabilistic models for risk and reliability evalu
+ation. Occurrence models; extreme value distributions. Analy
+sis of uncertainties. Introduction to Bayesian statistical d
+ecision theory and its application in engineering decision-m
+aking."
+CIV ENG H194,1,"Supervised research. Students who have completed 3 or more u
+pper division courses may pursue original research under the
+ direction of one of the members of the staff. A final repor
+t or presentation is required. A maximum of 4 units of H194 
+may be used to fulfill the technical elective requirement."
+CIV ENG 197,1,"Supervised experience in off-campus companies relevant to sp
+ecific aspects and applications of civil engineering. Writte
+n report required at the end of the semester."
+CIV ENG 198,1,"Group study of a selected topic or topics in civil engineeri
+ng."
+CIV ENG 199,1,Supervised independent study.
+UGBA C5,1,"Terms offered: Fall 2019, Fall 2018, Spring 2017, Fall 2015"
+UGBA 10,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 24,1,"Terms offered: Spring 2020, Fall 2013, Spring 2007"
+UGBA 39AC,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 39D,1,"Terms offered: Spring 2008, Fall 2007"
+UGBA 39E,1,"Terms offered: Fall 2019, Spring 2018, Fall 2016"
+UGBA 88,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA C95B,1,Terms offered: Spring 2019
+UGBA 96,1,"Terms offered: Fall 2019, Spring 2019, Fall 2018"
+UGBA 98,1,"Terms offered: Spring 2015, Fall 2014, Spring 2014"
+UGBA 100,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 101A,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 101B,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Spring 2020"
+UGBA 102A,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 102B,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Fall 2019"
+UGBA W102A,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ First 6 Week Session, Summer 2018 First 6 Week Session"
+UGBA 103,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Spring 2020"
+UGBA 104,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 105,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 106,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Spring 2020"
+UGBA 107,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 113,1,"Terms offered: Fall 2010, Fall 2009"
+UGBA 115,1,"Terms offered: Summer 2020 3 Week Session, Spring 2020, Fall
+ 2019"
+UGBA 117,1,"Terms offered: Fall 2018, Spring 2018, Fall 2017"
+UGBA 118,1,"Terms offered: Fall 2019, Fall 2018, Summer 2018 Second 6 We
+ek Session"
+UGBA 119,1,"Terms offered: Spring 2019, Spring 2018, Spring 2017"
+UGBA 120AA,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, 
+Summer 2019 First 6 Week Session"
+UGBA 120AB,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 120B,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 121,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 122,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 123,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 125,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA W125,1,Terms offered: Prior to 2007
+UGBA 126,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 127,1,"Terms offered: Spring 2020, Spring 2019, Fall 2018"
+UGBA 128,1,"Terms offered: Spring 2020, Spring 2019, Fall 2017"
+UGBA 129,1,Terms offered: Spring 2014
+UGBA 131,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Fall 2019"
+UGBA 131A,1,"Terms offered: Spring 2020, Spring 2019"
+UGBA 132,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2019
+ First 6 Week Session, Summer 2018 First 6 Week Session"
+UGBA 133,1,"Terms offered: Summer 2020 First 6 Week Session, Summer 2020
+ Second 6 Week Session, Fall 2019"
+UGBA 134,1,Terms offered: Spring 2019
+UGBA 135,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA 136F,1,"Terms offered: Summer 2020 Second 6 Week Session, Summer 201
+9 Second 6 Week Session, Summer 2018 Second 6 Week Session"
+UGBA 137,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Summer 2019 Second 6 Week Session"
+UGBA 141,1,"Terms offered: Spring 2017, Spring 2016, Spring 2015"
+UGBA 143,1,"Terms offered: Fall 2014, Fall 2013, Spring 2010"
+UGBA 146,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2005, 
+Spring 2005"
+UGBA 147,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Summer 2019 First 6 Week Session"
+UGBA 151,1,"Terms offered: Spring 2020, Fall 2018, Fall 2016"
+UGBA 152,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 154,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019,
+ Summer 2019 Second 6 Week Session"
+UGBA 155,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA W155,1,Terms offered: Not yet offered
+UGBA 156AC,1,"Terms offered: Fall 2013, Spring 2013, Fall 2011"
+UGBA 157,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 160,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Summer 2019 First 6 Week Session"
+UGBA 161,1,"Terms offered: Spring 2020, Spring 2019, Spring 2017"
+UGBA 162,1,"Terms offered: Spring 2020, Spring 2019, Fall 2017"
+UGBA 162A,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 164,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 165,1,"Terms offered: Summer 2020 First 6 Week Session, Fall 2019, 
+Summer 2019 First 6 Week Session"
+UGBA 167,1,"Terms offered: Spring 2020, Fall 2019, Spring 2018"
+UGBA 168B,1,"Terms offered: Spring 2015, Spring 2014"
+UGBA 169,1,"Terms offered: Summer 2020 Second 6 Week Session, Fall 2019,
+ Summer 2019 Second 6 Week Session"
+UGBA 170,1,"Terms offered: Spring 2017, Spring 2016, Spring 2015"
+UGBA C172,1,"Terms offered: Spring 2019, Spring 2017, Spring 2016"
+UGBA 175,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 176,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 177,1,"Terms offered: Spring 2016, Fall 2015, Fall 2014"
+UGBA 178,1,"Terms offered: Summer 2020 Second 6 Week Session, Spring 202
+0, Fall 2019"
+UGBA 179,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 180,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 183,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 184,1,"Terms offered: Spring 2016, Spring 2015, Spring 2014"
+UGBA 187,1,"Terms offered: Fall 2010, Fall 2009"
+UGBA 190C,1,Terms offered: Spring 2020
+UGBA 190D,1,Terms offered: Fall 2019
+UGBA 190S,1,Terms offered: Not yet offered
+UGBA 190T,1,"Terms offered: Summer 2020 First 6 Week Session, Spring 2020
+, Fall 2019"
+UGBA 190V,1,Terms offered: Prior to 2007
+UGBA 191C,1,"Terms offered: Fall 2016, Summer 2016 10 Week Session, Summe
+r 2016 Second 6 Week Session"
+UGBA 191I,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 191L,1,"Terms offered: Spring 2020, Fall 2019"
+UGBA 191P,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 192A,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 192AC,1,"Terms offered: Spring 2020, Spring 2019, Fall 2017"
+UGBA 192B,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
+UGBA 192E,1,Terms offered: Fall 2019
+UGBA 192G,1,Terms offered: Prior to 2007
+UGBA 192L,1,Terms offered: Prior to 2007
+UGBA 192N,1,"Terms offered: Fall 2019, Spring 2019, Fall 2018"
+UGBA 192P,1,"Terms offered: Fall 2018, Fall 2016, Fall 2014"
+UGBA 192S,1,Terms offered: Summer 2020 First 6 Week Session
+UGBA 192T,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
+UGBA 193B,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"
+UGBA 193C,1,"Terms offered: Summer 2014 10 Week Session, Summer 2013 10 W
+eek Session, Summer 2012 10 Week Session"
+UGBA 193I,1,"Terms offered: Summer 2020 8 Week Session, Summer 2019 8 Wee
+k Session, Summer 2018 Second 6 Week Session"
 UGBA 194,1,"Terms offered: Spring 2020, Spring 2019, Spring 2018"
 UGBA 195A,1,"Terms offered: Spring 2020, Fall 2019, Spring 2019"
 UGBA 195P,1,"Terms offered: Fall 2019, Fall 2018, Fall 2017"

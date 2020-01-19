@@ -1,30 +1,936 @@
 name,size,about
-LD ARCH 1,1,"This introductory studio course is open to all undergraduate students in the University, who want to investigate the process of drawing as a method to learn how to perceive, observe and represent the environment. This studio will encourage visual thinking as a formative tool for problem solving that provides a means to envision a sustainable future. The focus will be on the critical coordination between hand"
-LD ARCH 12,1,"The scientific basis of sustainability, explored through study of energy, water, food, natural resources, and built environment. Physical/ecological processes and systems, and human impacts from the global scale to local energy/resource use. Energy and water audits, opportunities to increase sustainability of processes/practices. Discussion/lab section involves field data collection/analysis (e.g., habitat characteristics and macroinvertebrate"
-LD ARCH 98,1,"Supervised group studies of various topics relevant to department that are not covered in depth by other courses. Topics may be initiated by students. Open to students in good standing who, in consultation with a faculty sponsor, present a proposal with clearly formulated objectives and means of implementation. Intended for exceptional students. Topics vary from semester to semester."
-LD ARCH 101,1,"This studio introduces students to the programmatic, artistic, and technical aspects of land form and topographic adjustments to accommodate human use. Topics include pedestrian and vehicular circulation, conservation and addition of plant materials, movement of water, recreation use, and creation of views. Sculptural land forms will be emphasized through the use of topographic plans, sections, and contour models."
-LD ARCH 102,1,"This studio stresses the shaping and coordination of ideas from initial concept to complete design product. A product(s) of intermediate scale and complexity (such as a garden, small park, plaza, or campus courtyard) will be developed in detail including the selection of planting, selection of construction materials, and topographic design. Lecture modules on selected professional topics are integrated into this course."
-LD ARCH 103,1,"This is an undergraduate studio with a central focus on climate modification for energy conservation. We will research historical precedents in order to develop new garden forms for passive green designs. We will also explore how past cultures integrated metaphysics into their gardens as an adjunct to microclimate and habitat design. The contemporary landscape should be a balanced interweaving of proportion, function, comfort, energy conservation"
-LD ARCH 110,1,"Analysis of environmental factors, ecosystem functions, and ecosystem dynamics, as related to decision-making for landscape planning and design."
-LD ARCH 110L,1,"Introduction to field techniques for assessment of landscape factors. Factors include topography, geology, climate, soil, hydrology, flora, vegetation, and wildlife."
-LD ARCH 111,1,"Through lecture, research, and studio assignments, this course introduces the use of plants as design elements in the landscape, from the urban scale to the site-specific scale, focusing on the public open space. By analyzing historic, contemporary, and Bay Area examples, the course examines the spatial, visual, and sensory qualities of vegetation, as well as the interplay with ecological functions and engineering uses of plants."
-LD ARCH 112,1,"This course is an introduction to the identification and recognition, as well as design applications and uses, of plants in the landscape. Through lectures, assignments, and fieldwork, the course provides class participants with an appreciation of the importance of vertical vegetation as a design element. Students will be introduced to a variety of built projects and plants commonly used in Bay Area landscapes."
-LD ARCH 120,1,"Technical, graphic and computational exercises, and studio problems in topographic site design and the shaping of the site for surface drainage."
-LD ARCH 121,1,"This course introduces the visual and physical characteristics of landscape construction materials including, but not limited to, stone, brick, concrete, metal, asphalt, and wood. Additionally, lectures cover the production and availability of these materials, any existing evaluations on their sustainability, and their potential impact on the immediate environment. Students also learn to utilize standard sources of information on building"
-LD ARCH 122,1,"This course presents an overview of relevant hydrologic, hydraulic, and geomorphic processes, to provide the planner and ecologist with insight to incorporate these processes into the planning process and coordinate with specialists in the field of hydrology. Relevant government regulations and policies are also reviewed. The course is not intended to duplicate more specialized courses offered in such fields as engineering hydrology, coastal"
-LD ARCH 130,1,"This course is an introduction to issues of sustainability in the designed landscape and in our cities. It includes environmental history as well as contemporary social, environmental and political issues surrounding sustainable design and activism. The course stresses motives and values expressed through environmental design at various scales – from neighborhood to global and examines problems affecting healthy"
-LD ARCH 133,1,"This course will provide students an opportunity to analyze and interpret the iconic built landscapes of the Bay Area through direct observation and field sketching. The vision for the course is influenced by the global popularity of the Urban Sketchers movement, a phenomenon based on personal engagement with one’s environment. The annotated sketchbook will be used as the primary tool for investigation and documentation of core fundamental principles and elements of"
-LD ARCH 134A,1,"This studio will elaborate on a number of studio themes while introducing the students to a variety of graphic mediums and drawing techniques. Measured drawing procedures (including orthographic projections) will be augmented by figure-ground principles and themes of contrast, color, chiaroscuro, and compositions. On-site and visits to galleries and museums will complement the studio sessions."
-LD ARCH 134B,1,"This course introduces students to digital tools relevant to the discipline of landscape architecture. The course encompasses a series of lectures, lab exercises, and projects designed to equip students with a solid and expandable computing skill base relevant to the learning and practice of landscape architecture. Beyond technical competency, particular emphasis is placed on empowering students to move freely and creatively between software programs"
-LD ARCH 135,1,"This course is a laboratory for invention and visual perception. A designed landscape has the potential to induce a powerful emotional experience. The premise of this course is based on the idea that highly valued places are works of art, as well as places of enlightenment and transformation. This class will explore ideas of ‘sacredness’ in the landscape through a series of design explorations and a summation project. Our journey of discovery"
-LD ARCH 140,1,"User-oriented approach to design. Post-occupancy evaluation as a tool for understanding use of designed open spaces. Design as a communication process. Environmental needs of vulnerable populations--children, elderly, disabled, low-income families. Personal and societal environmental values."
-LD ARCH 154,1,"Designed to be a forum for presentation of student research, discussions with faculty researchers and practitioners, and examination of topical issues in landscape architecture and environmental planning. Topics will be announced at the beginning of each semester."
-LD ARCH 160,1,"This course provides instruction and guidance in the professional practice aspect of landscape architecture in the United States. Covering the breadth of the profession, we will learn the professional duties of a landscape architect, and the process of completing a real-life landscape architectural project. The goal of this class will be to learn what it means to be a practicing, licensed landscape architect, with the understanding that this"
-LD ARCH 170,1,"This course surveys the history of landscape architecture in four realms: 1) gardens; 2) urban open space, that is, plazas, parks, and recreation systems; 3) urban and suburban design; and 4) regional and environmental planning. The course will review the cultural and social contexts which have shaped and informed landscape architecture practice and aesthetics, as well as the environmental concerns, horticultural practices, and technological"
-LD ARCH C171,1,"This course surveys the history of American landscape architecture since 1850 in four realms: 1) urban open spaces--that is squares, plazas, parks, and recreation systems; 2) urban and suburban design; 3) regional and environmental planning; 4) gardens. The course will review the cultural and social contexts which have shaped and informed landscape architecture in the United States since the advent of the public parks movement, as well as, the"
-LD ARCH C177,1,"This course offers an introduction to spatial data analysis. It integrates ArcGIS analysis with spatial statistical analysis for the study of pattern and process applicable to a wide variety of fields. Major topics covered include: spatial sampling, processing data with ARC Info, exploratory GIS analysis, spatial decomposition, spatial point patterns and Ripley's K function, spatial autocorrelation, geostatistics, spatially weighted regression"
-LD ARCH 187,1,"Representations typically demonstrate two different forms of landscape analysis—empirical data and personal perception/aesthetics—but landscape provides opportunities for their overlaps in order to advance and synthesize robust research. Through lectures, technical tutorials, and reading discussions, this course will profile contemporary landscape research practices and representational techniques. We will use visualization to advance landscape research, theory"
-LD ARCH C188,1,"This course introduces the student to the rapidly expanding field of Geographic Information Systems (GIS). It addresses both theory and application and provides the student with a dynamic analytical framework within which temporal and spatial data and information is gathered, integrated, interpreted, and manipulated. It emphasizes a conceptual appreciation of GIS and offers an opportunity to apply some of those concepts to contemporary geographical"
-LD ARCH 197,1,See departmental information sheet for limitations. Supervised experience relative to specific aspects of landscape architecture. Regular individual meetings with faculty and outside sponsor. Reports required.
+LD ARCH 1,1,"This introductory studio course is open to all undergraduate
+ students in the University, who want to investigate the pro
+cess of drawing as a method to learn how to perceive, observ
+e and represent the environment. This studio will encourage 
+visual thinking as a formative tool for problem solving that
+ provides a means to envision a sustainable future. The focu
+s will be on the critical coordination between hand"
+LD ARCH 12,1,"The scientific basis of sustainability, explored through stu
+dy of energy, water, food, natural resources, and built envi
+ronment. Physical/ecological processes and systems, and huma
+n impacts from the global scale to local energy/resource use
+. Energy and water audits, opportunities to increase sustain
+ability of processes/practices. Discussion/lab section invol
+ves field data collection/analysis (e.g., habitat characteri
+stics and macroinvertebrate"
+LD ARCH 98,1,"Supervised group studies of various topics relevant to depar
+tment that are not covered in depth by other courses. Topics
+ may be initiated by students. Open to students in good stan
+ding who, in consultation with a faculty sponsor, present a 
+proposal with clearly formulated objectives and means of imp
+lementation. Intended for exceptional students. Topics vary 
+from semester to semester."
+LD ARCH 101,1,"This studio introduces students to the programmatic, artisti
+c, and technical aspects of land form and topographic adjust
+ments to accommodate human use. Topics include pedestrian an
+d vehicular circulation, conservation and addition of plant 
+materials, movement of water, recreation use, and creation o
+f views. Sculptural land forms will be emphasized through th
+e use of topographic plans, sections, and contour models."
+LD ARCH 102,1,"This studio stresses the shaping and coordination of ideas f
+rom initial concept to complete design product. A product(s)
+ of intermediate scale and complexity (such as a garden, sma
+ll park, plaza, or campus courtyard) will be developed in de
+tail including the selection of planting, selection of const
+ruction materials, and topographic design. Lecture modules o
+n selected professional topics are integrated into this cour
+se."
+LD ARCH 103,1,"This is an undergraduate studio with a central focus on clim
+ate modification for energy conservation. We will research h
+istorical precedents in order to develop new garden forms fo
+r passive green designs. We will also explore how past cultu
+res integrated metaphysics into their gardens as an adjunct 
+to microclimate and habitat design. The contemporary landsca
+pe should be a balanced interweaving of proportion, function
+, comfort, energy conservation"
+LD ARCH 110,1,"Analysis of environmental factors, ecosystem functions, and 
+ecosystem dynamics, as related to decision-making for landsc
+ape planning and design."
+LD ARCH 110L,1,"Introduction to field techniques for assessment of landscape
+ factors. Factors include topography, geology, climate, soil
+, hydrology, flora, vegetation, and wildlife."
+LD ARCH 111,1,"Through lecture, research, and studio assignments, this cour
+se introduces the use of plants as design elements in the la
+ndscape, from the urban scale to the site-specific scale, fo
+cusing on the public open space. By analyzing historic, cont
+emporary, and Bay Area examples, the course examines the spa
+tial, visual, and sensory qualities of vegetation, as well a
+s the interplay with ecological functions and engineering us
+es of plants."
+LD ARCH 112,1,"This course is an introduction to the identification and rec
+ognition, as well as design applications and uses, of plants
+ in the landscape. Through lectures, assignments, and fieldw
+ork, the course provides class participants with an apprecia
+tion of the importance of vertical vegetation as a design el
+ement. Students will be introduced to a variety of built pro
+jects and plants commonly used in Bay Area landscapes."
+LD ARCH 120,1,"Technical, graphic and computational exercises, and studio p
+roblems in topographic site design and the shaping of the si
+te for surface drainage."
+LD ARCH 121,1,"This course introduces the visual and physical characteristi
+cs of landscape construction materials including, but not li
+mited to, stone, brick, concrete, metal, asphalt, and wood. 
+Additionally, lectures cover the production and availability
+ of these materials, any existing evaluations on their susta
+inability, and their potential impact on the immediate envir
+onment. Students also learn to utilize standard sources of i
+nformation on building"
+LD ARCH 122,1,"This course presents an overview of relevant hydrologic, hyd
+raulic, and geomorphic processes, to provide the planner and
+ ecologist with insight to incorporate these processes into 
+the planning process and coordinate with specialists in the 
+field of hydrology. Relevant government regulations and poli
+cies are also reviewed. The course is not intended to duplic
+ate more specialized courses offered in such fields as engin
+eering hydrology, coastal"
+LD ARCH 130,1,"This course is an introduction to issues of sustainability i
+n the designed landscape and in our cities. It includes envi
+ronmental history as well as contemporary social, environmen
+tal and political issues surrounding sustainable design and 
+activism. The course stresses motives and values expressed t
+hrough environmental design at various scales – from neighbo
+rhood to global and examines problems affecting healthy"
+LD ARCH 133,1,"This course will provide students an opportunity to analyze 
+and interpret the iconic built landscapes of the Bay Area th
+rough direct observation and field sketching. The vision for
+ the course is influenced by the global popularity of the Ur
+ban Sketchers movement, a phenomenon based on personal engag
+ement with one’s environment. The annotated sketchbook will 
+be used as the primary tool for investigation and documentat
+ion of core fundamental principles and elements of"
+LD ARCH 134A,1,"This studio will elaborate on a number of studio themes whil
+e introducing the students to a variety of graphic mediums a
+nd drawing techniques. Measured drawing procedures (includin
+g orthographic projections) will be augmented by figure-grou
+nd principles and themes of contrast, color, chiaroscuro, an
+d compositions. On-site and visits to galleries and museums 
+will complement the studio sessions."
+LD ARCH 134B,1,"This course introduces students to digital tools relevant to
+ the discipline of landscape architecture. The course encomp
+asses a series of lectures, lab exercises, and projects desi
+gned to equip students with a solid and expandable computing
+ skill base relevant to the learning and practice of landsca
+pe architecture. Beyond technical competency, particular emp
+hasis is placed on empowering students to move freely and cr
+eatively between software programs"
+LD ARCH 135,1,"This course is a laboratory for invention and visual percept
+ion. A designed landscape has the potential to induce a powe
+rful emotional experience. The premise of this course is bas
+ed on the idea that highly valued places are works of art, a
+s well as places of enlightenment and transformation. This c
+lass will explore ideas of ‘sacredness’ in the landscape thr
+ough a series of design explorations and a summation project
+. Our journey of discovery"
+LD ARCH 140,1,"User-oriented approach to design. Post-occupancy evaluation 
+as a tool for understanding use of designed open spaces. Des
+ign as a communication process. Environmental needs of vulne
+rable populations--children, elderly, disabled, low-income f
+amilies. Personal and societal environmental values."
+LD ARCH 154,1,"Designed to be a forum for presentation of student research,
+ discussions with faculty researchers and practitioners, and
+ examination of topical issues in landscape architecture and
+ environmental planning. Topics will be announced at the beg
+inning of each semester."
+LD ARCH 160,1,"This course provides instruction and guidance in the profess
+ional practice aspect of landscape architecture in the Unite
+d States. Covering the breadth of the profession, we will le
+arn the professional duties of a landscape architect, and th
+e process of completing a real-life landscape architectural 
+project. The goal of this class will be to learn what it mea
+ns to be a practicing, licensed landscape architect, with th
+e understanding that this"
+LD ARCH 170,1,"This course surveys the history of landscape architecture in
+ four realms: 1) gardens; 2) urban open space, that is, plaz
+as, parks, and recreation systems; 3) urban and suburban des
+ign; and 4) regional and environmental planning. The course 
+will review the cultural and social contexts which have shap
+ed and informed landscape architecture practice and aestheti
+cs, as well as the environmental concerns, horticultural pra
+ctices, and technological"
+LD ARCH C171,1,"This course surveys the history of American landscape archit
+ecture since 1850 in four realms: 1) urban open spaces--that
+ is squares, plazas, parks, and recreation systems; 2) urban
+ and suburban design; 3) regional and environmental planning
+; 4) gardens. The course will review the cultural and social
+ contexts which have shaped and informed landscape architect
+ure in the United States since the advent of the public park
+s movement, as well as, the"
+LD ARCH C177,1,"This course offers an introduction to spatial data analysis.
+ It integrates ArcGIS analysis with spatial statistical anal
+ysis for the study of pattern and process applicable to a wi
+de variety of fields. Major topics covered include: spatial 
+sampling, processing data with ARC Info, exploratory GIS ana
+lysis, spatial decomposition, spatial point patterns and Rip
+ley's K function, spatial autocorrelation, geostatistics, sp
+atially weighted regression"
+LD ARCH 187,1,"Representations typically demonstrate two different forms of
+ landscape analysis—empirical data and personal perception/a
+esthetics—but landscape provides opportunities for their ove
+rlaps in order to advance and synthesize robust research. Th
+rough lectures, technical tutorials, and reading discussions
+, this course will profile contemporary landscape research p
+ractices and representational techniques. We will use visual
+ization to advance landscape research, theory"
+LD ARCH C188,1,"This course introduces the student to the rapidly expanding 
+field of Geographic Information Systems (GIS). It addresses 
+both theory and application and provides the student with a 
+dynamic analytical framework within which temporal and spati
+al data and information is gathered, integrated, interpreted
+, and manipulated. It emphasizes a conceptual appreciation o
+f GIS and offers an opportunity to apply some of those conce
+pts to contemporary geographical"
+LD ARCH 197,1,"See departmental information sheet for limitations. Supervis
+ed experience relative to specific aspects of landscape arch
+itecture. Regular individual meetings with faculty and outsi
+de sponsor. Reports required."
+LD ARCH 198,1,Enrollment restrictions apply.
+LD ARCH 199,1,Enrollment restrictions apply.
+LD ARCH 1,1,"This introductory studio course is open to all undergraduate
+ students in the University, who want to investigate the pro
+cess of drawing as a method to learn how to perceive, observ
+e and represent the environment. This studio will encourage 
+visual thinking as a formative tool for problem solving that
+ provides a means to envision a sustainable future. The focu
+s will be on the critical coordination between hand"
+LD ARCH 12,1,"The scientific basis of sustainability, explored through stu
+dy of energy, water, food, natural resources, and built envi
+ronment. Physical/ecological processes and systems, and huma
+n impacts from the global scale to local energy/resource use
+. Energy and water audits, opportunities to increase sustain
+ability of processes/practices. Discussion/lab section invol
+ves field data collection/analysis (e.g., habitat characteri
+stics and macroinvertebrate"
+LD ARCH 98,1,"Supervised group studies of various topics relevant to depar
+tment that are not covered in depth by other courses. Topics
+ may be initiated by students. Open to students in good stan
+ding who, in consultation with a faculty sponsor, present a 
+proposal with clearly formulated objectives and means of imp
+lementation. Intended for exceptional students. Topics vary 
+from semester to semester."
+LD ARCH 101,1,"This studio introduces students to the programmatic, artisti
+c, and technical aspects of land form and topographic adjust
+ments to accommodate human use. Topics include pedestrian an
+d vehicular circulation, conservation and addition of plant 
+materials, movement of water, recreation use, and creation o
+f views. Sculptural land forms will be emphasized through th
+e use of topographic plans, sections, and contour models."
+LD ARCH 102,1,"This studio stresses the shaping and coordination of ideas f
+rom initial concept to complete design product. A product(s)
+ of intermediate scale and complexity (such as a garden, sma
+ll park, plaza, or campus courtyard) will be developed in de
+tail including the selection of planting, selection of const
+ruction materials, and topographic design. Lecture modules o
+n selected professional topics are integrated into this cour
+se."
+LD ARCH 103,1,"This is an undergraduate studio with a central focus on clim
+ate modification for energy conservation. We will research h
+istorical precedents in order to develop new garden forms fo
+r passive green designs. We will also explore how past cultu
+res integrated metaphysics into their gardens as an adjunct 
+to microclimate and habitat design. The contemporary landsca
+pe should be a balanced interweaving of proportion, function
+, comfort, energy conservation"
+LD ARCH 110,1,"Analysis of environmental factors, ecosystem functions, and 
+ecosystem dynamics, as related to decision-making for landsc
+ape planning and design."
+LD ARCH 110L,1,"Introduction to field techniques for assessment of landscape
+ factors. Factors include topography, geology, climate, soil
+, hydrology, flora, vegetation, and wildlife."
+LD ARCH 111,1,"Through lecture, research, and studio assignments, this cour
+se introduces the use of plants as design elements in the la
+ndscape, from the urban scale to the site-specific scale, fo
+cusing on the public open space. By analyzing historic, cont
+emporary, and Bay Area examples, the course examines the spa
+tial, visual, and sensory qualities of vegetation, as well a
+s the interplay with ecological functions and engineering us
+es of plants."
+LD ARCH 112,1,"This course is an introduction to the identification and rec
+ognition, as well as design applications and uses, of plants
+ in the landscape. Through lectures, assignments, and fieldw
+ork, the course provides class participants with an apprecia
+tion of the importance of vertical vegetation as a design el
+ement. Students will be introduced to a variety of built pro
+jects and plants commonly used in Bay Area landscapes."
+LD ARCH 120,1,"Technical, graphic and computational exercises, and studio p
+roblems in topographic site design and the shaping of the si
+te for surface drainage."
+LD ARCH 121,1,"This course introduces the visual and physical characteristi
+cs of landscape construction materials including, but not li
+mited to, stone, brick, concrete, metal, asphalt, and wood. 
+Additionally, lectures cover the production and availability
+ of these materials, any existing evaluations on their susta
+inability, and their potential impact on the immediate envir
+onment. Students also learn to utilize standard sources of i
+nformation on building"
+LD ARCH 122,1,"This course presents an overview of relevant hydrologic, hyd
+raulic, and geomorphic processes, to provide the planner and
+ ecologist with insight to incorporate these processes into 
+the planning process and coordinate with specialists in the 
+field of hydrology. Relevant government regulations and poli
+cies are also reviewed. The course is not intended to duplic
+ate more specialized courses offered in such fields as engin
+eering hydrology, coastal"
+LD ARCH 130,1,"This course is an introduction to issues of sustainability i
+n the designed landscape and in our cities. It includes envi
+ronmental history as well as contemporary social, environmen
+tal and political issues surrounding sustainable design and 
+activism. The course stresses motives and values expressed t
+hrough environmental design at various scales – from neighbo
+rhood to global and examines problems affecting healthy"
+LD ARCH 133,1,"This course will provide students an opportunity to analyze 
+and interpret the iconic built landscapes of the Bay Area th
+rough direct observation and field sketching. The vision for
+ the course is influenced by the global popularity of the Ur
+ban Sketchers movement, a phenomenon based on personal engag
+ement with one’s environment. The annotated sketchbook will 
+be used as the primary tool for investigation and documentat
+ion of core fundamental principles and elements of"
+LD ARCH 134A,1,"This studio will elaborate on a number of studio themes whil
+e introducing the students to a variety of graphic mediums a
+nd drawing techniques. Measured drawing procedures (includin
+g orthographic projections) will be augmented by figure-grou
+nd principles and themes of contrast, color, chiaroscuro, an
+d compositions. On-site and visits to galleries and museums 
+will complement the studio sessions."
+LD ARCH 134B,1,"This course introduces students to digital tools relevant to
+ the discipline of landscape architecture. The course encomp
+asses a series of lectures, lab exercises, and projects desi
+gned to equip students with a solid and expandable computing
+ skill base relevant to the learning and practice of landsca
+pe architecture. Beyond technical competency, particular emp
+hasis is placed on empowering students to move freely and cr
+eatively between software programs"
+LD ARCH 135,1,"This course is a laboratory for invention and visual percept
+ion. A designed landscape has the potential to induce a powe
+rful emotional experience. The premise of this course is bas
+ed on the idea that highly valued places are works of art, a
+s well as places of enlightenment and transformation. This c
+lass will explore ideas of ‘sacredness’ in the landscape thr
+ough a series of design explorations and a summation project
+. Our journey of discovery"
+LD ARCH 140,1,"User-oriented approach to design. Post-occupancy evaluation 
+as a tool for understanding use of designed open spaces. Des
+ign as a communication process. Environmental needs of vulne
+rable populations--children, elderly, disabled, low-income f
+amilies. Personal and societal environmental values."
+LD ARCH 154,1,"Designed to be a forum for presentation of student research,
+ discussions with faculty researchers and practitioners, and
+ examination of topical issues in landscape architecture and
+ environmental planning. Topics will be announced at the beg
+inning of each semester."
+LD ARCH 160,1,"This course provides instruction and guidance in the profess
+ional practice aspect of landscape architecture in the Unite
+d States. Covering the breadth of the profession, we will le
+arn the professional duties of a landscape architect, and th
+e process of completing a real-life landscape architectural 
+project. The goal of this class will be to learn what it mea
+ns to be a practicing, licensed landscape architect, with th
+e understanding that this"
+LD ARCH 170,1,"This course surveys the history of landscape architecture in
+ four realms: 1) gardens; 2) urban open space, that is, plaz
+as, parks, and recreation systems; 3) urban and suburban des
+ign; and 4) regional and environmental planning. The course 
+will review the cultural and social contexts which have shap
+ed and informed landscape architecture practice and aestheti
+cs, as well as the environmental concerns, horticultural pra
+ctices, and technological"
+LD ARCH C171,1,"This course surveys the history of American landscape archit
+ecture since 1850 in four realms: 1) urban open spaces--that
+ is squares, plazas, parks, and recreation systems; 2) urban
+ and suburban design; 3) regional and environmental planning
+; 4) gardens. The course will review the cultural and social
+ contexts which have shaped and informed landscape architect
+ure in the United States since the advent of the public park
+s movement, as well as, the"
+LD ARCH C177,1,"This course offers an introduction to spatial data analysis.
+ It integrates ArcGIS analysis with spatial statistical anal
+ysis for the study of pattern and process applicable to a wi
+de variety of fields. Major topics covered include: spatial 
+sampling, processing data with ARC Info, exploratory GIS ana
+lysis, spatial decomposition, spatial point patterns and Rip
+ley's K function, spatial autocorrelation, geostatistics, sp
+atially weighted regression"
+LD ARCH 187,1,"Representations typically demonstrate two different forms of
+ landscape analysis—empirical data and personal perception/a
+esthetics—but landscape provides opportunities for their ove
+rlaps in order to advance and synthesize robust research. Th
+rough lectures, technical tutorials, and reading discussions
+, this course will profile contemporary landscape research p
+ractices and representational techniques. We will use visual
+ization to advance landscape research, theory"
+LD ARCH C188,1,"This course introduces the student to the rapidly expanding 
+field of Geographic Information Systems (GIS). It addresses 
+both theory and application and provides the student with a 
+dynamic analytical framework within which temporal and spati
+al data and information is gathered, integrated, interpreted
+, and manipulated. It emphasizes a conceptual appreciation o
+f GIS and offers an opportunity to apply some of those conce
+pts to contemporary geographical"
+LD ARCH 197,1,"See departmental information sheet for limitations. Supervis
+ed experience relative to specific aspects of landscape arch
+itecture. Regular individual meetings with faculty and outsi
+de sponsor. Reports required."
+LD ARCH 198,1,Enrollment restrictions apply.
+LD ARCH 199,1,Enrollment restrictions apply.
+LD ARCH 1,1,"This introductory studio course is open to all undergraduate
+ students in the University, who want to investigate the pro
+cess of drawing as a method to learn how to perceive, observ
+e and represent the environment. This studio will encourage 
+visual thinking as a formative tool for problem solving that
+ provides a means to envision a sustainable future. The focu
+s will be on the critical coordination between hand"
+LD ARCH 12,1,"The scientific basis of sustainability, explored through stu
+dy of energy, water, food, natural resources, and built envi
+ronment. Physical/ecological processes and systems, and huma
+n impacts from the global scale to local energy/resource use
+. Energy and water audits, opportunities to increase sustain
+ability of processes/practices. Discussion/lab section invol
+ves field data collection/analysis (e.g., habitat characteri
+stics and macroinvertebrate"
+LD ARCH 98,1,"Supervised group studies of various topics relevant to depar
+tment that are not covered in depth by other courses. Topics
+ may be initiated by students. Open to students in good stan
+ding who, in consultation with a faculty sponsor, present a 
+proposal with clearly formulated objectives and means of imp
+lementation. Intended for exceptional students. Topics vary 
+from semester to semester."
+LD ARCH 101,1,"This studio introduces students to the programmatic, artisti
+c, and technical aspects of land form and topographic adjust
+ments to accommodate human use. Topics include pedestrian an
+d vehicular circulation, conservation and addition of plant 
+materials, movement of water, recreation use, and creation o
+f views. Sculptural land forms will be emphasized through th
+e use of topographic plans, sections, and contour models."
+LD ARCH 102,1,"This studio stresses the shaping and coordination of ideas f
+rom initial concept to complete design product. A product(s)
+ of intermediate scale and complexity (such as a garden, sma
+ll park, plaza, or campus courtyard) will be developed in de
+tail including the selection of planting, selection of const
+ruction materials, and topographic design. Lecture modules o
+n selected professional topics are integrated into this cour
+se."
+LD ARCH 103,1,"This is an undergraduate studio with a central focus on clim
+ate modification for energy conservation. We will research h
+istorical precedents in order to develop new garden forms fo
+r passive green designs. We will also explore how past cultu
+res integrated metaphysics into their gardens as an adjunct 
+to microclimate and habitat design. The contemporary landsca
+pe should be a balanced interweaving of proportion, function
+, comfort, energy conservation"
+LD ARCH 110,1,"Analysis of environmental factors, ecosystem functions, and 
+ecosystem dynamics, as related to decision-making for landsc
+ape planning and design."
+LD ARCH 110L,1,"Introduction to field techniques for assessment of landscape
+ factors. Factors include topography, geology, climate, soil
+, hydrology, flora, vegetation, and wildlife."
+LD ARCH 111,1,"Through lecture, research, and studio assignments, this cour
+se introduces the use of plants as design elements in the la
+ndscape, from the urban scale to the site-specific scale, fo
+cusing on the public open space. By analyzing historic, cont
+emporary, and Bay Area examples, the course examines the spa
+tial, visual, and sensory qualities of vegetation, as well a
+s the interplay with ecological functions and engineering us
+es of plants."
+LD ARCH 112,1,"This course is an introduction to the identification and rec
+ognition, as well as design applications and uses, of plants
+ in the landscape. Through lectures, assignments, and fieldw
+ork, the course provides class participants with an apprecia
+tion of the importance of vertical vegetation as a design el
+ement. Students will be introduced to a variety of built pro
+jects and plants commonly used in Bay Area landscapes."
+LD ARCH 120,1,"Technical, graphic and computational exercises, and studio p
+roblems in topographic site design and the shaping of the si
+te for surface drainage."
+LD ARCH 121,1,"This course introduces the visual and physical characteristi
+cs of landscape construction materials including, but not li
+mited to, stone, brick, concrete, metal, asphalt, and wood. 
+Additionally, lectures cover the production and availability
+ of these materials, any existing evaluations on their susta
+inability, and their potential impact on the immediate envir
+onment. Students also learn to utilize standard sources of i
+nformation on building"
+LD ARCH 122,1,"This course presents an overview of relevant hydrologic, hyd
+raulic, and geomorphic processes, to provide the planner and
+ ecologist with insight to incorporate these processes into 
+the planning process and coordinate with specialists in the 
+field of hydrology. Relevant government regulations and poli
+cies are also reviewed. The course is not intended to duplic
+ate more specialized courses offered in such fields as engin
+eering hydrology, coastal"
+LD ARCH 130,1,"This course is an introduction to issues of sustainability i
+n the designed landscape and in our cities. It includes envi
+ronmental history as well as contemporary social, environmen
+tal and political issues surrounding sustainable design and 
+activism. The course stresses motives and values expressed t
+hrough environmental design at various scales – from neighbo
+rhood to global and examines problems affecting healthy"
+LD ARCH 133,1,"This course will provide students an opportunity to analyze 
+and interpret the iconic built landscapes of the Bay Area th
+rough direct observation and field sketching. The vision for
+ the course is influenced by the global popularity of the Ur
+ban Sketchers movement, a phenomenon based on personal engag
+ement with one’s environment. The annotated sketchbook will 
+be used as the primary tool for investigation and documentat
+ion of core fundamental principles and elements of"
+LD ARCH 134A,1,"This studio will elaborate on a number of studio themes whil
+e introducing the students to a variety of graphic mediums a
+nd drawing techniques. Measured drawing procedures (includin
+g orthographic projections) will be augmented by figure-grou
+nd principles and themes of contrast, color, chiaroscuro, an
+d compositions. On-site and visits to galleries and museums 
+will complement the studio sessions."
+LD ARCH 134B,1,"This course introduces students to digital tools relevant to
+ the discipline of landscape architecture. The course encomp
+asses a series of lectures, lab exercises, and projects desi
+gned to equip students with a solid and expandable computing
+ skill base relevant to the learning and practice of landsca
+pe architecture. Beyond technical competency, particular emp
+hasis is placed on empowering students to move freely and cr
+eatively between software programs"
+LD ARCH 135,1,"This course is a laboratory for invention and visual percept
+ion. A designed landscape has the potential to induce a powe
+rful emotional experience. The premise of this course is bas
+ed on the idea that highly valued places are works of art, a
+s well as places of enlightenment and transformation. This c
+lass will explore ideas of ‘sacredness’ in the landscape thr
+ough a series of design explorations and a summation project
+. Our journey of discovery"
+LD ARCH 140,1,"User-oriented approach to design. Post-occupancy evaluation 
+as a tool for understanding use of designed open spaces. Des
+ign as a communication process. Environmental needs of vulne
+rable populations--children, elderly, disabled, low-income f
+amilies. Personal and societal environmental values."
+LD ARCH 154,1,"Designed to be a forum for presentation of student research,
+ discussions with faculty researchers and practitioners, and
+ examination of topical issues in landscape architecture and
+ environmental planning. Topics will be announced at the beg
+inning of each semester."
+LD ARCH 160,1,"This course provides instruction and guidance in the profess
+ional practice aspect of landscape architecture in the Unite
+d States. Covering the breadth of the profession, we will le
+arn the professional duties of a landscape architect, and th
+e process of completing a real-life landscape architectural 
+project. The goal of this class will be to learn what it mea
+ns to be a practicing, licensed landscape architect, with th
+e understanding that this"
+LD ARCH 170,1,"This course surveys the history of landscape architecture in
+ four realms: 1) gardens; 2) urban open space, that is, plaz
+as, parks, and recreation systems; 3) urban and suburban des
+ign; and 4) regional and environmental planning. The course 
+will review the cultural and social contexts which have shap
+ed and informed landscape architecture practice and aestheti
+cs, as well as the environmental concerns, horticultural pra
+ctices, and technological"
+LD ARCH C171,1,"This course surveys the history of American landscape archit
+ecture since 1850 in four realms: 1) urban open spaces--that
+ is squares, plazas, parks, and recreation systems; 2) urban
+ and suburban design; 3) regional and environmental planning
+; 4) gardens. The course will review the cultural and social
+ contexts which have shaped and informed landscape architect
+ure in the United States since the advent of the public park
+s movement, as well as, the"
+LD ARCH C177,1,"This course offers an introduction to spatial data analysis.
+ It integrates ArcGIS analysis with spatial statistical anal
+ysis for the study of pattern and process applicable to a wi
+de variety of fields. Major topics covered include: spatial 
+sampling, processing data with ARC Info, exploratory GIS ana
+lysis, spatial decomposition, spatial point patterns and Rip
+ley's K function, spatial autocorrelation, geostatistics, sp
+atially weighted regression"
+LD ARCH 187,1,"Representations typically demonstrate two different forms of
+ landscape analysis—empirical data and personal perception/a
+esthetics—but landscape provides opportunities for their ove
+rlaps in order to advance and synthesize robust research. Th
+rough lectures, technical tutorials, and reading discussions
+, this course will profile contemporary landscape research p
+ractices and representational techniques. We will use visual
+ization to advance landscape research, theory"
+LD ARCH C188,1,"This course introduces the student to the rapidly expanding 
+field of Geographic Information Systems (GIS). It addresses 
+both theory and application and provides the student with a 
+dynamic analytical framework within which temporal and spati
+al data and information is gathered, integrated, interpreted
+, and manipulated. It emphasizes a conceptual appreciation o
+f GIS and offers an opportunity to apply some of those conce
+pts to contemporary geographical"
+LD ARCH 197,1,"See departmental information sheet for limitations. Supervis
+ed experience relative to specific aspects of landscape arch
+itecture. Regular individual meetings with faculty and outsi
+de sponsor. Reports required."
+LD ARCH 198,1,Enrollment restrictions apply.
+LD ARCH 199,1,Enrollment restrictions apply.
+LD ARCH 1,1,"This introductory studio course is open to all undergraduate
+ students in the University, who want to investigate the pro
+cess of drawing as a method to learn how to perceive, observ
+e and represent the environment. This studio will encourage 
+visual thinking as a formative tool for problem solving that
+ provides a means to envision a sustainable future. The focu
+s will be on the critical coordination between hand"
+LD ARCH 12,1,"The scientific basis of sustainability, explored through stu
+dy of energy, water, food, natural resources, and built envi
+ronment. Physical/ecological processes and systems, and huma
+n impacts from the global scale to local energy/resource use
+. Energy and water audits, opportunities to increase sustain
+ability of processes/practices. Discussion/lab section invol
+ves field data collection/analysis (e.g., habitat characteri
+stics and macroinvertebrate"
+LD ARCH 98,1,"Supervised group studies of various topics relevant to depar
+tment that are not covered in depth by other courses. Topics
+ may be initiated by students. Open to students in good stan
+ding who, in consultation with a faculty sponsor, present a 
+proposal with clearly formulated objectives and means of imp
+lementation. Intended for exceptional students. Topics vary 
+from semester to semester."
+LD ARCH 101,1,"This studio introduces students to the programmatic, artisti
+c, and technical aspects of land form and topographic adjust
+ments to accommodate human use. Topics include pedestrian an
+d vehicular circulation, conservation and addition of plant 
+materials, movement of water, recreation use, and creation o
+f views. Sculptural land forms will be emphasized through th
+e use of topographic plans, sections, and contour models."
+LD ARCH 102,1,"This studio stresses the shaping and coordination of ideas f
+rom initial concept to complete design product. A product(s)
+ of intermediate scale and complexity (such as a garden, sma
+ll park, plaza, or campus courtyard) will be developed in de
+tail including the selection of planting, selection of const
+ruction materials, and topographic design. Lecture modules o
+n selected professional topics are integrated into this cour
+se."
+LD ARCH 103,1,"This is an undergraduate studio with a central focus on clim
+ate modification for energy conservation. We will research h
+istorical precedents in order to develop new garden forms fo
+r passive green designs. We will also explore how past cultu
+res integrated metaphysics into their gardens as an adjunct 
+to microclimate and habitat design. The contemporary landsca
+pe should be a balanced interweaving of proportion, function
+, comfort, energy conservation"
+LD ARCH 110,1,"Analysis of environmental factors, ecosystem functions, and 
+ecosystem dynamics, as related to decision-making for landsc
+ape planning and design."
+LD ARCH 110L,1,"Introduction to field techniques for assessment of landscape
+ factors. Factors include topography, geology, climate, soil
+, hydrology, flora, vegetation, and wildlife."
+LD ARCH 111,1,"Through lecture, research, and studio assignments, this cour
+se introduces the use of plants as design elements in the la
+ndscape, from the urban scale to the site-specific scale, fo
+cusing on the public open space. By analyzing historic, cont
+emporary, and Bay Area examples, the course examines the spa
+tial, visual, and sensory qualities of vegetation, as well a
+s the interplay with ecological functions and engineering us
+es of plants."
+LD ARCH 112,1,"This course is an introduction to the identification and rec
+ognition, as well as design applications and uses, of plants
+ in the landscape. Through lectures, assignments, and fieldw
+ork, the course provides class participants with an apprecia
+tion of the importance of vertical vegetation as a design el
+ement. Students will be introduced to a variety of built pro
+jects and plants commonly used in Bay Area landscapes."
+LD ARCH 120,1,"Technical, graphic and computational exercises, and studio p
+roblems in topographic site design and the shaping of the si
+te for surface drainage."
+LD ARCH 121,1,"This course introduces the visual and physical characteristi
+cs of landscape construction materials including, but not li
+mited to, stone, brick, concrete, metal, asphalt, and wood. 
+Additionally, lectures cover the production and availability
+ of these materials, any existing evaluations on their susta
+inability, and their potential impact on the immediate envir
+onment. Students also learn to utilize standard sources of i
+nformation on building"
+LD ARCH 122,1,"This course presents an overview of relevant hydrologic, hyd
+raulic, and geomorphic processes, to provide the planner and
+ ecologist with insight to incorporate these processes into 
+the planning process and coordinate with specialists in the 
+field of hydrology. Relevant government regulations and poli
+cies are also reviewed. The course is not intended to duplic
+ate more specialized courses offered in such fields as engin
+eering hydrology, coastal"
+LD ARCH 130,1,"This course is an introduction to issues of sustainability i
+n the designed landscape and in our cities. It includes envi
+ronmental history as well as contemporary social, environmen
+tal and political issues surrounding sustainable design and 
+activism. The course stresses motives and values expressed t
+hrough environmental design at various scales – from neighbo
+rhood to global and examines problems affecting healthy"
+LD ARCH 133,1,"This course will provide students an opportunity to analyze 
+and interpret the iconic built landscapes of the Bay Area th
+rough direct observation and field sketching. The vision for
+ the course is influenced by the global popularity of the Ur
+ban Sketchers movement, a phenomenon based on personal engag
+ement with one’s environment. The annotated sketchbook will 
+be used as the primary tool for investigation and documentat
+ion of core fundamental principles and elements of"
+LD ARCH 134A,1,"This studio will elaborate on a number of studio themes whil
+e introducing the students to a variety of graphic mediums a
+nd drawing techniques. Measured drawing procedures (includin
+g orthographic projections) will be augmented by figure-grou
+nd principles and themes of contrast, color, chiaroscuro, an
+d compositions. On-site and visits to galleries and museums 
+will complement the studio sessions."
+LD ARCH 134B,1,"This course introduces students to digital tools relevant to
+ the discipline of landscape architecture. The course encomp
+asses a series of lectures, lab exercises, and projects desi
+gned to equip students with a solid and expandable computing
+ skill base relevant to the learning and practice of landsca
+pe architecture. Beyond technical competency, particular emp
+hasis is placed on empowering students to move freely and cr
+eatively between software programs"
+LD ARCH 135,1,"This course is a laboratory for invention and visual percept
+ion. A designed landscape has the potential to induce a powe
+rful emotional experience. The premise of this course is bas
+ed on the idea that highly valued places are works of art, a
+s well as places of enlightenment and transformation. This c
+lass will explore ideas of ‘sacredness’ in the landscape thr
+ough a series of design explorations and a summation project
+. Our journey of discovery"
+LD ARCH 140,1,"User-oriented approach to design. Post-occupancy evaluation 
+as a tool for understanding use of designed open spaces. Des
+ign as a communication process. Environmental needs of vulne
+rable populations--children, elderly, disabled, low-income f
+amilies. Personal and societal environmental values."
+LD ARCH 154,1,"Designed to be a forum for presentation of student research,
+ discussions with faculty researchers and practitioners, and
+ examination of topical issues in landscape architecture and
+ environmental planning. Topics will be announced at the beg
+inning of each semester."
+LD ARCH 160,1,"This course provides instruction and guidance in the profess
+ional practice aspect of landscape architecture in the Unite
+d States. Covering the breadth of the profession, we will le
+arn the professional duties of a landscape architect, and th
+e process of completing a real-life landscape architectural 
+project. The goal of this class will be to learn what it mea
+ns to be a practicing, licensed landscape architect, with th
+e understanding that this"
+LD ARCH 170,1,"This course surveys the history of landscape architecture in
+ four realms: 1) gardens; 2) urban open space, that is, plaz
+as, parks, and recreation systems; 3) urban and suburban des
+ign; and 4) regional and environmental planning. The course 
+will review the cultural and social contexts which have shap
+ed and informed landscape architecture practice and aestheti
+cs, as well as the environmental concerns, horticultural pra
+ctices, and technological"
+LD ARCH C171,1,"This course surveys the history of American landscape archit
+ecture since 1850 in four realms: 1) urban open spaces--that
+ is squares, plazas, parks, and recreation systems; 2) urban
+ and suburban design; 3) regional and environmental planning
+; 4) gardens. The course will review the cultural and social
+ contexts which have shaped and informed landscape architect
+ure in the United States since the advent of the public park
+s movement, as well as, the"
+LD ARCH C177,1,"This course offers an introduction to spatial data analysis.
+ It integrates ArcGIS analysis with spatial statistical anal
+ysis for the study of pattern and process applicable to a wi
+de variety of fields. Major topics covered include: spatial 
+sampling, processing data with ARC Info, exploratory GIS ana
+lysis, spatial decomposition, spatial point patterns and Rip
+ley's K function, spatial autocorrelation, geostatistics, sp
+atially weighted regression"
+LD ARCH 187,1,"Representations typically demonstrate two different forms of
+ landscape analysis—empirical data and personal perception/a
+esthetics—but landscape provides opportunities for their ove
+rlaps in order to advance and synthesize robust research. Th
+rough lectures, technical tutorials, and reading discussions
+, this course will profile contemporary landscape research p
+ractices and representational techniques. We will use visual
+ization to advance landscape research, theory"
+LD ARCH C188,1,"This course introduces the student to the rapidly expanding 
+field of Geographic Information Systems (GIS). It addresses 
+both theory and application and provides the student with a 
+dynamic analytical framework within which temporal and spati
+al data and information is gathered, integrated, interpreted
+, and manipulated. It emphasizes a conceptual appreciation o
+f GIS and offers an opportunity to apply some of those conce
+pts to contemporary geographical"
+LD ARCH 197,1,"See departmental information sheet for limitations. Supervis
+ed experience relative to specific aspects of landscape arch
+itecture. Regular individual meetings with faculty and outsi
+de sponsor. Reports required."
+LD ARCH 198,1,Enrollment restrictions apply.
+LD ARCH 199,1,Enrollment restrictions apply.
+LD ARCH 1,1,"This introductory studio course is open to all undergraduate
+ students in the University, who want to investigate the pro
+cess of drawing as a method to learn how to perceive, observ
+e and represent the environment. This studio will encourage 
+visual thinking as a formative tool for problem solving that
+ provides a means to envision a sustainable future. The focu
+s will be on the critical coordination between hand"
+LD ARCH 12,1,"The scientific basis of sustainability, explored through stu
+dy of energy, water, food, natural resources, and built envi
+ronment. Physical/ecological processes and systems, and huma
+n impacts from the global scale to local energy/resource use
+. Energy and water audits, opportunities to increase sustain
+ability of processes/practices. Discussion/lab section invol
+ves field data collection/analysis (e.g., habitat characteri
+stics and macroinvertebrate"
+LD ARCH 98,1,"Supervised group studies of various topics relevant to depar
+tment that are not covered in depth by other courses. Topics
+ may be initiated by students. Open to students in good stan
+ding who, in consultation with a faculty sponsor, present a 
+proposal with clearly formulated objectives and means of imp
+lementation. Intended for exceptional students. Topics vary 
+from semester to semester."
+LD ARCH 101,1,"This studio introduces students to the programmatic, artisti
+c, and technical aspects of land form and topographic adjust
+ments to accommodate human use. Topics include pedestrian an
+d vehicular circulation, conservation and addition of plant 
+materials, movement of water, recreation use, and creation o
+f views. Sculptural land forms will be emphasized through th
+e use of topographic plans, sections, and contour models."
+LD ARCH 102,1,"This studio stresses the shaping and coordination of ideas f
+rom initial concept to complete design product. A product(s)
+ of intermediate scale and complexity (such as a garden, sma
+ll park, plaza, or campus courtyard) will be developed in de
+tail including the selection of planting, selection of const
+ruction materials, and topographic design. Lecture modules o
+n selected professional topics are integrated into this cour
+se."
+LD ARCH 103,1,"This is an undergraduate studio with a central focus on clim
+ate modification for energy conservation. We will research h
+istorical precedents in order to develop new garden forms fo
+r passive green designs. We will also explore how past cultu
+res integrated metaphysics into their gardens as an adjunct 
+to microclimate and habitat design. The contemporary landsca
+pe should be a balanced interweaving of proportion, function
+, comfort, energy conservation"
+LD ARCH 110,1,"Analysis of environmental factors, ecosystem functions, and 
+ecosystem dynamics, as related to decision-making for landsc
+ape planning and design."
+LD ARCH 110L,1,"Introduction to field techniques for assessment of landscape
+ factors. Factors include topography, geology, climate, soil
+, hydrology, flora, vegetation, and wildlife."
+LD ARCH 111,1,"Through lecture, research, and studio assignments, this cour
+se introduces the use of plants as design elements in the la
+ndscape, from the urban scale to the site-specific scale, fo
+cusing on the public open space. By analyzing historic, cont
+emporary, and Bay Area examples, the course examines the spa
+tial, visual, and sensory qualities of vegetation, as well a
+s the interplay with ecological functions and engineering us
+es of plants."
+LD ARCH 112,1,"This course is an introduction to the identification and rec
+ognition, as well as design applications and uses, of plants
+ in the landscape. Through lectures, assignments, and fieldw
+ork, the course provides class participants with an apprecia
+tion of the importance of vertical vegetation as a design el
+ement. Students will be introduced to a variety of built pro
+jects and plants commonly used in Bay Area landscapes."
+LD ARCH 120,1,"Technical, graphic and computational exercises, and studio p
+roblems in topographic site design and the shaping of the si
+te for surface drainage."
+LD ARCH 121,1,"This course introduces the visual and physical characteristi
+cs of landscape construction materials including, but not li
+mited to, stone, brick, concrete, metal, asphalt, and wood. 
+Additionally, lectures cover the production and availability
+ of these materials, any existing evaluations on their susta
+inability, and their potential impact on the immediate envir
+onment. Students also learn to utilize standard sources of i
+nformation on building"
+LD ARCH 122,1,"This course presents an overview of relevant hydrologic, hyd
+raulic, and geomorphic processes, to provide the planner and
+ ecologist with insight to incorporate these processes into 
+the planning process and coordinate with specialists in the 
+field of hydrology. Relevant government regulations and poli
+cies are also reviewed. The course is not intended to duplic
+ate more specialized courses offered in such fields as engin
+eering hydrology, coastal"
+LD ARCH 130,1,"This course is an introduction to issues of sustainability i
+n the designed landscape and in our cities. It includes envi
+ronmental history as well as contemporary social, environmen
+tal and political issues surrounding sustainable design and 
+activism. The course stresses motives and values expressed t
+hrough environmental design at various scales – from neighbo
+rhood to global and examines problems affecting healthy"
+LD ARCH 133,1,"This course will provide students an opportunity to analyze 
+and interpret the iconic built landscapes of the Bay Area th
+rough direct observation and field sketching. The vision for
+ the course is influenced by the global popularity of the Ur
+ban Sketchers movement, a phenomenon based on personal engag
+ement with one’s environment. The annotated sketchbook will 
+be used as the primary tool for investigation and documentat
+ion of core fundamental principles and elements of"
+LD ARCH 134A,1,"This studio will elaborate on a number of studio themes whil
+e introducing the students to a variety of graphic mediums a
+nd drawing techniques. Measured drawing procedures (includin
+g orthographic projections) will be augmented by figure-grou
+nd principles and themes of contrast, color, chiaroscuro, an
+d compositions. On-site and visits to galleries and museums 
+will complement the studio sessions."
+LD ARCH 134B,1,"This course introduces students to digital tools relevant to
+ the discipline of landscape architecture. The course encomp
+asses a series of lectures, lab exercises, and projects desi
+gned to equip students with a solid and expandable computing
+ skill base relevant to the learning and practice of landsca
+pe architecture. Beyond technical competency, particular emp
+hasis is placed on empowering students to move freely and cr
+eatively between software programs"
+LD ARCH 135,1,"This course is a laboratory for invention and visual percept
+ion. A designed landscape has the potential to induce a powe
+rful emotional experience. The premise of this course is bas
+ed on the idea that highly valued places are works of art, a
+s well as places of enlightenment and transformation. This c
+lass will explore ideas of ‘sacredness’ in the landscape thr
+ough a series of design explorations and a summation project
+. Our journey of discovery"
+LD ARCH 140,1,"User-oriented approach to design. Post-occupancy evaluation 
+as a tool for understanding use of designed open spaces. Des
+ign as a communication process. Environmental needs of vulne
+rable populations--children, elderly, disabled, low-income f
+amilies. Personal and societal environmental values."
+LD ARCH 154,1,"Designed to be a forum for presentation of student research,
+ discussions with faculty researchers and practitioners, and
+ examination of topical issues in landscape architecture and
+ environmental planning. Topics will be announced at the beg
+inning of each semester."
+LD ARCH 160,1,"This course provides instruction and guidance in the profess
+ional practice aspect of landscape architecture in the Unite
+d States. Covering the breadth of the profession, we will le
+arn the professional duties of a landscape architect, and th
+e process of completing a real-life landscape architectural 
+project. The goal of this class will be to learn what it mea
+ns to be a practicing, licensed landscape architect, with th
+e understanding that this"
+LD ARCH 170,1,"This course surveys the history of landscape architecture in
+ four realms: 1) gardens; 2) urban open space, that is, plaz
+as, parks, and recreation systems; 3) urban and suburban des
+ign; and 4) regional and environmental planning. The course 
+will review the cultural and social contexts which have shap
+ed and informed landscape architecture practice and aestheti
+cs, as well as the environmental concerns, horticultural pra
+ctices, and technological"
+LD ARCH C171,1,"This course surveys the history of American landscape archit
+ecture since 1850 in four realms: 1) urban open spaces--that
+ is squares, plazas, parks, and recreation systems; 2) urban
+ and suburban design; 3) regional and environmental planning
+; 4) gardens. The course will review the cultural and social
+ contexts which have shaped and informed landscape architect
+ure in the United States since the advent of the public park
+s movement, as well as, the"
+LD ARCH C177,1,"This course offers an introduction to spatial data analysis.
+ It integrates ArcGIS analysis with spatial statistical anal
+ysis for the study of pattern and process applicable to a wi
+de variety of fields. Major topics covered include: spatial 
+sampling, processing data with ARC Info, exploratory GIS ana
+lysis, spatial decomposition, spatial point patterns and Rip
+ley's K function, spatial autocorrelation, geostatistics, sp
+atially weighted regression"
+LD ARCH 187,1,"Representations typically demonstrate two different forms of
+ landscape analysis—empirical data and personal perception/a
+esthetics—but landscape provides opportunities for their ove
+rlaps in order to advance and synthesize robust research. Th
+rough lectures, technical tutorials, and reading discussions
+, this course will profile contemporary landscape research p
+ractices and representational techniques. We will use visual
+ization to advance landscape research, theory"
+LD ARCH C188,1,"This course introduces the student to the rapidly expanding 
+field of Geographic Information Systems (GIS). It addresses 
+both theory and application and provides the student with a 
+dynamic analytical framework within which temporal and spati
+al data and information is gathered, integrated, interpreted
+, and manipulated. It emphasizes a conceptual appreciation o
+f GIS and offers an opportunity to apply some of those conce
+pts to contemporary geographical"
+LD ARCH 197,1,"See departmental information sheet for limitations. Supervis
+ed experience relative to specific aspects of landscape arch
+itecture. Regular individual meetings with faculty and outsi
+de sponsor. Reports required."
 LD ARCH 198,1,Enrollment restrictions apply.
 LD ARCH 199,1,Enrollment restrictions apply.

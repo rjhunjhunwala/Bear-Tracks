@@ -1,34 +1,790 @@
 name,size,about
-CHM ENG 24,1,"The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley Seminars are offered in all campus departments, and topics vary from department to department and semester to semester."
-CHM ENG 40,1,"Design and analysis of processes involving chemical change. Strategies for design, such as creative thinking and (re)definition of the design goal. Methods for analyzing designs, such as mathematical modeling, empirical analysis by graphics, and dynamic scaling by dimensional analysis. Design choices in light of process efficiency, product quality, economics, safety, and environmental issues."
-CHM ENG 84,1,"Sophomore seminars are small interactive courses offered by faculty members in departments all across the campus. Sophomore seminars offer opportunity for close, regular intellectual contact between faculty members and students in the crucial second year. The topics vary from department to department and semester to semester. Enrollment limited to 15 sophomores."
-CHM ENG 90,1,"An introduction is given to the science and technologies of producing electricity and transportation fuels from renewable energy resources (biomass, geothermal, solar, wind, and wave). Students will be introduced to quantitative calculations and comparisions of energy technologies together with the economic and political factors affecting the transition from nonrenewable to sustainable energy resources. Mass and energy balances are used to"
+CHM ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CHM ENG 40,1,"Design and analysis of processes involving chemical change. 
+Strategies for design, such as creative thinking and (re)def
+inition of the design goal. Methods for analyzing designs, s
+uch as mathematical modeling, empirical analysis by graphics
+, and dynamic scaling by dimensional analysis. Design choice
+s in light of process efficiency, product quality, economics
+, safety, and environmental issues."
+CHM ENG 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+CHM ENG 90,1,"An introduction is given to the science and technologies of 
+producing electricity and transportation fuels from renewabl
+e energy resources (biomass, geothermal, solar, wind, and wa
+ve). Students will be introduced to quantitative calculation
+s and comparisions of energy technologies together with the 
+economic and political factors affecting the transition from
+ nonrenewable to sustainable energy resources. Mass and ener
+gy balances are used to"
 CHM ENG 98,1,Supervised research on a specific topic.
-CHM ENG 98W,1,"Directed group study consisting of supplementary problem sets, review sessions, and discussions related to chemical engineering. Topics vary with instructor."
-CHM ENG 140,1,Material and energy balances applied to chemical process systems. Determination of thermodynamic properties needed for such calculations. Sources of data. Calculation procedures.
-CHM ENG 141,1,"Thermodynamic behavior of pure substances and mixtures. Properties of solutions, phase equilibria. Thermodynamic cycles. Chemical equilibria for homogeneous and heterogeneous systems."
-CHM ENG 142,1,Analysis and prediction of rates of chemical conversion in flow and nonflow processes involving homogeneous and heterogeneous systems.
-CHM ENG 143,1,"The purpose of Chemical Engineering Modeling and Computations in Chemical Engineering is to teach students the methodologies used in setting up mathematical models of simple chemical processes and operations, and the numerical techniques used to simulate them. Included are techniques to obtain physical properties of mixtures/solutions using equations of state. This is followed by simple processes such as vapor liquid equilibrium, separation"
-CHM ENG 150A,1,Principles of fluid mechanics and heat transfer with application to chemical processes. Laminar and turbulent flow in pipes and around submerged objects. Flow measurement. Heat conduction and convection; heat transfer coefficients.
-CHM ENG 150B,1,Principles of mass transfer with application to chemical processes. Diffusion and convection. Simultaneous heat and mass transfer; mass transfer coefficients. Design of staged and continuous separations processes.
-CHM ENG 154,1,"Experiments in physical measurements, fluid mechanics, heat and mass transfer, kinetics, and separation processes. Emphasis on investigation of basic relationships important in engineering. Experimental design, analysis of results, and preparation of engineering reports are stressed."
-CHM ENG 160,1,Design principles of chemical process equipment. Design of integrated chemical processes with emphasis upon economic considerations.
-CHM ENG 161S,1,"Design of chemical processes and equipment, with an emphasis on industry-sponsored and/or industry-tailored processes"
-CHM ENG 162,1,Analysis of the dynamic behavior of chemical processes and methods and theory of their control. Implementation of computer control systems on process simulations.
-CHM ENG 170A,1,"This course intends to introduce chemical engineers to the basic concepts of biochemical engineering. The course focuses on the use of chemical engineering skills and principles in the analysis and design of biologically-based processes. The main emphasis will be on biochemical kinetics, heat and mass transfer, thermodynamics, and transport phenomena as they apply to enzyme catalysis, microbial growth and metabolism, fermentation and bioreactor"
-CHM ENG 170B,1,"The second of a two-semester sequence intended to introduce chemical engineers to the basic concepts of biochemical engineering. The course focuses on the use of chemical engineering skills and principles in the analysis and design of biologically-based processes. The emphasis will be on biochemical kinetics, protein engineering, cell growth and metabolism, bioreactor design, downstream processing, pharmacokinetics, drug delivery, and et"
-CHM ENG C170L,1,Laboratory techniques for the cultivation of microorganisms in batch and continuous reactions. Enzymatic conversion processes. Recovery of biological products.
-CHM ENG 171,1,"Study of momentum, energy, and mass transfer in laminar and turbulent flow."
-CHM ENG 176,1,"Principles and application of electrochemical equilibria, kinetics, and transport processes. Technical electrolysis and electrochemical energy conversion."
-CHM ENG C178,1,"An interdisciplinary course on the synthesis, characterization, and properties of polymer materials. Emphasis on the molecular origin of properties of polymeric materials and technological applications. Topics include single molecule properties, polymer mixtures and solutions, melts, glasses, elastomers, and crystals. Experiments in polymer synthesis, characterization, and physical properties."
-CHM ENG 179,1,Chemical processing and properties of solid-state materials. Crystal growth and purification. Thin film technology. Application of chemical processing to the manufacture of semiconductors and solid-state devices.
-CHM ENG 180,1,"Optimal design of chemical processes and unit operations, emphasizing the interactions between technical and economic considerations. Analysis of process risks. Chemical and biomolecular process design in the presence of uncertainties. Interest rate determinants and their effects on chemical process feasibility and choices. Relationships between structure and behavior of firms in the chemical processing industries. Multivariable input-output"
-CHM ENG 182,1,"This nanoscale science and biomolecular engineering course will cover emerging topics in applied biotechnology and nanotechnology. Topics include enzyme kinetics, enzyme inhibition, recombinant protein generation, cell culture, genome editing, drug design, nanoparticle-based gene and drug delivery, fluorescence imaging, and sensors. The course will also probe the interface of biology with nanomaterials, and standard microscopic techniques to image biological"
-CHM ENG H193,1,A senior honors thesis is written in consultation with the student's faculty research advisor. This is a required course for students wishing to graduate with honors in Chemical Engineering.
-CHM ENG H194,1,Original research under direction of one of the members of the staff.
-CHM ENG 195,1,Lectures and/or tutorial instruction on special topics. Please refer to the Notes section in the Academic Guide for the current course description.
-CHM ENG C195A,1,"After an introduction to the different aspects of our global energy consumption, the course will focus on the role of biomass. The course will illustrate how the global scale of energy guides the biomass research. Emphasis will be placed on the integration of the biological aspects (crop selection, harvesting, storage and distribution, and chemical composition of biomass) with the chemical aspects to convert biomass to energy. The course aims to"
-CHM ENG 196,1,Special laboratory or computational work under direction of one of the members of the staff.
-CHM ENG 197,1,Supervised experience in off-campus organizations relevant to specific aspects and applications of chemical engineering. Written report required at the end of the term. Course does not satisfy unit or residence requirements for the bachelor's degree.
-CHM ENG 198,1,Supervised research on a specific topic. Enrollment is restricted; see Introduction to Courses and Curricula section in the General Catalog.
+CHM ENG 98W,1,"Directed group study consisting of supplementary problem set
+s, review sessions, and discussions related to chemical engi
+neering. Topics vary with instructor."
+CHM ENG 140,1,"Material and energy balances applied to chemical process sys
+tems. Determination of thermodynamic properties needed for s
+uch calculations. Sources of data. Calculation procedures."
+CHM ENG 141,1,"Thermodynamic behavior of pure substances and mixtures. Prop
+erties of solutions, phase equilibria. Thermodynamic cycles.
+ Chemical equilibria for homogeneous and heterogeneous syste
+ms."
+CHM ENG 142,1,"Analysis and prediction of rates of chemical conversion in f
+low and nonflow processes involving homogeneous and heteroge
+neous systems."
+CHM ENG 143,1,"The purpose of Chemical Engineering Modeling and Computation
+s in Chemical Engineering is to teach students the methodolo
+gies used in setting up mathematical models of simple chemic
+al processes and operations, and the numerical techniques us
+ed to simulate them. Included are techniques to obtain physi
+cal properties of mixtures/solutions using equations of stat
+e. This is followed by simple processes such as vapor liquid
+ equilibrium, separation"
+CHM ENG 150A,1,"Principles of fluid mechanics and heat transfer with applica
+tion to chemical processes. Laminar and turbulent flow in pi
+pes and around submerged objects. Flow measurement. Heat con
+duction and convection; heat transfer coefficients."
+CHM ENG 150B,1,"Principles of mass transfer with application to chemical pro
+cesses. Diffusion and convection. Simultaneous heat and mass
+ transfer; mass transfer coefficients. Design of staged and 
+continuous separations processes."
+CHM ENG 154,1,"Experiments in physical measurements, fluid mechanics, heat 
+and mass transfer, kinetics, and separation processes. Empha
+sis on investigation of basic relationships important in eng
+ineering. Experimental design, analysis of results, and prep
+aration of engineering reports are stressed."
+CHM ENG 160,1,"Design principles of chemical process equipment. Design of i
+ntegrated chemical processes with emphasis upon economic con
+siderations."
+CHM ENG 161S,1,"Design of chemical processes and equipment, with an emphasis
+ on industry-sponsored and/or industry-tailored processes"
+CHM ENG 162,1,"Analysis of the dynamic behavior of chemical processes and m
+ethods and theory of their control. Implementation of comput
+er control systems on process simulations."
+CHM ENG 170A,1,"This course intends to introduce chemical engineers to the b
+asic concepts of biochemical engineering. The course focuses
+ on the use of chemical engineering skills and principles in
+ the analysis and design of biologically-based processes. Th
+e main emphasis will be on biochemical kinetics, heat and ma
+ss transfer, thermodynamics, and transport phenomena as they
+ apply to enzyme catalysis, microbial growth and metabolism,
+ fermentation and bioreactor"
+CHM ENG 170B,1,"The second of a two-semester sequence intended to introduce 
+chemical engineers to the basic concepts of biochemical engi
+neering. The course focuses on the use of chemical engineeri
+ng skills and principles in the analysis and design of biolo
+gically-based processes. The emphasis will be on biochemical
+ kinetics, protein engineering, cell growth and metabolism, 
+bioreactor design, downstream processing, pharmacokinetics, 
+drug delivery, and et"
+CHM ENG C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHM ENG 171,1,"Study of momentum, energy, and mass transfer in laminar and 
+turbulent flow."
+CHM ENG 176,1,"Principles and application of electrochemical equilibria, ki
+netics, and transport processes. Technical electrolysis and 
+electrochemical energy conversion."
+CHM ENG C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHM ENG 179,1,"Chemical processing and properties of solid-state materials.
+ Crystal growth and purification. Thin film technology. Appl
+ication of chemical processing to the manufacture of semicon
+ductors and solid-state devices."
+CHM ENG 180,1,"Optimal design of chemical processes and unit operations, em
+phasizing the interactions between technical and economic co
+nsiderations. Analysis of process risks. Chemical and biomol
+ecular process design in the presence of uncertainties. Inte
+rest rate determinants and their effects on chemical process
+ feasibility and choices. Relationships between structure an
+d behavior of firms in the chemical processing industries. M
+ultivariable input-output"
+CHM ENG 182,1,"This nanoscale science and biomolecular engineering course w
+ill cover emerging topics in applied biotechnology and nanot
+echnology. Topics include enzyme kinetics, enzyme inhibition
+, recombinant protein generation, cell culture, genome editi
+ng, drug design, nanoparticle-based gene and drug delivery, 
+fluorescence imaging, and sensors. The course will also prob
+e the interface of biology with nanomaterials, and standard 
+microscopic techniques to image biological"
+CHM ENG H193,1,"A senior honors thesis is written in consultation with the s
+tudent's faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemical En
+gineering."
+CHM ENG H194,1,"Original research under direction of one of the members of t
+he staff."
+CHM ENG 195,1,"Lectures and/or tutorial instruction on special topics. Plea
+se refer to the Notes section in the Academic Guide for the 
+current course description."
+CHM ENG C195A,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHM ENG 196,1,"Special laboratory or computational work under direction of 
+one of the members of the staff."
+CHM ENG 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemical engineering.
+ Written report required at the end of the term. Course does
+ not satisfy unit or residence requirements for the bachelor
+'s degree."
+CHM ENG 198,1,"Supervised research on a specific topic. Enrollment is restr
+icted; see Introduction to Courses and Curricula section in 
+the General Catalog."
+CHM ENG 199,1, 
+CHM ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CHM ENG 40,1,"Design and analysis of processes involving chemical change. 
+Strategies for design, such as creative thinking and (re)def
+inition of the design goal. Methods for analyzing designs, s
+uch as mathematical modeling, empirical analysis by graphics
+, and dynamic scaling by dimensional analysis. Design choice
+s in light of process efficiency, product quality, economics
+, safety, and environmental issues."
+CHM ENG 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+CHM ENG 90,1,"An introduction is given to the science and technologies of 
+producing electricity and transportation fuels from renewabl
+e energy resources (biomass, geothermal, solar, wind, and wa
+ve). Students will be introduced to quantitative calculation
+s and comparisions of energy technologies together with the 
+economic and political factors affecting the transition from
+ nonrenewable to sustainable energy resources. Mass and ener
+gy balances are used to"
+CHM ENG 98,1,Supervised research on a specific topic.
+CHM ENG 98W,1,"Directed group study consisting of supplementary problem set
+s, review sessions, and discussions related to chemical engi
+neering. Topics vary with instructor."
+CHM ENG 140,1,"Material and energy balances applied to chemical process sys
+tems. Determination of thermodynamic properties needed for s
+uch calculations. Sources of data. Calculation procedures."
+CHM ENG 141,1,"Thermodynamic behavior of pure substances and mixtures. Prop
+erties of solutions, phase equilibria. Thermodynamic cycles.
+ Chemical equilibria for homogeneous and heterogeneous syste
+ms."
+CHM ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CHM ENG 40,1,"Design and analysis of processes involving chemical change. 
+Strategies for design, such as creative thinking and (re)def
+inition of the design goal. Methods for analyzing designs, s
+uch as mathematical modeling, empirical analysis by graphics
+, and dynamic scaling by dimensional analysis. Design choice
+s in light of process efficiency, product quality, economics
+, safety, and environmental issues."
+CHM ENG 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+CHM ENG 90,1,"An introduction is given to the science and technologies of 
+producing electricity and transportation fuels from renewabl
+e energy resources (biomass, geothermal, solar, wind, and wa
+ve). Students will be introduced to quantitative calculation
+s and comparisions of energy technologies together with the 
+economic and political factors affecting the transition from
+ nonrenewable to sustainable energy resources. Mass and ener
+gy balances are used to"
+CHM ENG 98,1,Supervised research on a specific topic.
+CHM ENG 98W,1,"Directed group study consisting of supplementary problem set
+s, review sessions, and discussions related to chemical engi
+neering. Topics vary with instructor."
+CHM ENG 140,1,"Material and energy balances applied to chemical process sys
+tems. Determination of thermodynamic properties needed for s
+uch calculations. Sources of data. Calculation procedures."
+CHM ENG 141,1,"Thermodynamic behavior of pure substances and mixtures. Prop
+erties of solutions, phase equilibria. Thermodynamic cycles.
+ Chemical equilibria for homogeneous and heterogeneous syste
+ms."
+CHM ENG 142,1,"Analysis and prediction of rates of chemical conversion in f
+low and nonflow processes involving homogeneous and heteroge
+neous systems."
+CHM ENG 143,1,"The purpose of Chemical Engineering Modeling and Computation
+s in Chemical Engineering is to teach students the methodolo
+gies used in setting up mathematical models of simple chemic
+al processes and operations, and the numerical techniques us
+ed to simulate them. Included are techniques to obtain physi
+cal properties of mixtures/solutions using equations of stat
+e. This is followed by simple processes such as vapor liquid
+ equilibrium, separation"
+CHM ENG 150A,1,"Principles of fluid mechanics and heat transfer with applica
+tion to chemical processes. Laminar and turbulent flow in pi
+pes and around submerged objects. Flow measurement. Heat con
+duction and convection; heat transfer coefficients."
+CHM ENG 150B,1,"Principles of mass transfer with application to chemical pro
+cesses. Diffusion and convection. Simultaneous heat and mass
+ transfer; mass transfer coefficients. Design of staged and 
+continuous separations processes."
+CHM ENG 154,1,"Experiments in physical measurements, fluid mechanics, heat 
+and mass transfer, kinetics, and separation processes. Empha
+sis on investigation of basic relationships important in eng
+ineering. Experimental design, analysis of results, and prep
+aration of engineering reports are stressed."
+CHM ENG 160,1,"Design principles of chemical process equipment. Design of i
+ntegrated chemical processes with emphasis upon economic con
+siderations."
+CHM ENG 161S,1,"Design of chemical processes and equipment, with an emphasis
+ on industry-sponsored and/or industry-tailored processes"
+CHM ENG 162,1,"Analysis of the dynamic behavior of chemical processes and m
+ethods and theory of their control. Implementation of comput
+er control systems on process simulations."
+CHM ENG 170A,1,"This course intends to introduce chemical engineers to the b
+asic concepts of biochemical engineering. The course focuses
+ on the use of chemical engineering skills and principles in
+ the analysis and design of biologically-based processes. Th
+e main emphasis will be on biochemical kinetics, heat and ma
+ss transfer, thermodynamics, and transport phenomena as they
+ apply to enzyme catalysis, microbial growth and metabolism,
+ fermentation and bioreactor"
+CHM ENG 170B,1,"The second of a two-semester sequence intended to introduce 
+chemical engineers to the basic concepts of biochemical engi
+neering. The course focuses on the use of chemical engineeri
+ng skills and principles in the analysis and design of biolo
+gically-based processes. The emphasis will be on biochemical
+ kinetics, protein engineering, cell growth and metabolism, 
+bioreactor design, downstream processing, pharmacokinetics, 
+drug delivery, and et"
+CHM ENG C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHM ENG 171,1,"Study of momentum, energy, and mass transfer in laminar and 
+turbulent flow."
+CHM ENG 176,1,"Principles and application of electrochemical equilibria, ki
+netics, and transport processes. Technical electrolysis and 
+electrochemical energy conversion."
+CHM ENG C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHM ENG 179,1,"Chemical processing and properties of solid-state materials.
+ Crystal growth and purification. Thin film technology. Appl
+ication of chemical processing to the manufacture of semicon
+ductors and solid-state devices."
+CHM ENG 180,1,"Optimal design of chemical processes and unit operations, em
+phasizing the interactions between technical and economic co
+nsiderations. Analysis of process risks. Chemical and biomol
+ecular process design in the presence of uncertainties. Inte
+rest rate determinants and their effects on chemical process
+ feasibility and choices. Relationships between structure an
+d behavior of firms in the chemical processing industries. M
+ultivariable input-output"
+CHM ENG 182,1,"This nanoscale science and biomolecular engineering course w
+ill cover emerging topics in applied biotechnology and nanot
+echnology. Topics include enzyme kinetics, enzyme inhibition
+, recombinant protein generation, cell culture, genome editi
+ng, drug design, nanoparticle-based gene and drug delivery, 
+fluorescence imaging, and sensors. The course will also prob
+e the interface of biology with nanomaterials, and standard 
+microscopic techniques to image biological"
+CHM ENG H193,1,"A senior honors thesis is written in consultation with the s
+tudent's faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemical En
+gineering."
+CHM ENG H194,1,"Original research under direction of one of the members of t
+he staff."
+CHM ENG 195,1,"Lectures and/or tutorial instruction on special topics. Plea
+se refer to the Notes section in the Academic Guide for the 
+current course description."
+CHM ENG C195A,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHM ENG 196,1,"Special laboratory or computational work under direction of 
+one of the members of the staff."
+CHM ENG 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemical engineering.
+ Written report required at the end of the term. Course does
+ not satisfy unit or residence requirements for the bachelor
+'s degree."
+CHM ENG 198,1,"Supervised research on a specific topic. Enrollment is restr
+icted; see Introduction to Courses and Curricula section in 
+the General Catalog."
+CHM ENG 199,1, 
+CHM ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CHM ENG 40,1,"Design and analysis of processes involving chemical change. 
+Strategies for design, such as creative thinking and (re)def
+inition of the design goal. Methods for analyzing designs, s
+uch as mathematical modeling, empirical analysis by graphics
+, and dynamic scaling by dimensional analysis. Design choice
+s in light of process efficiency, product quality, economics
+, safety, and environmental issues."
+CHM ENG 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+CHM ENG 90,1,"An introduction is given to the science and technologies of 
+producing electricity and transportation fuels from renewabl
+e energy resources (biomass, geothermal, solar, wind, and wa
+ve). Students will be introduced to quantitative calculation
+s and comparisions of energy technologies together with the 
+economic and political factors affecting the transition from
+ nonrenewable to sustainable energy resources. Mass and ener
+gy balances are used to"
+CHM ENG 98,1,Supervised research on a specific topic.
+CHM ENG 98W,1,"Directed group study consisting of supplementary problem set
+s, review sessions, and discussions related to chemical engi
+neering. Topics vary with instructor."
+CHM ENG 140,1,"Material and energy balances applied to chemical process sys
+tems. Determination of thermodynamic properties needed for s
+uch calculations. Sources of data. Calculation procedures."
+CHM ENG 141,1,"Thermodynamic behavior of pure substances and mixtures. Prop
+erties of solutions, phase equilibria. Thermodynamic cycles.
+ Chemical equilibria for homogeneous and heterogeneous syste
+ms."
+CHM ENG 142,1,"Analysis and prediction of rates of chemical conversion in f
+low and nonflow processes involving homogeneous and heteroge
+neous systems."
+CHM ENG 143,1,"The purpose of Chemical Engineering Modeling and Computation
+s in Chemical Engineering is to teach students the methodolo
+gies used in setting up mathematical models of simple chemic
+al processes and operations, and the numerical techniques us
+ed to simulate them. Included are techniques to obtain physi
+cal properties of mixtures/solutions using equations of stat
+e. This is followed by simple processes such as vapor liquid
+ equilibrium, separation"
+CHM ENG 150A,1,"Principles of fluid mechanics and heat transfer with applica
+tion to chemical processes. Laminar and turbulent flow in pi
+pes and around submerged objects. Flow measurement. Heat con
+duction and convection; heat transfer coefficients."
+CHM ENG 150B,1,"Principles of mass transfer with application to chemical pro
+cesses. Diffusion and convection. Simultaneous heat and mass
+ transfer; mass transfer coefficients. Design of staged and 
+continuous separations processes."
+CHM ENG 154,1,"Experiments in physical measurements, fluid mechanics, heat 
+and mass transfer, kinetics, and separation processes. Empha
+sis on investigation of basic relationships important in eng
+ineering. Experimental design, analysis of results, and prep
+aration of engineering reports are stressed."
+CHM ENG 160,1,"Design principles of chemical process equipment. Design of i
+ntegrated chemical processes with emphasis upon economic con
+siderations."
+CHM ENG 161S,1,"Design of chemical processes and equipment, with an emphasis
+ on industry-sponsored and/or industry-tailored processes"
+CHM ENG 162,1,"Analysis of the dynamic behavior of chemical processes and m
+ethods and theory of their control. Implementation of comput
+er control systems on process simulations."
+CHM ENG 170A,1,"This course intends to introduce chemical engineers to the b
+asic concepts of biochemical engineering. The course focuses
+ on the use of chemical engineering skills and principles in
+ the analysis and design of biologically-based processes. Th
+e main emphasis will be on biochemical kinetics, heat and ma
+ss transfer, thermodynamics, and transport phenomena as they
+ apply to enzyme catalysis, microbial growth and metabolism,
+ fermentation and bioreactor"
+CHM ENG 170B,1,"The second of a two-semester sequence intended to introduce 
+chemical engineers to the basic concepts of biochemical engi
+neering. The course focuses on the use of chemical engineeri
+ng skills and principles in the analysis and design of biolo
+gically-based processes. The emphasis will be on biochemical
+ kinetics, protein engineering, cell growth and metabolism, 
+bioreactor design, downstream processing, pharmacokinetics, 
+drug delivery, and et"
+CHM ENG C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHM ENG 171,1,"Study of momentum, energy, and mass transfer in laminar and 
+turbulent flow."
+CHM ENG 176,1,"Principles and application of electrochemical equilibria, ki
+netics, and transport processes. Technical electrolysis and 
+electrochemical energy conversion."
+CHM ENG C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHM ENG 179,1,"Chemical processing and properties of solid-state materials.
+ Crystal growth and purification. Thin film technology. Appl
+ication of chemical processing to the manufacture of semicon
+ductors and solid-state devices."
+CHM ENG 180,1,"Optimal design of chemical processes and unit operations, em
+phasizing the interactions between technical and economic co
+nsiderations. Analysis of process risks. Chemical and biomol
+ecular process design in the presence of uncertainties. Inte
+rest rate determinants and their effects on chemical process
+ feasibility and choices. Relationships between structure an
+d behavior of firms in the chemical processing industries. M
+ultivariable input-output"
+CHM ENG 182,1,"This nanoscale science and biomolecular engineering course w
+ill cover emerging topics in applied biotechnology and nanot
+echnology. Topics include enzyme kinetics, enzyme inhibition
+, recombinant protein generation, cell culture, genome editi
+ng, drug design, nanoparticle-based gene and drug delivery, 
+fluorescence imaging, and sensors. The course will also prob
+e the interface of biology with nanomaterials, and standard 
+microscopic techniques to image biological"
+CHM ENG H193,1,"A senior honors thesis is written in consultation with the s
+tudent's faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemical En
+gineering."
+CHM ENG H194,1,"Original research under direction of one of the members of t
+he staff."
+CHM ENG 195,1,"Lectures and/or tutorial instruction on special topics. Plea
+se refer to the Notes section in the Academic Guide for the 
+current course description."
+CHM ENG C195A,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHM ENG 196,1,"Special laboratory or computational work under direction of 
+one of the members of the staff."
+CHM ENG 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemical engineering.
+ Written report required at the end of the term. Course does
+ not satisfy unit or residence requirements for the bachelor
+'s degree."
+CHM ENG 198,1,"Supervised research on a specific topic. Enrollment is restr
+icted; see Introduction to Courses and Curricula section in 
+the General Catalog."
+CHM ENG 199,1, 
+CHM ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CHM ENG 40,1,"Design and analysis of processes involving chemical change. 
+Strategies for design, such as creative thinking and (re)def
+inition of the design goal. Methods for analyzing designs, s
+uch as mathematical modeling, empirical analysis by graphics
+, and dynamic scaling by dimensional analysis. Design choice
+s in light of process efficiency, product quality, economics
+, safety, and environmental issues."
+CHM ENG 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+CHM ENG 90,1,"An introduction is given to the science and technologies of 
+producing electricity and transportation fuels from renewabl
+e energy resources (biomass, geothermal, solar, wind, and wa
+ve). Students will be introduced to quantitative calculation
+s and comparisions of energy technologies together with the 
+economic and political factors affecting the transition from
+ nonrenewable to sustainable energy resources. Mass and ener
+gy balances are used to"
+CHM ENG 98,1,Supervised research on a specific topic.
+CHM ENG 98W,1,"Directed group study consisting of supplementary problem set
+s, review sessions, and discussions related to chemical engi
+neering. Topics vary with instructor."
+CHM ENG 140,1,"Material and energy balances applied to chemical process sys
+tems. Determination of thermodynamic properties needed for s
+uch calculations. Sources of data. Calculation procedures."
+CHM ENG 141,1,"Thermodynamic behavior of pure substances and mixtures. Prop
+erties of solutions, phase equilibria. Thermodynamic cycles.
+ Chemical equilibria for homogeneous and heterogeneous syste
+ms."
+CHM ENG 142,1,"Analysis and prediction of rates of chemical conversion in f
+low and nonflow processes involving homogeneous and heteroge
+neous systems."
+CHM ENG 143,1,"The purpose of Chemical Engineering Modeling and Computation
+s in Chemical Engineering is to teach students the methodolo
+gies used in setting up mathematical models of simple chemic
+al processes and operations, and the numerical techniques us
+ed to simulate them. Included are techniques to obtain physi
+cal properties of mixtures/solutions using equations of stat
+e. This is followed by simple processes such as vapor liquid
+ equilibrium, separation"
+CHM ENG 150A,1,"Principles of fluid mechanics and heat transfer with applica
+tion to chemical processes. Laminar and turbulent flow in pi
+pes and around submerged objects. Flow measurement. Heat con
+duction and convection; heat transfer coefficients."
+CHM ENG 150B,1,"Principles of mass transfer with application to chemical pro
+cesses. Diffusion and convection. Simultaneous heat and mass
+ transfer; mass transfer coefficients. Design of staged and 
+continuous separations processes."
+CHM ENG 154,1,"Experiments in physical measurements, fluid mechanics, heat 
+and mass transfer, kinetics, and separation processes. Empha
+sis on investigation of basic relationships important in eng
+ineering. Experimental design, analysis of results, and prep
+aration of engineering reports are stressed."
+CHM ENG 160,1,"Design principles of chemical process equipment. Design of i
+ntegrated chemical processes with emphasis upon economic con
+siderations."
+CHM ENG 161S,1,"Design of chemical processes and equipment, with an emphasis
+ on industry-sponsored and/or industry-tailored processes"
+CHM ENG 162,1,"Analysis of the dynamic behavior of chemical processes and m
+ethods and theory of their control. Implementation of comput
+er control systems on process simulations."
+CHM ENG 170A,1,"This course intends to introduce chemical engineers to the b
+asic concepts of biochemical engineering. The course focuses
+ on the use of chemical engineering skills and principles in
+ the analysis and design of biologically-based processes. Th
+e main emphasis will be on biochemical kinetics, heat and ma
+ss transfer, thermodynamics, and transport phenomena as they
+ apply to enzyme catalysis, microbial growth and metabolism,
+ fermentation and bioreactor"
+CHM ENG 170B,1,"The second of a two-semester sequence intended to introduce 
+chemical engineers to the basic concepts of biochemical engi
+neering. The course focuses on the use of chemical engineeri
+ng skills and principles in the analysis and design of biolo
+gically-based processes. The emphasis will be on biochemical
+ kinetics, protein engineering, cell growth and metabolism, 
+bioreactor design, downstream processing, pharmacokinetics, 
+drug delivery, and et"
+CHM ENG C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHM ENG 171,1,"Study of momentum, energy, and mass transfer in laminar and 
+turbulent flow."
+CHM ENG 176,1,"Principles and application of electrochemical equilibria, ki
+netics, and transport processes. Technical electrolysis and 
+electrochemical energy conversion."
+CHM ENG C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHM ENG 179,1,"Chemical processing and properties of solid-state materials.
+ Crystal growth and purification. Thin film technology. Appl
+ication of chemical processing to the manufacture of semicon
+ductors and solid-state devices."
+CHM ENG 180,1,"Optimal design of chemical processes and unit operations, em
+phasizing the interactions between technical and economic co
+nsiderations. Analysis of process risks. Chemical and biomol
+ecular process design in the presence of uncertainties. Inte
+rest rate determinants and their effects on chemical process
+ feasibility and choices. Relationships between structure an
+d behavior of firms in the chemical processing industries. M
+ultivariable input-output"
+CHM ENG 182,1,"This nanoscale science and biomolecular engineering course w
+ill cover emerging topics in applied biotechnology and nanot
+echnology. Topics include enzyme kinetics, enzyme inhibition
+, recombinant protein generation, cell culture, genome editi
+ng, drug design, nanoparticle-based gene and drug delivery, 
+fluorescence imaging, and sensors. The course will also prob
+e the interface of biology with nanomaterials, and standard 
+microscopic techniques to image biological"
+CHM ENG H193,1,"A senior honors thesis is written in consultation with the s
+tudent's faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemical En
+gineering."
+CHM ENG H194,1,"Original research under direction of one of the members of t
+he staff."
+CHM ENG 195,1,"Lectures and/or tutorial instruction on special topics. Plea
+se refer to the Notes section in the Academic Guide for the 
+current course description."
+CHM ENG C195A,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHM ENG 196,1,"Special laboratory or computational work under direction of 
+one of the members of the staff."
+CHM ENG 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemical engineering.
+ Written report required at the end of the term. Course does
+ not satisfy unit or residence requirements for the bachelor
+'s degree."
+CHM ENG 198,1,"Supervised research on a specific topic. Enrollment is restr
+icted; see Introduction to Courses and Curricula section in 
+the General Catalog."
+CHM ENG 199,1, 
+CHM ENG 24,1,"The Berkeley Seminar Program has been designed to provide ne
+w students with the opportunity to explore an intellectual t
+opic with a faculty member in a small-seminar setting. Berke
+ley Seminars are offered in all campus departments, and topi
+cs vary from department to department and semester to semest
+er."
+CHM ENG 40,1,"Design and analysis of processes involving chemical change. 
+Strategies for design, such as creative thinking and (re)def
+inition of the design goal. Methods for analyzing designs, s
+uch as mathematical modeling, empirical analysis by graphics
+, and dynamic scaling by dimensional analysis. Design choice
+s in light of process efficiency, product quality, economics
+, safety, and environmental issues."
+CHM ENG 84,1,"Sophomore seminars are small interactive courses offered by 
+faculty members in departments all across the campus. Sophom
+ore seminars offer opportunity for close, regular intellectu
+al contact between faculty members and students in the cruci
+al second year. The topics vary from department to departmen
+t and semester to semester. Enrollment limited to 15 sophomo
+res."
+CHM ENG 90,1,"An introduction is given to the science and technologies of 
+producing electricity and transportation fuels from renewabl
+e energy resources (biomass, geothermal, solar, wind, and wa
+ve). Students will be introduced to quantitative calculation
+s and comparisions of energy technologies together with the 
+economic and political factors affecting the transition from
+ nonrenewable to sustainable energy resources. Mass and ener
+gy balances are used to"
+CHM ENG 98,1,Supervised research on a specific topic.
+CHM ENG 98W,1,"Directed group study consisting of supplementary problem set
+s, review sessions, and discussions related to chemical engi
+neering. Topics vary with instructor."
+CHM ENG 140,1,"Material and energy balances applied to chemical process sys
+tems. Determination of thermodynamic properties needed for s
+uch calculations. Sources of data. Calculation procedures."
+CHM ENG 141,1,"Thermodynamic behavior of pure substances and mixtures. Prop
+erties of solutions, phase equilibria. Thermodynamic cycles.
+ Chemical equilibria for homogeneous and heterogeneous syste
+ms."
+CHM ENG 142,1,"Analysis and prediction of rates of chemical conversion in f
+low and nonflow processes involving homogeneous and heteroge
+neous systems."
+CHM ENG 143,1,"The purpose of Chemical Engineering Modeling and Computation
+s in Chemical Engineering is to teach students the methodolo
+gies used in setting up mathematical models of simple chemic
+al processes and operations, and the numerical techniques us
+ed to simulate them. Included are techniques to obtain physi
+cal properties of mixtures/solutions using equations of stat
+e. This is followed by simple processes such as vapor liquid
+ equilibrium, separation"
+CHM ENG 150A,1,"Principles of fluid mechanics and heat transfer with applica
+tion to chemical processes. Laminar and turbulent flow in pi
+pes and around submerged objects. Flow measurement. Heat con
+duction and convection; heat transfer coefficients."
+CHM ENG 150B,1,"Principles of mass transfer with application to chemical pro
+cesses. Diffusion and convection. Simultaneous heat and mass
+ transfer; mass transfer coefficients. Design of staged and 
+continuous separations processes."
+CHM ENG 154,1,"Experiments in physical measurements, fluid mechanics, heat 
+and mass transfer, kinetics, and separation processes. Empha
+sis on investigation of basic relationships important in eng
+ineering. Experimental design, analysis of results, and prep
+aration of engineering reports are stressed."
+CHM ENG 160,1,"Design principles of chemical process equipment. Design of i
+ntegrated chemical processes with emphasis upon economic con
+siderations."
+CHM ENG 161S,1,"Design of chemical processes and equipment, with an emphasis
+ on industry-sponsored and/or industry-tailored processes"
+CHM ENG 162,1,"Analysis of the dynamic behavior of chemical processes and m
+ethods and theory of their control. Implementation of comput
+er control systems on process simulations."
+CHM ENG 170A,1,"This course intends to introduce chemical engineers to the b
+asic concepts of biochemical engineering. The course focuses
+ on the use of chemical engineering skills and principles in
+ the analysis and design of biologically-based processes. Th
+e main emphasis will be on biochemical kinetics, heat and ma
+ss transfer, thermodynamics, and transport phenomena as they
+ apply to enzyme catalysis, microbial growth and metabolism,
+ fermentation and bioreactor"
+CHM ENG 170B,1,"The second of a two-semester sequence intended to introduce 
+chemical engineers to the basic concepts of biochemical engi
+neering. The course focuses on the use of chemical engineeri
+ng skills and principles in the analysis and design of biolo
+gically-based processes. The emphasis will be on biochemical
+ kinetics, protein engineering, cell growth and metabolism, 
+bioreactor design, downstream processing, pharmacokinetics, 
+drug delivery, and et"
+CHM ENG C170L,1,"Laboratory techniques for the cultivation of microorganisms 
+in batch and continuous reactions. Enzymatic conversion proc
+esses. Recovery of biological products."
+CHM ENG 171,1,"Study of momentum, energy, and mass transfer in laminar and 
+turbulent flow."
+CHM ENG 176,1,"Principles and application of electrochemical equilibria, ki
+netics, and transport processes. Technical electrolysis and 
+electrochemical energy conversion."
+CHM ENG C178,1,"An interdisciplinary course on the synthesis, characterizati
+on, and properties of polymer materials. Emphasis on the mol
+ecular origin of properties of polymeric materials and techn
+ological applications. Topics include single molecule proper
+ties, polymer mixtures and solutions, melts, glasses, elasto
+mers, and crystals. Experiments in polymer synthesis, charac
+terization, and physical properties."
+CHM ENG 179,1,"Chemical processing and properties of solid-state materials.
+ Crystal growth and purification. Thin film technology. Appl
+ication of chemical processing to the manufacture of semicon
+ductors and solid-state devices."
+CHM ENG 180,1,"Optimal design of chemical processes and unit operations, em
+phasizing the interactions between technical and economic co
+nsiderations. Analysis of process risks. Chemical and biomol
+ecular process design in the presence of uncertainties. Inte
+rest rate determinants and their effects on chemical process
+ feasibility and choices. Relationships between structure an
+d behavior of firms in the chemical processing industries. M
+ultivariable input-output"
+CHM ENG 182,1,"This nanoscale science and biomolecular engineering course w
+ill cover emerging topics in applied biotechnology and nanot
+echnology. Topics include enzyme kinetics, enzyme inhibition
+, recombinant protein generation, cell culture, genome editi
+ng, drug design, nanoparticle-based gene and drug delivery, 
+fluorescence imaging, and sensors. The course will also prob
+e the interface of biology with nanomaterials, and standard 
+microscopic techniques to image biological"
+CHM ENG H193,1,"A senior honors thesis is written in consultation with the s
+tudent's faculty research advisor. This is a required course
+ for students wishing to graduate with honors in Chemical En
+gineering."
+CHM ENG H194,1,"Original research under direction of one of the members of t
+he staff."
+CHM ENG 195,1,"Lectures and/or tutorial instruction on special topics. Plea
+se refer to the Notes section in the Academic Guide for the 
+current course description."
+CHM ENG C195A,1,"After an introduction to the different aspects of our global
+ energy consumption, the course will focus on the role of bi
+omass. The course will illustrate how the global scale of en
+ergy guides the biomass research. Emphasis will be placed on
+ the integration of the biological aspects (crop selection, 
+harvesting, storage and distribution, and chemical compositi
+on of biomass) with the chemical aspects to convert biomass 
+to energy. The course aims to"
+CHM ENG 196,1,"Special laboratory or computational work under direction of 
+one of the members of the staff."
+CHM ENG 197,1,"Supervised experience in off-campus organizations relevant t
+o specific aspects and applications of chemical engineering.
+ Written report required at the end of the term. Course does
+ not satisfy unit or residence requirements for the bachelor
+'s degree."
+CHM ENG 198,1,"Supervised research on a specific topic. Enrollment is restr
+icted; see Introduction to Courses and Curricula section in 
+the General Catalog."
 CHM ENG 199,1, 

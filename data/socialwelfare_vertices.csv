@@ -1,19 +1,516 @@
 name,size,about
-SOC WEL 10,1,"This course will consider the U.S. social welfare system in comparison with systems in other parts of the world, including Japan, Mexico, and the United Kingdom. It will examine the history and role of ""welfare,"" ""the welfare state,"" and the social work profession in the U.S. and in other countries and will consider key issues in contemporary social work"
-SOC WEL 20,1,"America's recognition of and response to major social problems usually involves a mix of hyperbole and denial, inaction and innovation, volunteerism and professionalization, feasts and famines of resources, media applause and attack, and unsustained successes and long-term failures. What is usually lacking is a consistent, thoughtful effort. Yet help is given and lives are changed"
-SOC WEL 98BC,1,"Berkeley Connect is a mentoring program, offered through various academic departments, that helps students build intellectual community. Over the course of a semester, enrolled students participate in regular small-group discussions facilitated by a graduate student mentor (following a faculty-directed curriculum), meet with their graduate student mentor for one-on-one academic advising, attend lectures and panel discussions featuring department"
-SOC WEL 105,1,"This course introduces students to the purpose, functions, and programs of the public child welfare system in the United States, with a particular focus on California, in a historical context, and with an emphasis on social justice and diversity concerns in policy-making and service delivery. The course explores U.S. child welfare history/historical traumas, cultural and diversity"
-SOC WEL 107,1,"Course explores the role of philanthropy, foundations, and proposal development in American society. A grant writing exercise in a Bay Area community agency is required."
-SOC WEL 110,1,"This course examines social work as a profession: the practice of the profession, the organizational context of professional practice, and the ethics of the profession."
-SOC WEL 112,1,"Analysis of social welfare policies and programs including public assistance, social insurance, social services, and health and mental health."
-SOC WEL 114,1,"This course introduces students to basic social work practice skills through the generalist intervention model. Both direct and indirect practice methods are introduced. Students are exposed to both theory and research that informs understanding of client system’s strengths, problem development, and intervention. Biophysical, psychological, environmental, social, and cultural contributions to effective and ethical social work assessment"
-SOC WEL 116,1,Course examines current problems and issues in the field of social welfare.
-SOC WEL 148,1,"Provides an overview of theoretical perspectives and practice models in the substance abuse field. Addresses issues of misuse and addiction, impacts on the family, and the range of intervention modalities including prevention and treatment. Students will also become familiar with alcohol and drug related problems including mental disorders, HIV/AIDS, and criminal behavior."
-SOC WEL 150AC,1,"Course examines the development of race and ethnic relations in the U.S., emphasizing relevant social welfare themes."
-SOC WEL 150L,1,"This course introduces the developmental, psychological and environmental issues related to sexuality at different stages in life, and in different social service venues. It includes an introduction to the strengths perspective, exploration of heterosexist aspects of society, policies related to a person’s sexuality and gender, and ethics and diversity issues often arising in work"
-SOC WEL 151,1,"Asian Americans are among the fastest growing minorities who originate from vast and diverse regions of Asia. This course provides an overview of their histories of migration, and examines their cultural values, adaptation and ethnic identity formation, and major psychosocial challenges they face in American society. Understanding these psychosocial influences will enable students to begin applying cultural humility, and"
-SOC WEL 155,1,"Students will leave this course understanding how nonprofits decide what fundraising strategies to pursue and will have a broad knowledge of a variety of fundraising strategies with particular emphasis on raising money from individual donors. Students will be familiar with the most common strategies employed by human service agencies such as personal solicitation, direct mail, on-line, and special events. In addition, they will be briefly"
-SOC WEL 181,1,"In this interdisciplinary course students examine the relationships among social science, law, and crime prevention policy. Emphasis is placed on how psychological science (clinical, developmental, social) can inform decisions about individuals at high risk for repeated involvement in the juvenile and criminal justice systems. Topics of focus include risk assessment, adolescent development and juvenile justice, and prevention/intervention/correctional"
-SOC WEL 186,1,"This course will investigate the phenomenon of domestic violence in the United States from historical, psychological, sociological, anthropological, legal, feminist, and cross-cultural perspectives. We will study the impact this social problem has on families, relevant theories of causation, the merits of related services and interventions, and the experiences of diverse popu"
-SOC WEL 198BC,1,"Berkeley Connect is a mentoring program, offered through various academic departments, that helps students build intellectual community. Over the course of a semester, enrolled students participate in regular small-group discussions facilitated by a graduate student mentor (following a faculty-directed curriculum), meet with their graduate student mentor for one-on-one academic advising, attend lectures and panel discussions featuring department"
+SOC WEL 10,1,"This course will consider the U.S. social welfare system in 
+comparison with systems in other parts of the world, includi
+ng Japan, Mexico, and the United Kingdom. It will examine th
+e history and role of ""welfare,"" ""the welfare state,"" and th
+e social work profession in the U.S. and in other countries 
+and will consider key issues in contemporary social work"
+SOC WEL 20,1,"America's recognition of and response to major social proble
+ms usually involves a mix of hyperbole and denial, inaction 
+and innovation, volunteerism and professionalization, feasts
+ and famines of resources, media applause and attack, and un
+sustained successes and long-term failures. What is usually 
+lacking is a consistent, thoughtful effort. Yet help is give
+n and lives are changed"
+SOC WEL 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+SOC WEL 105,1,"This course introduces students to the purpose, functions, a
+nd programs of the public child welfare system in the United
+ States, with a particular focus on California, in a histori
+cal context, and with an emphasis on social justice and dive
+rsity concerns in policy-making and service delivery. The co
+urse explores U.S. child welfare history/historical traumas,
+ cultural and diversity"
+SOC WEL 107,1,"Course explores the role of philanthropy, foundations, and p
+roposal development in American society. A grant writing exe
+rcise in a Bay Area community agency is required."
+SOC WEL 110,1,"This course examines social work as a profession: the practi
+ce of the profession, the organizational context of professi
+onal practice, and the ethics of the profession."
+SOC WEL 112,1,"Analysis of social welfare policies and programs including p
+ublic assistance, social insurance, social services, and hea
+lth and mental health."
+SOC WEL 114,1,"This course introduces students to basic social work practic
+e skills through the generalist intervention model. Both dir
+ect and indirect practice methods are introduced. Students a
+re exposed to both theory and research that informs understa
+nding of client system’s strengths, problem development, and
+ intervention. Biophysical, psychological, environmental, so
+cial, and cultural contributions to effective and ethical so
+cial work assessment"
+SOC WEL 116,1,"Course examines current problems and issues in the field of 
+social welfare."
+SOC WEL 148,1,"Provides an overview of theoretical perspectives and practic
+e models in the substance abuse field. Addresses issues of m
+isuse and addiction, impacts on the family, and the range of
+ intervention modalities including prevention and treatment.
+ Students will also become familiar with alcohol and drug re
+lated problems including mental disorders, HIV/AIDS, and cri
+minal behavior."
+SOC WEL 150AC,1,"Course examines the development of race and ethnic relations
+ in the U.S., emphasizing relevant social welfare themes."
+SOC WEL 150L,1,"This course introduces the developmental, psychological and 
+environmental issues related to sexuality at different stage
+s in life, and in different social service venues. It includ
+es an introduction to the strengths perspective, exploration
+ of heterosexist aspects of society, policies related to a p
+erson’s sexuality and gender, and ethics and diversity issue
+s often arising in work"
+SOC WEL 151,1,"Asian Americans are among the fastest growing minorities who
+ originate from vast and diverse regions of Asia. This cours
+e provides an overview of their histories of migration, and 
+examines their cultural values, adaptation and ethnic identi
+ty formation, and major psychosocial challenges they face in
+ American society. Understanding these psychosocial influenc
+es will enable students to begin applying cultural humility,
+ and"
+SOC WEL 155,1,"Students will leave this course understanding how nonprofits
+ decide what fundraising strategies to pursue and will have 
+a broad knowledge of a variety of fundraising strategies wit
+h particular emphasis on raising money from individual donor
+s. Students will be familiar with the most common strategies
+ employed by human service agencies such as personal solicit
+ation, direct mail, on-line, and special events. In addition
+, they will be briefly"
+SOC WEL 181,1,"In this interdisciplinary course students examine the relati
+onships among social science, law, and crime prevention poli
+cy. Emphasis is placed on how psychological science (clinica
+l, developmental, social) can inform decisions about individ
+uals at high risk for repeated involvement in the juvenile a
+nd criminal justice systems. Topics of focus include risk as
+sessment, adolescent development and juvenile justice, and p
+revention/intervention/correctional"
+SOC WEL 186,1,"This course will investigate the phenomenon of domestic viol
+ence in the United States from historical, psychological, so
+ciological, anthropological, legal, feminist, and cross-cult
+ural perspectives. We will study the impact this social prob
+lem has on families, relevant theories of causation, the mer
+its of related services and interventions, and the experienc
+es of diverse popu"
+SOC WEL 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+SOC WEL H195,1,Preparation of an honors thesis.
+SOC WEL 10,1,"This course will consider the U.S. social welfare system in 
+comparison with systems in other parts of the world, includi
+ng Japan, Mexico, and the United Kingdom. It will examine th
+e history and role of ""welfare,"" ""the welfare state,"" and th
+e social work profession in the U.S. and in other countries 
+and will consider key issues in contemporary social work"
+SOC WEL 20,1,"America's recognition of and response to major social proble
+ms usually involves a mix of hyperbole and denial, inaction 
+and innovation, volunteerism and professionalization, feasts
+ and famines of resources, media applause and attack, and un
+sustained successes and long-term failures. What is usually 
+lacking is a consistent, thoughtful effort. Yet help is give
+n and lives are changed"
+SOC WEL 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+SOC WEL 105,1,"This course introduces students to the purpose, functions, a
+nd programs of the public child welfare system in the United
+ States, with a particular focus on California, in a histori
+cal context, and with an emphasis on social justice and dive
+rsity concerns in policy-making and service delivery. The co
+urse explores U.S. child welfare history/historical traumas,
+ cultural and diversity"
+SOC WEL 107,1,"Course explores the role of philanthropy, foundations, and p
+roposal development in American society. A grant writing exe
+rcise in a Bay Area community agency is required."
+SOC WEL 110,1,"This course examines social work as a profession: the practi
+ce of the profession, the organizational context of professi
+onal practice, and the ethics of the profession."
+SOC WEL 112,1,"Analysis of social welfare policies and programs including p
+ublic assistance, social insurance, social services, and hea
+lth and mental health."
+SOC WEL 114,1,"This course introduces students to basic social work practic
+e skills through the generalist intervention model. Both dir
+ect and indirect practice methods are introduced. Students a
+re exposed to both theory and research that informs understa
+nding of client system’s strengths, problem development, and
+ intervention. Biophysical, psychological, environmental, so
+cial, and cultural contributions to effective and ethical so
+cial work assessment"
+SOC WEL 116,1,"Course examines current problems and issues in the field of 
+social welfare."
+SOC WEL 148,1,"Provides an overview of theoretical perspectives and practic
+e models in the substance abuse field. Addresses issues of m
+isuse and addiction, impacts on the family, and the range of
+ intervention modalities including prevention and treatment.
+ Students will also become familiar with alcohol and drug re
+lated problems including mental disorders, HIV/AIDS, and cri
+minal behavior."
+SOC WEL 150AC,1,"Course examines the development of race and ethnic relations
+ in the U.S., emphasizing relevant social welfare themes."
+SOC WEL 150L,1,"This course introduces the developmental, psychological and 
+environmental issues related to sexuality at different stage
+s in life, and in different social service venues. It includ
+es an introduction to the strengths perspective, exploration
+ of heterosexist aspects of society, policies related to a p
+erson’s sexuality and gender, and ethics and diversity issue
+s often arising in work"
+SOC WEL 151,1,"Asian Americans are among the fastest growing minorities who
+ originate from vast and diverse regions of Asia. This cours
+e provides an overview of their histories of migration, and 
+examines their cultural values, adaptation and ethnic identi
+ty formation, and major psychosocial challenges they face in
+ American society. Understanding these psychosocial influenc
+es will enable students to begin applying cultural humility,
+ and"
+SOC WEL 155,1,"Students will leave this course understanding how nonprofits
+ decide what fundraising strategies to pursue and will have 
+a broad knowledge of a variety of fundraising strategies wit
+h particular emphasis on raising money from individual donor
+s. Students will be familiar with the most common strategies
+ employed by human service agencies such as personal solicit
+ation, direct mail, on-line, and special events. In addition
+, they will be briefly"
+SOC WEL 181,1,"In this interdisciplinary course students examine the relati
+onships among social science, law, and crime prevention poli
+cy. Emphasis is placed on how psychological science (clinica
+l, developmental, social) can inform decisions about individ
+uals at high risk for repeated involvement in the juvenile a
+nd criminal justice systems. Topics of focus include risk as
+sessment, adolescent development and juvenile justice, and p
+revention/intervention/correctional"
+SOC WEL 186,1,"This course will investigate the phenomenon of domestic viol
+ence in the United States from historical, psychological, so
+ciological, anthropological, legal, feminist, and cross-cult
+ural perspectives. We will study the impact this social prob
+lem has on families, relevant theories of causation, the mer
+its of related services and interventions, and the experienc
+es of diverse popu"
+SOC WEL 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+SOC WEL H195,1,Preparation of an honors thesis.
+SOC WEL 10,1,"This course will consider the U.S. social welfare system in 
+comparison with systems in other parts of the world, includi
+ng Japan, Mexico, and the United Kingdom. It will examine th
+e history and role of ""welfare,"" ""the welfare state,"" and th
+e social work profession in the U.S. and in other countries 
+and will consider key issues in contemporary social work"
+SOC WEL 20,1,"America's recognition of and response to major social proble
+ms usually involves a mix of hyperbole and denial, inaction 
+and innovation, volunteerism and professionalization, feasts
+ and famines of resources, media applause and attack, and un
+sustained successes and long-term failures. What is usually 
+lacking is a consistent, thoughtful effort. Yet help is give
+n and lives are changed"
+SOC WEL 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+SOC WEL 105,1,"This course introduces students to the purpose, functions, a
+nd programs of the public child welfare system in the United
+ States, with a particular focus on California, in a histori
+cal context, and with an emphasis on social justice and dive
+rsity concerns in policy-making and service delivery. The co
+urse explores U.S. child welfare history/historical traumas,
+ cultural and diversity"
+SOC WEL 107,1,"Course explores the role of philanthropy, foundations, and p
+roposal development in American society. A grant writing exe
+rcise in a Bay Area community agency is required."
+SOC WEL 110,1,"This course examines social work as a profession: the practi
+ce of the profession, the organizational context of professi
+onal practice, and the ethics of the profession."
+SOC WEL 112,1,"Analysis of social welfare policies and programs including p
+ublic assistance, social insurance, social services, and hea
+lth and mental health."
+SOC WEL 114,1,"This course introduces students to basic social work practic
+e skills through the generalist intervention model. Both dir
+ect and indirect practice methods are introduced. Students a
+re exposed to both theory and research that informs understa
+nding of client system’s strengths, problem development, and
+ intervention. Biophysical, psychological, environmental, so
+cial, and cultural contributions to effective and ethical so
+cial work assessment"
+SOC WEL 116,1,"Course examines current problems and issues in the field of 
+social welfare."
+SOC WEL 148,1,"Provides an overview of theoretical perspectives and practic
+e models in the substance abuse field. Addresses issues of m
+isuse and addiction, impacts on the family, and the range of
+ intervention modalities including prevention and treatment.
+ Students will also become familiar with alcohol and drug re
+lated problems including mental disorders, HIV/AIDS, and cri
+minal behavior."
+SOC WEL 150AC,1,"Course examines the development of race and ethnic relations
+ in the U.S., emphasizing relevant social welfare themes."
+SOC WEL 150L,1,"This course introduces the developmental, psychological and 
+environmental issues related to sexuality at different stage
+s in life, and in different social service venues. It includ
+es an introduction to the strengths perspective, exploration
+ of heterosexist aspects of society, policies related to a p
+erson’s sexuality and gender, and ethics and diversity issue
+s often arising in work"
+SOC WEL 151,1,"Asian Americans are among the fastest growing minorities who
+ originate from vast and diverse regions of Asia. This cours
+e provides an overview of their histories of migration, and 
+examines their cultural values, adaptation and ethnic identi
+ty formation, and major psychosocial challenges they face in
+ American society. Understanding these psychosocial influenc
+es will enable students to begin applying cultural humility,
+ and"
+SOC WEL 155,1,"Students will leave this course understanding how nonprofits
+ decide what fundraising strategies to pursue and will have 
+a broad knowledge of a variety of fundraising strategies wit
+h particular emphasis on raising money from individual donor
+s. Students will be familiar with the most common strategies
+ employed by human service agencies such as personal solicit
+ation, direct mail, on-line, and special events. In addition
+, they will be briefly"
+SOC WEL 181,1,"In this interdisciplinary course students examine the relati
+onships among social science, law, and crime prevention poli
+cy. Emphasis is placed on how psychological science (clinica
+l, developmental, social) can inform decisions about individ
+uals at high risk for repeated involvement in the juvenile a
+nd criminal justice systems. Topics of focus include risk as
+sessment, adolescent development and juvenile justice, and p
+revention/intervention/correctional"
+SOC WEL 186,1,"This course will investigate the phenomenon of domestic viol
+ence in the United States from historical, psychological, so
+ciological, anthropological, legal, feminist, and cross-cult
+ural perspectives. We will study the impact this social prob
+lem has on families, relevant theories of causation, the mer
+its of related services and interventions, and the experienc
+es of diverse popu"
+SOC WEL 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+SOC WEL H195,1,Preparation of an honors thesis.
+SOC WEL 10,1,"This course will consider the U.S. social welfare system in 
+comparison with systems in other parts of the world, includi
+ng Japan, Mexico, and the United Kingdom. It will examine th
+e history and role of ""welfare,"" ""the welfare state,"" and th
+e social work profession in the U.S. and in other countries 
+and will consider key issues in contemporary social work"
+SOC WEL 20,1,"America's recognition of and response to major social proble
+ms usually involves a mix of hyperbole and denial, inaction 
+and innovation, volunteerism and professionalization, feasts
+ and famines of resources, media applause and attack, and un
+sustained successes and long-term failures. What is usually 
+lacking is a consistent, thoughtful effort. Yet help is give
+n and lives are changed"
+SOC WEL 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+SOC WEL 105,1,"This course introduces students to the purpose, functions, a
+nd programs of the public child welfare system in the United
+ States, with a particular focus on California, in a histori
+cal context, and with an emphasis on social justice and dive
+rsity concerns in policy-making and service delivery. The co
+urse explores U.S. child welfare history/historical traumas,
+ cultural and diversity"
+SOC WEL 107,1,"Course explores the role of philanthropy, foundations, and p
+roposal development in American society. A grant writing exe
+rcise in a Bay Area community agency is required."
+SOC WEL 110,1,"This course examines social work as a profession: the practi
+ce of the profession, the organizational context of professi
+onal practice, and the ethics of the profession."
+SOC WEL 112,1,"Analysis of social welfare policies and programs including p
+ublic assistance, social insurance, social services, and hea
+lth and mental health."
+SOC WEL 114,1,"This course introduces students to basic social work practic
+e skills through the generalist intervention model. Both dir
+ect and indirect practice methods are introduced. Students a
+re exposed to both theory and research that informs understa
+nding of client system’s strengths, problem development, and
+ intervention. Biophysical, psychological, environmental, so
+cial, and cultural contributions to effective and ethical so
+cial work assessment"
+SOC WEL 116,1,"Course examines current problems and issues in the field of 
+social welfare."
+SOC WEL 148,1,"Provides an overview of theoretical perspectives and practic
+e models in the substance abuse field. Addresses issues of m
+isuse and addiction, impacts on the family, and the range of
+ intervention modalities including prevention and treatment.
+ Students will also become familiar with alcohol and drug re
+lated problems including mental disorders, HIV/AIDS, and cri
+minal behavior."
+SOC WEL 150AC,1,"Course examines the development of race and ethnic relations
+ in the U.S., emphasizing relevant social welfare themes."
+SOC WEL 150L,1,"This course introduces the developmental, psychological and 
+environmental issues related to sexuality at different stage
+s in life, and in different social service venues. It includ
+es an introduction to the strengths perspective, exploration
+ of heterosexist aspects of society, policies related to a p
+erson’s sexuality and gender, and ethics and diversity issue
+s often arising in work"
+SOC WEL 151,1,"Asian Americans are among the fastest growing minorities who
+ originate from vast and diverse regions of Asia. This cours
+e provides an overview of their histories of migration, and 
+examines their cultural values, adaptation and ethnic identi
+ty formation, and major psychosocial challenges they face in
+ American society. Understanding these psychosocial influenc
+es will enable students to begin applying cultural humility,
+ and"
+SOC WEL 155,1,"Students will leave this course understanding how nonprofits
+ decide what fundraising strategies to pursue and will have 
+a broad knowledge of a variety of fundraising strategies wit
+h particular emphasis on raising money from individual donor
+s. Students will be familiar with the most common strategies
+ employed by human service agencies such as personal solicit
+ation, direct mail, on-line, and special events. In addition
+, they will be briefly"
+SOC WEL 181,1,"In this interdisciplinary course students examine the relati
+onships among social science, law, and crime prevention poli
+cy. Emphasis is placed on how psychological science (clinica
+l, developmental, social) can inform decisions about individ
+uals at high risk for repeated involvement in the juvenile a
+nd criminal justice systems. Topics of focus include risk as
+sessment, adolescent development and juvenile justice, and p
+revention/intervention/correctional"
+SOC WEL 186,1,"This course will investigate the phenomenon of domestic viol
+ence in the United States from historical, psychological, so
+ciological, anthropological, legal, feminist, and cross-cult
+ural perspectives. We will study the impact this social prob
+lem has on families, relevant theories of causation, the mer
+its of related services and interventions, and the experienc
+es of diverse popu"
+SOC WEL 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+SOC WEL H195,1,Preparation of an honors thesis.
+SOC WEL 10,1,"This course will consider the U.S. social welfare system in 
+comparison with systems in other parts of the world, includi
+ng Japan, Mexico, and the United Kingdom. It will examine th
+e history and role of ""welfare,"" ""the welfare state,"" and th
+e social work profession in the U.S. and in other countries 
+and will consider key issues in contemporary social work"
+SOC WEL 20,1,"America's recognition of and response to major social proble
+ms usually involves a mix of hyperbole and denial, inaction 
+and innovation, volunteerism and professionalization, feasts
+ and famines of resources, media applause and attack, and un
+sustained successes and long-term failures. What is usually 
+lacking is a consistent, thoughtful effort. Yet help is give
+n and lives are changed"
+SOC WEL 98BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
+SOC WEL 105,1,"This course introduces students to the purpose, functions, a
+nd programs of the public child welfare system in the United
+ States, with a particular focus on California, in a histori
+cal context, and with an emphasis on social justice and dive
+rsity concerns in policy-making and service delivery. The co
+urse explores U.S. child welfare history/historical traumas,
+ cultural and diversity"
+SOC WEL 107,1,"Course explores the role of philanthropy, foundations, and p
+roposal development in American society. A grant writing exe
+rcise in a Bay Area community agency is required."
+SOC WEL 110,1,"This course examines social work as a profession: the practi
+ce of the profession, the organizational context of professi
+onal practice, and the ethics of the profession."
+SOC WEL 112,1,"Analysis of social welfare policies and programs including p
+ublic assistance, social insurance, social services, and hea
+lth and mental health."
+SOC WEL 114,1,"This course introduces students to basic social work practic
+e skills through the generalist intervention model. Both dir
+ect and indirect practice methods are introduced. Students a
+re exposed to both theory and research that informs understa
+nding of client system’s strengths, problem development, and
+ intervention. Biophysical, psychological, environmental, so
+cial, and cultural contributions to effective and ethical so
+cial work assessment"
+SOC WEL 116,1,"Course examines current problems and issues in the field of 
+social welfare."
+SOC WEL 148,1,"Provides an overview of theoretical perspectives and practic
+e models in the substance abuse field. Addresses issues of m
+isuse and addiction, impacts on the family, and the range of
+ intervention modalities including prevention and treatment.
+ Students will also become familiar with alcohol and drug re
+lated problems including mental disorders, HIV/AIDS, and cri
+minal behavior."
+SOC WEL 150AC,1,"Course examines the development of race and ethnic relations
+ in the U.S., emphasizing relevant social welfare themes."
+SOC WEL 150L,1,"This course introduces the developmental, psychological and 
+environmental issues related to sexuality at different stage
+s in life, and in different social service venues. It includ
+es an introduction to the strengths perspective, exploration
+ of heterosexist aspects of society, policies related to a p
+erson’s sexuality and gender, and ethics and diversity issue
+s often arising in work"
+SOC WEL 151,1,"Asian Americans are among the fastest growing minorities who
+ originate from vast and diverse regions of Asia. This cours
+e provides an overview of their histories of migration, and 
+examines their cultural values, adaptation and ethnic identi
+ty formation, and major psychosocial challenges they face in
+ American society. Understanding these psychosocial influenc
+es will enable students to begin applying cultural humility,
+ and"
+SOC WEL 155,1,"Students will leave this course understanding how nonprofits
+ decide what fundraising strategies to pursue and will have 
+a broad knowledge of a variety of fundraising strategies wit
+h particular emphasis on raising money from individual donor
+s. Students will be familiar with the most common strategies
+ employed by human service agencies such as personal solicit
+ation, direct mail, on-line, and special events. In addition
+, they will be briefly"
+SOC WEL 181,1,"In this interdisciplinary course students examine the relati
+onships among social science, law, and crime prevention poli
+cy. Emphasis is placed on how psychological science (clinica
+l, developmental, social) can inform decisions about individ
+uals at high risk for repeated involvement in the juvenile a
+nd criminal justice systems. Topics of focus include risk as
+sessment, adolescent development and juvenile justice, and p
+revention/intervention/correctional"
+SOC WEL 186,1,"This course will investigate the phenomenon of domestic viol
+ence in the United States from historical, psychological, so
+ciological, anthropological, legal, feminist, and cross-cult
+ural perspectives. We will study the impact this social prob
+lem has on families, relevant theories of causation, the mer
+its of related services and interventions, and the experienc
+es of diverse popu"
+SOC WEL 198BC,1,"Berkeley Connect is a mentoring program, offered through var
+ious academic departments, that helps students build intelle
+ctual community. Over the course of a semester, enrolled stu
+dents participate in regular small-group discussions facilit
+ated by a graduate student mentor (following a faculty-direc
+ted curriculum), meet with their graduate student mentor for
+ one-on-one academic advising, attend lectures and panel dis
+cussions featuring department"
 SOC WEL H195,1,Preparation of an honors thesis.
