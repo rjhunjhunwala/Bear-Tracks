@@ -23,7 +23,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return 'Hello World!'
+    return 'Go Bears!'
 
 
 @app.errorhandler(500)
