@@ -83,7 +83,7 @@ class ClassParser(HTMLParser):
 
             elif self.desc:
                 self.desc = False
-                self.classes[-1].append(add_split(data[1:]))
+                self.classes[-1].append(data[1:80] + "...")
 
 
             elif self.has_seen_prerequisites and self.isOpenPre and add_edges and self.has_seen_prerequisites:
@@ -97,9 +97,49 @@ class ClassParser(HTMLParser):
 
         pass
 
+COLORS = ["Blue", "Red", "Orange", "Yellow", "Green"]
+
+def do_graph_coloring(parser):
+    """k-color a graph in linear time by ignoring the definition of coloring, return a mapping from class name to coloring"""
+    G = dict()
+    V = [c[0] for c in parser.classes if c]
+    E = edges
+    coloring = dict() # V -> [0, 1, 2, 3]
+    for e in E:
+        if e[0] in G:
+            G[e[0]].append(e[1])
+        else:
+            G[e[0]] = [e[1]]
+        if e[1] in G:
+            G[e[1]].append(e[0])
+        else:
+            G[e[1]] = [e[0]]
+    print(G)
+    visited = set()
+
+    def explore(v, label):
+        visited.add(v)
+        coloring[v] = label
+        for u in G[v]:
+            if u not in visited:
+                explore(u, label)
+    label = 0
+    for v in V:
+        if v not in visited:
+            if v not in G:
+                 coloring[v] = 3
+                 edges.append((v, v))
+            else:
+                explore(v, label)
+                label += 1
+                label = label % 3
+    return coloring
+
+
+
 def process(major_name):
 
-    os.system("curl http://guide.berkeley.edu/undergraduate/degree-programs/{}/#majorrequirementstext >> data/{}".format(major_name, major_name))
+    # os.system("curl http://guide.berkeley.edu/undergraduate/degree-programs/{}/#majorrequirementstext >> data2/{}".format(major_name, major_name))
 
     parser = ClassParser()
 
@@ -118,19 +158,24 @@ def process(major_name):
     parser.feed(text)
 
     # print(parser.classes)
-    print(edges)
+    # print(edges)
 
-    with open("data/" + major_name + "_vertices.csv", "w") as vertices:
-        fieldnames = ["name", "size", "about"]
-        writer = csv.DictWriter(vertices, fieldnames=fieldnames)
-        writer.writeheader()
-        for bk_class in parser.classes:
-            if not bk_class:
-                continue
-            name = bk_class[0]
-            about = "" if len(bk_class) == 0 else bk_class[1]
-            writer.writerow({"name":name, "size":"1", "about":about})
-    with open("data/" + major_name + "_edges.csv", "w") as vertices:
+    color_map = do_graph_coloring(parser)
+    print(color_map)
+    # print(edges)
+    # input(":")
+    for color in range(4):
+        with open("data2/" + major_name + "_{}_vertices.csv".format(color), "w") as vertices:
+            fieldnames = ["name", "size", "about"]
+            writer = csv.DictWriter(vertices, fieldnames=fieldnames)
+            writer.writeheader()
+            for bk_class in parser.classes:
+                if not bk_class or color_map[bk_class[0]] != color:
+                    continue
+                name = bk_class[0]
+                about = "" if len(bk_class) == 0 else bk_class[1]
+                writer.writerow({"name":name, "size":"1", "about":about})
+    with open("data2/" + major_name + "_edges.csv", "w") as vertices:
         fieldnames = ["source", "target", "type", "weight"]
         writer = csv.DictWriter(vertices, fieldnames=fieldnames)
         writer.writeheader()
