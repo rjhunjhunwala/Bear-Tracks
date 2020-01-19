@@ -17,6 +17,7 @@ class ClassParser(HTMLParser):
         self.prepped_for_desc = False
         self.desc = False
         self.isOpenPre = False
+        self.has_seen_prerequisites = False
 
         self.classes = []
         pass
@@ -50,13 +51,14 @@ class ClassParser(HTMLParser):
         if tag == "div":
             if self.nesting == 0:
                 self.isInCourseBlock = False
+                self.isOpenPre = False
+                self.has_seen_prerequisites = False
             else:
                 self.nesting -= 1
         if self.prepped_for_desc and tag == "br":
             # print("Here!")
             self.desc = True
             self.prepped_for_desc = False
-            self.isOpenPre = False
         pass
     def handle_data(self, data):
         if self.isInCourseBlock:
@@ -73,16 +75,14 @@ class ClassParser(HTMLParser):
                 self.classes[-1].append(data[1:])
 
 
-            elif self.isOpenPre and add_edges:
+            elif self.has_seen_prerequisites and self.isOpenPre and add_edges and self.has_seen_prerequisites:
                  words = data.split(" ")
                  prefix = self.curr_class.split(" ")[0]
                  for word in words:
                      if prefix + " " + word in classes and prefix + " " + word != self.curr_class:
                          edges.append((prefix + " " + word, self.curr_class))
-
-
-
-
+        if "Prerequisites" in data:
+            self.has_seen_prerequisites = True
 
         pass
 
