@@ -18,7 +18,7 @@ class ClassParser(HTMLParser):
         self.desc = False
         self.isOpenPre = False
         self.has_seen_prerequisites = False
-
+        self.curr_class = "None 123"
         self.classes = []
         pass
 
@@ -121,7 +121,8 @@ def process(major_name):
         writer = csv.DictWriter(vertices, fieldnames=fieldnames)
         writer.writeheader()
         for u,v in edges:
-            writer.writerow({"source":u, "target": v, "type":"directed", "weight": 3})
+            if u.split(" ")[0] == parser.curr_class.split(" ")[0]:
+                writer.writerow({"source":u, "target": v, "type":"directed", "weight": 3})
     # print(parser.classes)
 
 def print_cleaned(st):
