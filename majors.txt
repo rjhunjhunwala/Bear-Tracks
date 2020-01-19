@@ -1,0 +1,120 @@
+african-american-studies,African American Studies
+american-studies,American Studies
+ancient-egyptian-near-eastern-art-archaeology,Ancient Egyptian Near Eastern Art Archaeology
+anthropology,Anthropology
+applied-mathematics,Applied Mathematics
+architecture,Architecture
+art-history,Art History
+art-practice,Art Practice
+asian-american-diaspora-studies,Asian American Diaspora Studies
+asian-studies-china,Asian Studies China
+asian-studies-japan,Asian Studies Japan
+asian-studies-multi-area,Asian Studies Multi Area
+astrophysics,Astrophysics
+atmospheric-science,Atmospheric Science
+bioengineering,Bioengineering
+bioengineering-business-administration,Bioengineering Business Administration
+bioengineering-materials-science-engineering-joint-major,Bioengineering Materials Science Engineering Joint Major
+business-administration,Business Administration
+celtic-studies,Celtic Studies
+chemical-biology,Chemical Biology
+chemical-engineering,Chemical Engineering
+chemical-engineering-materials-science-joint-major,Chemical Engineering Materials Science Joint Major
+chemical-engineering-nuclear-joint-major,Chemical Engineering Nuclear Joint Major
+chemistry,Chemistry
+chicano-latino-studies,Chicano Latino Studies
+chinese-language,Chinese Language
+civil-engineering,Civil Engineering
+civil-engineering-business-administration,Civil Engineering Business Administration
+classical-civilizations,Classical Civilizations
+classical-languages,Classical Languages
+cognitive-science,Cognitive Science
+comparative-literature,Comparative Literature
+computer-science,Computer Science
+conservation-resource-studies,Conservation Resource Studies
+czech-polish-bosnian-croatian-serbian-language-literature,Czech Polish Bosnian Croatian Serbian Language Literature
+dance-performance-studies,Dance Performance Studies
+data-science,Data Science
+development-studies,Development Studies
+dutch-studies,Dutch Studies
+east-asian-religion-thought-culture,East Asian Religion Thought Culture
+economics,Economics
+ecosystem-management-forestry,Ecosystem Management Forestry
+electrical-engineering-computer-sciences,Electrical Engineering Computer Sciences
+electrical-engineering-computer-sciences-materials,Electrical Engineering Computer Sciences Materials
+electrical-engineering-computer-sciences-nuclear-joint-major,Electrical Engineering Computer Sciences Nuclear Joint Major
+energy-engineering,Energy Engineering
+engineering-math-statistics,Engineering Math Statistics
+engineering-physics,Engineering Physics
+english,English
+environmental-earth-science,Environmental Earth Science
+environmental-economics-policy,Environmental Economics Policy
+environmental-engineering-science,Environmental Engineering Science
+environmental-sciences,Environmental Sciences
+ethnic-studies,Ethnic Studies
+film,Film
+forestry-natural-resources,Forestry Natural Resources
+french,French
+gender-womens-studies,Gender Womens Studies
+genetics-plant-biology,Genetics Plant Biology
+geography,Geography
+geology,Geology
+geophysics,Geophysics
+german,German
+global-studies,Global Studies
+greek,Greek
+history,History
+industrial-engineering-operations-research,Industrial Engineering Operations Research
+integrative-biology,Integrative Biology
+interdisciplinary-studies,Interdisciplinary Studies
+italian-studies,Italian Studies
+japanese-language,Japanese Language
+landscape-architecture,Landscape Architecture
+latin,Latin
+latin-american-studies,Latin American Studies
+legal-studies,Legal Studies
+linguistics,Linguistics
+marine-science,Marine Science
+materials-science-engineering,Materials Science Engineering
+materials-science-engineering-mechanical-joint-major,Materials Science Engineering Mechanical Joint Major
+materials-science-engineering-nuclear-joint-major,Materials Science Engineering Nuclear Joint Major
+mathematics,Mathematics
+mechanical-engineering,Mechanical Engineering
+mechanical-engineering-business-administration,Mechanical Engineering Business Administration
+mechanical-engineering-nuclear,Mechanical Engineering Nuclear
+media-studies,Media Studies
+microbial-biology,Microbial Biology
+middle-eastern-studies,Middle Eastern Studies
+molecular-environmental-biology,Molecular Environmental Biology
+molecular-cell-biology,Molecular Cell Biology
+music,Music
+native-american-studies,Native American Studies
+near-eastern-civilizations,Near Eastern Civilizations
+near-eastern-languages-literatures,Near Eastern Languages Literatures
+nuclear-engineering,Nuclear Engineering
+dietetics,Dietetics
+physiology-and-metabolism,Physiology And Metabolism
+nutritional-sciences-toxicology,Nutritional Sciences Toxicology
+operations-research-management-science,Operations Research Management Science
+peace-conflict-studies,Peace Conflict Studies
+philosophy,Philosophy
+physics,Physics
+planetary-science,Planetary Science
+political-economy,Political Economy
+political-science,Political Science
+premed,Premed
+prelaw,Prelaw
+psychology,Psychology
+public-health,Public Health
+rhetoric,Rhetoric
+scandinavian,Scandinavian
+slavic-languages-literatures,Slavic Languages Literatures
+socialwelfare,Socialwelfare
+society-environment,Society Environment
+sociology,Sociology
+south-southeast-asian-studies,South Southeast Asian Studies
+spanish-portuguese,Spanish Portuguese
+statistics,Statistics
+sustainable-environmental-design,Sustainable Environmental Design
+theater-performance-studies,Theater Performance Studies
+urban-studies,Urban Studies

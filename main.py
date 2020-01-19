@@ -25,7 +25,6 @@ app = Flask(__name__)
 def hello():
     return 'Go Bears!'
 
-
 @app.errorhandler(500)
 def server_error(e):
     # Log the error and stacktrace.
