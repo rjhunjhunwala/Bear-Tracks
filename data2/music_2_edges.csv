@@ -1,0 +1,21 @@
+source,target,type,weight
+MUSIC 40,MUSIC 41A,directed,3
+MUSIC 41A,MUSIC 41B,directed,3
+MUSIC 164,MUSIC 165,directed,3
+MUSIC 80,MUSIC 180,directed,3
+MUSIC 40,MUSIC 41A,directed,3
+MUSIC 41A,MUSIC 41B,directed,3
+MUSIC 164,MUSIC 165,directed,3
+MUSIC 80,MUSIC 180,directed,3
+MUSIC 40,MUSIC 41A,directed,3
+MUSIC 41A,MUSIC 41B,directed,3
+MUSIC 164,MUSIC 165,directed,3
+MUSIC 80,MUSIC 180,directed,3
+MUSIC 40,MUSIC 41A,directed,3
+MUSIC 41A,MUSIC 41B,directed,3
+MUSIC 164,MUSIC 165,directed,3
+MUSIC 80,MUSIC 180,directed,3
+MUSIC 40,MUSIC 41A,directed,3
+MUSIC 41A,MUSIC 41B,directed,3
+MUSIC 164,MUSIC 165,directed,3
+MUSIC 80,MUSIC 180,directed,3

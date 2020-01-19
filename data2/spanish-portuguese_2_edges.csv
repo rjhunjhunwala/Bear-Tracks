@@ -1,0 +1,8 @@
+source,target,type,weight
+PORTUG 50,PORTUG 102,directed,3
+PORTUG 102,PORTUG 103,directed,3
+PORTUG 103,PORTUG 104,directed,3
+PORTUG 103,PORTUG 107,directed,3
+PORTUG 103,PORTUG 115,directed,3
+PORTUG 103,PORTUG 128,directed,3
+PORTUG 102,PORTUG 135,directed,3

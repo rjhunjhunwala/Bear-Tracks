@@ -1,0 +1,19 @@
+source,target,type,weight
+STAT 0PX,STAT 0PX,directed,3
+STAT 2,STAT 2,directed,3
+STAT C8R,STAT C8R,directed,3
+STAT 21,STAT 21,directed,3
+STAT W21,STAT W21,directed,3
+STAT 24,STAT 24,directed,3
+STAT 33B,STAT 33B,directed,3
+STAT 39D,STAT 39D,directed,3
+STAT C79,STAT C79,directed,3
+STAT 94,STAT 94,directed,3
+STAT 97,STAT 97,directed,3
+STAT 98,STAT 98,directed,3
+STAT 151A,STAT 151A,directed,3
+STAT 157,STAT 157,directed,3
+STAT H195,STAT H195,directed,3
+STAT 197,STAT 197,directed,3
+STAT 198,STAT 198,directed,3
+STAT 199,STAT 199,directed,3

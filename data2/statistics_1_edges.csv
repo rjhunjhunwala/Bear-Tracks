@@ -1,0 +1,4 @@
+source,target,type,weight
+STAT 89A,STAT 102,directed,3
+STAT 140,STAT 102,directed,3
+STAT 20,STAT 140,directed,3

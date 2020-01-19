@@ -1,0 +1,25 @@
+source,target,type,weight
+MATH 16A,MATH 16B,directed,3
+MATH 16A,MATH N16B,directed,3
+MATH N16A,MATH N16B,directed,3
+MATH 16A,MATH 16B,directed,3
+MATH 16A,MATH N16B,directed,3
+MATH N16A,MATH N16B,directed,3
+MATH 16A,MATH 16B,directed,3
+MATH 16A,MATH N16B,directed,3
+MATH N16A,MATH N16B,directed,3
+MATH 16A,MATH 16B,directed,3
+MATH 16A,MATH N16B,directed,3
+MATH N16A,MATH N16B,directed,3
+MATH 16A,MATH 16B,directed,3
+MATH 16A,MATH N16B,directed,3
+MATH N16A,MATH N16B,directed,3
+MATH 16A,MATH 16B,directed,3
+MATH 16A,MATH N16B,directed,3
+MATH N16A,MATH N16B,directed,3
+MATH 16A,MATH 16B,directed,3
+MATH 16A,MATH N16B,directed,3
+MATH N16A,MATH N16B,directed,3
+MATH 16A,MATH 16B,directed,3
+MATH 16A,MATH N16B,directed,3
+MATH N16A,MATH N16B,directed,3

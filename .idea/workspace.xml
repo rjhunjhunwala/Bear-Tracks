@@ -13,6 +13,7 @@
       <change afterPath="$PROJECT_DIR$/../webdev/ReactStuff/free_food_app/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../webdev/ReactStuff/free_food_app/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/major_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/major_parser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../buffer.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mytests.rst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ok" beforeDir="false" />
@@ -51,7 +52,7 @@
           <entry key="civil-engineering" value="2" />
           <entry key="civil-engineering-business-administration" value="1" />
           <entry key="computer-science" value="2" />
-          <entry key="csv" value="93" />
+          <entry key="csv" value="103" />
           <entry key="data-science" value="1" />
           <entry key="engineering-math-statistics" value="1" />
           <entry key="environmental-economics-policy" value="1" />
@@ -61,7 +62,7 @@
           <entry key="major_page" value="1" />
           <entry key="mathematics" value="2" />
           <entry key="md" value="1" />
-          <entry key="py" value="16" />
+          <entry key="py" value="17" />
           <entry key="rhetoric" value="1" />
           <entry key="slavic-languages-literatures" value="1" />
           <entry key="society-environment" value="1" />
@@ -72,7 +73,7 @@
           <entry key="sustainable-environmental-design" value="2" />
           <entry key="test" value="1" />
           <entry key="theater-performance-studies" value="1" />
-          <entry key="txt" value="9" />
+          <entry key="txt" value="11" />
           <entry key="urban-studies" value="5" />
           <entry key="yaml" value="2" />
         </counts>
@@ -80,15 +81,15 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="147" />
-          <entry key="Python" value="16" />
+          <entry key="PLAIN_TEXT" value="159" />
+          <entry key="Python" value="17" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="65" />
-          <entry key="py" value="5545" />
+          <entry key="py" value="5614" />
           <entry key="txt" value="2" />
           <entry key="yaml" value="6" />
         </counts>
@@ -97,7 +98,7 @@
         <counts>
           <entry key="Markdown" value="65" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="5545" />
+          <entry key="Python" value="5614" />
           <entry key="YAML" value="6" />
         </counts>
       </usages-collector>
@@ -106,67 +107,56 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
+        <entry file="file://$PROJECT_DIR$/data2/history_edges.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data2/history_3_edges.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
+            <state relative-caret-position="-2395" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/major_parser.py">
+        <entry file="file://$PROJECT_DIR$/data2/history_2_edges.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data2/history_1_edges.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data2/history_0_vertices.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data2/history_0_edges.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data2/latin_0_edges.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data2/latin_2_edges.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data2/latin_1_vertices.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="104" column="42" selection-start-line="104" selection-start-column="42" selection-end-line="104" selection-end-column="42" />
-              <folding>
-                <marker date="1579458615784" expanded="true" signature="146:269" ph="..." />
-                <marker date="1579458615784" expanded="true" signature="1436:1582" ph="..." />
-                <marker date="1579458615784" expanded="true" signature="3789:3949" ph="..." />
-              </folding>
-            </state>
+            <state relative-caret-position="-473" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data2/east-asian-religion-thought-culture_edges.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data2/african-american-studies_edges.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-346" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/data-science">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/data-science_edges.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/data-science_vertices.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/near-eastern-languages-literatures_edges.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/nutritional-sciences-toxicology_edges.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/nutritional-sciences-toxicology_vertices.csv">
+        <entry file="file://$PROJECT_DIR$/data2/latin_3_edges.csv">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -192,6 +182,7 @@
       <find>bk_class</find>
       <find>....</find>
       <find>!= color</find>
+      <find>edges</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -234,6 +225,11 @@
               <item name="Bear Tracks" type="b2602c69:ProjectViewProjectNode" />
               <item name="Bear Tracks" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Bear Tracks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bear Tracks" type="462c0819:PsiDirectoryNode" />
+              <item name="data2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -274,6 +270,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -309,44 +306,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/integrative-biology_vertices.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/integrative-biology_edges.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/integrative-biology">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/rhetoric">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/rhetoric_edges.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/rhetoric_vertices.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/theater-performance-studies">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/spanish-portuguese">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/spanish-portuguese_edges.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/sociology_edges.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/chinese-language">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/civil-engineering-business-administration_edges.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/civil-engineering-business-administration">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-178" />
@@ -452,13 +411,6 @@
         <state relative-caret-position="-579" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/near-eastern-languages-literatures_edges.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -482,19 +434,66 @@
         <state relative-caret-position="-346" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data2/east-asian-religion-thought-culture_edges.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/just_human.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/major_no_spaces.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/major_parser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="104" column="42" selection-start-line="104" selection-start-column="42" selection-end-line="104" selection-end-column="42" />
+        <state relative-caret-position="286">
+          <caret line="178" column="70" selection-start-line="178" selection-start-column="70" selection-end-line="178" selection-end-column="70" />
           <folding>
-            <marker date="1579458615784" expanded="true" signature="146:269" ph="..." />
-            <marker date="1579458615784" expanded="true" signature="1436:1582" ph="..." />
-            <marker date="1579458615784" expanded="true" signature="3789:3949" ph="..." />
+            <marker date="1579463255424" expanded="true" signature="146:269" ph="..." />
+            <marker date="1579463255424" expanded="true" signature="1436:1582" ph="..." />
+            <marker date="1579463255424" expanded="true" signature="3789:3949" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data2/east-asian-religion-thought-culture_edges.csv">
+    <entry file="file://$PROJECT_DIR$/data2/history_edges.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/history_3_edges.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2395" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/history_2_edges.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/history_1_edges.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/history_0_vertices.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/history_0_edges.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/latin_0_edges.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/latin_2_edges.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/latin_1_vertices.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-473" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data2/latin_3_edges.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>

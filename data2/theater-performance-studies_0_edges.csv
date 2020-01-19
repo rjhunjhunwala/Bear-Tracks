@@ -1,0 +1,5 @@
+source,target,type,weight
+THEATER 5,THEATER R1B,directed,3
+THEATER 179,THEATER 169,directed,3
+THEATER 173,THEATER 179,directed,3
+THEATER 174,THEATER 179,directed,3

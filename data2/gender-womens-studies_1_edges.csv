@@ -1,0 +1,11 @@
+source,target,type,weight
+GWS C196B,GWS C196A,directed,3
+GWS C196A,GWS C196B,directed,3
+GWS C196B,GWS C196A,directed,3
+GWS C196A,GWS C196B,directed,3
+GWS C196B,GWS C196A,directed,3
+GWS C196A,GWS C196B,directed,3
+GWS C196B,GWS C196A,directed,3
+GWS C196A,GWS C196B,directed,3
+GWS C196B,GWS C196A,directed,3
+GWS C196A,GWS C196B,directed,3

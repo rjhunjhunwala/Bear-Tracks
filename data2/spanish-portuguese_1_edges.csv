@@ -1,0 +1,3 @@
+source,target,type,weight
+SPANISH 16,SPANISH N3,directed,3
+SPANISH N3,SPANISH 16,directed,3

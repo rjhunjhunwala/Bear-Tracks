@@ -1,0 +1,21 @@
+source,target,type,weight
+DUTCH 1,DUTCH 2,directed,3
+DUTCH 2,DUTCH 110,directed,3
+DUTCH 110,DUTCH 125,directed,3
+DUTCH 2,DUTCH 140,directed,3
+DUTCH 1,DUTCH 2,directed,3
+DUTCH 2,DUTCH 110,directed,3
+DUTCH 110,DUTCH 125,directed,3
+DUTCH 2,DUTCH 140,directed,3
+DUTCH 1,DUTCH 2,directed,3
+DUTCH 2,DUTCH 110,directed,3
+DUTCH 110,DUTCH 125,directed,3
+DUTCH 2,DUTCH 140,directed,3
+DUTCH 1,DUTCH 2,directed,3
+DUTCH 2,DUTCH 110,directed,3
+DUTCH 110,DUTCH 125,directed,3
+DUTCH 2,DUTCH 140,directed,3
+DUTCH 1,DUTCH 2,directed,3
+DUTCH 2,DUTCH 110,directed,3
+DUTCH 110,DUTCH 125,directed,3
+DUTCH 2,DUTCH 140,directed,3

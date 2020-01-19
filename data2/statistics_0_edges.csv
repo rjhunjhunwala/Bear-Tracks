@@ -1,0 +1,22 @@
+source,target,type,weight
+STAT 88,STAT C8,directed,3
+STAT C8,STAT 88,directed,3
+STAT 88,STAT C100,directed,3
+STAT C8,STAT C100,directed,3
+STAT 88,STAT C100,directed,3
+STAT C8,STAT 131A,directed,3
+STAT 33A,STAT 131A,directed,3
+STAT 133,STAT 131A,directed,3
+STAT 134,STAT 150,directed,3
+STAT 133,STAT 152,directed,3
+STAT 135,STAT 152,directed,3
+STAT 134,STAT 153,directed,3
+STAT 133,STAT 153,directed,3
+STAT 135,STAT 153,directed,3
+STAT 135,STAT 154,directed,3
+STAT 134,STAT 155,directed,3
+STAT 134,STAT 158,directed,3
+STAT 135,STAT 158,directed,3
+STAT 135,STAT 158,directed,3
+STAT 133,STAT 158,directed,3
+STAT 135,STAT 159,directed,3

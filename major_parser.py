@@ -175,12 +175,14 @@ def process(major_name):
                 name = bk_class[0]
                 about = "" if len(bk_class) == 0 else bk_class[1]
                 writer.writerow({"name":name, "size":"1", "about":about})
-    with open("data2/" + major_name + "_edges.csv", "w") as vertices:
-        fieldnames = ["source", "target", "type", "weight"]
-        writer = csv.DictWriter(vertices, fieldnames=fieldnames)
-        writer.writeheader()
-        for u,v in edges:
-                writer.writerow({"source":u, "target": v, "type":"directed", "weight": 3})
+    for color in range(4):
+        with open("data2/" + major_name + "_{}_edges.csv".format(color), "w") as vertices:
+            fieldnames = ["source", "target", "type", "weight"]
+            writer = csv.DictWriter(vertices, fieldnames=fieldnames)
+            writer.writeheader()
+            for u,v in edges:
+                if color_map[u] == color:
+                    writer.writerow({"source":u, "target": v, "type":"directed", "weight": 3})
     # print(parser.classes)
 
 def print_cleaned(st):
