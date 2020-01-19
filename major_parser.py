@@ -5,6 +5,8 @@ import os
 
 
 edges = []
+classes = set()
+add_edges = False
 
 
 class ClassParser(HTMLParser):
@@ -14,6 +16,7 @@ class ClassParser(HTMLParser):
         self.nesting = 0
         self.prepped_for_desc = False
         self.desc = False
+        self.isOpenPre = False
 
         self.classes = []
         pass
@@ -34,6 +37,10 @@ class ClassParser(HTMLParser):
         self.tag = tag
         self.attrs = attrs
 
+        if self.isInCourseBlock and self.tag == "div" and self.attrs and self.attrs[0][1] == "course-section":
+            self.isOpenPre = True
+            # print("HERE!!!")
+
         pass
     def clean(self, st):
         ALL = "1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
@@ -49,22 +56,39 @@ class ClassParser(HTMLParser):
             # print("Here!")
             self.desc = True
             self.prepped_for_desc = False
+            self.isOpenPre = False
         pass
     def handle_data(self, data):
         if self.isInCourseBlock:
             # print(data)
             if self.tag == "span" and self.attrs and self.attrs[0][1] == "code":
+                if len(self.clean(data))<= 2:
+                    return
+                self.curr_class = self.clean(data)
                 self.classes[-1].append(self.clean(data))
-            if self.desc:
+                classes.add(self.curr_class)
+
+            elif self.desc:
                 self.desc = False
                 self.classes[-1].append(data[1:])
+
+
+            elif self.isOpenPre and add_edges:
+                 words = data.split(" ")
+                 prefix = self.curr_class.split(" ")[0]
+                 for word in words:
+                     if prefix + " " + word in classes and prefix + " " + word != self.curr_class:
+                         edges.append((prefix + " " + word, self.curr_class))
+
+
+
 
 
         pass
 
 def process(major_name):
 
-    os.system("curl http://guide.berkeley.edu/undergraduate/degree-programs/{}/#majorrequirementstext >> data/{}".format(major_name, major_name))
+    # os.system("curl http://guide.berkeley.edu/undergraduate/degree-programs/{}/#majorrequirementstext >> data/{}".format(major_name, major_name))
 
     parser = ClassParser()
 
@@ -74,19 +98,30 @@ def process(major_name):
         text = f.read()
 
     parser.feed(text)
-    print(parser.classes)
+
+    parser = ClassParser()
+
+    global add_edges
+    add_edges = True
+
+    parser.feed(text)
+
+    # print(parser.classes)
+    print(edges)
     with open("data/" + major_name + "_vertices.csv", "w") as vertices:
         fieldnames = ["name", "size", "about"]
         writer = csv.DictWriter(vertices, fieldnames=fieldnames)
         writer.writeheader()
         for bk_class in parser.classes:
             name = bk_class[0]
-            about = "" if len(bk_class) == 2 else bk_class[2]
+            about = "" if len(bk_class) == 0 else bk_class[1]
             writer.writerow({"name":name, "size":"1", "about":about})
     with open("data/" + major_name + "_edges.csv", "w") as vertices:
         fieldnames = ["source", "target", "type", "weight"]
         writer = csv.DictWriter(vertices, fieldnames=fieldnames)
         writer.writeheader()
+        for u,v in edges:
+            writer.writerow({"source":u, "target": v, "type":"directed", "weight": 3})
     # print(parser.classes)
 
 def print_cleaned(st):

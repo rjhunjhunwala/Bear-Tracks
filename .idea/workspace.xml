@@ -13,6 +13,89 @@
       <change afterPath="$PROJECT_DIR$/../webdev/ReactStuff/free_food_app/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../webdev/ReactStuff/free_food_app/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/african-american-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/african-american-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/american-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/american-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ancient-egyptian-near-eastern-art-archaeology_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ancient-egyptian-near-eastern-art-archaeology_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/anthropology_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/anthropology_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/applied-mathematics_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/applied-mathematics_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/architecture_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/architecture_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/art-history_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/art-history_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/art-practice_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/art-practice_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/asian-american-diaspora-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/asian-american-diaspora-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/asian-studies-china_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/asian-studies-china_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/asian-studies-japan_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/asian-studies-japan_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/asian-studies-multi-area_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/asian-studies-multi-area_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/astrophysics_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/astrophysics_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/atmospheric-science_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/atmospheric-science_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bioengineering-business-administration_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/bioengineering-business-administration_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bioengineering-materials-science-engineering-joint-major_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/bioengineering-materials-science-engineering-joint-major_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bioengineering_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/bioengineering_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/business-administration_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/business-administration_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/celtic-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/celtic-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/chemical-biology_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/chemical-biology_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/chemical-engineering-materials-science-joint-major_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/chemical-engineering-materials-science-joint-major_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/chemical-engineering-nuclear-joint-major_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/chemical-engineering-nuclear-joint-major_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/chemical-engineering_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/chemical-engineering_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/chemistry_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/chemistry_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/chicano-latino-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/chicano-latino-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/chinese-language_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/chinese-language_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/civil-engineering-business-administration_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/civil-engineering-business-administration_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/civil-engineering_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/civil-engineering_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/classical-civilizations_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/classical-civilizations_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/classical-languages_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/classical-languages_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cognitive-science_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/cognitive-science_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/comparative-literature_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/comparative-literature_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/computer-science_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/computer-science_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/conservation-resource-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/conservation-resource-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/czech-polish-bosnian-croatian-serbian-language-literature_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/czech-polish-bosnian-croatian-serbian-language-literature_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dance-performance-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dance-performance-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data-science_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/data-science_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/development-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/development-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dutch-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/dutch-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/east-asian-religion-thought-culture_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/east-asian-religion-thought-culture_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/economics_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/economics_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ecosystem-management-forestry_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ecosystem-management-forestry_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/electrical-engineering-computer-sciences-materials_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/electrical-engineering-computer-sciences-materials_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/electrical-engineering-computer-sciences-nuclear-joint-major_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/electrical-engineering-computer-sciences-nuclear-joint-major_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/electrical-engineering-computer-sciences_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/electrical-engineering-computer-sciences_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/energy-engineering_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/energy-engineering_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/engineering-math-statistics_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/engineering-math-statistics_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/engineering-physics_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/engineering-physics_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/english_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/english_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/environmental-earth-science_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/environmental-earth-science_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/environmental-economics-policy_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/environmental-economics-policy_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/environmental-engineering-science_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/environmental-engineering-science_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/environmental-sciences_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/environmental-sciences_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ethnic-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ethnic-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/film_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/film_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/forestry-natural-resources_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/forestry-natural-resources_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/french_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/french_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/gender-womens-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/gender-womens-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/genetics-plant-biology_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/genetics-plant-biology_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/geography_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/geography_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/geology_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/geology_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/geophysics_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/geophysics_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/german_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/german_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/global-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/global-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/greek_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/greek_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/history_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/history_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/industrial-engineering-operations-research_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/industrial-engineering-operations-research_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/integrative-biology_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/integrative-biology_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/interdisciplinary-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/interdisciplinary-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/italian-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/italian-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/japanese-language_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/japanese-language_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/landscape-architecture_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/landscape-architecture_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latin-american-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/latin-american-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/latin_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/latin_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/legal-studies_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/legal-studies_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/linguistics_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/linguistics_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/marine-science_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/marine-science_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/materials-science-engineering-mechanical-joint-major_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/materials-science-engineering-mechanical-joint-major_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/materials-science-engineering-nuclear-joint-major_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/materials-science-engineering-nuclear-joint-major_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/materials-science-engineering_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/materials-science-engineering_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mathematics_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/mathematics_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mechanical-engineering-business-administration_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/mechanical-engineering-business-administration_edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/mechanical-engineering_edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/mechanical-engineering_edges.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/major_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/major_parser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../buffer.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../mytests.rst" beforeDir="false" />
@@ -42,18 +125,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="african-american-studies" value="2" />
+          <entry key="african-american-studies" value="3" />
           <entry key="american-studies" value="1" />
           <entry key="ancient-egyptian-near-eastern-art-archaeology" value="2" />
           <entry key="applied-mathematics" value="1" />
           <entry key="architecture" value="1" />
           <entry key="art-practice" value="1" />
-          <entry key="csv" value="12" />
+          <entry key="csv" value="18" />
           <entry key="major_page" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="2" />
+          <entry key="py" value="7" />
           <entry key="test" value="1" />
-          <entry key="txt" value="6" />
+          <entry key="txt" value="7" />
           <entry key="urban-studies" value="1" />
           <entry key="yaml" value="2" />
         </counts>
@@ -61,15 +144,15 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="29" />
-          <entry key="Python" value="2" />
+          <entry key="PLAIN_TEXT" value="37" />
+          <entry key="Python" value="7" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="65" />
-          <entry key="py" value="2992" />
+          <entry key="py" value="3849" />
           <entry key="txt" value="2" />
           <entry key="yaml" value="6" />
         </counts>
@@ -78,7 +161,7 @@
         <counts>
           <entry key="Markdown" value="65" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="2992" />
+          <entry key="Python" value="3849" />
           <entry key="YAML" value="6" />
         </counts>
       </usages-collector>
@@ -87,42 +170,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/major_parser.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
-              <folding>
-                <marker date="1579405603971" expanded="true" signature="934:1080" ph="..." />
-                <marker date="1579405603971" expanded="true" signature="1812:3027" ph="..." />
-                <marker date="1579405603971" expanded="true" signature="2813:3027" ph="..." />
-                <marker date="1579405603971" expanded="true" signature="3225:3230" ph="..." />
-                <marker date="1579405603971" expanded="true" signature="3634:3640" ph="..." />
-                <marker date="1579405603971" expanded="true" signature="3743:3748" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/african-american-studies_vertices.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="188" column="55" selection-start-line="188" selection-start-column="55" selection-end-line="188" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/slavic-languages-literatures_vertices.csv">
+        <entry file="file://$PROJECT_DIR$/data/theater-performance-studies_vertices.csv">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -132,23 +180,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/theater-performance-studies_vertices.csv">
+        <entry file="file://$PROJECT_DIR$/data/african-american-studies">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="2815" column="113" selection-start-line="2815" selection-start-column="110" selection-end-line="2815" selection-end-column="113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/african-american-studies_vertices.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17520">
+              <caret line="188" column="55" selection-start-line="188" selection-start-column="55" selection-end-line="188" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/american-studies_edges.csv">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/theater-performance-studies_edges.csv">
+        <entry file="file://$PROJECT_DIR$/data/ancient-egyptian-near-eastern-art-archaeology_edges.csv">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/urban-studies">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/major_parser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="79" column="97" selection-start-line="79" selection-start-column="97" selection-end-line="79" selection-end-column="97" />
+              <folding>
+                <marker date="1579414627028" expanded="true" signature="1176:1322" ph="..." />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/urban-studies_vertices.csv">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/html/parser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="144" column="34" selection-start-line="144" selection-start-column="34" selection-end-line="144" selection-end-column="34" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -166,6 +252,11 @@
       <find>courseblock</find>
       <find>descshow</find>
       <find>&lt;span class=&quot;desc</find>
+      <find>prer</find>
+      <find>curr_</find>
+      <find>curr_cla</find>
+      <find>pre</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -261,13 +352,13 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -341,13 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/just_human.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="111" column="8" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/architecture">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -381,35 +465,61 @@
     <entry file="file://$PROJECT_DIR$/experiment_csvs/experiment_connections.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/african-american-studies">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-197">
-          <caret line="483" column="471" selection-start-line="483" selection-start-column="454" selection-end-line="483" selection-end-column="471" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/asian-american-diaspora-studies_vertices.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/data/slavic-languages-literatures_vertices.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/urban-studies_vertices.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/just_human.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="247">
+          <caret line="106" column="8" selection-end-line="119" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/major_parser.py">
+    <entry file="file://$PROJECT_DIR$/data/art-practice_edges.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/urban-studies">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/theater-performance-studies_edges.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/theater-performance-studies_vertices.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/urban-studies_edges.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/american-studies_edges.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ancient-egyptian-near-eastern-art-archaeology_edges.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/html/parser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
-          <folding>
-            <marker date="1579405603971" expanded="true" signature="934:1080" ph="..." />
-            <marker date="1579405603971" expanded="true" signature="1812:3027" ph="..." />
-            <marker date="1579405603971" expanded="true" signature="2813:3027" ph="..." />
-            <marker date="1579405603971" expanded="true" signature="3225:3230" ph="..." />
-            <marker date="1579405603971" expanded="true" signature="3634:3640" ph="..." />
-            <marker date="1579405603971" expanded="true" signature="3743:3748" ph="..." />
-          </folding>
+        <state relative-caret-position="160">
+          <caret line="144" column="34" selection-start-line="144" selection-start-column="34" selection-end-line="144" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/african-american-studies">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="2815" column="113" selection-start-line="2815" selection-start-column="110" selection-end-line="2815" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
@@ -418,28 +528,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/african-american-studies_vertices.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="-17520">
           <caret line="188" column="55" selection-start-line="188" selection-start-column="55" selection-end-line="188" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/slavic-languages-literatures_vertices.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/urban-studies_vertices.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/urban-studies_edges.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/theater-performance-studies_vertices.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/theater-performance-studies_edges.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/urban-studies">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/major_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="79" column="97" selection-start-line="79" selection-start-column="97" selection-end-line="79" selection-end-column="97" />
+          <folding>
+            <marker date="1579414627028" expanded="true" signature="1176:1322" ph="..." />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
