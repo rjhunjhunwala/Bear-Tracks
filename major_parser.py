@@ -166,13 +166,13 @@ from pytz import timezone
 import pytz
 
 
-parser = MajorParser()
-
+# parser = MajorParser()
+process("computer-science")
 text = ""
 with open(FILENAME, "r") as f:
     text = f.read()
 
 
 
-parser.feed(text)
+# parser.feed(text)
 
