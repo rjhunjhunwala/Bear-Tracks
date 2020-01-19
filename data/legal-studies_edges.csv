@@ -1,5 +1,1 @@
 source,target,type,weight
-LEGALST 10,LEGALST 123,directed,3
-LEGALST 10,LEGALST 190,directed,3
-LEGALST 10,LEGALST 123,directed,3
-LEGALST 10,LEGALST 190,directed,3

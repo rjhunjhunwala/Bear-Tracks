@@ -1,5 +1,3 @@
 source,target,type,weight
 SCANDIN 201A,SCANDIN 201B,directed,3
 SCANDIN 201A,SCANDIN 220,directed,3
-SCANDIN 201A,SCANDIN 201B,directed,3
-SCANDIN 201A,SCANDIN 220,directed,3

@@ -1,19 +1,8 @@
 source,target,type,weight
 FILM R1A,FILM R1B,directed,3
 FILM R1A,FILM R1B,directed,3
-FILM 25A,FILM 25B,directed,3
-FILM 10,FILM 84,directed,3
-FILM 25A,FILM 100,directed,3
-FILM 25A,FILM 128,directed,3
-FILM 25A,FILM 129,directed,3
-FILM 25A,FILM 151,directed,3
-FILM 25A,FILM 198,directed,3
-FILM 25A,FILM 199,directed,3
-FILM R1A,FILM R1B,directed,3
-FILM R1A,FILM R1B,directed,3
 FILM 25A,FILM 25,directed,3
 FILM 25A,FILM 25B,directed,3
-FILM 10,FILM 84,directed,3
 FILM 25A,FILM 100,directed,3
 FILM 25A,FILM 128,directed,3
 FILM 25A,FILM 129,directed,3

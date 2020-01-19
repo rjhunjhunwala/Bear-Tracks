@@ -12,6 +12,8 @@ add_edges = False
 class ClassParser(HTMLParser):
     def __init__(self, *args, **kwargs):
         HTMLParser.__init__(self, *args, **kwargs)
+        global edges
+        edges = []
         self.isInCourseBlock = False
         self.nesting = 0
         self.prepped_for_desc = False
@@ -55,6 +57,8 @@ class ClassParser(HTMLParser):
                 self.has_seen_prerequisites = False
             else:
                 self.nesting -= 1
+        if tag == "p" and self.has_seen_prerequisites and self.isOpenPre:
+            self.has_seen_prerequisites = False
         if self.prepped_for_desc and tag == "br":
             # print("Here!")
             self.desc = True
@@ -80,7 +84,7 @@ class ClassParser(HTMLParser):
                  prefix = self.curr_class.split(" ")[0]
                  for word in words:
                      if prefix + " " + word in classes and prefix + " " + word != self.curr_class:
-                         edges.append((prefix + " " + word, self.curr_class))
+                        edges.append((prefix + " " + word, self.curr_class))
         if "Prerequisites" in data:
             self.has_seen_prerequisites = True
 
@@ -121,7 +125,6 @@ def process(major_name):
         writer = csv.DictWriter(vertices, fieldnames=fieldnames)
         writer.writeheader()
         for u,v in edges:
-            if u.split(" ")[0] == parser.curr_class.split(" ")[0]:
                 writer.writerow({"source":u, "target": v, "type":"directed", "weight": 3})
     # print(parser.classes)
 
@@ -166,13 +169,13 @@ from pytz import timezone
 import pytz
 
 
-# parser = MajorParser()
-process("computer-science")
+parser = MajorParser()
+# process("computer-science")
 text = ""
 with open(FILENAME, "r") as f:
     text = f.read()
 
 
 
-# parser.feed(text)
+parser.feed(text)
 
