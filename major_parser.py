@@ -11,6 +11,8 @@ class ClassParser(HTMLParser):
         HTMLParser.__init__(self, *args, **kwargs)
         self.isInCourseBlock = False
         self.nesting = 0
+
+        self.classes = []
         pass
 
     def handle_starttag(self, tag, attrs):
@@ -19,6 +21,7 @@ class ClassParser(HTMLParser):
         if tag == "div" and (attrs +["aa"])[0][1] == "courseblock":
             self.isInCourseBlock = True
             self.nesting = 0
+            self.classes.append([])
         elif tag == "div":
             self.nesting += 1
 
@@ -39,7 +42,7 @@ class ClassParser(HTMLParser):
         pass
 
 def process(major_name):
-    os.system("curl http://guide.berkeley.edu/undergraduate/degree-programs/{}/#majorrequirementstext >> data/{}".format(major_name, major_name))
+    os.system("curl http://guide.berkeley.edu/undergraduate/degree-programs/{}/#majorrequirementstext >> data/{}/{}".format(major_name, major_name, major_name))
     parser = ClassParser()
 
     text = ""
